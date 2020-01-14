@@ -1,0 +1,64 @@
+Q1
+
+R: Oui c'est une expression que j'utilise. J'hésite un peu à l'utiliser parce que tu as tous les gens qui sont a fond dans l'analogique qui disent que ça rend le son plus chaud. Il y a un côté effet de mode, ou quand tu passes des sons par une console analogique, ça va rendre le son plus chaud, sauf que bon. Des fois tu discutes avec des musiciens et chaud je pense que c'est un des termes qui revient le plus, et tu sais pas trop ce que veulent dire les gens avec.
+Moi chaud je l'emploi plus quand je suis en mixage et qu'il y a une source que je veux rendre plus chaude. C'est quelque chose plutôt mené par des techniques et des actions. 
+
+Q2
+
+R: On peut dire que c'est aussi une question de zone fréquentielle vers 500 hertz. Si je veux agir sur un son pour qu'il soit plus ou moins chaud, je vais gérer un EQ en faisant une bosse assez large vers 500 Hertz ou 450 Hertz et en général c'est par là que je vais trouver. Après c'est aussi un truc de richesse harmonique. Si tu mets un sinus à 500 hertz c'est pas chaud. Il faut que ça soit assez riche harmoniquement et concentré dans le bas du spectre. 
+
+Q: Par rapport à un son sourd, comment tu différencies les deux ?
+
+R: Sourd je le définie comme un manque d'aigu. Tu peux avoir un son assez riche dans le grave avec une bosse dans l'aigu qui soit à la fois chaud et brillant. Sourd je l'aurais plus définit par un manque de fréquence aigu. Le fait qu'un son n'est pas brillant ça veut pas forcément dire que le son va être chaud.
+
+Q: Bon on va écouter différents sons, mais saches juste que tu peux parler des sons différemment, en terme de caractère, temporellement et autre.
+
+R: Il y a aussi quelque chose de lié au côté fréquentiel qui est l'effet de proximité. Quand tu va capter un son proche ça va donner du chaud. Dans cette proximité tu as aussi une augmentation des basses fréquences. D'un point de vue moins technique, la proximité est liée au chaud.
+Pour revenir sur l'histoire de la synthèse analogique, Il y a un côté où le son n'est pas complètement lisse ou parfait. Si tu fais un enregistrement avec des micro de mesures précis et un convertisseur numérique, tu te retrouves avec un son tellement net et pur que ça va manquer de chaleur, mais je sais pas si on parle du même chaud. L'analogique va apporter un côté moins précis.
+
+Q3
+
+R: Le basson peut-être. Non il est pas très chaud ce basson, mais d'habitude c'est plus chaud.
+Le cor c'est un petit peu chaud. 
+
+Q: Essaie peut-être aussi des instruments que tu as pas entendu comme la flute.
+
+R: La flute c'est un petit peu chaud aussi. La flute alto grave pianissimo c'est assez chaud. 
+Le cor grave C3 pianissimo c'est un peu chaud aussi. C'est à cause de la couleur un peu sombre. Le cor il est est chaud aussi parce qu'il est pas brillant.
+
+Q: Tu as pas encore écouté de cordes.
+
+R: Le violoncelle dans le medium grave ordinario (C3 mf) il est chaud, mais il est pas sourd. 
+Dans l'ensemble tous les sons que j'ai écouté je les trouve pas super chaud.
+Oui le contrebasson c'est chaud un peu.
+J'ai l'impression que c'est aussi la prise de son, qui est la plus neutre possible, et qui va pas donner beaucoup de variabilité sur des concepts comme la chaleur.
+La clarinette basse c'est un exemple intéressant, parce que tu as le médium grave qui est bien présent mais par contre il est un peu creux comme son, je le qualifierai pas de chaud du coup parce qu'il est pas très riche.
+
+Q: Quels sont manquent ?
+
+R: J'aurais bien aimé entendre des voix. Pour le coup sur les voix tu peux avoir des grosses variabilités. Ça sort un peu du technique mais il y a cette impression de proximité, confortable, rassurant, un truc un peu assis. Pour chaud il y a aussi la notion de moelleux qui est un peu proche. 
+Je pense que des cors ou des bassons, il y a moyen de faire des sons plus chauds. Tiens j'ai pas écouté le saxophone.  Mais bon il aurait fallut là un saxophone ténor pour le chaud.
+
+Q4
+
+R: Des sons relativement purs ou simples. Du genre un glockenspiel, pour moi il est pas du tout chaud globalement.
+Dans le grave, le vibraphone aussi c'est pas chaud, il lui manque une certaine richesse spectrale.
+Le marimba dans le grave il peut candidater à la chaleur, pas dans le forte. Le C3 piano  est chaud avec les baguettes molles.
+Le vibraphone j'hésite un peu dans le pas chaud dans le grave, pas du tout dans l'aigu par contre. Ça devient presque un son pur très vite. Sur le début tu peux voir un peu de chaleur mais après non. Oui avec les baguettes dures le vibraphone c'est pas chaud.
+Après je trouve que la flute est pas chaude. Pas chaude du tout. La flute C5, C6 et C7 c'est pas chaud. Le hautbois c'est pas chaud du tout, plus que la flute. Non l'accordéon là il est pas chaud, peut-être un peu dans le grave, à partir du C3 il est pas chaud.
+
+Q5
+
+Q: Tu m'as parlé de pur et de simple.
+
+R: Soit pur et simple, soit qui manque de médium-grave. L'exemple de la clarinette où il y a du médium-grave mais qui a un côté un peu creux. Ce qui manque sinon c'est un son lointain, mais il y en a pas ici.
+
+Q: Tu donnes un nom particulier à des sons qui sont pas chaud ?
+
+R: Non je dis juste "pas chaud". Froid ça serait un jugement juste purement émotionnel pour dire que ce que j'entends ne me fait pas grand chose.
+
+Q6
+
+R: Oui en prenant des pincettes, je dirais qu'en générale je préfère les sons un peu plus chaud. Là ce sont des sons seul, mais quand tu fais un mix et que tu veux que tout soit chaud c'est pas forcément bon, deux son chauds, ils vont plus se bouffer l'un l'autre. Tu peux aimer un son seul chaud, mais dès qu'il est dans un ensemble ça peut être différent. Un son chaud dans un ensemble aura tendance à mettre le bazare. 
+Mais globalement chaud c'est positif. 
+Un son qui manque de chaleur c'est plutôt un défaut. Mais dans le travail tu peux être amené à choisir des sons qui seuls ne sont pas très beau mais dont il y a besoin dans un mix.

@@ -1,0 +1,71 @@
+Q1
+
+R: Je l'utilise assez régulièrement pour caractériser une source sonore musicale ou non musicale ? On peu aussi en parler pour une impression globale de mixage musical ou pour le cinéma.
+
+Q2
+
+R: Alors déjà on en a pas parlé mais entre rond et chaud j'ai un problème avec ça parce que souvent on confond les deux, ou en tout cas on peut employer l'un ou l'autre pour caractériser la même chose. 
+Rond et chaud ça peut être associé à la couleur analogique, ou sur les amplis à lampe, ces sons là à l'ancienne peuvent être caractérisés comme des sons chauds.
+Rond je l'associe avec un contenu grave plutôt important, et donc forcément un contenu aigu moins important.
+
+Q: Tu parles de sons grave et aigu, ou alors éventuellement de filtrages particuliers ?
+
+R: Non je parlerais plutôt d'équilibre spectral. Ça pourrait être un son qui a une fréquence fondamentale dans le médium, mais qui d'un point de vu spectral serait plus équilibré dans le grave que dans l'aigu par rapport à ce qu'on a dans l'oreille. 
+Quelque chose de rond c'est aussi quelque chose qui est lié au temps. Une source entretenue assez longtemps peut apporter une rondeur alors qu'un son très bref va être plus difficilement catégorisé comme rond. La rondeur c'est aussi une pulsation assez lente. Si il y a un long temps d'amortissement, je catégoriserai ce son là comme plus rond que ce même son très sec avec très peu d'entretien. Entretenu c'est pas forcément le bon terme, je parle d'un amortissement, d'un son impulsif qui est entretenu par l'acoustique d'une salle. Si ce son est joué dans une chambre anéchoïque très sèche, ce son sera difficilement catégorisé comme rond. Le rond est lié à tout ce qui aide le son à être entretenu et pas forcément à un mode de jeu.
+
+Q: Est ce que la résonance, comme la réverbération peut apporter une qualité de rondeur ?
+
+R: Oui je pense. 
+La plus grosse partie pour définir la rondeur c'est spectralement. C'est la position du centre de gravité spectrale. Et le côté temporel vient sur un second plan.
+
+Q3
+
+R: Oui il y en a plusieurs. Avec ma définition on peu déjà aller dans le registre grave. 
+C'est vrai que si c'est des instruments qui sont joués dans les extrêmes de leur tessiture ça va pas être très rond. On va dire de manière très globale, le violoncelle et la contrebasse je les associe plutôt à des sons ronds.
+Fais voir le violoncelle avec vibrato et en pizzicato. Sur les pizzicato c'est intéressant. J'associerai plutôt ce qui est joué pianissimo à un son plus rond, alors que les sont joués fortissimo, par leur contenu aigu du transitoire du pizzicato, j'ai toujours la rondeur du grave mais je l'associe moins à un son rond.
+
+Q: Tu m'as parlé de contrebasse aussi, si on compare ls pizzicato de contrebasse avec ceux du violoncelle.
+
+R: Le pizzicato C2 pianissimo de contrebasse est très rond, plus que pour le violoncelle. La contrebasse c'est beaucoup plus rond, dans le violoncelle on a un contenu spectral médium que je trouve beaucoup plus important. J'ai l'impression que pour la contrebasse il y a quelque chose de plus profond et donc de plus enveloppant. Plus c'est doux, plus c'est grave et donc plus c'est rond. Doux c'est pour l'attaque douce, la douceur apporte de la rondeur. Pour moi une attaque douce de pianissimo elle sera plus caressée, elle sera plus frottée, un petit peu plus long qu'un transitoire d'un son joué fortissimo qui joué à l'extrême sera comme un pizzicato bartok, ça peut être très claqué, avec des transitoires plus resserrés dans le temps.
+Je vais au marimba, vibraphone xylophone. Plutôt avec des baguettes molles. Pour le marimba, même dans l'aigu jusqu'au C5 il est rond. C'est pas que de la fréquence fondamentale, c'est son équilibre spectral qui atténue les harmoniques aiguës. Je vois quelque chose en cloche dans l'équilibre spectral. Le C4 pianissimo je le trouve très rond, et dans le spectre et dans l'amortissement dans le temps. Il y a un truc très cohérent dans ce son là. Dans le C2 j'entends une dissociation du son.
+Le C4 pianissimo c'est rond sur le vibraphone. C'est un peu moins rond que le marimba. Harmoniquement j'ai l'impression que c'est plus accidenté que le marimba. J'entends plus facilement les harmoniques.
+Le trombone et le tuba peut-être, pas joué cuivré, évidemment. Oui le tuba dans le piano C3, il y a une homogénéité, spectrale. C'est assez rond, mais pas très rond. Par rapport au registre, c'est un peu aigu. Il ya quand même cette enveloppe spectrale que je trouve assez orientée vers ces registres graves et très peu d'harmoniques aiguës. Mais il y a plus rond. Le cor c'est pareil.
+La clarinette basse dans le piano c'est très rond. Le C3 pianissimo ordinario c'est très rond. Mais c'est embêtant parce qu'il y a pas mal de souffle. La clarinette basse c'est plus rond que le tuba.
+
+Q: Est ce qu'il y a des sons qui ont manqué ?
+
+R: Oui les timbales, jouées pianissimo ça aurait pu être un son rond, avec des baguettes en feutre. Ou une grosse caisse jouée pareil. 
+
+Q: C'est souvent des sons amortis au final non, avec une résonance ?
+
+R: Oui, des sons avec une résonance. Attaque douce et résonance.
+
+Q4
+
+R: Les harmoniques de violon c'est pas rond. C'est plutôt strident. Si tu fais écouter ce son là à quelqu'un, il va plutôt être agressé, plutôt trouver ça inconfortable, strident et du coup je le mettrai pas dans le rond. Pour moi ce qui est rond c'est quelque chose de confortable et d'enveloppant et rassurant. Typiquement, ces sons de violons avec des harmoniques aiguës présentent donne quelque chose d'agressif et de strident.
+Le cor cuivré, oui le C3 c'est pas rond du tout. Cuivré, même si c'est entretenu, vu que spectralement, c'est dans l'aigu et c'est agressif, c'est pas rond. Mais le C4 est déjà un peu plus rond que le C3 dans le cuivré. Le trombone aussi c'est pas rond dans le cuivré. Dans la trompette il y a pas de rondeur du tout dans le cuivré.
+Les flutes, il peut y avoir de la rondeur avec ce souffle. Selon, le registre je peux trouver ça pas du tout rond comme un peu rond. La flute dans le grave c'est rond. Dans C6 il y a de la douceur mais on commence à rentrer dans le moins rond. Dans le forte avec des harmoniques aiguës qui ressortent on devient moins rond. Le piccolo dans le forte C7 ou C8 c'est pas rond du tout.
+Pour le saxophone piano il y a de la douceur mais c'est trop aigu pour être un archétype de rond.
+Alors pas rond du tout le hautbois, pas rond partout, surtout C5 fortissimo.
+
+Q: Des sons manquants pas rond ?
+
+R: Le triangle.
+
+Q: Ah le triangle ? Est ce que le glockenspiel tu vas trouvé ça pas rond non plus ?
+
+R: Ça dépend du registre, ça peut être rond le glockenspiel. Non effectivement c'est pas rond, mais c'est moins pire que les autres qu'on a choisi. 
+
+Q5
+
+R: Strident, agressif, inconfortable, nasale. Un son très bref, des claves, je vais pas trouver ça rond. Un son très court dans la durée, avec beaucoup d'impact c'est pas rond.
+Tout à l'heure il y avait un son dont on entendait la fondamentale, mais aussi des composantes aiguës de part l'attaque, le souffle et les harmoniques, ce qu'il fait qu'il y avait deux mondes. Et quand on était dans la note de confort de l'instrument, tout devenait plus homogène, comme si tous les sons les différentes composantes sont difficilement distinguables, entre l'harmonique, la fondamentale, le souffle, l'attaque. 
+
+Q: Est ce qu'il y a un terme que tu emplois pour parler de pas rond.
+
+R: Un terme ? A part ce que je t'ai déjà donné ? Toutes les caractéristiques que je t'ai donné, c'est ce que j'appelle pas rond. Même brillant, un son brillant est aussi opposé à rond.
+
+Q6
+
+R: J'ai l'impression que le rond est plutôt associé à quelque chose de positif, par son confort, par le sentiment d'enveloppant, du coup ça rassure. La rondeur ça peut aussi être associé à de la molesse (mou). Quand tu veux de la dynamique, avoir quelque chose de trop rond ça peut être mou. Et mou c'est plutôt négatif. Mais c'est plutôt le confort qui prévaut. Et j'ai l'impression que les gens avec qui je travaille, veulent plutôt quelque chose de rond, d'agréable, de doux, que quelque chose d'agressif, trop dynamique, trop surprenant ou trop strident. 
+Brillant et nasale, il faut que je fasse attention pour qu'ils soient pas vécu comme strident ou agressif, en les mettant pas trop fort. Un son nasal pas très fort, sera plus rond, qu'un son nasal joué plus fort. Et je pense que ça va avec la zone de confort d'écoute des gens. Agressif pour moi c'est médium-aigu, et brillant c'est vraiment aigu. Quand j'apporte de la brillance à un son c'est comme ça que je fais.

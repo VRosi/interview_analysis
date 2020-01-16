@@ -1,4 +1,3 @@
-word
 a
 abord
 absolument
@@ -255,6 +254,7 @@ floc
 fois
 font
 force
+forcément
 furent
 fus
 fusse
@@ -393,6 +393,7 @@ onzième
 ore
 ou
 ouf
+oui
 ouias
 oust
 ouste

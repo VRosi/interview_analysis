@@ -1,0 +1,65 @@
+violon
+alto
+violoncelle
+contrebasse
+flute
+piccolo
+hautbois
+cor
+anglais
+clarinette
+basse
+basson
+contrebasson
+saxophone
+trompette
+cor
+trombone
+tuba
+glockenspiel
+vibraphone
+marimba
+xylophone
+guitare
+harpe
+piano
+accordéon
+ordinario
+pizzicato
+bartok
+sul
+ponticello
+nonvibrato
+vibrato
+multiphonique
+multiphoniques
+semi
+éolien
+flatterzunge
+staccato
+cuivré
+cuivre
+sourdine
+bol
+harmon
+pédale
+baguette
+baguette métal
+baguette molle
+molle
+baguette dure
+baguette fil
+baguette bois
+backwards
+c1
+c2
+c3
+c4
+c5
+c6
+c7
+c8
+pianissimo
+forte
+fortissimo
+mezzoforte

@@ -11,7 +11,7 @@ from nltk.stem.snowball import FrenchStemmer
 
 Q = ["Q1", "Q2", "Q3", "Q4", "Q5", "Q6"]
 
-def freqWord_tot(word, question, Q, n):
+def freqWord_tot(word, question, Q, n, db):
     # load json.file
     with open(word+'.json', encoding="utf-8") as json_file:
         data = json.load(json_file)
@@ -20,12 +20,11 @@ def freqWord_tot(word, question, Q, n):
     Q_tot = {} # dictionnary with all answers for each question
     for index1, i in enumerate(Q):
         Q_tot[i] = []
-        print(i)
         for index2, j in enumerate(data[i]):
             Q_tot[i].append(j["answer"])
 
     # call function for tokenization/stem/dup
-    result = freqWord_q(question, Q_tot, n)
+    result = freqWord_q(word, question, Q_tot, n, db)
     return result
 
 
@@ -36,7 +35,7 @@ def n_gram(list, n):
     return [" ".join(ngram) for ngram in ngrams]
 
 
-def freqWord_q(question, Q_tot, n):
+def freqWord_q(word, question, Q_tot, n, db):
     text = ""
     tokenized = stemmatized = finalized = []
     duplicated = {}
@@ -46,8 +45,16 @@ def freqWord_q(question, Q_tot, n):
     stopFile = open(file, 'r', encoding="utf-8")
     yourResult = np.array([line.split('\n') for line in stopFile.readlines()])[:,0]
     stopWord = list(yourResult)
-
+    stopWord.append(word)
     print(len(stopWord))
+
+    if db is True:
+        file = "dataset_stopwords.txt"
+        stopFile = open(file, 'r', encoding="utf-8")
+        yourResult = np.array([line.split('\n') for line in stopFile.readlines()])[:,0]
+        dbStopWord = list(yourResult)
+        stopWord += dbStopWord
+        print(len(stopWord))
 
     if n > 1:
         # load exception words in a file
@@ -58,12 +65,15 @@ def freqWord_q(question, Q_tot, n):
         for word in exStopWord:
             if word in stopWord:
                 stopWord.remove(word)
-    print(len(stopWord))
 
     # group all answers in 1 string
-    for index, i in enumerate(Q_tot[question]):
-        text += i
+    # for index, i in enumerate(Q_tot[question]):
+    #     text += i
 
+    # group all answers in 1 string
+    for qnum in question:
+        for index, i in enumerate(Q_tot[qnum]):
+            text += i
     # tokenisation
     tokenizer = nltk.RegexpTokenizer(r'\w+')
     tokenized = tokenizer.tokenize(text.lower())
@@ -95,5 +105,13 @@ def freqWord_q(question, Q_tot, n):
     finalized = sorted(duplicated.items(), key=lambda t: t[1], reverse=True)
     return finalized
 
-result = freqWord_tot("rugueux","Q6", Q, 2)
+
+result = freqWord_tot("rond", ["Q2","Q3"], Q, 2, True)
 result
+
+#### query
+search = "sonorité"
+stemmer = FrenchStemmer()
+search2 = stemmer.stem(search)
+result = freqWord_tot("chaud", ["Q2"], Q, 1, True)
+print(search, [item for item in result if item[0] == search2])

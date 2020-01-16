@@ -115,6 +115,7 @@ chiche
 chut
 chère
 chères
+chose
 ci
 cinq
 cinquantaine
@@ -209,6 +210,9 @@ elles-mêmes
 en
 encore
 enfin
+entends
+entend
+entendre
 entre
 envers
 environ
@@ -235,6 +239,7 @@ eux
 eux-mêmes
 exactement
 excepté
+exemple
 extenso
 exterieur
 eûmes
@@ -295,6 +300,8 @@ ici
 il
 ils
 importe
+instrument
+instruments
 j
 je
 jusqu
@@ -426,6 +433,7 @@ pense
 permet
 personne
 personnes
+petit
 peu
 peut
 peuvent
@@ -516,6 +524,7 @@ s
 sa
 sacrebleu
 sait
+sais
 sans
 sapristi
 sauf
@@ -622,10 +631,13 @@ toutes
 treize
 trente
 tres
+très
 trois
 troisième
 troisièmement
 trop
+trouve
+trouver
 très
 tsoin
 tsouin

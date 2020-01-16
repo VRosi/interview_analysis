@@ -24,13 +24,17 @@ result
 # question = "Q2"
 # Q.index(question)
 
+k = "yo yo"
+kk = len(k.split(' '))
 
-file = "stopwords-fr.txt"
-stopFile = open(file, 'r', encoding="utf-8")
-yourResult = np.array([line.split('\n') for line in stopFile.readlines()])[:,0]
-stopWord = list(yourResult)
+question = "Q1"
 
-file = "minus_stopwords.txt"
-stopFile = open(file, 'r', encoding="utf-8")
-temp = [line.split(' ') for line in stopFile.readlines()]
-exStopWord = temp[0]
+# file = "stopwords-fr.txt"
+# stopFile = open(file, 'r', encoding="utf-8")
+# yourResult = np.array([line.split('\n') for line in stopFile.readlines()])[:,0]
+# stopWord = list(yourResult)
+#
+# file = "minus_stopwords.txt"
+# stopFile = open(file, 'r', encoding="utf-8")
+# temp = [line.split(' ') for line in stopFile.readlines()]
+# exStopWord = temp[0]

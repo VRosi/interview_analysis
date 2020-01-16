@@ -19,8 +19,6 @@ path = "transcript_clean/"
 
 
 def utf8Struggle(strTemp):
-    strTemp = strTemp.replace('\xa0', '')
-    strTemp = strTemp.replace('\\', '')
     strTemp = strTemp.replace('é', 'e')
     strTemp = strTemp.replace('è', 'e')
     strTemp = strTemp.replace('ë', 'e')
@@ -61,11 +59,15 @@ def transcriptParser(path, Q, question):
                 strTemp += Text[index]
             else:
                 if k > 0:
-                    strTemp = utf8Struggle(strTemp)
+                    strTemp = strTemp.replace('\xa0', '')
+                    strTemp = strTemp.replace('\\', '')
+                    # strTemp = utf8Struggle(strTemp)
                     result[k] = strTemp
                     strTemp = ""
                 k += 1
-    strTemp = utf8Struggle(strTemp)
+    strTemp = strTemp.replace('\xa0', '')
+    strTemp = strTemp.replace('\\', '')
+    # strTemp = utf8Struggle(strTemp)
     result[k] = strTemp
     loc = Q.index(question)+1
     return result[loc]

@@ -1,17 +1,16 @@
+QR:T
+
 Q1
 
 R: Brillant, je l'utilise assez régulièrement, autant que rond et chaud. Et je l'utilise pour définir plutôt des sons résonants en bruitage. Des sons résonants qui s'approchent du rond. Mais généralement ce sont des sons avec des impacts. Ça serait pas un type d'attaque précis, ce sont des sons courts, pas continus, ayant pour origine un impact.
 
 Q2
 
-R: Brillant c'est assez visuel, c'est quelque chose qui va réfléchir. C'est pour ça qu'il y a un aspect résonant. Je vais y attacher une résonance un peu mouvante, qui ondoie, comme une surface réfléchissante. Les sons un peu aquatiques peuvent être brillant. Pour le brillant la question de hauteur est moins définie, plutôt aigu. En tout cas avec des composantes aiguës, des harmoniques.
-Dans le rond il y a pas une question de composantes spectrale. Dans le chaud il y a pas trop lieu d'avoir des harmoniques aiguës, parce que ça va me rappeler le vent, ça va rester dans le spectre bas-medium et pour le rond aussi. Brillant c'est plus haut dans le spectre, ça va en tout cas aller plus haut.
+R: Brillant c'est assez visuel, c'est quelque chose qui va réfléchir. C'est pour ça qu'il y a un aspect résonant. Je vais y attacher une résonance un peu mouvante, qui ondoie, comme une surface réfléchissante. Les sons un peu aquatiques peuvent être brillant. Pour le brillant la question de hauteur est moins définie, plutôt aigu. En tout cas avec des composantes aiguës, des harmoniques. Dans le rond il y a pas une question de composantes spectrale. Dans le chaud il y a pas trop lieu d'avoir des harmoniques aiguës, parce que ça va me rappeler le vent, ça va rester dans le spectre bas-medium et pour le rond aussi. Brillant c'est plus haut dans le spectre, ça va en tout cas aller plus haut.
 
 Q3
 
-R: De manière je pense que ce qui implique du métal entre dans ma définition du brillant. Là il n'y en a pas mais du triangle par exemple. Donc le glockenspiel je trouve ça brillant. 
-Le vibraphone aussi c'est brillant, moins quand même que le glockenspiel. Dans le forte il y a une petite pollution à l'attaque. Il y a une espèce de saturation. Avec une baguette molle c'est plus brillant, mais toujours moins que le glockenspiel.
-La harpe en doigté harmonique c'est plutôt brillant au C5. 
+R: De manière je pense que ce qui implique du métal entre dans ma définition du brillant. Là il n'y en a pas mais du triangle par exemple. Donc le glockenspiel je trouve ça brillant.  Le vibraphone aussi c'est brillant, moins quand même que le glockenspiel. Dans le forte il y a une petite pollution à l'attaque. Il y a une espèce de saturation. Avec une baguette molle c'est plus brillant, mais toujours moins que le glockenspiel. La harpe en doigté harmonique c'est plutôt brillant au C5. 
 
 Q: Tu pourrais trouver des sons pas amortis qui ont de la brillance ?
 
@@ -23,17 +22,15 @@ R: Comme ça je dirais non mais je vais vérifier. Le cor ça l'est un peu mais 
 
 Q: Et si il joue cuivré ?
 
-R: Oui un peu brillant. C'est plus brillant dans le fort. Mais paradoxalement, il y a une pollution, un e saturation aussi, mais je la perçois ça plus brillante parce que c'est une vibration métallique. Mais c'est pas flagrant non plus.
-Le piano c'est assez brillant de manière générale. Pas en fortissimo. Même dans le grave parce qu'il y a une résonance métallique de la corde. 
+R: Oui un peu brillant. C'est plus brillant dans le fort. Mais paradoxalement, il y a une pollution, un e saturation aussi, mais je la perçois ça plus brillante parce que c'est une vibration métallique. Mais c'est pas flagrant non plus. Le piano c'est assez brillant de manière générale. Pas en fortissimo. Même dans le grave parce qu'il y a une résonance métallique de la corde. 
 
-Q : son manquant ?
+Q: son manquant ?
 
 R: Le triangle, et le bol tibétain.
 
 Q4
 
-R: Des sons mats. Les cordes frottées, c'est pas brillant pour moi. Oui non vibrato ou ordinario c'est vraiment pas brillant. L'aspect frotté m'enlève le brillant.
-Un staccato de Cor c'est pas brillant pour moi. Parce qu'on sent trop l'air. Comme pour le frottement pour les cordes.
+R: Des sons mats. Les cordes frottées, c'est pas brillant pour moi. Oui non vibrato ou ordinario c'est vraiment pas brillant. L'aspect frotté m'enlève le brillant. Un staccato de Cor c'est pas brillant pour moi. Parce qu'on sent trop l'air. Comme pour le frottement pour les cordes.
 
 Q: Et dans les claviers ?
 
@@ -41,8 +38,7 @@ R: Je pense que le marimba est moins brillant. Il y a quand même un peu de bril
 
 Q: De manière générale, si les instrumentistes jouent plus fort, il va y avoir plus d'harmoniques, notamment dans l'aigu, donc il vont peut être avoir tendance à sonner plus brillant. Le cuivré c'est un peu ça. Le marimba pas fort c'est pas très brillant.
 
-R: Oui mais ça dépend de la nature du matériau, par exemple une trompette fortissimo je trouve ça plus brillant qu'un basson ou qu'un marimba fortissimo parce que la brillance amenée par les harmoniques est plus brillante à la trompette.
-Mais ce sont surtout les cordes qui ne sont pas brillantes.
+R: Oui mais ça dépend de la nature du matériau, par exemple une trompette fortissimo je trouve ça plus brillant qu'un basson ou qu'un marimba fortissimo parce que la brillance amenée par les harmoniques est plus brillante à la trompette. Mais ce sont surtout les cordes qui ne sont pas brillantes.
 
 Q5
 
@@ -50,8 +46,7 @@ R: C'est un son qui va pas résonner. Il peut y avoir plusieurs harmoniques, mai
 
 Q: Pourquoi tu es allé vers les staccato tout à l'heure ?
 
-R: Pour comparer avec des sons plus courts et résonants. Ce sont des sons sec. Si le son est continu et fort, ils peuvent être brillant, alors que court, la brillance ne peut pas apparaitre. 
-Si il y a un effet de salle, tous ces sont avec de la réverbération peuvent devenir brillant.
+R: Pour comparer avec des sons plus courts et résonants. Ce sont des sons sec. Si le son est continu et fort, ils peuvent être brillant, alors que court, la brillance ne peut pas apparaitre. Si il y a un effet de salle, tous ces sont avec de la réverbération peuvent devenir brillant.
 
 Q: Il u a une importance du matériau ?
 
@@ -59,7 +54,7 @@ R: Oui pour moi il y a une question de matériau. En bruitage des choses brillan
 
 Q6
 
-R:  Non pas du tout. 
+R: Non pas du tout. 
 
 Q: Tout a l'heure tu m'as parlé de sons aquatique pour parler de brillant, mais tu as cité le marimba comme instrument peu brillant.. qu'en penses-tu ?
 

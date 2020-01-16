@@ -1,11 +1,12 @@
+QR:T
+
 Q1
 
 R: Oui c'est un terme que j'emploie assez souvent. Après c'est dans différents contextes, comme je t'ai dis je l'utilise à la fois pour des mix pour de la post-prod, pour de la musique,  et du design sonore. C'est souvent quand je parle à des clients en design sonore, Des clients peuvent demander une création avec un son plutôt rond, donc là c'est une interprétation. Mais je l'utilise dans les 3 disciplinaire avec une représentation du rond équivalente
 
 Q2
 
-R: Un son rond, c'est plutôt doux, et assez chargé dans le médium, bas-médium, en terme de fréquences. C'est-à-dire qu'en amplitude il y a pas mal de bas-médium. 
-Le côté doux, c'est assez creusé dans le médium-aigu. Il y a un creux entre le vrai aigu et ce bas-médium chargé, qui donne ce caractère moelleux à l'oreille. 
+R: Un son rond, c'est plutôt doux, et assez chargé dans le médium, bas-médium, en terme de fréquences. C'est-à-dire qu'en amplitude il y a pas mal de bas-médium. Le côté doux, c'est assez creusé dans le médium-aigu. Il y a un creux entre le vrai aigu et ce bas-médium chargé, qui donne ce caractère moelleux à l'oreille. 
 
 Q: Donc pour toi ça s'exprime surtout spectralement le rond ?
 
@@ -17,9 +18,7 @@ R: Pour moi oui. Ça joue dans cette définition pour moi. Disons que cette déc
 
 Q3
 
-R: Je dirais que ce son là de violoncelle ordinario C3 mezzoforte, il y a une rondeur. C'est peut-être pas le meilleur exemple. Je trouve que dans le médium-aigu du spectre, il y a une espèce de petite rugosité qui m'empêche de dire que ce son est totalement rond. Un truc qui gratte. 
-C'est pas simple. Le saxophone C4 piano ordinario c'est rond pour moi. Spectralement c'est bien. C'est pas un son agressif, et je trouve que temporellement, il y a ce côté où il y a pas une franche évolution. L'attaque est très douce, enfin elle est très lente. C'est limite une nappe. Déjà le C5 mezzoforte on est plus dedans. Le C5 piano on reste dans du rond. Le C6 piano on est plus rond, je pense que c'est vraiment fréquentiellement, il y a une petite résonance, qui fait qu'on perd la rondeur. On est pas hyper éloigné, mais c'est pas pour moi un archétype du son rond. En forte, c'est pareil, on sent le son un peu cuivré métallique, qui empêche le rond. 
-Une trompette en sourdine non. Une trompette ordinario C4 piano c'est assez rond. L'attaque reste légère.
+R: Je dirais que ce son là de violoncelle ordinario C3 mezzoforte, il y a une rondeur. C'est peut-être pas le meilleur exemple. Je trouve que dans le médium-aigu du spectre, il y a une espèce de petite rugosité qui m'empêche de dire que ce son est totalement rond. Un truc qui gratte. C'est pas simple. Le saxophone C4 piano ordinario c'est rond pour moi. Spectralement c'est bien. C'est pas un son agressif, et je trouve que temporellement, il y a ce côté où il y a pas une franche évolution. L'attaque est très douce, enfin elle est très lente. C'est limite une nappe. Déjà le C5 mezzoforte on est plus dedans. Le C5 piano on reste dans du rond. Le C6 piano on est plus rond, je pense que c'est vraiment fréquentiellement, il y a une petite résonance, qui fait qu'on perd la rondeur. On est pas hyper éloigné, mais c'est pas pour moi un archétype du son rond. En forte, c'est pareil, on sent le son un peu cuivré métallique, qui empêche le rond. Une trompette en sourdine non. Une trompette ordinario C4 piano c'est assez rond. L'attaque reste légère.
 
 Q: Ça serait intéressant dans la famille des cuivres de comparer ce que tu trouves le plus rond.
 
@@ -51,10 +50,7 @@ R: Okay j'écoute plusieurs modes de jeu. En pizzicato oui. Le violoncelle par e
 
 Q4
 
-R: Voilà, une trompette avec une sourdine harmon dans l'aigu. Le C4, le côté opposé à la rondeur est moins fort, mais C5 et C6, il y a ce côté criard.
-Non je vais pas prendre le glockenspiel, parce que dans le glockenspiel, c'est très brillant comme son, donc fréquentiellement, c'est pas ce que j'opposerai à la rondeur.
-L'accordéon ça va être bien. Non finalement, il y a un peu de rondeur quand même, pas beaucoup.
-Tu vois le pizzicato bartok de violon C5, c'est pas rond, ce côté claquant et que l'évènement soit court.
+R: Voilà, une trompette avec une sourdine harmon dans l'aigu. Le C4, le côté opposé à la rondeur est moins fort, mais C5 et C6, il y a ce côté criard. Non je vais pas prendre le glockenspiel, parce que dans le glockenspiel, c'est très brillant comme son, donc fréquentiellement, c'est pas ce que j'opposerai à la rondeur. L'accordéon ça va être bien. Non finalement, il y a un peu de rondeur quand même, pas beaucoup. Tu vois le pizzicato bartok de violon C5, c'est pas rond, ce côté claquant et que l'évènement soit court.
 
 Q: En écoutant le xylophone, est ce que tu aurais la-même sensation ?
 
@@ -62,16 +58,11 @@ R: Non pas la même chose. Parce que dans l'attaque de xylophone il y a plus de 
 
 Q: Explore peut-être un peu les bois.
 
-R: Oui le hautbois c'est pas l'opposé totalement, c'est pas comme les cuivres. 
-Là pour les multiphoniques on parle [c'est pas rond].
-Le piccolo C8 fortissimo, on peut l'opposer à un rond.  Encore que dans le souffle il pourrait y avoir quelque chose d'assez grave, d'assez chaleureux, mais l'harmonique qui se détache est assez agressive et criarde. 
-Le multiphonique ou flatterzunge de flute il y a quand même un peu de rondeur je trouve.
+R: Oui le hautbois c'est pas l'opposé totalement, c'est pas comme les cuivres. Là pour les multiphoniques on parle [c'est pas rond]. Le piccolo C8 fortissimo, on peut l'opposer à un rond.  Encore que dans le souffle il pourrait y avoir quelque chose d'assez grave, d'assez chaleureux, mais l'harmonique qui se détache est assez agressive et criarde. Le multiphonique ou flatterzunge de flute il y a quand même un peu de rondeur je trouve.
 
 Q: Tout à l'heure tu as dis que tu allais souvent dans le piano des instruments, pour trouver des sons ronds. Tu peux voir si dans des mêmes instruments comme le saxophone ou le tuba tu vois des opposés ?
 
-R: Oui sur le saxophone ça marche pas mal, si je monte dans l'aigu avec une nuance fortissimo, j'arrive à des choses pas très rondes. Ça marche aussi dans le forte grave, mais un peu moins.
-Le cuivré C6 de trompette pour moi il y a pas du tout de rondeur. Le C4 et le C5 non plus, pas du tout de rondeur. 
-Pour le cor ça se joue vraiment au note à note, Par exemple le C3 cuivré je trouve ça pas du tout rond. Alors que le C4 il y a un peu de rondeur.
+R: Oui sur le saxophone ça marche pas mal, si je monte dans l'aigu avec une nuance fortissimo, j'arrive à des choses pas très rondes. Ça marche aussi dans le forte grave, mais un peu moins. Le cuivré C6 de trompette pour moi il y a pas du tout de rondeur. Le C4 et le C5 non plus, pas du tout de rondeur. Pour le cor ça se joue vraiment au note à note, Par exemple le C3 cuivré je trouve ça pas du tout rond. Alors que le C4 il y a un peu de rondeur.
 
 Q: Est ce qu'il y a des sons qui ont manqué pour exprimer la rondeur et la non rondeur ? Plutôt instrumentaux ?
 
@@ -91,5 +82,4 @@ R: Je dirais qu'ils sont un peu similaires, mais criard c'est plutôt fréquenti
 
 Q6
 
-R: Pour moi un son rond c'est un son qui est agréable, c'est sur. C'est hyper positif. Si au travail on me dit qu'un son est trop rond, ou alors il va pas aller dans le mix, il va pas se détacher parce qu'il est trop rond, ça peut être négatif dans ce sens là. Après un son rond, c'est un son que je qualifierai d'agréable pour moi. 
-Agressif et criard, c'est quelque chose qui va être négatif... Après ça peut être quelque chose de voulu.
+R: Pour moi un son rond c'est un son qui est agréable, c'est sur. C'est hyper positif. Si au travail on me dit qu'un son est trop rond, ou alors il va pas aller dans le mix, il va pas se détacher parce qu'il est trop rond, ça peut être négatif dans ce sens là. Après un son rond, c'est un son que je qualifierai d'agréable pour moi. Agressif et criard, c'est quelque chose qui va être négatif... Après ça peut être quelque chose de voulu.

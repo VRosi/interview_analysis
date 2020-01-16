@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: Rond ? 5.
@@ -8,7 +10,7 @@ R: Plutôt pour un mix, pour une pub, programme, musique. Un documentaire pour l
 
 Q: Moins pour la voix ?
 
- R: Oui on va être plutôt sur le chaud et le brillant. Pour moi chaud et rond sont très proche.
+R: Oui on va être plutôt sur le chaud et le brillant. Pour moi chaud et rond sont très proche.
 
 Q2
 
@@ -78,14 +80,13 @@ R: Mais j'avais mis clarinette basse. Oui c'est ça. Oui la clarinette c'est ron
 
 Q: Et en terme de nuance et de hauteur, lequel est le plus rond ?
 
-R: Oui, c'est pas mal. Oui ça marche bien ça. surtout le grave.
-La clarinette basse C2 mezzoforte je mettrais pas rond. Mais le C4 mezzoforte oui.
+R: Oui, c'est pas mal. Oui ça marche bien ça. surtout le grave. La clarinette basse C2 mezzoforte je mettrais pas rond. Mais le C4 mezzoforte oui.
 
 Q: Ce sont des archétypes de rond ?
 
 R: En fait je sais pas si rond je le définis comme... tout à l'heure je t'ai dis un mode d'emission, je t'ai dis un truc comme ça. En fait je me demande si rond je l'associe pas à une espèce de pureté du son.
 
-Q: En opposition à un son qui fait "shhhhh" ou "grrrrr" ?
+Q: En opposition à un son qui fait ''shhhhh'' ou ''grrrrr'' ?
 
 R: Oui. Le vibraphone C4 piano aussi je trouve ça rond.
 
@@ -95,8 +96,7 @@ R: A c'est beau aussi. Tu vois c'est plus dans la façon dont l'instrument va so
 
 Q: Pour toi c'est bien rond ?
 
-R: Je saurais pas le hiérarchiser par rapport à une clarinette. Oui c'et clairement rond.
-Tu vois, le piano C3 mezzoforte aussi c'est rond.
+R: Je saurais pas le hiérarchiser par rapport à une clarinette. Oui c'et clairement rond. Tu vois, le piano C3 mezzoforte aussi c'est rond.
 
 Q: Pour comparer un peu dans les claviers, entre le piano, le marimba et le vibraphone, là, lequel va être le/les plus rond selon toi ?
 
@@ -106,21 +106,19 @@ Q: Ah un basson aussi ? Vas-y écoute.
 
 R: Bof, Ça marche par contre aussi le C2 de contrebasson mezzoforte.
 
-Q: Pourtant c'est pas très pur ces sons, il y a un petit "urrr". Mais c'est rond.
+Q: Pourtant c'est pas très pur ces sons, il y a un petit ''urrr''. Mais c'est rond.
 
 R: Oui c'est rond. J'écoute la flûte, mais la flute je pense pas.
 
 Q: Un son moins bruité ici ça sera peut-être la flute alto, si jamais.
 
-R: Hmmmm oui c'est bien aussi oui. 
-Le pizzicato de contrebasse (grave) c'est pas mal aussi. Bah oui le C2 piano de contrebasse en pizzicato pour moi c'est rond.
+R: Hmmmm oui c'est bien aussi oui. Le pizzicato de contrebasse (grave) c'est pas mal aussi. Bah oui le C2 piano de contrebasse en pizzicato pour moi c'est rond.
 
 Q: Donc je note, (voir fiche). C'est souvent un son plutôt pas fort. 
 
 Q4
 
-R: Attaque. attaque. Il y a pas là, mais si tu me demandes, c'est une caisse claire, c'est pas rond.
-Je suis désolé mais c'est encore le glockenspiel, et encore, c'est pas non plus... Peut être la harpe aiguë... attends, je vais chercher de la trompette. 
+R: Attaque. attaque. Il y a pas là, mais si tu me demandes, c'est une caisse claire, c'est pas rond. Je suis désolé mais c'est encore le glockenspiel, et encore, c'est pas non plus... Peut être la harpe aiguë... attends, je vais chercher de la trompette. 
 
 Q: Poses toi la question si tu entends quand même un peu de rondeur.
 
@@ -130,7 +128,7 @@ Q: Essaie la trompette en staccato
 
 R: La trompette en staccato a presque plus de rondeur que ordinario. Mais avec la sourdine harmon c'est pas mal.
 
-Q: Je voudrais revenir sur la question de l'attaque de tout à l'heure. Si on prend l'inverse de ta définition pour l'attaque. Je prends par exemple un alto qui joue un pizz bartok, grave et aigu.
+Q: Je voudrais revenir sur la question de l'attaque de tout à l'heure. Si on prend l'inverse de ta définition pour l'attaque. Je prends par exemple un alto qui joue un pizzicato bartok, grave et aigu.
 
 R: Oui c'est sur c'est pas rond du tout. Pour l'ensemble des cordes. Parce que c'est un son un peu explosé.
 
@@ -141,6 +139,8 @@ R: Plus c'est aigu... Tu vois la contrebasse tu enlève l'attaque et tu as quand
 Q: Donc la résonance joue ? 
 
 R: oui oui.
+
+Q5
 
 Q: C'est quoi déjà l'opposé de résonant pour toi ?
 
@@ -168,8 +168,7 @@ R: Là on est que dans la partie haute du spectre. Sur un truc un peu serré.
 
 Q: Tu m'as dis qu'il y avait pas trop de filtrage dans le rond. Un son qui va avoir un spectre avec de l'énergie dans l'aigu, ça va pas être rond ?
 
-R: Moins facilement. J'écoute juste pour être sur un peu de piano. L'aigu du piano c'est pas rond du tout comparé au C4 mezzoforte. 
-Oui il y a une histoire de tessiture quand même.
+R: Moins facilement. J'écoute juste pour être sur un peu de piano. L'aigu du piano c'est pas rond du tout comparé au C4 mezzoforte. Oui il y a une histoire de tessiture quand même.
 
 Q: Donc la trompette sourdine harmon, plus que cuivrée d'ailleurs ?
 
@@ -205,9 +204,9 @@ R: On retombe un peu sur l'agressif, rugueux. 
 
 Q: Je te re-fais écouter les sons que tu as choisi. 
 
-R: Des sons dégueulasse *rire*. Il y a plusieurs idée : Il y a un peu l'idée d'agressif et un peu  l'idée d'imparfait. Je dis pas souvent imparfait, mais c'est le seul truc que j'ai pensé là, un son dégueulasse.
+R: Des sons dégueulasse *rire*. Il y a plusieurs idée. Il y a un peu l'idée d'agressif et un peu  l'idée d'imparfait. Je dis pas souvent imparfait, mais c'est le seul truc que j'ai pensé là, un son dégueulasse.
 
-Q: Peut-être que tu ne dis pas ces mots là, peut-être que tu dis seulement "pas rond " ?
+Q: Peut-être que tu ne dis pas ces mots là, peut-être que tu dis seulement ''pas rond '' ?
 
 R: Dégueulasse je peux le dire, mais oui je dis pas trop.
 

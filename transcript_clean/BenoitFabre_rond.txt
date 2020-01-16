@@ -1,10 +1,12 @@
+QR:T
+
 Q1
 
-R:  J'ai un peu trois casquettes. Une casquette d'acousticien, en tant qu'acousticien j'en parle pas beaucoup, une casquette de musicien instrumentiste, donc là oui le rond peut intervenir, et une casquette plutôt prise de son dans laquelle le rond peut intervenir mais il est très difficile a employé parce qu'il est très dépendant du contexte. C'est à dire que rond pour un violon ne sera pas le même rond pour un autre instrument. Le brillant d'un cuivre n'a rien à voir avec le brillant d'un bois. C'est pas la même direction sonore selon la famille d'instruments.
+R: J'ai un peu trois casquettes. Une casquette d'acousticien, en tant qu'acousticien j'en parle pas beaucoup, une casquette de musicien instrumentiste, donc là oui le rond peut intervenir, et une casquette plutôt prise de son dans laquelle le rond peut intervenir mais il est très difficile a employé parce qu'il est très dépendant du contexte. C'est à dire que rond pour un violon ne sera pas le même rond pour un autre instrument. Le brillant d'un cuivre n'a rien à voir avec le brillant d'un bois. C'est pas la même direction sonore selon la famille d'instruments.
 
-Q3
+Q2
 
-R: Un son rond, en tant qu'instrumentiste je dirais que la rondeur est associée à une certaine conception de la production du son qui essaie de faire remonter, la gestuelle, le contrôle de l'instrument aussi haut que possible, aussi loin que possible, c'est à dire chez les soufflants on va parler de la respiration etc... C'est à travers ça qu'on va se représenter un son rond. Chez les instruments à archet ça sera probablement plus lié, à savoir d'où part le geste : Est-ce qu'il est construit à partir du poignet, du coude, de l'épaule, du dos ? Donc en tant qu'instrumentiste, j'associe le qualificatif rond au fait d'être capable de remonter assez loin.
+R: Un son rond, en tant qu'instrumentiste je dirais que la rondeur est associée à une certaine conception de la production du son qui essaie de faire remonter, la gestuelle, le contrôle de l'instrument aussi haut que possible, aussi loin que possible, c'est à dire chez les soufflants on va parler de la respiration etc... C'est à travers ça qu'on va se représenter un son rond. Chez les instruments à archet ça sera probablement plus lié, à savoir d'où part le geste, Est-ce qu'il est construit à partir du poignet, du coude, de l'épaule, du dos ? Donc en tant qu'instrumentiste, j'associe le qualificatif rond au fait d'être capable de remonter assez loin.
 
 Q: A l'origine de la production du son ?
 
@@ -22,9 +24,7 @@ Q: Et par rapport à ce que vous me dite, vous trouvez qu'en terme de rondeur, l
 
 R: En tant qu'instrumentistes, on ne peut pas penser la rondeur de la même façon pour ces deux instruments. En tant qu'acousticien qui essaie d'analyser le signal...
 
-Q: Oui en effet on est très loin de l'instrument, oui l'idée du geste qui n'est pas là, peut être vous allez avoir du ma à sentir de la rondeur. 
-
-Vous faites, la différence entre instrumentiste et signal, mais alors même en tant qu'instrumentiste, à l'écoute d'un son, vous n'arrivez pas à identifier ce qu'est pour vous un son rond ?
+Q: Oui en effet on est très loin de l'instrument, oui l'idée du geste qui n'est pas là, peut être vous allez avoir du ma à sentir de la rondeur. Vous faites, la différence entre instrumentiste et signal, mais alors même en tant qu'instrumentiste, à l'écoute d'un son, vous n'arrivez pas à identifier ce qu'est pour vous un son rond ?
 
 R: Si bien sur, mais la question qui est posée, est de savoir ce qu'on fait quand on écoute un son. Je pense pas que quand j'écoute un son en tant qu'instrumentiste, en faire une sorte d'analyse de signal, l'analyse que j'en fait est liée aux représentations que j'ai dans ma tête et dans mon corps de ce son. Et certains éléments de cette représentation sont plus liés à la manière dont l'instrumentiste joue. D'autres éléments de la représentation sont plus liés à la nature de l'instrument, aux réglages de l'instrument, des choses qui sont plutôt du domaine de l'instrument, des choses qui sont plutôt du domaine, de la manière dont l'instrument est joué, et puis il peut aussi y avoir des choses, la manière dont l'instrument est joué, capté. Parce que ici j'ai l'impression que c'est quelque chose sur lequel on va avoir quelques difficultés. Parce que comme j'ai dis tout à l'heure, on est pas face à des instruments, on est face à des sons qui plus est c'est mono, c'est triste. Si j'ai besoin je pleurerais tout à l'heure. Mais on a pas du tout une des caractéristiques importante quand on est du côté de la prise de son, c'est comment  l'instrument interagit avec 'espace dans lequel il se trouve.
 
@@ -40,7 +40,7 @@ Q: Mais dans la globalité, si on prend les deux, entretenu et amorti comment ç
 
 R: Je peux pas répondre, c'est à dire que si c'est un son entretenu il a une forme et on revient à la question d'avant, il a une structure temporelle dictée par l'instrumentiste, qui peut donner quelque chose de rond... Si c'est pas le cas, la structure temporelle n'est pas donnée par l'instrumentiste, elle est donnée par l'instrument, et je ne pense pas qu'on puisse fondre les deux dans un même critère d'analyse, ou conception du signal. 
 
-Q4
+Q3
 
 R: On peut partir de la flute dans laquelle un son éolien ne pourra pas être tellement rond je pense. C'est particulièrement creux.
 
@@ -64,7 +64,9 @@ Q: Donc C4 et C5 étaient un peu plus rond que le C6\. Et si on fait varier la n
 
 R: Oui le C5 mezzoforte est plus rond que les deux autres nuances.
 
-Q: Vous sauriez pourquoi ?R: Je dirais que dans le mezzoforte il y a quelque chose qui semble correctement organisé et structuré, et du point de vue temporel, la manière avec laquelle la note se développe, à l'opposer les deux autres sont un peu instables, mal controlés.
+Q: Vous sauriez pourquoi ?
+
+R: Je dirais que dans le mezzoforte il y a quelque chose qui semble correctement organisé et structuré, et du point de vue temporel, la manière avec laquelle la note se développe, à l'opposer les deux autres sont un peu instables, mal controlés.
 
 Q: Est ce que pour vous c'est un peu beaucoup de dire que pour un son rond il y a une idée de stabilité dans sa dimension temporelle ?
 
@@ -94,7 +96,9 @@ Q: Pour les C7, C6 et C5 il y a de la rondeur ? Et si on compare avec une baguet
 
 R: Oui  c'est plus rond avec la baguette molle.
 
-Q: Alors pourquoi selon vous ?R: Pourquoi c'est l'équilibre spectral sur l'ensemble de la note, c'est essentiellement ça.
+Q: Alors pourquoi selon vous ?
+
+R: Pourquoi c'est l'équilibre spectral sur l'ensemble de la note, c'est essentiellement ça.
 
 Q: Du coup quand vous dite équilibre spectral, il se passe quoi quand la baguette est plus dure ?
 
@@ -126,7 +130,7 @@ R: Allons y avec la contrebasse. Alors C3 et C4 ordinario sont à peu près au m
 
 Q: C'est dû à quoi selon vous ? Il y a une influence de la hauteur ou pas ?
 
-R: Bien sur mais elle est indirecte. L'influence dans la lecture que j'en ai est le rapport  qu'a l'instrumentiste a avec son instrument. C'est à dire que si je joue cette note grave ici, c'est ce type de son que je cherche. On va pas à la contrebasse jouer dans le grave pour chercher un petit son qui ferait "ksii" comme ça21:02.
+R: Bien sur mais elle est indirecte. L'influence dans la lecture que j'en ai est le rapport  qu'a l'instrumentiste a avec son instrument. C'est à dire que si je joue cette note grave ici, c'est ce type de son que je cherche. On va pas à la contrebasse jouer dans le grave pour chercher un petit son qui ferait ''ksii'' comme ça.
 
 Q: Est-ce que les sons ici correspondent à votre idée de rondeur ?
 
@@ -138,12 +142,11 @@ R: C'est comme pour tout à l'heure la question de connaissance de l'orchestre, 
 
 Q : son manquant ?
 
-R: On aurait pu chercher un "beau" son de violoncelle. Il y en a surement d'autre dans ta base de donnée qu'on a pas entendu, mais ceux qu'on a entendu je ne les trouve pas satisfaisant, indépendamment de la question du rond.
+R: On aurait pu chercher un ''beau'' son de violoncelle. Il y en a surement d'autre dans ta base de donnée qu'on a pas entendu, mais ceux qu'on a entendu je ne les trouve pas satisfaisant, indépendamment de la question du rond.
 
 Q: Sachant tout de même que l'aspect plaisant ça joue.
 
-R: Pour le dire autrement, pour l'idée de rondeur, il y a une caractéristique qui peut être très positive.
-Donc un beau son de violoncelle. J'aimerai bien chercher ça aussi chez le cor.
+R: Pour le dire autrement, pour l'idée de rondeur, il y a une caractéristique qui peut être très positive. Donc un beau son de violoncelle. J'aimerai bien chercher ça aussi chez le cor.
 
 Q: Du cor il y en a...
 
@@ -159,8 +162,7 @@ R: Oui il y a cette idée de stabilité, il y a l'idée que je trouve qu'ils son
 
 Q: Un autre instrument ?
 
-R: On peut aller prendre du glockenspiel dans l'aigu. Baguette plutôt dure en métal. C'est pas si pire. Là ça tue encore la normalisation, c'est bien intéressant d'avoir une base de donnée. Je trouve pas quelque chose de très pas rond.
-Peut-être on peut aller sur un alto ponticello. Oui voilà le C3 ponticello c'est pas rond. Structure spectrale ou équilibre spectral très bizarre...
+R: On peut aller prendre du glockenspiel dans l'aigu. Baguette plutôt dure en métal. C'est pas si pire. Là ça tue encore la normalisation, c'est bien intéressant d'avoir une base de donnée. Je trouve pas quelque chose de très pas rond. Peut-être on peut aller sur un alto ponticello. Oui voilà le C3 ponticello c'est pas rond. Structure spectrale ou équilibre spectral très bizarre...
 
 Q: Un cuivre peut-être ?
 
@@ -188,7 +190,7 @@ R: J'ai pas envie de changer de représentation, donc ça va être le contraire 
 
 Q: Donc pour résumé le rond, proportion de fréquences basses assez grandes, un son équilibré et un son stable.
 
-Q : son manquant ?
+Q: son manquant ?
 
 R: On a pas été écouté, mais peut-être du côté du basson ou du contrebasson. Ou à nouveau j'irais chercher violoncelle contrebasse dans des modes de jeu. Pour des sons pas ici, des choses qui sont soufflées sans véritablement sonner, à nouveau on est plutôt dans des techniques de jeu.
 

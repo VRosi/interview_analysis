@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: Je dirais oui je l'utilise. 
@@ -8,26 +10,15 @@ R: Quand je dis rond, c'est un son qui a peu d'attaque. En tout cas qui n'a pas
 
 Q3
 
-R: Le cor est le premier qui me vient à l'esprit. Ah oui le C3 mezzoforte ordinario est rond. Je fais fis de l'attaque. C'est la nature ronde du son. C'est un son qui n'est pas droit. 
-
-Quand on monte dans l'aigu c'est un peu moins rond parce qu'on a moins l'impression que tout le corps de l'instrument vibre. Le son rond est forcément un peu cupo. Pas brillant, mais pas forcément pauvre en harmoniques. Le rond n'est pas pauvre en harmonique, et il n'est pas droit. La clarinette pianissimo c'est rond. Au dessus du C5 c'est moins rond, le son est plus droit. 
+R: Le cor est le premier qui me vient à l'esprit. Ah oui le C3 mezzoforte ordinario est rond. Je fais fis de l'attaque. C'est la nature ronde du son. C'est un son qui n'est pas droit. Quand on monte dans l'aigu c'est un peu moins rond parce qu'on a moins l'impression que tout le corps de l'instrument vibre. Le son rond est forcément un peu cupo. Pas brillant, mais pas forcément pauvre en harmoniques. Le rond n'est pas pauvre en harmonique, et il n'est pas droit. La clarinette pianissimo c'est rond. Au dessus du C5 c'est moins rond, le son est plus droit. 
 
 Q: Par rapport à ce que tu me dis, si je te fais écouter du tuba pianissimo?
 
-R: Très bien le tuba pianissimo C3\. L'attaque, il n'y en a pas besoin pour faire un son rond.
-Fais voir la harpe. C'est pas la définition de rond. Fais écouter la guitare, la corde est moins tendu. Non c'est pas très rond.
-Le pizzicato de contrebasse pianissimo peut pas dire qu'il y a pas de rondeur. Mais je sais pas si c'est un archétype de rond. C'est une autre conception de la rondeur. La contrebasse en pizzicato dans le jazz ça peut être très rond. Je l'ai beaucoup moins pour le violoncelle.
-Le marimba, je dis pas que c'est pas possible, mais pas complètement rond là. Le vibraphone, c'est trop droit pour être rond.
-Le saxophone piano C4 c'est rond. Il fait la bonne attaque, c'est la définition d'un son rond. Le son du saxophone mezzoforte ressemble beaucoup à l'accordéon.
+R: Très bien le tuba pianissimo C3. L'attaque, il n'y en a pas besoin pour faire un son rond. Fais voir la harpe. C'est pas la définition de rond. Fais écouter la guitare, la corde est moins tendu. Non c'est pas très rond. Le pizzicato de contrebasse pianissimo peut pas dire qu'il y a pas de rondeur. Mais je sais pas si c'est un archétype de rond. C'est une autre conception de la rondeur. La contrebasse en pizzicato dans le jazz ça peut être très rond. Je l'ai beaucoup moins pour le violoncelle. Le marimba, je dis pas que c'est pas possible, mais pas complètement rond là. Le vibraphone, c'est trop droit pour être rond. Le saxophone piano C4 c'est rond. Il fait la bonne attaque, c'est la définition d'un son rond. Le son du saxophone mezzoforte ressemble beaucoup à l'accordéon.
 
 Q4
 
-R: Un pizzicato de violon. Voilà c'est pas rond. Il y a surtout une attaque. En pizzicato bartok c'est vraiment pas rond.  Dans la contrebasse il y a une résonance, du coup même un pizzicato bartok il y a aura un peu de résonance. 
-Un slap de clarinette ou de saxophone ça aurait bien marché.
-Il y a pas beaucoup de rondeur pour les sons cuivrés de trompette, c'est droit. Tu as d'autres staccato ?
-Le cor en staccato C4 c'est pas rond.
-Un son droit comme un son d'accordéon. Le C5 forte c'est pas rond.
-Le hautbois ça pourrait être moins rond que ces enregistrements.
+R: Un pizzicato de violon. Voilà c'est pas rond. Il y a surtout une attaque. En pizzicato bartok c'est vraiment pas rond.  Dans la contrebasse il y a une résonance, du coup même un pizzicato bartok il y a aura un peu de résonance. Un slap de clarinette ou de saxophone ça aurait bien marché. Il y a pas beaucoup de rondeur pour les sons cuivrés de trompette, c'est droit. Tu as d'autres staccato ? Le cor en staccato C4 c'est pas rond. Un son droit comme un son d'accordéon. Le C5 forte c'est pas rond. Le hautbois ça pourrait être moins rond que ces enregistrements.
 
 Q: Il y a des sons ronds ou pas ronds qui t'ont manqué ?
 
@@ -39,5 +30,4 @@ R: C'est pas plutôt l'attaque mais plutôt qu'il ne bouge pas. Il ne bouge pas 
 
 Q6
 
-R: A priori quand même oui. Un son rond c'est "gentile". Et un son droit c'est plus dur. 
-Un son rond caresse plus dans le sens du poil alors que le son droit non.
+R: A priori quand même oui. Un son rond c'est ''gentile''. Et un son droit c'est plus dur. Un son rond caresse plus dans le sens du poil alors que le son droit non.

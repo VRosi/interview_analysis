@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R:  Alors un son chaud ça a un sens assez explicite je pense dans une discussion avec un instrumentiste. Ça n'a pour moi pas de sens dans une discussion avec une casquette d'analyse du signal et du côté de la prise de son, oui tout à fait, ça a une signification qui est peut-être pas si éloignée que ça de celle qu'on peut avoir du point de vue de l'instrumentiste.
@@ -14,15 +16,17 @@ Q: Mais du coup cette idée d'intention, c'est quelque chose que vous allez retr
 
 R: C'est compliqué parce que tu as refusé tout à l'heure de rentrer dans une discussion qui soit plutôt à caractère musical, et j'ai l'impression là que cette impression de chaud elle dépasse le cadre du son strictement.
 
-Q: Si un son n'était pas celui d'un instrument de musique ou d'une voix, peut il être chaud ?R: Je peux trouver un peu des idées mais c'est très loin.
+Q: Si un son n'était pas celui d'un instrument de musique ou d'une voix, peut il être chaud ?
 
-Q: Si un son est plus chaud qu'un autre, qu'est ce qu'il va avoir de plus ou de moins ?R: En tant qu'auditeur, il y a une idée de m'amener à adhérer, m'emmener, il y a une idée de m'envelopper, de me baigner, de me caresser. 
+R: Je peux trouver un peu des idées mais c'est très loin.
+
+Q: Si un son est plus chaud qu'un autre, qu'est ce qu'il va avoir de plus ou de moins ?
+
+R: En tant qu'auditeur, il y a une idée de m'amener à adhérer, m'emmener, il y a une idée de m'envelopper, de me baigner, de me caresser. 
 
 Q3
 
-R: Ça va pas être top.
-
-Q: L'accordéon, il avait peut être un peu de chaud. Le C4 ah non. Le C3 tire la langue. Le C2 il est un tout petit peu plus enveloppant.
+R: Ça va pas être top. L'accordéon, il avait peut être un peu de chaud. Le C4 ah non. Le C3 tire la langue. Le C2 il est un tout petit peu plus enveloppant.
 
 Q: C'est quelque chose qu'on retrouverai sur des instruments un peu grave ?
 
@@ -36,9 +40,7 @@ Q: Donc plutôt une zone confortable de jeu pour le chaud ?
 
 R: Le Sacre du printemps, le solo de basson, les bassonistes travaillent ça depuis l'âge de 5 ans, ils jouent ça le cul dans l'herbe, et donc maintenant il font quelque chose d'assez chaleureux, alors que les premiers qui ont joués ça c'était tendu, c'était tout sauf chaud.
 
-Q: Si on écoute le basson dans l'aigu là ?
-
-Il y a une variation dans la chaleur sur ces sons là ?
+Q: Si on écoute le basson dans l'aigu là ? Il y a une variation dans la chaleur sur ces sons là ?
 
 R: Heu, le C5 mezzoforte pourrait être à la limite un tout petit peu chaud. Un peu plus chaud que les deux autres, mais j'entend qu'on demande à un instrumentiste de jouer l'entrée du train dans la gare de La Ciotat parce qu'on a perdu la bande son du film. Donc le gars, s'évertue à essayer de faire un son aussi stable que possible, et donc quelque chose qui a, je suis navré, ni queue ni tête.
 
@@ -64,9 +66,7 @@ R: C'est pas mal. C'est pas bien chaud. C'est un peu chaud mais c'est pas...
 
 Q: Le cor anglais ?
 
-R: Non.
-
-Dans tous ces trucs là, j'entends pas quelqu'un qui essaie de me faire un peu plaisir ou de me prendre et de m'emmener dans son son. J'entends quelqu'un qui répond à une pauvre consigne. 
+R: Non. Dans tous ces trucs là, j'entends pas quelqu'un qui essaie de me faire un peu plaisir ou de me prendre et de m'emmener dans son son. J'entends quelqu'un qui répond à une pauvre consigne. 
 
 Q: Si je demande un son pas chaud, vous me diriez que tous ces sons en font parti ?
 
@@ -86,7 +86,7 @@ R: Oui pareil, plutôt piano.
 
 Q4
 
-R: Là où on entend le plus pire, là ou on comprend "tu m'as demander de jouer ma note la plus stable", c'était le basson. Voilà le C5 piano c'est pas chaud.
+R: Là où on entend le plus pire, là ou on comprend ''tu m'as demander de jouer ma note la plus stable'', c'était le basson. Voilà le C5 piano c'est pas chaud.
 
 Q: Dans cette même idée, il y en avait un dans l'accordéon.
 

@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: En classe, en cours. Oui je l'utilise, mais pas seulement pour le timbre, brillant c'est aussi un caractère.
@@ -8,7 +10,9 @@ Q: D'abord en parlant des sons ensuite en terme de caractère, comment vous déf
 
 R: C'est très difficile? C'est pour ça que ça m'intéresse de réfléchir à ça avec vous. Il faut procéder par analogie. Un son qui a de l'éclat, c'est par exemple la différence entre un son de trompette et un son de cornet. Mais vous avez pas mis le cornet, donc c'est peut-être pas un bon exemple. Par exemple sur les cuivres, il y a les perces coniques qui ont des sons plutôt sombres, et les perces cylindriques qui ont des perces plus brillantes.
 
-Q: Dans le cadre de cette étude, ça serait plutôt quels instruments ?R: La trompette et le trombone plus que le cor et le tuba. Pour les cuivres, parce que c'est pas exactement la même problématique pour les bois.
+Q: Dans le cadre de cette étude, ça serait plutôt quels instruments ?
+
+R: La trompette et le trombone plus que le cor et le tuba. Pour les cuivres, parce que c'est pas exactement la même problématique pour les bois.
 
 Q: Oui sachant que la flute et la clarinette sont cylindrique et le hautbois et le saxophone sont coniques.
 
@@ -62,7 +66,9 @@ Q: Alors un autre son maintenant ?
 
 R: Le hautbois. 
 
-Q: Plutôt dans les nuances forte pareil ?R: Oui mezzoforte aussi. le C5 mezzoforte, c'est drôle mais une note comme ça toute seule, je sais que le hautbois est brillant de toute façon. Mais le son de cet instrumentiste n'est pas le son le plus brillant de hautbois qu'on puisse entendre. Sur le forte fortissimo il est plus brillant, et sur le C6 aussi.
+Q: Plutôt dans les nuances forte pareil ?
+
+R: Oui mezzoforte aussi. le C5 mezzoforte, c'est drôle mais une note comme ça toute seule, je sais que le hautbois est brillant de toute façon. Mais le son de cet instrumentiste n'est pas le son le plus brillant de hautbois qu'on puisse entendre. Sur le forte fortissimo il est plus brillant, et sur le C6 aussi.
 
 Q: Et par rapport à la trompette de tout à l'heure ?
 
@@ -78,19 +84,17 @@ R: Non là le C5 de violon ordinario mezzoforte c'est pas brillant du tout. Avec
 
 Q: Et du coup ces derniers qualificatifs vont contre l'idée de brillance ?
 
-R: Non quand même, parce que c'est un peu comme un miroitement les harmoniques de violon. Mais il nous faut d'autres mots. 
-Moi je rêve d'un nuancier, d'un vocabulaire universel.
+R: Non quand même, parce que c'est un peu comme un miroitement les harmoniques de violon. Mais il nous faut d'autres mots. Moi je rêve d'un nuancier, d'un vocabulaire universel.
 
 Q: Ça c'est compliqué encore parce que ....[...]
 
-Vous voyez pour le brillant du hautbois, à la fin du 18e siècle on parle de son argentin. Il y a l'idée d'un reflet d'un miroitement.
+R: Vous voyez pour le brillant du hautbois, à la fin du 18e siècle on parle de son argentin. Il y a l'idée d'un reflet d'un miroitement.
 
 Q: Et d'un matériau aussi.
 
-R: D'un matériau qui brille. Au 19e siècle, et je vous parle de traités, de textes, on parle de son canaille. C'est très surprenant parce que canaille à la base c'est très péjoratif, c'est une bade de chies errants. Alors qu'est ce que c'est qu'un son canaille. J'ai trouvé pour le cor anglais dans la méthode de Vogt de 1813, il dit "le cor anglais à un son plus anché, que le hautbois". Un son anché. Qu'est ce que vous faites de ça. Donc ça correspond à des définitions ponctuelles culturelles. Une manière d'associer un son à un mot qui parle dans le contexte pour les personnes d'une époque donnée, et du milieu donné. Parce que même par rapport au grand public de l'époque, on dit pas un son plus anché. Donc ça c'est très complexe. Il y a tout un nuancier, puis le hautboïste qu'on entend il a peut-être un son un petit peu plus sombre que souvent les sons de hautbois, ou mon idéal de son de hautbois qui serait un petit clair et plus brillant en effet. Il y a plein de paramètres qui relèvent de l'anche en particulier, enfin du grattage d'anche. Est ce qu'on peut arriver à imaginer qu'il y ait un mot pour un son qui, avec un oscilloscope, avec le découpage des harmoniques etc, nous montrerait vraiment, précisément, à quoi ça correspond.
+R: D'un matériau qui brille. Au 19e siècle, et je vous parle de traités, de textes, on parle de son canaille. C'est très surprenant parce que canaille à la base c'est très péjoratif, c'est une bade de chies errants. Alors qu'est ce que c'est qu'un son canaille. J'ai trouvé pour le cor anglais dans la méthode de Vogt de 1813, il dit ''le cor anglais à un son plus anché, que le hautbois''. Un son anché. Qu'est ce que vous faites de ça. Donc ça correspond à des définitions ponctuelles culturelles. Une manière d'associer un son à un mot qui parle dans le contexte pour les personnes d'une époque donnée, et du milieu donné. Parce que même par rapport au grand public de l'époque, on dit pas un son plus anché. Donc ça c'est très complexe. Il y a tout un nuancier, puis le hautboïste qu'on entend il a peut-être un son un petit peu plus sombre que souvent les sons de hautbois, ou mon idéal de son de hautbois qui serait un petit clair et plus brillant en effet. Il y a plein de paramètres qui relèvent de l'anche en particulier, enfin du grattage d'anche. Est ce qu'on peut arriver à imaginer qu'il y ait un mot pour un son qui, avec un oscilloscope, avec le découpage des harmoniques etc, nous montrerait vraiment, précisément, à quoi ça correspond.
 
-Q: Non mais imaginons que le vocabulaire que vous donné, qui est utilisé et compris par tous, on pourrait dire un son brillant, peu anché et très canaille. Et là on rapporte ces mots là à des sons directement. Je pense que c'est très compliqué d'avoir un seul terme, pour un timbre d'instrument. Surtout ici où on écoute des sons d'instruments qui ne correspondent pas forcément à la représentation mentale. Il y a par exemple un musicien jazz à  qui j'ai fait écouté la trompette et qui m'a dit "ah mais c'est pas un son de trompette ça". Donc déjà là on a un soucis.
-Je me permets de continuer du coup. J'ai trois sons ici , mais pour cette étape, j'aimerai bien que vous alliez voir d'autre sons, qu'on a pas encore écouté, peut-être dans les bois, ou les claviers.
+Q: Non mais imaginons que le vocabulaire que vous donné, qui est utilisé et compris par tous, on pourrait dire un son brillant, peu anché et très canaille. Et là on rapporte ces mots là à des sons directement. Je pense que c'est très compliqué d'avoir un seul terme, pour un timbre d'instrument. Surtout ici où on écoute des sons d'instruments qui ne correspondent pas forcément à la représentation mentale. Il y a par exemple un musicien jazz à  qui j'ai fait écouté la trompette et qui m'a dit ''ah mais c'est pas un son de trompette ça''. Donc déjà là on a un soucis. Je me permets de continuer du coup. J'ai trois sons ici , mais pour cette étape, j'aimerai bien que vous alliez voir d'autre sons, qu'on a pas encore écouté, peut-être dans les bois, ou les claviers.
 
 R: Le glockenspiel.
 
@@ -132,7 +136,7 @@ R: Oui quand même. Difficile de se départir de ça.
 
 Q: Peut-être qu'il y a des sons aigus qui ne sont pas brillants.
 
-R: Oui dans la clarinette en Sib ou en La. oui le C5 oui, et pianissimo encore plus. Et donc l'éolien. Plus l'éolien que le jeu normal. Parce que je pense que l'attaque conditionne. Vous l'avez pris que pour la flute et la clarinette ? Le "Tu" conditionne la brillance du son.
+R: Oui dans la clarinette en Sib ou en La. oui le C5 oui, et pianissimo encore plus. Et donc l'éolien. Plus l'éolien que le jeu normal. Parce que je pense que l'attaque conditionne. Vous l'avez pris que pour la flute et la clarinette ? Le ''Tu'' conditionne la brillance du son.
 
 Q: Un autre son ?
 
@@ -262,4 +266,4 @@ R: Il y a surtout l'idée de contraste. Historiquement, toute la symbolique du b
 
 Q: Et par rapport aux sons que vous avez choisi ?
 
-R: Je peux faire des références ? Quand Weber veut dépeindre la foret dans le Freichütz, il dit qu'il va chercher la clarinette dans le grave, qu'il va chercher le basson, il parle même du "morne basson", dans la traduction française. C'est pas forcément désagréable, c'est la peinture de la foret et de son mystère.
+R: Je peux faire des références ? Quand Weber veut dépeindre la foret dans le Freichütz, il dit qu'il va chercher la clarinette dans le grave, qu'il va chercher le basson, il parle même du ''morne basson'', dans la traduction française. C'est pas forcément désagréable, c'est la peinture de la foret et de son mystère.

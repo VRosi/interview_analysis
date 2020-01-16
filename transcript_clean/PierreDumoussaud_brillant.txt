@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: Pas très fréquent. Pendant la préparation ça serait en terme de caractère et pendant la répétition en terme de son.
@@ -40,8 +42,7 @@ R: J'ai des remords, l'accordéon je trouve que c'est brillant. C'est plus brill
 
 Q: Du coup ce qui serait pas brillant du tout.
 
-R: Une contrebasse ? Ça serait encore moins brillant si c'était harmonique... Oui c'est l'inverse de brillant déjà en ordinario C3 mezzoforte. Avec le vibrato, le caractère est plus brillant mais j'imagine que le timbre est le même. L'ordinario aigu est plus brillant parce que plus tendu. A l'inverse la contrebasse en harmonique on trouve l'idée de parasite qui fait que c'est pas brillant du tout. C'est plutôt mat au contraire.
-Spontanément je cherche des instruments graves et je me rends compte qu'une clarinette basse peut tout a fait être brillante. Le forte et le mezzoforte de clarinette basse C2 est super brillant en terme d'harmoniques, moins dans le piano. La flute en sol est pas brillante du tout. Le mezzoforte C4 est mat. Pour tous les instruments graves qui essaient de jouer aigu, c'est pas brillant pour autant. Le basson dans l'aigu c'est pas brillant parce que ces instruments là n'ont pas un son pur quand ils jouent dans l'aigu. Parce que ce sont des sons harmoniques, trafiqués, des trucs tendus. Mais j'ai dis tendu tout à l'heure non ?
+R: Une contrebasse ? Ça serait encore moins brillant si c'était harmonique... Oui c'est l'inverse de brillant déjà en ordinario C3 mezzoforte. Avec le vibrato, le caractère est plus brillant mais j'imagine que le timbre est le même. L'ordinario aigu est plus brillant parce que plus tendu. A l'inverse la contrebasse en harmonique on trouve l'idée de parasite qui fait que c'est pas brillant du tout. C'est plutôt mat au contraire. Spontanément je cherche des instruments graves et je me rends compte qu'une clarinette basse peut tout a fait être brillante. Le forte et le mezzoforte de clarinette basse C2 est super brillant en terme d'harmoniques, moins dans le piano. La flute en sol est pas brillante du tout. Le mezzoforte C4 est mat. Pour tous les instruments graves qui essaient de jouer aigu, c'est pas brillant pour autant. Le basson dans l'aigu c'est pas brillant parce que ces instruments là n'ont pas un son pur quand ils jouent dans l'aigu. Parce que ce sont des sons harmoniques, trafiqués, des trucs tendus. Mais j'ai dis tendu tout à l'heure non ?
 
 Q: Tu as quand même dis tout a l'heure qu'il y avait des harmoniques dans les sons brillants, que ça allait être des sons aigus...
 
@@ -49,8 +50,7 @@ R: Non je veux dire les doigtés de sons aigus, dans les instruments en bois, so
 
 Q: Malgré le fait que tu sois bassonistes et peut-être un peu biaisé, que penses tu des sons de basson ici ?
 
-R: Effectivement c'est ce qu'on dit je le trouve plus brillant dans le grave, un peu comme la clarinette basse tout à l'heure. En effet, le son de basson C5 aigu piano est un archétype de son pas brillant. Ce dont j'ai l'impression c'est qu'un impression qu'un instrument est brillant que quand il est dans le coeur de sa tessiture. Un son brillant pour un instrument n'est possible que dans une zone de confort de jeu.
-T'as des notes pédales de trompette ? J'imagine que chez le cor on va trouver quelque chose de pas brillant du tout. Ah non super brillant. C'est moins brillant dans le piano.
+R: Effectivement c'est ce qu'on dit je le trouve plus brillant dans le grave, un peu comme la clarinette basse tout à l'heure. En effet, le son de basson C5 aigu piano est un archétype de son pas brillant. Ce dont j'ai l'impression c'est qu'un impression qu'un instrument est brillant que quand il est dans le coeur de sa tessiture. Un son brillant pour un instrument n'est possible que dans une zone de confort de jeu. T'as des notes pédales de trompette ? J'imagine que chez le cor on va trouver quelque chose de pas brillant du tout. Ah non super brillant. C'est moins brillant dans le piano.
 
 Q: Tu as l'air moins convaincu que pour le basson et la contrebasse. 
 

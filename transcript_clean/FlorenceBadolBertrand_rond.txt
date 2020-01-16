@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R:  Alors rond, mon utilisation de ce terme est pas fréquente. Peut-être plus sous forme de rondeur de son. Mais c'est un peu jouer sur les mots. 
@@ -32,7 +34,9 @@ R: Un son avec beaucoup de rondeur. Là pour le coup j'ai l'impression d'avoir g
 
 Q: Est-ce qu'on peut voir déjà, si à cette étape là il y a des différences, si on reprend un peu ce que vous avez dis pour chaleureux ?
 
-R: Donc rond je pense que c'est plus, une comparaison au violoncelle. Mais vous voyez c'est toujours dans l'idée de la comparaison, la rondeur de son, pour moi. J'ai déjà eu l'occasion d'entendre deux violoncelles, joués par la même personne qui avait toujours joué un instrument de facture moderne, et qui intègre maintenant dans son jeu un violoncelle du 18ème siècle avec des cordes en boyaux, et par comparaison, oui le son de l'ancien est plus rond. Il y a peut-être pas que les cordes qui rentrent en jeu, le bois etc. Peut-être qu'ici l'antonyme, ça serait un peu métallique. Enfin, c'est un peu exagéré.Q: Est-ce qu'on peut essayer de caractériser ce que c'est un son rond ? Peut-être même par comparaison. Si on prend un son de violoncelle à un autre. Quelle différence il y aura un son qui est rond et un son qui n'est pas rond ?
+R: Donc rond je pense que c'est plus, une comparaison au violoncelle. Mais vous voyez c'est toujours dans l'idée de la comparaison, la rondeur de son, pour moi. J'ai déjà eu l'occasion d'entendre deux violoncelles, joués par la même personne qui avait toujours joué un instrument de facture moderne, et qui intègre maintenant dans son jeu un violoncelle du 18ème siècle avec des cordes en boyaux, et par comparaison, oui le son de l'ancien est plus rond. Il y a peut-être pas que les cordes qui rentrent en jeu, le bois etc. Peut-être qu'ici l'antonyme, ça serait un peu métallique. Enfin, c'est un peu exagéré.
+
+Q: Est-ce qu'on peut essayer de caractériser ce que c'est un son rond ? Peut-être même par comparaison. Si on prend un son de violoncelle à un autre. Quelle différence il y aura un son qui est rond et un son qui n'est pas rond ?
 
 R: Dans le son rond, il y a quand même aussi, je vais réutiliser le terme de plénitude, parce qu'il y a aussi l'idée du cercle fermé, donc d'un idéal sonore atteint quand même. 
 
@@ -46,9 +50,7 @@ R: C'est une sorte d'idéal dans l'absolu, c'est pour ça que je prends des exem
 
 Q3
 
-R: Complexe, mais peut-être, on est quand même toujours sur du legato. Pas de staccato ou de pizzicato. Eventuellement du détaché, et du détaché louré avec un peu de poids.
-
-Le détaché dans le son des cordes, ça on l'a pas. Ce qui correspondrait le plus à l'idée rond de son, c'est le trombone. Oui il y a de la rondeur sur le C3 ordinario. Moins sur le fortissimo.
+R: Complexe, mais peut-être, on est quand même toujours sur du legato. Pas de staccato ou de pizzicato. Eventuellement du détaché, et du détaché louré avec un peu de poids. Le détaché dans le son des cordes, ça on l'a pas. Ce qui correspondrait le plus à l'idée rond de son, c'est le trombone. Oui il y a de la rondeur sur le C3 ordinario. Moins sur le fortissimo.
 
 Q: Il y a peut-être l'idée des harmoniques qui revient ?
 
@@ -56,7 +58,7 @@ R: Oui je pense oui. Sur le piano, pianissimo, mezzoforte.
 
 Q: Il y a une différence entre le pianissimo et le mezzoforte ?
 
-R: Oui, il y aun peu plus de clarté sur le mezzoforte.
+R: Oui, il y a un peu plus de clarté sur le mezzoforte.
 
 Q: Et ça change au niveau de la rondeur ?
 
@@ -134,9 +136,13 @@ Q: Plutôt les pizzicatos graves que aigus ?
 
 R: Oui. 
 
-Q: Par rapport à ce qu'on a entendu, de harpe, de guitare et de contrebasse, lequel  va être le plus rond ?R: Je pense que les pizzicato de contrebasse C2 dans le grave c'est plus rond, que la guitare et la harpe.
+Q: Par rapport à ce qu'on a entendu, de harpe, de guitare et de contrebasse, lequel  va être le plus rond ?
 
-Q: Il y a une différences dans les différents pizzicatos de contrebasse ? R: Pas trop, un peu plus sur le fortissimo où on entend la vibration de la corde, sinon mezzoforte et pianissimo.
+R: Je pense que les pizzicato de contrebasse C2 dans le grave c'est plus rond, que la guitare et la harpe.
+
+Q: Il y a une différences dans les différents pizzicatos de contrebasse ?
+
+R: Pas trop, un peu plus sur le fortissimo où on entend la vibration de la corde, sinon mezzoforte et pianissimo.
 
 Q: Si vous essayez de caractériser ces sons, est ce que ça permet d'étoffer un peu votre définition de la rondeur du son ?Vu que ce ne sont pas des sons entretenus ?
 
@@ -162,9 +168,7 @@ R: Désolé pour les paradoxes.
 
 Q: Non mais là vous faites peut-être une différence intéressante entre ce qui est chaleureux et ce qui est rond !
 
-R: Oui peut-être. Oui c'est cette idée de plus neutre par rapport à chaleureux qui revient.
-
-Sinon le piano. Oui, enfin c'est plein de paradoxe, ça pourrait être rond. Faites voir l'accordéon. Oui l'accordéon c'est pas rond, à tous niveau.
+R: Oui peut-être. Oui c'est cette idée de plus neutre par rapport à chaleureux qui revient. Sinon le piano. Oui, enfin c'est plein de paradoxe, ça pourrait être rond. Faites voir l'accordéon. Oui l'accordéon c'est pas rond, à tous niveau.
 
 Q: Un autre ? On a pas trop écouté les bois ou les cordes pour les ronds.
 
@@ -188,9 +192,7 @@ R: Oui...
 
 Q: Il y a aussi des sons qu'on a pas écouté comme le basson et le contrebasson. Le reste on a un peu écouté de tout. Après il y a des modes de jeu qu'on a pas écouté.
 
-R: Pas rond les ponticello de manière générale. Bon le violon, je reste sur les aigus. Le basson et le contrebasson, il y a une rondeur de son du basson quand même. Oui en écoutant des C3 on est dans la rondeur de son pour moi, même dans l'aigu. 
-
-Je crois que globalement que pour moi ce sont les mêmes références, chaleureux et rond, si ce n'est que rond est un peu plus neutre.
+R: Pas rond les ponticello de manière générale. Bon le violon, je reste sur les aigus. Le basson et le contrebasson, il y a une rondeur de son du basson quand même. Oui en écoutant des C3 on est dans la rondeur de son pour moi, même dans l'aigu. Je crois que globalement que pour moi ce sont les mêmes références, chaleureux et rond, si ce n'est que rond est un peu plus neutre.
 
 Q5
 
@@ -216,7 +218,7 @@ R: Si on peut déceler une chaleur , mais pas de rondeur.
 
 Q: Est-ce qu'il y aurait une idée de stabilité dans le son ?
 
-R: La stabilité, et en l'occurence pour les vents, air ou pas air. Dans la rondeur, c'est cette idée de la plénitude : pas d'air dans le son. Pour les flutes aussi.
+R: La stabilité, et en l'occurence pour les vents, air ou pas air. Dans la rondeur, c'est cette idée de la plénitude, pas d'air dans le son. Pour les flutes aussi.
 
 Q: Je pose la question parce qu'on a parlé d'homogénéité pour la chaleur tout à l'heure, et peut-être que je me trompe, mais je le mets aussi en connexion avec l'idée de stabilité.
 
@@ -224,9 +226,7 @@ R: Pour la rondeur ?
 
 Q: Pardon je reprends, tout à l'heure quand on parlait du legato chaleureux, vous m'avez parlé d'homogénéité. 
 
-R: Pour le rond en tout cas, plein. Parce que dans un son chaleureux, il peut y avoir cette dimension humaine qu'il peut y avoir, un tout petit peu d'air, par exemple pour les vent. 
-
-Mais le son rond, il est plein il est rempli, que de son.
+R: Pour le rond en tout cas, plein. Parce que dans un son chaleureux, il peut y avoir cette dimension humaine qu'il peut y avoir, un tout petit peu d'air, par exemple pour les vent. Mais le son rond, il est plein il est rempli, que de son.
 
 Q: Il n'y aurait pas l'idée du souffle ?
 

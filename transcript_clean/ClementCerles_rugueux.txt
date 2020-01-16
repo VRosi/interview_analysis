@@ -1,10 +1,12 @@
+QR:T
+
 Q1
 
 R: Oui je l'utilise, pareil sur des sons écrasés de violons... Pour la rugosité, j'ai pas eu d'expérience à l'IRCAM où un compositeur m'a demander un son rugueux. Ça serait plus sur une appréciation que j'ai via une écoute. La composante rugueuse, c'est pas forcément quelque chose qu'on va me demander.
 
 Q2
 
-R: Pour moi la rugosité, Ça va être tout la composante concrète, ou "matièrée", une matière bruitée dans le son. Comme sur par exemple des effets écrasés de violon. L'opposé totale ça serait un sinus pur, une composante purement résonante, sans aucune matière.
+R: Pour moi la rugosité, Ça va être tout la composante concrète, ou ''matièrée'', une matière bruitée dans le son. Comme sur par exemple des effets écrasés de violon. L'opposé totale ça serait un sinus pur, une composante purement résonante, sans aucune matière.
 
 Q: Qu'est ce que tu veux dire par purement résonant ? 
 
@@ -24,10 +26,7 @@ R: La rugosité va faire partie de la composante intégrante. Si tu fais un frot
 
 Q3
 
-R: Sinon ce qui manque c'est un son de corde de guitare, frottée longitudinalement.
-Sinon un tuba en flatterzunge. Le C2 flatterzunge c'est plus rugueux que l'ordinario. Le trombone ça fait un peu vriller. globalement le flatterzunge c'est rugueux.
-Les cordes ça seraient plutôt un mode de jeu écrasé, mais bon. Le mode de jeu harmonique c'est un bon exemple aussi sur le violon, il y a du souffle mais il module avec la note.
-Il y avait des exemples comme ça qu'on avait enregistré où la flute fait des pizzicato en éolien.
+R: Sinon ce qui manque c'est un son de corde de guitare, frottée longitudinalement. Sinon un tuba en flatterzunge. Le C2 flatterzunge c'est plus rugueux que l'ordinario. Le trombone ça fait un peu vriller. globalement le flatterzunge c'est rugueux. Les cordes ça seraient plutôt un mode de jeu écrasé, mais bon. Le mode de jeu harmonique c'est un bon exemple aussi sur le violon, il y a du souffle mais il module avec la note. Il y avait des exemples comme ça qu'on avait enregistré où la flute fait des pizzicato en éolien.
 
 Q: Pourquoi le flatterzunge est rugueux ? 
 
@@ -39,8 +38,7 @@ R: Ça s'en approche en tout cas. Granuleux ça peut aussi faire référence à 
 
 Q: Dans le cas du timbre.
 
-R: Oui rugueux, granuleux ça se ressemble.
-Pour des percussions ça sera plus des cymbales cassées, ou alors des percussion sur des cailloux. Des sons percussifs rugueux, j'pense pas...
+R: Oui rugueux, granuleux ça se ressemble. Pour des percussions ça sera plus des cymbales cassées, ou alors des percussion sur des cailloux. Des sons percussifs rugueux, j'pense pas...
 
 Q: Tu penses quoi du son joué/chanté à la seconde mineur du tuba ? C'est rugueux ?
 
@@ -60,16 +58,11 @@ R: Oui je pense qu'en flute piccolo sur une note. Globalement, je pense que n'im
 
 Q: Pas sur des cordes ?
 
-R: Non parce que sur les cordes, il y a toujours le frotté de la corde qui donne une composante bruitée. C'est plus dans les vents comme une flute ou un hautbois, où on est sur des sons assez pures. 
-Le piccolo c'est limite un sinus sur le C7 piano. 
+R: Non parce que sur les cordes, il y a toujours le frotté de la corde qui donne une composante bruitée. C'est plus dans les vents comme une flute ou un hautbois, où on est sur des sons assez pures. Le piccolo c'est limite un sinus sur le C7 piano. 
 
 Q: Je te conseille d'écouter aussi l'accordéon.
 
-R: Oui on est complètement sur du sinus.
-
-Pareil le glockenspiel, ce sont des sons très purs.
-
-Le glockenspiel est moins rugueux que les autres claviers. Enfin le vibraphone il est pas rugueux non plus, sauf quand il est frotté.
+R: Oui on est complètement sur du sinus. Pareil le glockenspiel, ce sont des sons très purs. Le glockenspiel est moins rugueux que les autres claviers. Enfin le vibraphone il est pas rugueux non plus, sauf quand il est frotté.
 
 Q5
 

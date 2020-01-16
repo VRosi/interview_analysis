@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: Oui alors le son rond je l'entends souvent, spontanément, je vais éviter de l'employer, sauf pour vendre du rêve à un saxophoniste, parce que je sais qu'il est réceptif  à ça.
@@ -8,7 +10,7 @@ R: Moi j'ai jamais vraiment compris ce que c'était. Désolé pour moi ce terme 
 
 Q: Le son de saxophone tout à l'heure tu l'as trouvé classique, est ce que tu peux écouter, et me dire si il y a des nuances de rondeur dedans ou non.
 
-R: Ah ba oui. Nous ce qui se rapproche le mieux, ce sont des becs avec des petites ouvertures, des petites chambres et pas de plafond. Donc, ils vont être plutôt au milieu de l'échelle mat/brillant, assez centré, et un son assez resserré, assez fermé, assez pur, et qui bouge pas en intonation. Le son il va pas être flexible, il va avoir une précision de l'extrème, il va être stable.
+R: Ah ba oui. Nous ce qui se rapproche le mieux, ce sont des becs avec des petites ouvertures, des petites chambres et pas de plafond. Donc, ils vont être plutôt au milieu de l'échelle mat/brillant, assez centré, et un son assez resserré, assez fermé, assez pur, et qui bouge pas en intonation. Le son il va pas être flexible, il va avoir une précision de l'extrême, il va être stable.
 
 Q: C'est une différence que tu ferais avec un son chaud ? Déjà sur l'idée de pureté ?
 
@@ -16,7 +18,7 @@ R: Oui je ferais une différence... Je sais pas c'est compliqué.
 
 Q: Les son que tu viens d'écouter de saxophone piano, tu as trouvé que c'était des sons ronds ?
 
-R: Oui dans les pianos c'est plus rond. Il me gonfle un peu ce terme parce que pour moi c'est lexemple typique d'un mauvais terme. Les gens l'utilisent à tour de bras, ils sont incapables de savoir ce que ça veut dire, et personne n'est capable de comprendre, C'est rond, c'est pas rond... J'ai jamais eu une once de cohérence pour des sons de saxophone.
+R: Oui dans les pianos c'est plus rond. Il me gonfle un peu ce terme parce que pour moi c'est l'exemple typique d'un mauvais terme. Les gens l'utilisent à tour de bras, ils sont incapables de savoir ce que ça veut dire, et personne n'est capable de comprendre, C'est rond, c'est pas rond... J'ai jamais eu une once de cohérence pour des sons de saxophone.
 
 Q: Peut-être justement qu'il y a besoin d'un plus grand panel de sons comme ici.
 
@@ -58,7 +60,7 @@ R: Là dans le piano je trouve que le son il est pas assez définis. Il est trop
 
 Q: Par exemple, c'est une qualité que tu trouvais dans chaud, l'aspect diffus.
 
-R: Oui ba le C4 piano je le mettrais plus dans chaud et pas rond et le mezzoforte il serait chaud et rond. Et en cherchant avec les saxophonistes on se rend compte quand même qu'ils cherchent un son pas trop dark à la stan getz. Si c'est trop dark c'est diffus, étouffés, flous. Chaud peut-être large, plus ouvert, c'est peut-être trop ample. Alors que dans la rondeur du saxophone classique, il faut qu'il y ait une certaine clarté, une certaine brillance. Pas la brillance de Michael Brecker, mais il y a un équilibre à trouver qui est hyper précis, hyper net et qui fait que le son pour eux va être parfait. Dans la rondeur il y a une idée de perfection du son. Si le saxophone classique avait été inspiré par quelqu'un d'autre que Marcel Mule dans le début du siècle, peut-être qu'on serait dans une autre rondeur visée, et que le son rond beau classique, serait dans un autre endroit de 'espace de timbres classiques. Et que ça serait quand même celui là qu'on maximiserai dans l'echelle du rond.
+R: Oui ba le C4 piano je le mettrais plus dans chaud et pas rond et le mezzoforte il serait chaud et rond. Et en cherchant avec les saxophonistes on se rend compte quand même qu'ils cherchent un son pas trop dark à la stan getz. Si c'est trop dark c'est diffus, étouffés, flous. Chaud peut-être large, plus ouvert, c'est peut-être trop ample. Alors que dans la rondeur du saxophone classique, il faut qu'il y ait une certaine clarté, une certaine brillance. Pas la brillance de Michael Brecker, mais il y a un équilibre à trouver qui est hyper précis, hyper net et qui fait que le son pour eux va être parfait. Dans la rondeur il y a une idée de perfection du son. Si le saxophone classique avait été inspiré par quelqu'un d'autre que Marcel Mule dans le début du siècle, peut-être qu'on serait dans une autre rondeur visée, et que le son rond beau classique, serait dans un autre endroit de 'espace de timbres classiques. Et que ça serait quand même celui là qu'on maximiserai dans l'échelle du rond.
 
 Q: Sans mettre forcément d'autres sons en exemple, j'aimerai te faire écouter quelques sont de cuivre, et je voudrais que tu me dises ce que tu en penses, donc tous les cuivres sur un C4 piano.
 
@@ -70,8 +72,7 @@ R: Oui. Les 4 sont chauds. Et le deuxième est rond.
 
 Q: Quelle serait selon toi la différence par rapport aux autres ?
 
-R: Je sais pas, purement auditive, il y a un peu un truc que je retrouve dans ce que je viens d'écouter qui différencie les deux derniers notamment (tuba et trombone) qui était un peu étouffés mais pas comme le deuxième, du son de clarinette ordinario mezzoforte par rapport au piano. Le piano est trop faible, pas assez généreux. J'ai l'impression que le son est plus ouvert, plus généreux. Dans le forte et le paino c'est pas généreux, mais dans le mezzoforte oui.
-Le son rond de saxophoniste c'est un son de saxophone qui tend vers le son de clarinette
+R: Je sais pas, purement auditive, il y a un peu un truc que je retrouve dans ce que je viens d'écouter qui différencie les deux derniers notamment (tuba et trombone) qui était un peu étouffés mais pas comme le deuxième, du son de clarinette ordinario mezzoforte par rapport au piano. Le piano est trop faible, pas assez généreux. J'ai l'impression que le son est plus ouvert, plus généreux. Dans le forte et le piano c'est pas généreux, mais dans le mezzoforte oui. Le son rond de saxophoniste c'est un son de saxophone qui tend vers le son de clarinette
 
 Q4
 
@@ -91,8 +92,7 @@ R: Peut-être. Peut être que le saxophone soprano, c'est dur d'avoir de la rond
 
 Q: D'autres sons pas ronds ?
 
-R: J'aurais envie d'aller dans l'accordéon. Oui le C6 pour moi ça a pas grand chose de rond. C'est un peu agressif, les autres hauteurs aussi. Le C3 piano, on est pas hyper loin d'une clarinette... C'est peut-être un des plus rond de l'accordéon. Le C2 et le C8 c'est pas rond. Mais bon le C3 de clarinette basse est quand même plus rond. 
-Dans la contrebasse sinon, le C5 fortissimo c'est pas rond. Il est pas mal, avec la petite attaque bien violente.
+R: J'aurais envie d'aller dans l'accordéon. Oui le C6 pour moi ça a pas grand chose de rond. C'est un peu agressif, les autres hauteurs aussi. Le C3 piano, on est pas hyper loin d'une clarinette... C'est peut-être un des plus rond de l'accordéon. Le C2 et le C8 c'est pas rond. Mais bon le C3 de clarinette basse est quand même plus rond. Dans la contrebasse sinon, le C5 fortissimo c'est pas rond. Il est pas mal, avec la petite attaque bien violente.
 
 Q: L'attaque joue ?
 
@@ -112,8 +112,7 @@ R: Non ce que je dirais juste qu'un son agressif je le qualifierai jamais de ron
 
 Q: Et qu'est ce que ça a comme caractéristiques un son agressif ?
 
-R: Des sons qui ont beaucoup d'attaque vont être agressif. Mais je ne sais pas si c'est nécessaire et suffisant. Je pense qu'il y a plein de sons qui peuvent être agressifs. Des mecs si tu leurs colle l'oreille à une grosse enceinte, et que tu leur mets un son de clarinette à 120 dB, ils vont pas te dire que c'est rond. Mais je pense que c'est très connoté.
-J'ai l'impression que les saxophonistes vont plus évaluer la rondeur du son, quand ils jouent doucement. Ils vont plutôt chercher à faire un son plutôt calme, plutôt tenu. Michael Brecker, personne va essayer de reproduire ça avec un son rond. Par contre le solo de saxophone des tableaux d'une exposition de Moussorgsky, où on entend la note, bien précise, avec une mélodie bien langoureuse, bien rond, bien propre. C'est pur, c'est la pureté du ton et la beauté du son. C'est comme la flute, le prélude à l'après-midi d'un faune, ça commence par une mélodie un peu langoureuse à la flute, là j'aurais plus envie de qualifier le son de rond, plutôt qu'un flutiste qui va jouer une pièce de Boulez et qui va souffler comme un débile dans sa flute. J'ai une vision horrible de la musique contemporaine.
+R: Des sons qui ont beaucoup d'attaque vont être agressif. Mais je ne sais pas si c'est nécessaire et suffisant. Je pense qu'il y a plein de sons qui peuvent être agressifs. Des mecs si tu leurs colle l'oreille à une grosse enceinte, et que tu leur mets un son de clarinette à 120 dB, ils vont pas te dire que c'est rond. Mais je pense que c'est très connoté. J'ai l'impression que les saxophonistes vont plus évaluer la rondeur du son, quand ils jouent doucement. Ils vont plutôt chercher à faire un son plutôt calme, plutôt tenu. Michael Brecker, personne va essayer de reproduire ça avec un son rond. Par contre le solo de saxophone des tableaux d'une exposition de Moussorgsky, où on entend la note, bien précise, avec une mélodie bien langoureuse, bien rond, bien propre. C'est pur, c'est la pureté du ton et la beauté du son. C'est comme la flute, le prélude à l'après-midi d'un faune, ça commence par une mélodie un peu langoureuse à la flute, là j'aurais plus envie de qualifier le son de rond, plutôt qu'un flutiste qui va jouer une pièce de Boulez et qui va souffler comme un débile dans sa flute. J'ai une vision horrible de la musique contemporaine.
 
 Q: Je peux te comparer le son de flute que tu trouvais rond tout à l'heure (C5 piano), et l'équivalent semi-éolien ?
 
@@ -125,7 +124,7 @@ R: Peut-être que le deuxième je vais dire qu'il est plus chaud et moins rond. 
 
 Q6
 
-R: Oui affect très fort, presque plus que dans la chaleur. Pour moi c'est très ambigu, il y a beaucoup de similarité entre rond et chaud, parce qu'il y a beaucoup de co-occurences, on dit souvent "chaud et rond".  Chaud et rond on te parle beaucoup de la clarinette. Le chaud pour moi c'est plus vaste.
+R: Oui affect très fort, presque plus que dans la chaleur. Pour moi c'est très ambigu, il y a beaucoup de similarité entre rond et chaud, parce qu'il y a beaucoup de co-occurences, on dit souvent ''chaud et rond''.  Chaud et rond on te parle beaucoup de la clarinette. Le chaud pour moi c'est plus vaste.
 
 Q: Est ce qu'un subtone de saxophone ténor ça va être rond aussi ?
 
@@ -133,4 +132,4 @@ R: De chaud oui, de rond pas forcément. Au contraire, il faut que le son garde 
 
 Q: Mais du coup l'opposé de rond c'est pas forcément quelque chose de négatif ?
 
-R: Je sais pas. Pour moi il y a pas d'opposé de rond. Quand quelqu'un va dire, un son pas rond, ça va être négatif, il va utiliser cette expression parce qu'il voudrait que ça soit rond. Ça n'a pas de sens de dire "moi je recherche un son qui n'est pas rond". Si tu parle de la rondeur, c'est que tu la cherches, pas que tu la fuis.
+R: Je sais pas. Pour moi il y a pas d'opposé de rond. Quand quelqu'un va dire, un son pas rond, ça va être négatif, il va utiliser cette expression parce qu'il voudrait que ça soit rond. Ça n'a pas de sens de dire ''moi je recherche un son qui n'est pas rond''. Si tu parle de la rondeur, c'est que tu la cherches, pas que tu la fuis.

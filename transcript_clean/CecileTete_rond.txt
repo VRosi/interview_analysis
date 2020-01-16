@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: Si, on l'emploi assez souvent, la rondeur, être rond. Je vois plus avec l'attaque...
@@ -32,7 +34,7 @@ R: Le cor. Dans le forte j'ai l'impression qu'il cuivre.
 
 Q: Mais du coup là ça gêne ?
 
-R: Pour que ça soit rond ? Que ça cuivre un peu oui ça me gêne un peu. Tu vois le son C4 mezzofort ordinario, c'est un peu le son standard. Il est beau, il est rond.
+R: Pour que ça soit rond ? Que ça cuivre un peu oui ça me gêne un peu. Tu vois le son C4 mezzoforte ordinario, c'est un peu le son standard. Il est beau, il est rond.
 
 Q: Tu veux bien le confronter à ses voisins ?
 
@@ -44,8 +46,7 @@ R: Un peu oui. D'une certaine manière. Oui j'ai envie de dire que la chaleur et
 
 Q: Oui mais du coup je cherche la différence.
 
-R: Bah j'ai l'impression que la chaleur je vais mettre plus d'affect, avec du vibrato, je vois ça quelque chose de plus exacerbé. Alors que la rondeur...
-Tu vois le C5 mezzoforte je trouve que c'est un son rond. Le C6 moins. Est-ce que c'est pas plus rond le grave. Tu vois dans le C5 forte il met du vibrato, c'est rond aussi mais c'est plus chaud. Le C4 mezzoforte est pas mal aussi.
+R: Bah j'ai l'impression que la chaleur je vais mettre plus d'affect, avec du vibrato, je vois ça quelque chose de plus exacerbé. Alors que la rondeur... Tu vois le C5 mezzoforte je trouve que c'est un son rond. Le C6 moins. Est-ce que c'est pas plus rond le grave. Tu vois dans le C5 forte il met du vibrato, c'est rond aussi mais c'est plus chaud. Le C4 mezzoforte est pas mal aussi.
 
 Q: Je peux te faire écouter un autre son ? le vibraphone C4 piano puis forte
 
@@ -65,7 +66,7 @@ R: Non je trouve ça plus facile que c'est rond plutôt que chaud. Oui le C4 de 
 
 Q: Est-ce que c'est chaud aussi ?
 
-R: Oui un petit peu. Mais c'est moins ce que je dirais au début pour qualifier ce son. Parce quil y a une attaque, qui est assez douce, elle est pas trop percutante, et que le timbre est propre, on sent pas quelque chose qui vient frotter, un truc qui vibre. On a l'impression que là c'est assez pur.
+R: Oui un petit peu. Mais c'est moins ce que je dirais au début pour qualifier ce son. Parce qu'il y a une attaque, qui est assez douce, elle est pas trop percutante, et que le timbre est propre, on sent pas quelque chose qui vient frotter, un truc qui vibre. On a l'impression que là c'est assez pur.
 
 Q: Donc il y a peut-être l'idée de pureté... C'est une notion présente dans le chaud aussi ?
 
@@ -73,7 +74,7 @@ R: Non je pense pas que j'ai dis pur, du coup je pense que je le dirais pas pour
 
 Q: Si on réécoute des sons que tu as trouvé un peu chaud, le violoncelle par exemple.
 
-R; Il est pas pur parce que justement, il y a du vibrato, on sent qu'il y a quelque chose, u engagement dans cette note. Alors que dans le vibraphone, il y a pas plus que ça d'engagement.
+R: Il est pas pur parce que justement, il y a du vibrato, on sent qu'il y a quelque chose, un engagement dans cette note. Alors que dans le vibraphone, il y a pas plus que ça d'engagement.
 
 Q: Et si on compare un peu les claviers.
 
@@ -119,20 +120,17 @@ Q: Ok essaie de trouver un dernier exemple de son rond.
 
 R: Ah mais tout à l'heure j'avais dis hautbois. Il y a une petite attaque, mais je trouve ça assez rond.
 
-Q : son manquant ?
+Q: son manquant ?
 
 R: Tu vois là voix, je trouve ça très rond aussi. Sinon, non la comme ça...
 
 Q4
 
-R: Les sons pas ronds, ce sont les sons percussifs quoi. Si tu me mets déjà un son C6 de harpe forte, c'est difficile d'avoir de la rondeur.
-Pour le glockenspiel, vu qu'il y a une toute petite résonance... Mais bon.
-Ah oui le pizzicato bartok. De part l'attaque c'est pas rond. Mais par exemple les pizzicato bartok d'alto, c'est pas rond. Le C4 on dirait un cymbalum. 
+R: Les sons pas ronds, ce sont les sons percussifs quoi. Si tu me mets déjà un son C6 de harpe forte, c'est difficile d'avoir de la rondeur. Pour le glockenspiel, vu qu'il y a une toute petite résonance... Mais bon. Ah oui le pizzicato bartok. De part l'attaque c'est pas rond. Mais par exemple les pizzicato bartok d'alto, c'est pas rond. Le C4 on dirait un cymbalum. 
 
 Q: Il y en a des très violents dans le violoncelle aussi.
 
-R: Oui c'est pas mal, et dans le violon... C'est pas rond.
-Et quoi d'autre... pour l'accordéon, du faut du backwards, je trouve pas ça rond.
+R: Oui c'est pas mal, et dans le violon... C'est pas rond. Et quoi d'autre... pour l'accordéon, du faut du backwards, je trouve pas ça rond.
 
 Q: Ça va être que des sons percussifs que tu trouves pas rond ?
 
@@ -178,10 +176,11 @@ R: Oui entre lisse et rond, je vois dans le rond, un peu plus de richesse de tim
 
 Q: Peut-être qu'il y a une question d'entre deux ?
 
-R: Je sais pas le cuivré, le son il est altéré, c'est pour ça que je le trouve pas rond.
-Pour le backwards il y a un changement d'intensité. C'est juste que le changement de nuance, sur une note comme ça, c'est pas rond.
+R: Je sais pas le cuivré, le son il est altéré, c'est pour ça que je le trouve pas rond. Pour le backwards il y a un changement d'intensité. C'est juste que le changement de nuance, sur une note comme ça, c'est pas rond.
 
-Q: Peut-être que c'est pas stable et ça fait pas rond ?R: Oui voilà stable. Le rond, on voit quelque chose de cyclique, de perpétuel. Alors que quelque chose qui change, je me dis, que c'est pas rond.
+Q: Peut-être que c'est pas stable et ça fait pas rond ?
+
+R: Oui voilà stable. Le rond, on voit quelque chose de cyclique, de perpétuel. Alors que quelque chose qui change, je me dis, que c'est pas rond.
 
 Q: Tu emplois un terme pour parler de pas rond ? Tu m'as dis percussif, éthéré, altéré...
 
@@ -193,8 +192,7 @@ R: Je suis pas sur. 
 
 Q: Il y a des sons pas ronds qui manquent à cette base de donnée ? T'as pensé quoi des pizzicato bartok ?
 
-R: Oui les pizz bartok, j'ai l'impression qu'on peut faire mieux. Alors, pas rond. Il y a pas les sons écrasés aussi. J'y ai pensé pour le rugueux, je l'ai pas dis... Puis là en plus je travaille Lear de Reimann et il y a des sons écrasés, et il oscille, entre normal et "krrrrr".
-oui typiquement la note de contrebasse là que tu me fais écouter, c'est très rugueux.
+R: Oui les pizzicato bartok, j'ai l'impression qu'on peut faire mieux. Alors, pas rond. Il y a pas les sons écrasés aussi. J'y ai pensé pour le rugueux, je l'ai pas dis... Puis là en plus je travaille Lear de Reimann et il y a des sons écrasés, et il oscille, entre normal et ''krrrrr''. Oui typiquement la note de contrebasse là que tu me fais écouter, c'est très rugueux.
 
 Q6
 
@@ -202,5 +200,4 @@ R: Oui il y a un petit quelque chose. Il faut juste que ça soit agréable, mais
 
 Q: Et un son pas rond ?
 
-R: Oui là tu vas mettre un peu... pas d'animosité mais presque. 
-Le son chaud tu mets le plus d'affect et de sentiment. Le son rond, pas autant, pour moi.
+R: Oui là tu vas mettre un peu... pas d'animosité mais presque. Le son chaud tu mets le plus d'affect et de sentiment. Le son rond, pas autant, pour moi.

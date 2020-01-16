@@ -1,6 +1,8 @@
+QR:T
+
 Q1
 
-R: C'est un terme que j'utilise pas énormément. Parce qu'il est très connoté. Chaud aussi était très connoté. On l'associe forcément à des choses un peu historiques :  Les trompettes, les moments forte dans les orchestres du 20e siècle, dans Turangalila, avec tous les cuivres.
+R: C'est un terme que j'utilise pas énormément. Parce qu'il est très connoté. Chaud aussi était très connoté. On l'associe forcément à des choses un peu historiques,  Les trompettes, les moments forte dans les orchestres du 20e siècle, dans Turangalila, avec tous les cuivres.
 
 Q2
 
@@ -12,8 +14,7 @@ R: Les cuivres dans les forte. Pour la trompette, la note C5 oui. Le forte est p
 
 Q: Il y a un mode de jeu des cordes qui met bien en valeur les harmoniques aiguës chez les cordes c'est le sul ponticello, est ce que vous trouvez ça brillant ?
 
-R: Peut-être moins parce que c'est un mode de jeu assez alternatif, mais on peut l'écouter quand même. On l'entend oui. En plus là pour l'alto je le trouve pas net. Vous l'avez pas en forte ? Parce que je trouve pas ça très net. Je pense que si l'archet était plus fort, et que ça soit pas forcément sur le chevalet on aurait d'avantage de brillance. Parce que ce qu'on fait ressortir c'est le bruit mais pas les composantes aiguës de la corde. Même chose à la guitare. Pour la corde pincée, si on joue au mediator sul ponticello ça sera plus brillant.
-Bien évidemment les flûtes dans l'aigu, forte. On a un peu plus de brillance dans le fortissimo de la flute mais c'est léger. Le flatterzunge de flute peut-être. Ça peut le faire mais c'et pas forcément le terme que j'utiliserai.
+R: Peut-être moins parce que c'est un mode de jeu assez alternatif, mais on peut l'écouter quand même. On l'entend oui. En plus là pour l'alto je le trouve pas net. Vous l'avez pas en forte ? Parce que je trouve pas ça très net. Je pense que si l'archet était plus fort, et que ça soit pas forcément sur le chevalet on aurait d'avantage de brillance. Parce que ce qu'on fait ressortir c'est le bruit mais pas les composantes aiguës de la corde. Même chose à la guitare. Pour la corde pincée, si on joue au mediator sul ponticello ça sera plus brillant. Bien évidemment les flûtes dans l'aigu, forte. On a un peu plus de brillance dans le fortissimo de la flute mais c'est léger. Le flatterzunge de flute peut-être. Ça peut le faire mais c'et pas forcément le terme que j'utiliserai.
 
 Q: Je remarque qu'il y a certaines ressemblances dans les définitions d'un son froid et d'un son brillant, est ce que certains sons cité pour froid, vont aussi être brillants ? 
 
@@ -29,7 +30,7 @@ R: Oui je pense. En effet la trompette avec la sourdine harmon dans le medium et
 
 Q: En terme de satisfaction ?
 
-R: Je dirais 8/10\. Parce qu'on peut avoir des jeux d'orgues avec beaucoup de composantes aiguës. On peut avoir des ensembles de cuivre en jazz.
+R: Je dirais 8/10. Parce qu'on peut avoir des jeux d'orgues avec beaucoup de composantes aiguës. On peut avoir des ensembles de cuivre en jazz.
 
 Q4
 
@@ -37,7 +38,7 @@ R: C'est pas l'opposé de chaud. Mais c'est pas très loin.
 
 Q5
 
-R: Un son pas brillant n'aurait pas tous les qualificatifs de chaud. Il n'aurait pas les composantes aiguës fortes et marquées. Il pourrait y avoir des sons pas brillant et qui nesont pas forcément chauds.
+R: Un son pas brillant n'aurait pas tous les qualificatifs de chaud. Il n'aurait pas les composantes aiguës fortes et marquées. Il pourrait y avoir des sons pas brillant et qui ne sont pas forcément chauds.
 
 Q: Justement on parlait d'exception de cuivre tout a l'heure, est ce qu'un tuba n'est pas brillant ?
 
@@ -45,14 +46,11 @@ R:  Il y a des sons de tuba qui peuvent être brillant. Dans le grave peut-êtr
 
 Q: Oui vous parliez de nuance forte et d'attaque marquée.
 
-R: Oui je pense aussi qu'il faut une certaine couleur qui donne cette brillance, et c'est pas qu'une question de fréquence je pense.  
-Le son de contrebasson que j'ai pas trouvé chaud dans le grave tout à l'heure est pas vraiment brillant. Il y a une certaine brillance mais je ne le qualifierait pas de brillant. 
-La clarinette basse dans le piano je trouve pas ça brillant, il y en a plus dans le forte, mais c'est pas dans la catégorie des sons brillants.
-Je dirais que pour les vents, je prendrais des sons plutôt forte et en cuivre.
+R: Oui je pense aussi qu'il faut une certaine couleur qui donne cette brillance, et c'est pas qu'une question de fréquence je pense. Le son de contrebasson que j'ai pas trouvé chaud dans le grave tout à l'heure est pas vraiment brillant. Il y a une certaine brillance mais je ne le qualifierait pas de brillant. La clarinette basse dans le piano je trouve pas ça brillant, il y en a plus dans le forte, mais c'est pas dans la catégorie des sons brillants. Je dirais que pour les vents, je prendrais des sons plutôt forte et en cuivre.
 
 Q: Taux de satisfaction ?
 
-R: Pour le critère pas brillant 7/10\. La clarinette basse pianissimo c'est pas brillant du tout. Le tuba encore moins brillant dans le pianissimo. C'est quasiment une sinusoïde dans le pianissimo.
+R: Pour le critère pas brillant 7/10. La clarinette basse pianissimo c'est pas brillant du tout. Le tuba encore moins brillant dans le pianissimo. C'est quasiment une sinusoïde dans le pianissimo.
 
 Q: Il y a des sons qui manquent ?
 

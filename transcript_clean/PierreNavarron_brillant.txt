@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: Oui je pense que c'est un terme que j'emploie. Pas trop peut-être, ça dépend dans quelle activité. En design sonore oui, ne ingénierie , mixage pour la musique peut-être moins.
@@ -12,16 +14,11 @@ R: L'espace t'as l'impression que spectralement ça sera plus riche, et donc t'a
 
 Q3
 
-R: Des sons assez métalliques, oui je pense. Le glockenspiel, surtout joué avec une baguette en métal, l'ensemble des notes. On l'a toujours avec une baguette en bois mais un peu moins. J'ai l'impression que ça retombe un peu plus vite, les aigus et les extrêmes aigus. On perd un peu la brillance au fil du temps, alors qu'avec la baguette en métal c'est un peu plus stable dans le temps. 
-Il y a une petite brillance dans la harpe, jouée fort dans l'aigu.
-Dans le vibraphone baguette dure, il y a le même effet que pour le glockenspiel, quand c'est joué forte dans l'aigu. C'est résonance dans l'aigu qui reste. Mais le glockenspiel c'est le plus. Dans le marimba il y a pas cette brillance.
-Dans la guitare C5 ordinario fortissimo c'est assez brillant.
-La brillance en fait c'est très défini. La brillance c'est le côté de la définition de la proximité. Un son comme ça très proche, il va y avoir cette brillance qui est pas forcément, très naturelle, si je l'écoute moi dans une pièce.
+R: Des sons assez métalliques, oui je pense. Le glockenspiel, surtout joué avec une baguette en métal, l'ensemble des notes. On l'a toujours avec une baguette en bois mais un peu moins. J'ai l'impression que ça retombe un peu plus vite, les aigus et les extrêmes aigus. On perd un peu la brillance au fil du temps, alors qu'avec la baguette en métal c'est un peu plus stable dans le temps. Il y a une petite brillance dans la harpe, jouée fort dans l'aigu. Dans le vibraphone baguette dure, il y a le même effet que pour le glockenspiel, quand c'est joué forte dans l'aigu. C'est résonance dans l'aigu qui reste. Mais le glockenspiel c'est le plus. Dans le marimba il y a pas cette brillance. Dans la guitare C5 ordinario fortissimo c'est assez brillant. La brillance en fait c'est très défini. La brillance c'est le côté de la définition de la proximité. Un son comme ça très proche, il va y avoir cette brillance qui est pas forcément, très naturelle, si je l'écoute moi dans une pièce.
 
 Q: Des sons entretenus ne vont pas forcément avoir cette qualité de brillance ?
 
-R: Si, peut-être. C'est moins flagrant, mais quand-même, une clarinette, jouée dans le forte, il y a une brillance. 
-Sinon je trouve que la brillance se sent plus sur le violoncelle que sur l'alto. Je dirais le violon. C'est comme ce que je t'avais dis sur la rondeur, qu'il y avait un creux qui mettait en valeur le bas médium, là ça serait un truc un peu pareil, c'est parce qu'il y a un creux un peu avant, dans le médium, qui met en valeur cette brillance. On arrive bien à distinguer la fondamentale, et ses harmoniques aiguës. Du coup moi c'est ce qui me fait ressentir une sorte de brillance.
+R: Si, peut-être. C'est moins flagrant, mais quand-même, une clarinette, jouée dans le forte, il y a une brillance. Sinon je trouve que la brillance se sent plus sur le violoncelle que sur l'alto. Je dirais le violon. C'est comme ce que je t'avais dis sur la rondeur, qu'il y avait un creux qui mettait en valeur le bas médium, là ça serait un truc un peu pareil, c'est parce qu'il y a un creux un peu avant, dans le médium, qui met en valeur cette brillance. On arrive bien à distinguer la fondamentale, et ses harmoniques aiguës. Du coup moi c'est ce qui me fait ressentir une sorte de brillance.
 
 Q: Des sons qui peuvent être très brillants pour ces raisons là ce sons les sons cuivrés de cuivre. Tu dirais quoi  ?
 
@@ -29,8 +26,7 @@ R: J'aurais tendance à dire qu'il y a moins de brillance. Sur la trompette, j'a
 
 Q: Mais pourtant dans le violoncelle il y a l'idée de frottement aussi non ?
 
-R: Oui mais pas dans le même registre ce frottement, ça me permet d'apprécier une certaine brillance.
-Le glockenspiel et la guitare, c'est beaucoup plus que les sons tenus. Les sons d'impacts plus courts.
+R: Oui mais pas dans le même registre ce frottement, ça me permet d'apprécier une certaine brillance. Le glockenspiel et la guitare, c'est beaucoup plus que les sons tenus. Les sons d'impacts plus courts.
 
 Q: Il y a des sons qui manquent ?
 
@@ -42,22 +38,15 @@ R: Oui pour moi tout de suite c'est sourd. Vraiment quelque chose de pas excité
 
 Q: Les sons ronds selon toi ils avaient la qualité aussi d'e pas avoir d'aigu...
 
-R: Oui je pense que ça va être un peu la même chose là. Instinctivement, je vais trouver des sons assez sourds.
-Typiquement, le son C2 et C3 pianissimo c'est pas brillant, c'est sourd. 
-Dans la flute grave il y a ce côté un peu rugueux. Ça gêne un peu pour le sourd. Le rugueux apporte des choses qui vont un peu dans le sens de la brillance. 
-Le marimba, C4 c'est pas un son brillant avec la baguette molle, il y a pas ce côté clinquant qui moi me fait parler de brillance. Si c'est joué un peu plus fort, le marimba devient un peu plus brillant. Sans être le son le plus brillant du monde, c'est pas du glockenspiel.
-Oui le Tuba basse C3 c'est pas brillant. On reste dans des fréquences assez pures, grave bas-médium, on dirait presque que c'est filtré. 
+R: Oui je pense que ça va être un peu la même chose là. Instinctivement, je vais trouver des sons assez sourds. Typiquement, le son C2 et C3 pianissimo c'est pas brillant, c'est sourd. Dans la flute grave il y a ce côté un peu rugueux. Ça gêne un peu pour le sourd. Le rugueux apporte des choses qui vont un peu dans le sens de la brillance. Le marimba, C4 c'est pas un son brillant avec la baguette molle, il y a pas ce côté clinquant qui moi me fait parler de brillance. Si c'est joué un peu plus fort, le marimba devient un peu plus brillant. Sans être le son le plus brillant du monde, c'est pas du glockenspiel. Oui le Tuba basse C3 c'est pas brillant. On reste dans des fréquences assez pures, grave bas-médium, on dirait presque que c'est filtré. 
 
 Q: Peut-être que la brillance, amène une petite rugosité ? Ou l'inverse ?
 
-R: Oui c'est là ou ça devient complexe. La brillance, je l'identifierai comme des harmoniques, "harmonieuse", des choses liées à la fondamentale, alors que la rugosité n'est pas liée à la fondamentale, c'est plus un bruit. 
-C'est toujours plus difficile les contres exemples.
+R: Oui c'est là ou ça devient complexe. La brillance, je l'identifierai comme des harmoniques, ''harmonieuse'', des choses liées à la fondamentale, alors que la rugosité n'est pas liée à la fondamentale, c'est plus un bruit. C'est toujours plus difficile les contres exemples.
 
 Q5
 
-R: Oui. Un son sourd, pas d'harmoniques aiguës. 
-Le xylophone non plus ce sont pas des sons très brillants. On a beau taper fort, dans le registre fréquentiel ça va pas beaucoup monter, en tout cas ça va vite remonter. 
-En fait dans le brillant, comme le glockenspiel, à la fois c'est aigu, à la fois ça résonne longtemps. 
+R: Oui. Un son sourd, pas d'harmoniques aiguës. Le xylophone non plus ce sont pas des sons très brillants. On a beau taper fort, dans le registre fréquentiel ça va pas beaucoup monter, en tout cas ça va vite remonter. En fait dans le brillant, comme le glockenspiel, à la fois c'est aigu, à la fois ça résonne longtemps. 
 
 Q: Donc il y a un côté un peu sec pour l'impact.
 

@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: Oui quand même je l'utilise, le mot rond ça a une idée de plénitude. Ça a une idée d'harmonie au sens large. Le rond ça me parle assez. Je me dis pas que je l'emploie beaucoup, parce qu'en orchestration on parle plutôt de plénitude que de rondeur. Je pense que rondeur c'est un terme facilement utilisé par un chef d'orchestre ou par un instrumentiste. En fait la plénitude elle part du principe que les instruments vont jouer de manière ronde et que cette rondeur va plus facilement se fondre dans un ensemble et s'emboiter avec d'autres sons, c'est à dire que quand on repense à la rugosité, la rugosité est un peu exclusive, elle a tendance à se distinguer de l'ensemble alors que la rondeur a plutôt vocation à se fondre.
@@ -8,13 +10,11 @@ R: Un son d'un musicien qui a travailler sur la rondeur du son. Pour un instrume
 
 Q: Qu'est ce qui va le rendre plus rond ?
 
-R: On va sentir qu'il est plus rond. Si on emploie le mot rond c'est quand même faute de mieux. Un son rond c'est le contraire d'un son serré, alors grêle c'est exagéré. Si le son est un peu trop serré, en lui demandant d'être plus rond, on va lui donner de l'espace, ça va lui donner plus d'ampleur, plus de couleur, plus de chaleur. Ce sont des concepts qui sont reliés, ampleur, chaleur, douceur d'une certaine manière. C'est vrai que si vous demandé à une trompette de faire un contre ut, généralement chez beaucoup d'instrumentiste il va être agressif, et si vous avez un super trompettiste, vous lui demandez la même note en plus rond, il va arriver à l'arrondir, du coup le son au lieu d'être trop directionnel, il va gagner en largeur. Souvent quand il font un forte, je vais leurs demander de faire un forte plus rond, je fais un geste avec les mains. Le mot rond c'est bien c'est aussi un geste, quelque chose qui prend de l'espace, et surtout qui est moins frontal, qui est plus latéral. Sachant que la rondeur, si vous faites une tierce, ça aura plus de rondeur qu'une seconde mineur, d'abord parce qu'il y a plus de vibration dans la seconde mineur, mais la quarte a moins de rondeur que la tierce, donc le jeu des intervalles a également une action. 
-Pour moi le rond est vraiment est une qualité de l'instrumentiste.
+R: On va sentir qu'il est plus rond. Si on emploie le mot rond c'est quand même faute de mieux. Un son rond c'est le contraire d'un son serré, alors grêle c'est exagéré. Si le son est un peu trop serré, en lui demandant d'être plus rond, on va lui donner de l'espace, ça va lui donner plus d'ampleur, plus de couleur, plus de chaleur. Ce sont des concepts qui sont reliés, ampleur, chaleur, douceur d'une certaine manière. C'est vrai que si vous demandé à une trompette de faire un contre ut, généralement chez beaucoup d'instrumentiste il va être agressif, et si vous avez un super trompettiste, vous lui demandez la même note en plus rond, il va arriver à l'arrondir, du coup le son au lieu d'être trop directionnel, il va gagner en largeur. Souvent quand il font un forte, je vais leurs demander de faire un forte plus rond, je fais un geste avec les mains. Le mot rond c'est bien c'est aussi un geste, quelque chose qui prend de l'espace, et surtout qui est moins frontal, qui est plus latéral. Sachant que la rondeur, si vous faites une tierce, ça aura plus de rondeur qu'une seconde mineur, d'abord parce qu'il y a plus de vibration dans la seconde mineur, mais la quarte a moins de rondeur que la tierce, donc le jeu des intervalles a également une action. Pour moi le rond est vraiment est une qualité de l'instrumentiste.
 
 Q3
 
-R: Allons y pour le violoncelle, ordinario C3 mezzoforte, si on l'idéalise un peu c'est assez rond, parce qu'il y a une rondeur, une vibration. Il y a dans le violoncelle indéniablement, la notion de rondeur.
-Alors en écoutant d'autres notes du violoncelle en tout cas le C3 piano et forte c'est rond aussi, l'intensité joue pas. Le C2 ça peut être rond aussi c'est pas un problème. En fait on est vraiment dans le rond. Si il garde son mode de jeu ordinaire, enfin ordinaire, c'est magnifique, enfin disons qu'un violoncelle qui ne joue pas rond, il vaut qu'il change d'instrument. Toute sa vie c'est de faire un son rond. C'est sur que quand on monte dans l'aigu, c'est un peu ce que je vous ai dis avec la trompette, il y a plus de tension. Voilà la rondeur si il y a trop de tension ça disparait. Après si vous arrivez à avoir un son rond dans l'aigu du violoncelle c'est que vous êtes un musicien exceptionnel. Dans le violoncelle rien ne s'oppose à la rondeur bien qu'on est plus de rondeur, dans le médium et dans le grave. 
+R: Allons y pour le violoncelle, ordinario C3 mezzoforte, si on l'idéalise un peu c'est assez rond, parce qu'il y a une rondeur, une vibration. Il y a dans le violoncelle indéniablement, la notion de rondeur. Alors en écoutant d'autres notes du violoncelle en tout cas le C3 piano et forte c'est rond aussi, l'intensité joue pas. Le C2 ça peut être rond aussi c'est pas un problème. En fait on est vraiment dans le rond. Si il garde son mode de jeu ordinaire, enfin ordinaire, c'est magnifique, enfin disons qu'un violoncelle qui ne joue pas rond, il vaut qu'il change d'instrument. Toute sa vie c'est de faire un son rond. C'est sur que quand on monte dans l'aigu, c'est un peu ce que je vous ai dis avec la trompette, il y a plus de tension. Voilà la rondeur si il y a trop de tension ça disparait. Après si vous arrivez à avoir un son rond dans l'aigu du violoncelle c'est que vous êtes un musicien exceptionnel. Dans le violoncelle rien ne s'oppose à la rondeur bien qu'on est plus de rondeur, dans le médium et dans le grave. 
 
 Q: Parmi les différents modes de jeu du violoncelle, est ce qu'il y en a qui vont altérer ou enlever cette rondeur ?
 
@@ -22,15 +22,11 @@ R: Disons que le pizzicato peut être rond, dans le grave bien sur mais dans l'a
 
 Q: Il y a une différence dans la rondeur entre l'ordinario et le pizzicato ? 
 
-R: C'est marrant parce qu'en fait c'est presque comme deux instruments différents.
-
-Si vous faites maintenant jouer un marimba, le marimba c'est rond.
+R: C'est marrant parce qu'en fait c'est presque comme deux instruments différents. Si vous faites maintenant jouer un marimba, le marimba c'est rond.
 
 Q: Baguette dure ou baguette molle ?
 
-R: Plutôt baguette molle. Dans le grave, molle le marimba ça va être rond. Le C3 oui , faites voir plus grave ? Ah oui mais elle est pas molle la baguette la... Il y a de l'attaque. C2 c'est assez rond, mais ça aura jamais la rondeur de la violoncelle. Parce que pour le violoncelle, il y a une vibration qui donne une sensation d'espèce. 
-
-Essayons la flute quand même dans le médium. Oui la flute C4 mezzoforte et piano c'est rond. C6 c'est moins rond, le son est trop mince ?
+R: Plutôt baguette molle. Dans le grave, molle le marimba ça va être rond. Le C3 oui , faites voir plus grave ? Ah oui mais elle est pas molle la baguette la... Il y a de l'attaque. C2 c'est assez rond, mais ça aura jamais la rondeur de la violoncelle. Parce que pour le violoncelle, il y a une vibration qui donne une sensation d'espèce. Essayons la flute quand même dans le médium. Oui la flute C4 mezzoforte et piano c'est rond. C6 c'est moins rond, le son est trop mince ?
 
 Q: C'est une question d'harmoniques quand vous me dites mince ?
 
@@ -42,9 +38,7 @@ R: Oui c'est très rond, c'est rond. C'est rond différemment. La flute un petit
 
 Q: Trouvons un dernier son.
 
-R: Le cor, c'est très rond a priori. Pas trop grave. Le C4 c'est rond, mezzoforte et piano. C'est vrai que la rondeur du son elle est dans le registre favorable. C'est très difficile dans les registres extrême du rond, sauf en maitrisant très bien l'aigu, où on arrive à gagner en rondeur, là où on aurait trop quelque chose d'un peu trop abrupte, trop directionnel, trop serré. C'est complexe parce que c'est lié à l'intégrité du musicien. Si le musicien est totalement dans la détente, ce qui est pas son objectif si il veut bien jouer, il va plus facilement créer un son rond que si il est inquiet, tendu et que le morceau est difficile et qu'il le maitrise pas. Si vous prenez un pianiste qui fait un accord sur un piano , et qu'un autre musicien va faire le même accord sur le même piano, l'un va être plus rond que l'autre. C'est pas uniquement le timbre de l'instrument, c'est vraiment relier à la sensibilité de l'instrumentiste, mais aussi au piano.
-
-Mais bon vous avez raison, dans l'absolu il y a quand même des sons qui sont ronds. Bon le piano je vais pas le prendre comme exemple parce que vous m'avez dis que l'instrument n'était pas probant...
+R: Le cor, c'est très rond a priori. Pas trop grave. Le C4 c'est rond, mezzoforte et piano. C'est vrai que la rondeur du son elle est dans le registre favorable. C'est très difficile dans les registres extrême du rond, sauf en maitrisant très bien l'aigu, où on arrive à gagner en rondeur, là où on aurait trop quelque chose d'un peu trop abrupte, trop directionnel, trop serré. C'est complexe parce que c'est lié à l'intégrité du musicien. Si le musicien est totalement dans la détente, ce qui est pas son objectif si il veut bien jouer, il va plus facilement créer un son rond que si il est inquiet, tendu et que le morceau est difficile et qu'il le maitrise pas. Si vous prenez un pianiste qui fait un accord sur un piano , et qu'un autre musicien va faire le même accord sur le même piano, l'un va être plus rond que l'autre. C'est pas uniquement le timbre de l'instrument, c'est vraiment relier à la sensibilité de l'instrumentiste, mais aussi au piano. Mais bon vous avez raison, dans l'absolu il y a quand même des sons qui sont ronds. Bon le piano je vais pas le prendre comme exemple parce que vous m'avez dis que l'instrument n'était pas probant...
 
 Q: Par rapport au son de cor que vous avez sélectionné, je vais vous suggérer un autre son. déjà en changeant la nuance de cette note.
 
@@ -100,8 +94,7 @@ R: Non la forcément on peut avoir de rondeur sur le C3 sul ponticello du violon
 
 Q5
 
-R: Serré, soit parce que l'instrumentiste, le joue de manière serré, sans lui donner un espace idéal, soit parce que l'instrument fait en sorte que c'est quasi-impossible d'avoir un son rond. Si vous prenez l'aigu du hautbois. Je sais pas si vous avez des notes suraigus, mais vous aurez jamais du son rond. 
-Faites voir ce que vous avez de très aigu au piccolo ? Ah oui mais ça c'est pas réaliste parce que c'est beaucoup plus perçant. Ça c'est un peu du piccolo neutraliser. J'ai écouter des piccolos des plus brillants, et il peuvent pas jouer comme ça. 
+R: Serré, soit parce que l'instrumentiste, le joue de manière serré, sans lui donner un espace idéal, soit parce que l'instrument fait en sorte que c'est quasi-impossible d'avoir un son rond. Si vous prenez l'aigu du hautbois. Je sais pas si vous avez des notes suraigus, mais vous aurez jamais du son rond. Faites voir ce que vous avez de très aigu au piccolo ? Ah oui mais ça c'est pas réaliste parce que c'est beaucoup plus perçant. Ça c'est un peu du piccolo neutraliser. J'ai écouter des piccolos des plus brillants, et il peuvent pas jouer comme ça. 
 
 Q: Revenons à la définition d'un son pas rond.
 

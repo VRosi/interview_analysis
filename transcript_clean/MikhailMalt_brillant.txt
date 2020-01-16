@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 Q2
@@ -10,18 +12,15 @@ R: Je fais peu de production en ce moment, j'enseigne beaucoup plus, ou je fais 
 
 Q3
 
-R: La trompette forte dans l'aigu voilà ça me semble brillant. Dans ce contexte la trompette mezzoforte dans le grave me parait moins brillante, c'est pour ça, je pense l'utiliser de deux manière différentes. Dans le cuivré tous sont à peu près brillant, le C4 peut-être un peu moins, j'associe peut-être ça à la hauteur.
-Le tuba là je le sens pas très brillant, même la note la plus aiguës forte, je ne dirais pas que c'est brillant. Si je le trafiquais un peu peut-être. Quand c'est cuivré c'est déjà plus brillant. Par rapport à la trompette, le tuba c'est quand même moins brillant. 
+R: La trompette forte dans l'aigu voilà ça me semble brillant. Dans ce contexte la trompette mezzoforte dans le grave me parait moins brillante, c'est pour ça, je pense l'utiliser de deux manière différentes. Dans le cuivré tous sont à peu près brillant, le C4 peut-être un peu moins, j'associe peut-être ça à la hauteur. Le tuba là je le sens pas très brillant, même la note la plus aiguës forte, je ne dirais pas que c'est brillant. Si je le trafiquais un peu peut-être. Quand c'est cuivré c'est déjà plus brillant. Par rapport à la trompette, le tuba c'est quand même moins brillant. 
 
 Q: Tu as parlé de piccolo tout à l'heure ?
 
-R: Il y a beaucoup de vibrato. C'est drôle parce que je le trouve pas très brillant. Il y a cet aspect un peu rond, bruité du grave qui enlève de la brillance. Par contre dans le forte il est brillant. Il y a une espèce de timbre qui ressemble à de la flute à bec dans le grave pianissimo. Je pense qu'il y a quelque chose dans le nombre d'harmonique. Oui pour le C6 dans le forte il va dans le cuivré. Le C7 pianissimo c'est drôle parce que c'est une note aiguës mais dans ce cas je le trouve un peu terne, mais c'est peut-être à cause du timbre qui se réduit avec le nombre d'harmonique. le C7 et le C8 fortissimo je les trouve brillant. Le C8 fortissimo est brillant et bruité. Le bruit dérange pas pour le brillant. Les autres notes sont plutôt propres mais là c'est bruité.
-Sinon j'irai chercher peut-être sur le vibraphone. Pour le vibraphone il y a un autre problème c'est que l'attaque est très présente.
+R: Il y a beaucoup de vibrato. C'est drôle parce que je le trouve pas très brillant. Il y a cet aspect un peu rond, bruité du grave qui enlève de la brillance. Par contre dans le forte il est brillant. Il y a une espèce de timbre qui ressemble à de la flute à bec dans le grave pianissimo. Je pense qu'il y a quelque chose dans le nombre d'harmonique. Oui pour le C6 dans le forte il va dans le cuivré. Le C7 pianissimo c'est drôle parce que c'est une note aiguës mais dans ce cas je le trouve un peu terne, mais c'est peut-être à cause du timbre qui se réduit avec le nombre d'harmonique. le C7 et le C8 fortissimo je les trouve brillant. Le C8 fortissimo est brillant et bruité. Le bruit dérange pas pour le brillant. Les autres notes sont plutôt propres mais là c'est bruité. Sinon j'irai chercher peut-être sur le vibraphone. Pour le vibraphone il y a un autre problème c'est que l'attaque est très présente.
 
 Q: Et ça te gêne dans ta perception de brillant ? 
 
-R: Oui. Ça fait que ça devient autre chose c'est attaque présente. Par contre dans l'aigu du vibraphone oui. Peut-être que pour le glockenspiel ça va être brillant. Oui c'est plus brillant par rapport au vibraphone. Avec le vibraphone l'attaque était très présente, surtout par rapport aux autres sons, où l'attaque était pas vraiment douce, mais beaucoup plus incorporée dans le son, plus uniforme. Pour le vibraphone il y a vraiment deux modes de production, il y a l'attaque et la résonance, comme deux objets différents.
-Pour le glockenspiel c'est moins différent, dans le fortissimo on le sent un peu . Dans le glockenspiel c'est plus fusionné. Dans l'ensemble c'est assez brillant, avec quelques nuances. Je me rends compte qu'en écoutant le C8 pianissimo avec les baguettes molles, je l'appellerais pas brillant. Est ce que la durée à un impact ?  Le son a pas beaucoup résonné, c'était surtout l'attaque.
+R: Oui. Ça fait que ça devient autre chose c'est attaque présente. Par contre dans l'aigu du vibraphone oui. Peut-être que pour le glockenspiel ça va être brillant. Oui c'est plus brillant par rapport au vibraphone. Avec le vibraphone l'attaque était très présente, surtout par rapport aux autres sons, où l'attaque était pas vraiment douce, mais beaucoup plus incorporée dans le son, plus uniforme. Pour le vibraphone il y a vraiment deux modes de production, il y a l'attaque et la résonance, comme deux objets différents. Pour le glockenspiel c'est moins différent, dans le fortissimo on le sent un peu. Dans le glockenspiel c'est plus fusionné. Dans l'ensemble c'est assez brillant, avec quelques nuances. Je me rends compte qu'en écoutant le C8 pianissimo avec les baguettes molles, je l'appellerais pas brillant. Est ce que la durée à un impact ?  Le son a pas beaucoup résonné, c'était surtout l'attaque.
 
 Q: Tu vas ressentir la même chose avec un xylophone ?
 
@@ -49,8 +48,7 @@ R: Le son de marimba C7 baguette molle c'est pas brillant. Pour moi c'est un son
 
 Q: Alors il y a aussi des sons entretenus que tu vas pas trouver brillant ?
 
-R: C'est tout ce qui va être étouffé. Du tuba, du basson dans le grave. Le tuba ordinario, le C1 c'est pas brillant du tout. Tout le tuba dans le mezzoforte et pianissimo c'est pas brillant.
-Même peut-être une flûte c'est pas brillant. La flûte C4 mezzoforte et pianissimo c'est pas brillant. Plus c'est piano, plus ça risque de perdre de la brillance.
+R: C'est tout ce qui va être étouffé. Du tuba, du basson dans le grave. Le tuba ordinario, le C1 c'est pas brillant du tout. Tout le tuba dans le mezzoforte et pianissimo c'est pas brillant. Même peut-être une flûte c'est pas brillant. La flûte C4 mezzoforte et pianissimo c'est pas brillant. Plus c'est piano, plus ça risque de perdre de la brillance.
 
 Q: Si tu devais comparer la flûte et la flûte alto sur la même note, il y aurait une différence dans la brillance ?
 
@@ -66,8 +64,7 @@ R: Oui étouffé, sombre, terne. C'est un son pauvre en harmoniques. Un son plut
 
 Q: Est ce qu'il y a un terme particulier que tu utilises ?
 
-R: Sombre oui plutôt, ou pas brillant. Etouffé c'est différent. Un son de corde étouffé, il va être sombre, mais il y a autre chose, je ne saurais pas te dire quoi. Un  cor ou un tuba avec une sourdine, il y a un changement de timbre. Je dirais qu'un son sombre, c'est un son où tu restreints des harmoniques, un son étouffé pour moi c'est un filtre, c'est légèrement différent, c'est pas seulement coupé dans les harmoniques. Quand on écoute la flûte alto et la flûte en do, j'entends que la flûte alto a moins d'harmonique. Pour une voix, étouffer une voix, ça serait filtrer une voix. 
-Quand on parlait d'étouffer, je pensais aux instruments, parce qu'il y a la sourdine, qui fonctionne comme un filtre.
+R: Sombre oui plutôt, ou pas brillant. Etouffé c'est différent. Un son de corde étouffé, il va être sombre, mais il y a autre chose, je ne saurais pas te dire quoi. Un  cor ou un tuba avec une sourdine, il y a un changement de timbre. Je dirais qu'un son sombre, c'est un son où tu restreints des harmoniques, un son étouffé pour moi c'est un filtre, c'est légèrement différent, c'est pas seulement coupé dans les harmoniques. Quand on écoute la flûte alto et la flûte en do, j'entends que la flûte alto a moins d'harmonique. Pour une voix, étouffer une voix, ça serait filtrer une voix. Quand on parlait d'étouffer, je pensais aux instruments, parce qu'il y a la sourdine, qui fonctionne comme un filtre.
 
 Q6
 

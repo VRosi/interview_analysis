@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R:  Non rugueux je l'utilise pas. Enfin si mais ça va être rare, encore plus rare que rond. Pédagogiquement aussi.
@@ -22,9 +24,7 @@ R: Il est rugueux là parce qu'il vibre. Est-ce que c'est une vibration ? Plus o
 
 Q: Tu fais une distinction entre agressif et rugueux ? Un son agressif peut pas être rugueux ?
 
-R: Bah il me le parait moins que le C5 mezzoforte. Parce que quelque chose de rugueux n'est pas coupant. Quand je passe ma main sur une surface rugueuse, je me coupe pas les doigts, par contre j'ai des grumeaux sous les doigts. J'ai des aspérités.
-Essayons les multiphoniques, de clarinette, bof. Le flatterzunge de clarinette, je perçois un peu le même genre de truc là.
-Le pizzicato bartok, non. Moi rugueux, j'ai besoin de répétition.
+R: Bah il me le parait moins que le C5 mezzoforte. Parce que quelque chose de rugueux n'est pas coupant. Quand je passe ma main sur une surface rugueuse, je me coupe pas les doigts, par contre j'ai des grumeaux sous les doigts. J'ai des aspérités. Essayons les multiphoniques, de clarinette, bof. Le flatterzunge de clarinette, je perçois un peu le même genre de truc là. Le pizzicato bartok, non. Moi rugueux, j'ai besoin de répétition.
 
 Q: Alors si on allait voir ailleurs que dans du flatterzunge ?
 
@@ -36,9 +36,7 @@ R: Ah oui, le tuba joué/chanté 2nde mineur c'est rugueux. 
 
 Q: Autant que la trompette ?
 
-R: Attends, je sais pas encore. Oui ça marche bien avec le tuba aussi.
-(écoute le xylophone) Non rugueux il faut un son qui dure.
-J'essaie l'archet avec le vibraphone, parce que j'ai l'impression qu'il faut une résonance. Un son avec une attaque sans sustain, j'ai du mal à le trouver du coup. Je voulais voir avec un moyen quelconque de prolonger les notes...
+R: Attends, je sais pas encore. Oui ça marche bien avec le tuba aussi. Non rugueux il faut un son qui dure. J'essaie l'archet avec le vibraphone, parce que j'ai l'impression qu'il faut une résonance. Un son avec une attaque sans sustain, j'ai du mal à le trouver du coup. Je voulais voir avec un moyen quelconque de prolonger les notes...
 
 Q: Sinon des instruments à cordes qui utilisent un archet aussi. 
 
@@ -46,26 +44,27 @@ R: Les cordes. Le mode de jeu harmonique du violon. Ah c'est pas mal ça l'harmo
 
 Q: Mais pas rugueux ? Tu m'as aussi dis son qui râpe.
 
-R: Oui ça râpe. Il y a quand même une différence entre râpeux et rugueux pour moi. Si je passe ma main sur une râpe, ça va quand même me faire un peu mal, rugueux j'ai la sensation de quelque chose qui n'est pas homogène mais qui ne me fait pas mal. 
-Et sinon le flatterzunge de la flute...
+R: Oui ça râpe. Il y a quand même une différence entre râpeux et rugueux pour moi. Si je passe ma main sur une râpe, ça va quand même me faire un peu mal, rugueux j'ai la sensation de quelque chose qui n'est pas homogène mais qui ne me fait pas mal. Et sinon le flatterzunge de la flute...
 
 Q: Vu que c'est aussi un flatterzunge l'effet sera plus ou moins le même que pour celui de la trompette. Mais je te conseille, le multiphonique de basson, parce que tu as un effet équivalent au tuba.
 
-R: En fait les multiphoniques me paraissent moins rugueux.
-Le flatterzunge C1 de contrebasson c'est rugueux. 
+R: En fait les multiphoniques me paraissent moins rugueux. Le flatterzunge C1 de contrebasson c'est rugueux. 
 
 Q: Et si tu compares au C1 de contrebasson ordinario ?
 
 R: C'est un peu rugueux aussi ordinario. Je me pose la question de savoir ce qui est le plus rugueux. Peut-être le flatterzunge... Mais je sais pas. Si le flatterzunge de contrebasson c'est peut-être plus rugueux, parce qu'en même temps c'est pas régulier. Peut-être que les aspérités sont plus importantes, elles ressortent plus.
 
-Q: Ça va peut-être dans l'idée de consistance pas homogène non ?R: Oui ça c'est un peu plus homogène.
+Q: Ça va peut-être dans l'idée de consistance pas homogène non ?
 
-Q: Il y a un son qui a manqué pour exprimer le rugueux ?R: Non je dirais ça
+R: Oui ça c'est un peu plus homogène.
+
+Q: Il y a un son qui a manqué pour exprimer le rugueux ?
+
+R: Non je dirais ça
 
 Q4
 
-R: Donc c'est un son lisse un son non-rugueux. L'harmonique de violon c'est un peu râpeux. Non les cordes non.
-Le C5 mezzoforte de flute jouant semi-éolien c'est pas mal. C'est pas rugueux.
+R: Donc c'est un son lisse un son non-rugueux. L'harmonique de violon c'est un peu râpeux. Non les cordes non. Le C5 mezzoforte de flute jouant semi-éolien c'est pas mal. C'est pas rugueux.
 
 Q: Par rapport à  la flute normale il y a une différence ?
 
@@ -77,10 +76,7 @@ R: Je trouve pas.
 
 Q: Le vibrato du hautbois dérange un peu en ordinario ?
 
-R: Oui, le vibrato finalement c'est une forme de rugosité.
-La question se pose du pas rugueux avec la tessiture. Le C2 de clarinette basse mezzoforte c'est un peu rugueux.
-Le glockenspiel c'est pas rugueux. C'est marrant dans le registre aigu c'est moins rugueux.
-La harpe ça va pas être rugueux non plus. J'ai besoin d'avoir du sustain, dans le jeu normal, il y en a pas assez. Je suis pas allé voir le piano.
+R: Oui, le vibrato finalement c'est une forme de rugosité. La question se pose du pas rugueux avec la tessiture. Le C2 de clarinette basse mezzoforte c'est un peu rugueux. Le glockenspiel c'est pas rugueux. C'est marrant dans le registre aigu c'est moins rugueux. La harpe ça va pas être rugueux non plus. J'ai besoin d'avoir du sustain, dans le jeu normal, il y en a pas assez. Je suis pas allé voir le piano.
 
 Q: Je peux te proposer des sons ? Celui de tuba piano C3 qu'on a entendu tout à l'heure.
 
@@ -96,10 +92,7 @@ R: Bah du fait du registre... Je dis pas qu'il y a de la rugosité, mais si je d
 
 Q: Oui mais ce que tu entends là..
 
-R: Le piano sinon. Ah oui. le C5, C6 piano de piano c'est pas très rugueux. Plutôt aigu donc pour moi. Parce que si je regarde dans les graves, les sons... Le piano c'est pas mal.
-Attends je vais dans l'accordéon. Donc des sons pas trop fort, pas trop timbré. Un son timbré amène une certaine rugosité. Le C7 piano d'accordéon c'est pas rugueux.
-Finalement tout à l'heure je t'ai dis C5 pour la flute semi-éolien, finalement C7 c'est mieux. Parce que C5 ça bouge un peu. 
-A la voix, le rugueux je vais plutôt le chercher dans le grave.
+R: Le piano sinon. Ah oui. le C5, C6 piano de piano c'est pas très rugueux. Plutôt aigu donc pour moi. Parce que si je regarde dans les graves, les sons... Le piano c'est pas mal. Attends je vais dans l'accordéon. Donc des sons pas trop fort, pas trop timbré. Un son timbré amène une certaine rugosité. Le C7 piano d'accordéon c'est pas rugueux. Finalement tout à l'heure je t'ai dis C5 pour la flute semi-éolien, finalement C7 c'est mieux. Parce que C5 ça bouge un peu. A la voix, le rugueux je vais plutôt le chercher dans le grave.
 
 Q: Il y a des sons pas rugueux qui manquent ?
 
@@ -115,4 +108,4 @@ R: Je me dis qu'un son plus grave, les fréquences sont moins élevées, donc le
 
 Q6
 
-R: Un son rugueux bon... Même les sons ou je fais des grimaces ils me parlent, c'est pour ça que je suis musicien. Le son rugueux me donne une sensation de "j'ai envie de me gratter" et le son lisse, il y a à la fois une espèce de blancheur et de pureté quelque part, même si c'est pas un son riche, un courant d'air. Un son lisse, qui suggèrerai une âme qui passe au milieu d'une pièce. Le son rugueux agréable par contre ça va être compliqué je pense. Mais le son lisse peut être agréable ou amener une tension.
+R: Un son rugueux bon... Même les sons ou je fais des grimaces ils me parlent, c'est pour ça que je suis musicien. Le son rugueux me donne une sensation de ''j'ai envie de me gratter'' et le son lisse, il y a à la fois une espèce de blancheur et de pureté quelque part, même si c'est pas un son riche, un courant d'air. Un son lisse, qui suggèrerai une âme qui passe au milieu d'une pièce. Le son rugueux agréable par contre ça va être compliqué je pense. Mais le son lisse peut être agréable ou amener une tension.

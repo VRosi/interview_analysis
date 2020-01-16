@@ -1,6 +1,8 @@
+QR:T
+
 Q1
 
-R: C'est pas un terme que j'emploie fréquemment. J'aurais tendance à lui associer d'autres mots. Je dis assez souvent "un son qui gratte" ou "un son qui frotte", qui n'est pas lisse. Donc je l'emploie pas directement comme ça.
+R: C'est pas un terme que j'emploie fréquemment. J'aurais tendance à lui associer d'autres mots. Je dis assez souvent ''un son qui gratte'' ou ''un son qui frotte'', qui n'est pas lisse. Donc je l'emploie pas directement comme ça.
 
 Q: Mais c'est ce qui correspond à la rugosité pour toi ?
 
@@ -16,12 +18,11 @@ R: Là il y a un bruit, mais c'est un bruit qui est assez doux. Donc pour moi ç
 
 Q: Il y a des sons de clarinettes basses ou ce souffle est plus basse fréquence, quelle sensation tu vas avoir ? Rugueux ou pas rugueux ?
 
-R: Non, le C2 piano de clarinette basse c'est pas rugueux.  La note est beaucoup plus forte que le petit souffle. Alors qu'un son qui frotte, c'est un bruit qui est beaucoup plus fort. Je pense pas que le bruit aurait la même nature.
-Je pense que ce bruit serait plus médium-aigu, le souffle là il est assez homogène et dense dans le case de la clarinette basse, alors que dans le son frotté, c'est comme si tu avais vraiment sur une bande de fréquence plus réduite qui serait plus fort.
+R: Non, le C2 piano de clarinette basse c'est pas rugueux.  La note est beaucoup plus forte que le petit souffle. Alors qu'un son qui frotte, c'est un bruit qui est beaucoup plus fort. Je pense pas que le bruit aurait la même nature. Je pense que ce bruit serait plus médium-aigu, le souffle là il est assez homogène et dense dans le case de la clarinette basse, alors que dans le son frotté, c'est comme si tu avais vraiment sur une bande de fréquence plus réduite qui serait plus fort.
 
 Q: C'est quoi un bruit pas homogène ?
 
-R: Quand je dis homogène, c'est homogène spectralement. Mais pas seulement, c'est aussi qu'il y aurait plus de variation [temporelle], d'amplitude. Le plus simple ça serait d'en trouver un exemple.
+R: Quand je dis homogène, c'est homogène spectralement. Mais pas seulement, c'est aussi qu'il y aurait plus de variation, d'amplitude. Le plus simple ça serait d'en trouver un exemple.
 
 Q3
 
@@ -65,10 +66,7 @@ R: Sur le multiphonique 5 de flute, il y a de la rugosité, je crois que c'est d
 
 Q: Dans le multiphonique de hautbois ?
 
-R: j'entends pas de battement, mais j'entends que les deux fréquences frottent, et elles créent cette rugosité. Le multiphonique 2 de hautbois.
-Tu vois le premier multiphonique de clarinette, il y avait lus d'écart, du coup c'était moins rugueux, alors que le 3e de clarinette est beaucoup plus rugueux.
-Le multiphonique de basson c'est bien rugueux aussi.
-Le multiphonique 3 de saxophone me parait moins rugueux malgré le battement.
+R: j'entends pas de battement, mais j'entends que les deux fréquences frottent, et elles créent cette rugosité. Le multiphonique 2 de hautbois. Tu vois le premier multiphonique de clarinette, il y avait lus d'écart, du coup c'était moins rugueux, alors que le 3e de clarinette est beaucoup plus rugueux. Le multiphonique de basson c'est bien rugueux aussi. Le multiphonique 3 de saxophone me parait moins rugueux malgré le battement.
 
 Q: Alors lequel dans tout ça va être le plus rugueux ?
 
@@ -88,9 +86,7 @@ R: Dans l'accordéon je sens un peu de rugueux. Ça sera plutôt des sons souffl
 
 Q: C'est pour ça que j'avais penser à l'accordéon dans l'aigu en fait, mais je comprends.
 
-R: La note C4 ordinario piano de la clarinette.
-Le hautbois non. La flute non plus. C'est pas simple parce qu'il y as toujours un petit souffle. Et dans le but de trouver le truc le moins rugueux. 
-Le son de flute alto piano C4 c'est pas rugueux pour moi. 
+R: La note C4 ordinario piano de la clarinette. Le hautbois non. La flute non plus. C'est pas simple parce qu'il y as toujours un petit souffle. Et dans le but de trouver le truc le moins rugueux. Le son de flute alto piano C4 c'est pas rugueux pour moi. 
 
 Q: Tout à l'heure en parlant de rond, il y a avait une question dans l'agressif de quelque chose de pas stable ou pas homogène. Est ce que dans le pas rugueux, on pourrait mettre certains sons ronds ?
 

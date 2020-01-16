@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: Oui la rondeur du son on l'utilise assez fréquemment dans un travail d'orchestre par exemple. Un son rond c'est un son qui implique aussi un travail d'ensemble, c'est comme le son chaud. Ça implique aussi l'interaction avec d'autre, c'est à dire pouvoir se fondre dans un ensemble, dans une collectivité, à l'inverse d'un son brillant, qui implique une certaine domination. Le rond est plus complaisant, et collectif. Le rond va avec une recherche d'une homogénéité, autant individuelle que collective.
@@ -36,10 +38,7 @@ R: Oui C3, C4 pianissimo c'est TRES rond.
 
 Q4
 
-R: Je vais vers des instruments à corde pincé maintenant, je trouve pas ça rond.
-De fait quand j'entends la harpe (C5 mezzoforte) , il y a de la rondeur, parce qu'elle résonne, beaucoup. 
-Alors les pizzicato bartok, c'est pas rond, mais on est un peu dans la caricature. Le sul ponticello là de violon c'est vraiment pas rond, il y a une forme de rugosité. 
-Sinon le multiphonique(1) de hautbois c'est pas rond.
+R: Je vais vers des instruments à corde pincé maintenant, je trouve pas ça rond. De fait quand j'entends la harpe (C5 mezzoforte) , il y a de la rondeur, parce qu'elle résonne, beaucoup. Alors les pizzicato bartok, c'est pas rond, mais on est un peu dans la caricature. Le sul ponticello là de violon c'est vraiment pas rond, il y a une forme de rugosité. Sinon le multiphonique(1) de hautbois c'est pas rond.
 
 Q5
 
@@ -47,8 +46,7 @@ R: C'est un son qui présente des aspérités, qui n'est pas homogène, soit par
 
 Q: Un son de trompette cuivré c'est pas rond ?
 
-R: Oui la trompette cuivré c'est pas rond, alors c'est pas antinomique, parce qu'il y a une notion de rondeur dans la brillance pour que ça passe. Il faut une rondeur du son dans la brillance. Comme la rugosité pour la chaleur.
-La trompette avec la sourdine harmon c'est trop acide. La trompette flatterzunge forte c'est trop rugueux. 
+R: Oui la trompette cuivré c'est pas rond, alors c'est pas antinomique, parce qu'il y a une notion de rondeur dans la brillance pour que ça passe. Il faut une rondeur du son dans la brillance. Comme la rugosité pour la chaleur. La trompette avec la sourdine harmon c'est trop acide. La trompette flatterzunge forte c'est trop rugueux. 
 
 Q: Il y a un terme que tu emploies pour parler de non rondeur ?
 

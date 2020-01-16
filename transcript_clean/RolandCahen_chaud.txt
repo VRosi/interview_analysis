@@ -1,12 +1,12 @@
+QR:T
+
 Q1
 
-R: Je vais utiliser le terme chaud pour plutôt indiquer une intention, qu'un timbre. C'est-à-dire qu'on recherche quelque chose avec des qualités transversales à la notion du son et à sa perception psychologique. C'est à dire que je vais utiliser le terme chaud pour désigner un son qui à déjà une qualité psychologique particulière. Après je pourrais aussi l'utiliser aussi pour le différencier d'un son plus froid avec des critères purement de timbre. Un son plus froid c'est un son qui contiendra peut de composantes graves, et qui n'aurait pas d'harmonicité ou de rondeur. 
-
-Chaud c'est un terme que j'utilise pas très fréquemment. 
+R: Je vais utiliser le terme chaud pour plutôt indiquer une intention, qu'un timbre. C'est-à-dire qu'on recherche quelque chose avec des qualités transversales à la notion du son et à sa perception psychologique. C'est à dire que je vais utiliser le terme chaud pour désigner un son qui à déjà une qualité psychologique particulière. Après je pourrais aussi l'utiliser aussi pour le différencier d'un son plus froid avec des critères purement de timbre. Un son plus froid c'est un son qui contiendra peut de composantes graves, et qui n'aurait pas d'harmonicité ou de rondeur. Chaud c'est un terme que j'utilise pas très fréquemment.
 
 Q: Ça va être dans votre travaille de compositeur, de designer sonore et d'enseignant ? Comment ?
 
-R: Je l'utilise surtout dans l'enseignement. Parce que dans mon travail de composition ça va être un critère de choix, mais je ne vais pas le verbaliser. Dans le travail de design sonore je l'utilise aussi. Pour moi le design sonore c'est la conception et la création des dispositif sonores, à la fois matériel et organisationnel. Quand je vais discuter avec des gens, et qu'on va parler de son je vais utiliser ce terme. On va porter un concept avec cette notion de chaleur aprce qu'on considère qu'elle est associée au projet, pour d'autre on va chercher à être plus froid
+R: Je l'utilise surtout dans l'enseignement. Parce que dans mon travail de composition ça va être un critère de choix, mais je ne vais pas le verbaliser. Dans le travail de design sonore je l'utilise aussi. Pour moi le design sonore c'est la conception et la création des dispositif sonores, à la fois matériel et organisationnel. Quand je vais discuter avec des gens, et qu'on va parler de son je vais utiliser ce terme. On va porter un concept avec cette notion de chaleur parce qu'on considère qu'elle est associée au projet, pour d'autre on va chercher à être plus froid
 
 Q2
 
@@ -14,9 +14,7 @@ R: J'ai l'impression qu'il y a plusieurs aspects. Il y a un aspect de timbre, un
 
 Q: Mais un son enveloppant ne peux pas tirer cette qualité de ces propres caractéristiques de timbre ?
 
-R: Ça peut être spatial, ça peut-être psychologique. Mais du timbre je vois pas trop. La notion d'enveloppant dans le timbre je ne la connais pas. On pourrait le dire, mais je l'utilise pas.
-Il y a un troisième aspect. Pour la chaleur il y a une dimension harmonique du timbre. C'st pas forcément tonique. C'est un son qui a une certaine durée déjà. C'est un son de nature entretenue ou percussion résonante, mais ce n'est pas une impulsion. On pourrait dire qu'un coup sur une cloche fait avec une mailloche molle créé un son chaud, alors qu'avec une baguette en métal, il pourrait être froid.
-Sur la dynamique c'est pas tellement la raideur de la l'attaque, c'est son contenu. Si l'attaque est très chargée de bruit ou de transitoires, ou de composantes aiguës ça sera moins chaud.
+R: Ça peut être spatial, ça peut-être psychologique. Mais du timbre je vois pas trop. La notion d'enveloppant dans le timbre je ne la connais pas. On pourrait le dire, mais je l'utilise pas. Il y a un troisième aspect. Pour la chaleur il y a une dimension harmonique du timbre. C'st pas forcément tonique. C'est un son qui a une certaine durée déjà. C'est un son de nature entretenue ou percussion résonante, mais ce n'est pas une impulsion. On pourrait dire qu'un coup sur une cloche fait avec une mailloche molle créé un son chaud, alors qu'avec une baguette en métal, il pourrait être froid. Sur la dynamique c'est pas tellement la raideur de la l'attaque, c'est son contenu. Si l'attaque est très chargée de bruit ou de transitoires, ou de composantes aiguës ça sera moins chaud.
 
 Q3
 
@@ -24,14 +22,11 @@ R: Je me posais justement la question pour la contrebasse parce que si on prend 
 
 Q: C'est une composante importante de chaleur ce bruit ?
 
-R: Oui je pense que c'est important ce bruit. Si on fait la même chose avec le contrebasson, je pense qu'on aura plus de mal. Bizarrement le plus grave je le trouve moins chaud, parce qu'il y a un grain, et un grain qui est assez présent. 
-Il y a quand même un biais pour moi là, c'est que l'ensemble des sons que j'ai entendu là son joués pianissimo.
+R: Oui je pense que c'est important ce bruit. Si on fait la même chose avec le contrebasson, je pense qu'on aura plus de mal. Bizarrement le plus grave je le trouve moins chaud, parce qu'il y a un grain, et un grain qui est assez présent. Il y a quand même un biais pour moi là, c'est que l'ensemble des sons que j'ai entendu là son joués pianissimo.
 
 Q: Là ils sont mezzoforte. 
 
-R: Et si on les joue forte c'est beaucoup moins chaud. Et si on les joue avec un archet encore plus agressif on l'aurait encore moins. Je pense que pour le pianissimo, l'intensité joue beaucoup. Mais c'est pas n'importe quelle intensité, c'est l'intensité de sons instrumentaux entretenus. C'est à dire que si on prend un son midi dont on change la vélocité, avec un synthétiseur de base, on aura pas cette différence, on aura juste plus fort ou moins fort. La chaleur c'est assez pauvre en composantes harmoniques, en partiels.
-
-Sur la dynamique. La chaleur et la dynamique peuvent avoir un lien. Si le son est trop accidenté, il perd en chaleur. Quand je dis accidenté, ça veut dire qu'il devient dangereux, il y a alors une question de risque. Dans la chaleur, l"enveloppement, il n'y as pas de risque, c'est une la sécurité. 
+R: Et si on les joue forte c'est beaucoup moins chaud. Et si on les joue avec un archet encore plus agressif on l'aurait encore moins. Je pense que pour le pianissimo, l'intensité joue beaucoup. Mais c'est pas n'importe quelle intensité, c'est l'intensité de sons instrumentaux entretenus. C'est à dire que si on prend un son midi dont on change la vélocité, avec un synthétiseur de base, on aura pas cette différence, on aura juste plus fort ou moins fort. La chaleur c'est assez pauvre en composantes harmoniques, en partiels. Sur la dynamique. La chaleur et la dynamique peuvent avoir un lien. Si le son est trop accidenté, il perd en chaleur. Quand je dis accidenté, ça veut dire qu'il devient dangereux, il y a alors une question de risque. Dans la chaleur, l'enveloppement, il n'y as pas de risque, c'est une la sécurité. 
 
 Q: C'est peut-être une question de stabilité ?
 
@@ -39,10 +34,9 @@ R: Non parce que si c'est trop stable, parfaitement immobile c'est froid. Il y a
 
 Q: Peut-on essayer de retrouver 1 ou 2 autres sons pour cette idée de chaleur ?
 
-R: Le xylophone ou le marimba, mais ça dépend des baguettes. Effectivement il y a une association du bois la chaleur. Si on prend le xylophone et on le compare au marimba, vu que la résonance du xylophone est moins longue, il serait perçu comme moins chaud. 
-Le marimba est super chaud. Il est moins chaud dans le forte.
+R: Le xylophone ou le marimba, mais ça dépend des baguettes. Effectivement il y a une association du bois la chaleur. Si on prend le xylophone et on le compare au marimba, vu que la résonance du xylophone est moins longue, il serait perçu comme moins chaud. Le marimba est super chaud. Il est moins chaud dans le forte.
 
-Q: Pour voir d'autres instruments : des bois dans le grave comme le basson ou la clarinette basse ça peut-être chaud ou pas ?
+Q: Pour voir d'autres instruments, des bois dans le grave comme le basson ou la clarinette basse ça peut-être chaud ou pas ?
 
 R: Alors ça dépend de beaucoup de facteurs. Je dirais que la clarinette basse, il y a des modes de jeux qui donnent de la chaleur.
 
@@ -58,7 +52,7 @@ Q: Et ce son de clarinette basse soufflé dans le grave, c'est chaud ou pas ?
 
 R: Oui c'est chaud. Mais il est très pianissimo, très doux. Si je devais différencier le doux et le chaud, j'aurais plus de mal.
 
-Q: De 1 à 10 comment estimés vous votre satisfaction de ces choix : 
+Q: De 1 à 10 comment estimés vous votre satisfaction de ces choix ? 
 
 R: C'est le son de clarinette base C2 pianissimo que je mettrai en premier. Pour moi c'est pas l'archétype de chaud, c'est pas loin. Je dirais 7, même 8.
 
@@ -68,9 +62,7 @@ R: Des vrombissement dans le grave qui ont justement une dynamique enveloppante
 
 Q4
 
-R: Des sons cristallins, des sons de papiers de bonbons froisser. Bon parmi ceux là. Je pense que l'accordéon c'est pas très chaud. Ce sont des anches battantes, et en plus là elles sont en métal. Dans l'ensemble c'est pas très chaud. Si on compare le forte et pianissimo, le forte est moins chaud. Le fait que ce soient des sons entretenus, des sons fait par des êtres humains, cela traduit une forme de chaleur en elle-même. Si c'est le même au synthétiseur il sera pas chaud du tout.
-Je trouve que les sons très accidentés comme les flatterzunge ne sont pas très chaud. Pour la flute il y a une certaine chaleur quand elle joue le flatterzunge mais c'est dû à l'instrument. Pour la trompette jouant le flatterzunge il y a assez peu de chaleur, si ce n'est la fragilité de l'interprète qui transparait à travers le son. 
-Le glockenspiel peut-être, avec des baguettes dures. Voilà dans l'ensemble les C8 et C9 fortissimo je ne qualifierai pas ça de sons chauds. C'est pour ça que les critères de cette notion de chaleur sont assez nombreux. Ce qui rend le terme un peu fragile. Par contre en terme de ressenti, c'est expressif. Mais attention c'est pas l'expressivité qui caractérise le chaud, il peut être ou ne pas être expressif. 
+R: Des sons cristallins, des sons de papiers de bonbons froisser. Bon parmi ceux là. Je pense que l'accordéon c'est pas très chaud. Ce sont des anches battantes, et en plus là elles sont en métal. Dans l'ensemble c'est pas très chaud. Si on compare le forte et pianissimo, le forte est moins chaud. Le fait que ce soient des sons entretenus, des sons fait par des êtres humains, cela traduit une forme de chaleur en elle-même. Si c'est le même au synthétiseur il sera pas chaud du tout. Je trouve que les sons très accidentés comme les flatterzunge ne sont pas très chaud. Pour la flute il y a une certaine chaleur quand elle joue le flatterzunge mais c'est dû à l'instrument. Pour la trompette jouant le flatterzunge il y a assez peu de chaleur, si ce n'est la fragilité de l'interprète qui transparait à travers le son. Le glockenspiel peut-être, avec des baguettes dures. Voilà dans l'ensemble les C8 et C9 fortissimo je ne qualifierai pas ça de sons chauds. C'est pour ça que les critères de cette notion de chaleur sont assez nombreux. Ce qui rend le terme un peu fragile. Par contre en terme de ressenti, c'est expressif. Mais attention c'est pas l'expressivité qui caractérise le chaud, il peut être ou ne pas être expressif. 
 
 Q: Pour la satisfaction ? 
 
@@ -78,8 +70,7 @@ R: du coup 7-8/10.
 
 Q5
 
-R: Oui j'utilise froid. Mais il y a un truc qu'on a pas dis, c'est que pour moi le chaud peut aussi être lié à l'espace. Dans la spatialisation, il y a une forme de proximité, mais je ne saurais pas dire si c'est la proximité. Est ce qu'un son distant mis au deuxième ou troisième plan peut être chaud ? Si on entend la position, quand on l'entend, il me semble qu'il n'est pas chaud. Un son qu'on entend qu'il est distant, je ne le qualifierais pas forcément de chaud. Ou je le qualifierai de moins chaud que le même son, plus proche... A vérifier. 
-Un son pas chaud, c'est un son avec plus de composantes aiguës, plus d'inharmonicité, mais bon ça c'est discutable, parce que les steel band joués pianissimo c'est très chaud, alors que quand c'est tapé dur, ça l'est pas. 
+R: Oui j'utilise froid. Mais il y a un truc qu'on a pas dis, c'est que pour moi le chaud peut aussi être lié à l'espace. Dans la spatialisation, il y a une forme de proximité, mais je ne saurais pas dire si c'est la proximité. Est ce qu'un son distant mis au deuxième ou troisième plan peut être chaud ? Si on entend la position, quand on l'entend, il me semble qu'il n'est pas chaud. Un son qu'on entend qu'il est distant, je ne le qualifierais pas forcément de chaud. Ou je le qualifierai de moins chaud que le même son, plus proche... A vérifier. Un son pas chaud, c'est un son avec plus de composantes aiguës, plus d'inharmonicité, mais bon ça c'est discutable, parce que les steel band joués pianissimo c'est très chaud, alors que quand c'est tapé dur, ça l'est pas. 
 
 Q: Il y a des sons froids manquant ?
 

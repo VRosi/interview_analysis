@@ -1,16 +1,16 @@
+QR:T
+
 Q1
 
 R: Rugueux, là aussi c'est pas un terme que j'emploie très souvent. Ça sera surtout pour définir certaines musiques, plutôt certains mode de jeu.
 
 Q: Quand vous dites musique ?
 
-R: Je pense à Bartok dans sa façon parfois d'utiliser les cordes, on pourrait le qualifier de rugueux.
+R: Je pense à Bartok dans sa façon parfois d'utiliser les cordes, on pourrait le qualifier de rugueux. C'est plutôt quelque chose qui va être au niveau du mode de jeu. Et spontanément je l'associerai plutôt aux modes de jeux des instruments à cordes. Peut-être par association visuelle, en terme d'image avec l'archet.
 
-C'est plutôt quelque chose qui va être au niveau du mode de jeu. Et spontanément je l'associerai plutôt aux modes de jeux des instruments à cordes. Peut-être par association visuelle, en terme d'image avec l'archet.
+Q2
 
-Q2 
-
-R: Un son rugueux, c'est un son qui va ajouter au "timbre" normal un frottement de type percussif. Ce qui va lui donner une sorte de surface un peu inégale. 
+R: Un son rugueux, c'est un son qui va ajouter au ''timbre'' normal un frottement de type percussif. Ce qui va lui donner une sorte de surface un peu inégale. 
 
 Q: Temporellement ? Spectralement ?
 
@@ -24,10 +24,9 @@ Q3
 
 R: Oui le ponticello. Ça serait le plus rugueux, même dans le grave ça marche?
 
-Q: Pourquoi vous dites "même dans le grave" ?
+Q: Pourquoi vous dites ''même dans le grave'' ?
 
-R: Non c'est une bêtise, il y a pas de raison, que ça soit dans le grave ou dans l'aigu. Tout le ponticello de violoncelle est rugueux.
-Le ponticello de violon, oui tout est rugueux.
+R: Non c'est une bêtise, il y a pas de raison, que ça soit dans le grave ou dans l'aigu. Tout le ponticello de violoncelle est rugueux. Le ponticello de violon, oui tout est rugueux.
 
 Q: Autre chose ?
 
@@ -43,19 +42,11 @@ R: Oui il y a pas vraiment de variations temporelles. Mais il y a une certaine r
 
 Q: Peut-être d'autres instruments jouant des multiphoniques, comme la flute ?
 
-R: Non la flute c'est trop doux comme instrument, pour être rugueux. Il y en a un qui a une petite rugosité.
-
-Le multiphonique 3 de clarinette aussi a une certaine rugosité.
+R: Non la flute c'est trop doux comme instrument, pour être rugueux. Il y en a un qui a une petite rugosité. Le multiphonique 3 de clarinette aussi a une certaine rugosité.
 
 Q: Toujours pas autant que le ponticello ?
 
-R: Non, non.
-Le multiphonique de basson, oui ils sont tous rugueux. 
-C'est pas évident de les comparer, ce sont des timbres qui sont tellement différents. Je les mettrais un peu dans la même catégorie.
-Peut-être quand même que les instruments à archet sont plus rugueux. J'ai quand même tendance à associer cette rugosité au grain du son qui est fabriqué par le frottement.
-Dans le joué/chanté du basson en seconde mineur, il y a une petite rugosité mais moindre, mais c'est vrai qu'il y a ce phénomène de battement. Mais moins que pour le basson ou le troisième de clarinette.
-Il faudrait voir le flatterzunge peut-être ? De tuba par exemple. Oui le C2 flatterzunge il y a une certaine rugosité, ça marche mieux dans le grave de l'instrument.
-En écoutant le flatterzunge de trompette oui. Le flatterzunge de cuivre marche pas mal pour la rugosité. 
+R: Non, non. Le multiphonique de basson, oui ils sont tous rugueux.  C'est pas évident de les comparer, ce sont des timbres qui sont tellement différents. Je les mettrais un peu dans la même catégorie. Peut-être quand même que les instruments à archet sont plus rugueux. J'ai quand même tendance à associer cette rugosité au grain du son qui est fabriqué par le frottement. Dans le joué/chanté du basson en seconde mineur, il y a une petite rugosité mais moindre, mais c'est vrai qu'il y a ce phénomène de battement. Mais moins que pour le basson ou le troisième de clarinette. Il faudrait voir le flatterzunge peut-être ? De tuba par exemple. Oui le C2 flatterzunge il y a une certaine rugosité, ça marche mieux dans le grave de l'instrument. En écoutant le flatterzunge de trompette oui. Le flatterzunge de cuivre marche pas mal pour la rugosité. 
 
 Q: Pour revenir vers les cordes, j'avais envie de vous faire écouter des sons nonvibrato piano de violon.
 
@@ -67,8 +58,7 @@ R: Il y a une petite rugosité dans le non vibrato, due au frottement de l'arche
 
 Q: Parce que c'est vrai que le ponticello il y a beaucoup d'informations.
 
-R: Il y a ça aussi. Le fait qu'il y ait un spectre très chargé, donc une interaction avec les partiels, surtout ceux qui sont aigus.
-Par contre on a pas vu les instruments à percussion ?
+R: Il y a ça aussi. Le fait qu'il y ait un spectre très chargé, donc une interaction avec les partiels, surtout ceux qui sont aigus. Par contre on a pas vu les instruments à percussion ?
 
 Q: Vous m'avez dis que c'était plutôt un son entretenu, c'est pour ça que je suis pas allé voir.
 
@@ -86,23 +76,19 @@ Q: Et je note aussi en plus le flatterzunge de cuivre bien sur.
 
 R: Après on peut surement accentuer cette rugosité, par exemple pour les cordes, si ils sont plus forte, ils sont plus rugueux que les plus piano.
 
-Q : son manquant ?
+Q: son manquant ?
 
 R: Oui dans la percussion, il y aurait les sons grattés, le guiro . Dans les percussions, le tambour à cordes ausis, le lion's roar.
 
 Q4
 
-R: Le son de la flute, normale. Oui C'est pas rugueux le C4 et C5 mezzoforte.
-
-Le son des cuivres, normal comme le cor. La harpe, le piano.
-
-Le son des cordes aussi, le violon. 
+R: Le son de la flute, normale. Oui C'est pas rugueux le C4 et C5 mezzoforte. Le son des cuivres, normal comme le cor. La harpe, le piano. Le son des cordes aussi, le violon. 
 
 Q: Pardon, peut-on juste prendre le temps de comparer les registres de la harpe ?
 
 R: Oui il y a une différence de rugosité. Je trouve que le terme rugueux marche pas très bien pour l'attaque dans le grave qui a un côté plutôt métallique, mais qu'on peut associer à une certaine rugosité. Même si c'est juste une attaque, qu'il y a pas d'entretien.
 
-Q : son manquant ?
+Q: son manquant ?
 
 R: Non
 

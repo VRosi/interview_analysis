@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: Je crois que c'est la première fois que je l'utilise ce mot. Enfin peut-être quelques fois, mais c'est très très rare. Pourtant ça me parle vraiment. Mais je l'utilise pas.
@@ -14,9 +16,7 @@ R: Non. Clarinette basse C2 grave piano, ça commence mais pas trop. Le contreba
 
 Q: Alors en faisant un peu le tri dans les multiphoniques. Déjà, celui de clarinette.
 
-R: Ah oui non le premier n'est pas rugueux. Mais le troisième un peu plus. les autres non plus, il y a un aspect grave. Le 3 c'est rugueux. 
-Pour moi, typiquement le son de violoncelle de tout à l'heure c'est rugueux. C'est le crin. Finalement le son medium de violoncelle pas trop. 
-Tu peux me faire écouter du sul ponticello ? Oui il y a un peu de ça. (plus dans le grave). L'harmonique non pas trop.
+R: Ah oui non le premier n'est pas rugueux. Mais le troisième un peu plus. les autres non plus, il y a un aspect grave. Le 3 c'est rugueux. Pour moi, typiquement le son de violoncelle de tout à l'heure c'est rugueux. C'est le crin. Finalement le son medium de violoncelle pas trop. Tu peux me faire écouter du sul ponticello ? Oui il y a un peu de ça. (plus dans le grave). L'harmonique non pas trop.
 
 Q: Pourtant il y a cette sensation de chose qui rape
 
@@ -52,9 +52,7 @@ R: La harpe c'est parfait dans le medium c'est l'antirugueux. Dans le grave c'es
 
 Q: Mais par exemple ce son grave de clarinette basse C3 ?
 
-R: Pour moi ça peut pas être un instrument à anche double, parce que pour moi il y aura l'émission du son qui au loin fera penser à de la rugosité. Le hautbois moins dans l'aigu mais quand même un peu, aussi pour le cor anglais. Ça se situe dans l'emission du son.
-Un violoncelle qui joue avec vibrato dans l'aigu, il y est un petit peu. Pour moi c'est pas l'opposé de rugueux. Je suis sur que c'est le glockenspiel. Note pure dans l'aigu. 
-Là c'est une lame qui vibre donc il y aura pas d'accident.
+R: Pour moi ça peut pas être un instrument à anche double, parce que pour moi il y aura l'émission du son qui au loin fera penser à de la rugosité. Le hautbois moins dans l'aigu mais quand même un peu, aussi pour le cor anglais. Ça se situe dans l'emission du son. Un violoncelle qui joue avec vibrato dans l'aigu, il y est un petit peu. Pour moi c'est pas l'opposé de rugueux. Je suis sur que c'est le glockenspiel. Note pure dans l'aigu. Là c'est une lame qui vibre donc il y aura pas d'accident.
 
 Q: Et l'accordéon dans l'aigu alors peut-être ?
 
@@ -86,8 +84,7 @@ R: C'est compliqué comme question. Le pur c'est positif c'est clair. Le rugueux
 
 Q: Tout a l'heure tu m'as dis par exemple qu'un son trop rond c'était pas bien
 
-R: Oui mais c'est que je pensais en terme de musique, d'équilibre. C'est ça qui est compliqué.
-Un son rond c'est chouette, mais dans une musique avoir que du rond c'est chiant.
+R: Oui mais c'est que je pensais en terme de musique, d'équilibre. C'est ça qui est compliqué. Un son rond c'est chouette, mais dans une musique avoir que du rond c'est chiant.
 
 Q: Et pour pur ?
 

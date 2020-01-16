@@ -1,8 +1,12 @@
+QR:T
+
 Q1
+
+R: Un son brillant, je l'utilise oui.
 
 Q2
 
-R: Un son brillant, je l'utilise oui. La brillance pure pour moi ce sont les sons de clochette ou de poussière d'étoile que tu vas sur-utilisé en sound design. Je l'utilise en sound design et en ingénierie du son. Dans le brillant il y a un côté étincelant, faire ressortit.
+R: La brillance pure pour moi ce sont les sons de clochette ou de poussière d'étoile que tu vas sur-utilisé en sound design. Je l'utilise en sound design et en ingénierie du son. Dans le brillant il y a un côté étincelant, faire ressortit.
 
 Q: Etincelant et brillant ce sont des synonymes ?
 
@@ -26,27 +30,21 @@ R: Tout dépend de la fréquence de la résonance. Si tu prends par exemple une 
 
 Q3
 
-R: La trompette je pense. Déjà ordinario... Tu as que des trompettes en proche ? En tout cas sur le C4 le forte est plus brillant que le piano. Mais si il y avait l'effet de salle en plus ça le serait encore plus. Oui sinon le C5 harmon c'est complètement brillant. Il y a une résonance dans l'aigu, d'ailleurs c'est bien que ça soit dans le son, parce qu'elle est vraiment hyper présente. C'est plus brillant que le forte de C5 de trompette.
-La flute sinon je dirais. En fait plutôt la flute piccolo. C7 et C8 c'est brillant. Surtout le C8 forte.
-Sinon le glockenspiel, alors plutôt baguette en métal. Ça se joue sur l'attaque mais c'est léger. Une attaque molle ça serait moins brillant. Mais c'est léger sur le vibraphone, je suis pas si convaincu que ça qu'il y ait une différence. Parce qu'on agit sur l'attaque, sur le transitoire, mais la nature du son en elle même... n'est pas changée. 
-Pour la harpe, il y a une résonance, mais elle est pas très brillante.
+R: La trompette je pense. Déjà ordinario... Tu as que des trompettes en proche ? En tout cas sur le C4 le forte est plus brillant que le piano. Mais si il y avait l'effet de salle en plus ça le serait encore plus. Oui sinon le C5 harmon c'est complètement brillant. Il y a une résonance dans l'aigu, d'ailleurs c'est bien que ça soit dans le son, parce qu'elle est vraiment hyper présente. C'est plus brillant que le forte de C5 de trompette. La flute sinon je dirais. En fait plutôt la flute piccolo. C7 et C8 c'est brillant. Surtout le C8 forte. Sinon le glockenspiel, alors plutôt baguette en métal. Ça se joue sur l'attaque mais c'est léger. Une attaque molle ça serait moins brillant. Mais c'est léger sur le vibraphone, je suis pas si convaincu que ça qu'il y ait une différence. Parce qu'on agit sur l'attaque, sur le transitoire, mais la nature du son en elle même... n'est pas changée. Pour la harpe, il y a une résonance, mais elle est pas très brillante.
 
-Q : son manquant ?
+Q: son manquant ?
 
 R: Des clochettes oui, ou un chimes. Sur ces instruments là, la composante principale c'est la brillance.
 
 Q4
 
-R: Je pense que l'accordéon... sinon plutôt du marimba. Le marimba c'est pas du tout brillant. Pour moi le choix de la baguette n'influe pas. 
-Sinon le contrebasson. le C3 on entend pas tout ce qu'il y a dans l'aigu. 
-Le basson aussi sinon. Le basson a un côté pas très brillant là sur le C5 mezzoforte, il est plutôt mat.
+R: Je pense que l'accordéon... sinon plutôt du marimba. Le marimba c'est pas du tout brillant. Pour moi le choix de la baguette n'influe pas. Sinon le contrebasson. le C3 on entend pas tout ce qu'il y a dans l'aigu. Le basson aussi sinon. Le basson a un côté pas très brillant là sur le C5 mezzoforte, il est plutôt mat.
 
 Q: Un dernier, peut-être dans les cordes.
 
-R: Sur le sul ponticello, il y a quand même une composante soufflée, mais ce n'est pas pas brillant.
-La contrebasse ordinario oui sur le C5 c'est pas brillant. Pas de différence entre le vibrato et le non vibrato. Mais la différence entre les deux est de l'ordre du timbre mais... le vibrato apporte quelque chose sur l'amplitude du son, mais pas sur la brillance.
+R: Sur le sul ponticello, il y a quand même une composante soufflée, mais ce n'est pas pas brillant. La contrebasse ordinario oui sur le C5 c'est pas brillant. Pas de différence entre le vibrato et le non vibrato. Mais la différence entre les deux est de l'ordre du timbre mais... le vibrato apporte quelque chose sur l'amplitude du son, mais pas sur la brillance.
 
-Q : son manquant ?
+Q: son manquant ?
 
 R: Plutôt des sons mats oui. 
 

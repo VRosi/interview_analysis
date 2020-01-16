@@ -1,8 +1,8 @@
-R:  rugueux je pense que c'est plus facile
+QR:T
 
 Q1
 
-R: Alors, non ce n'est pas un terme que j'utilise. J'utiliserai plutôt strillé, qu'utilisais Boulez aussi, c'est pour faire référence... Mais c'était pour le temps, mais ça marche aussi pour les sonorités. C'était pour faire référence, en enseignant l'histoire de la musique, je fais aussi référence au texte, le vocabulaire d'une époque. Mais je vais le prendre comme synonyme avec rugueux.
+R:  rugueux je pense que c'est plus facile. Alors, non ce n'est pas un terme que j'utilise. J'utiliserai plutôt strillé, qu'utilisais Boulez aussi, c'est pour faire référence... Mais c'était pour le temps, mais ça marche aussi pour les sonorités. C'était pour faire référence, en enseignant l'histoire de la musique, je fais aussi référence au texte, le vocabulaire d'une époque. Mais je vais le prendre comme synonyme avec rugueux.
 
 Q2
 
@@ -18,7 +18,7 @@ R: Pour la caisse claire oui... Non parce qu'il y a l'idée de râper un peu aus
 
 Q: Un son rugueux, qu'est ce qu'il a comme caractéristiques vraiment sonore.
 
-R: Il est irrégulier, mais il peut être régulier dans son irrégularité, par exemple le "frrrrr"02:58 , effectivement ça coupe la ligne, mais l'idée c'est quand même d'avoir un roulement de la langue le plus régulier possible.
+R: Il est irrégulier, mais il peut être régulier dans son irrégularité, par exemple le ''frrrrr'', effectivement ça coupe la ligne, mais l'idée c'est quand même d'avoir un roulement de la langue le plus régulier possible.
 
 Q3
 
@@ -38,13 +38,11 @@ R: Pour le cor vous le proposez aussi ?
 
 Q: Oui mais si c'est pour le flatterzunge, on va retrouver plus ou moins là même chose je pense.
 
-R: Oui, voilà, pour tous les cuivres, même pour la flute et la clarinette.
-Pour les multiphoniques bien sur. Oui le hautbois multiphonique 1 c'est complètement rugueux, ça frotte. 
+R: Oui, voilà, pour tous les cuivres, même pour la flute et la clarinette. Pour les multiphoniques bien sur. Oui le hautbois multiphonique 1 c'est complètement rugueux, ça frotte. 
 
 Q: Ça frotte comme pour le flatterzunge ?
 
-R: Non ça serait comme une ligne ondulée le flatterzunge, là c'est le choc de deux sons, des sons éclatés, ce qu'on peut avoir aussi avec le faut de chanter dans l'instrument.
-Oui pour le tuba pour tous. 
+R: Non ça serait comme une ligne ondulée le flatterzunge, là c'est le choc de deux sons, des sons éclatés, ce qu'on peut avoir aussi avec le faut de chanter dans l'instrument. Oui pour le tuba pour tous. 
 
 Q: Alors il y a d'autres multiphoniques avec cette ondulation et le choque des sons, les multiphoniques de basson.
 
@@ -56,8 +54,7 @@ R: Oui sur le C1 bien sur, le sur-grave. Oui c'est un son rugueux totalement. Ma
 
 Q: Il descend pas aussi grave.
 
-R: Et il y avait les notes pédales du trombone aussi et du tuba. Oui c'est ça.
-Là c'st beaucoup plus facile.
+R: Et il y avait les notes pédales du trombone aussi et du tuba. Oui c'est ça. Là c'est beaucoup plus facile.
 
 Q: Des sons rugueux qui manquent ?
 
@@ -77,8 +74,7 @@ R: Sans vibrato c'est encore plus le contraire, avec le vibrato ça ajoute une c
 
 Q: J'avoue qu'il y a quelque chose qui me dérange un peu dans cette définition là, c'est le son du frottement de l'archet la corde
 
-R: Peut-être qu'on l'a moins sur le fortissimo C4\. Et sur le mezzoforte ? On l'a moins aussi. Donc on peut enlever les cordes piano, pianissimo. Là ça s'entend moins sur les cordes forte fortissimo.
-Pas le piccolo d'ici. Normalement un son droit, des autres flutes, du hautbois. Oui le C5 mezzoforte de la flute par exemple, encore plus dans le fortissimo oui c'est ça. Le hautbois fortissimo aussi ça marche. 
+R: Peut-être qu'on l'a moins sur le fortissimo C4\. Et sur le mezzoforte ? On l'a moins aussi. Donc on peut enlever les cordes piano, pianissimo. Là ça s'entend moins sur les cordes forte fortissimo. Pas le piccolo d'ici. Normalement un son droit, des autres flutes, du hautbois. Oui le C5 mezzoforte de la flute par exemple, encore plus dans le fortissimo oui c'est ça. Le hautbois fortissimo aussi ça marche. 
 
 Q: Dans les percussions, il y aurait des sons pas rugueux ?
 

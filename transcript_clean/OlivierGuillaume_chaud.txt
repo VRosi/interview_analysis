@@ -1,22 +1,18 @@
+QR:T
+
 Q1
 
 R: Un son chaud on l'utilise beaucoup, c'est très large. C'est un terme très employé et un peu fourre-tout
 
 Q2
 
-Un son chaud, voilà c'est un rapport à  la température. Chaud c'est grave. Dans le spectre et par rapport à la fondamentale. Mais chaud c'est pas forcément grave, disons que dans l'absolu, c'est un son grave. Spectralement il y a une dominance des fréquences graves par rapport aux harmoniques aiguës. Pour les gens, un son d'amplificateur à transistor c'est un son plutôt froid et dur, alors qu'un son d'amplificateur à lampe aura tendance à réchauffer le son. Ça peut être une prédominance des harmoniques paires ou impaires. Un son chaleureux, ou chaud, je l'associe à confortable et enveloppant. Il y aura aussi une attaque douce pour un son chaud. Mais par rapport à un son rond je pense qu'il y a pas d'aspect temporel. Je pense que le chaud peut être seulement dans une caractérisation spectrale des sons. Chaud tu peux mettre vintage. Un son vintage, où il y a peu d'aigu, avec une atténuation liée au support, à la prise de son. 
-Rond la définition est plus complexe. En tout cas le terme chaleureux je l'emploi plus pour des techniques de prises de son. Le côté chaleureux c'est un effet lié à la prise de son. Des exemples de sons naturellement chaud ça me met un peu en difficulté. 
+R: Un son chaud, voilà c'est un rapport à  la température. Chaud c'est grave. Dans le spectre et par rapport à la fondamentale. Mais chaud c'est pas forcément grave, disons que dans l'absolu, c'est un son grave. Spectralement il y a une dominance des fréquences graves par rapport aux harmoniques aiguës. Pour les gens, un son d'amplificateur à transistor c'est un son plutôt froid et dur, alors qu'un son d'amplificateur à lampe aura tendance à réchauffer le son. Ça peut être une prédominance des harmoniques paires ou impaires. Un son chaleureux, ou chaud, je l'associe à confortable et enveloppant. Il y aura aussi une attaque douce pour un son chaud. Mais par rapport à un son rond je pense qu'il y a pas d'aspect temporel. Je pense que le chaud peut être seulement dans une caractérisation spectrale des sons. Chaud tu peux mettre vintage. Un son vintage, où il y a peu d'aigu, avec une atténuation liée au support, à la prise de son. Rond la définition est plus complexe. En tout cas le terme chaleureux je l'emploi plus pour des techniques de prises de son. Le côté chaleureux c'est un effet lié à la prise de son. Des exemples de sons naturellement chaud ça me met un peu en difficulté. 
 
 Q3
 
 Q: On va repartir des sons que tu as trouvé rond, pour voir si tu les trouves aussi chaud.
 
-R: Le marimba déjà c'est chaud oui, plus dans le grave et piano, mais plutôt C3 et C4, le C2 fait toujours bizarre.
-Le vibraphone c'st moins chaud. La richesse spectrale et la quantité d'harmonique aiguës dans le vibraphone est plus élevée que pour le marimba, ça le rend plus ouvert et donc pour le chaleureux ça va moins bien.
-Pour la clarinette basse dans le piano le C2 est chaud, le C3 aussi mais un peu moins. J'ai l'impression que le bruit que j'entends dans le C2 est plus présent que dans le C3, plus le fait que ça soit plus grave, ça multiplie l'effet de chaleur. Le bruit participe un peu.
-Dans la prise de son vintage il y avait plus de bruit aussi. Un bruit de fond, assez lisse.
-Dans la flute semi-éolien C4 il y a de la chaleur avec le souffle. Mais au final le C4 ordinario piano est plus chaud. Parce que dans le semi-éolien j'entends le souffle et une harmonique aiguë, alors que dans l'ordinario il y a plus d'homogénéité, une pâte commune entre le souffle et la note. La clarinette semi-éolien c'est chaud aussi, c'est plutôt bien associé une fois que ça résonne.
-La flute alto aussi c'est chaud dans le grave piano, mais c'est rond aussi. Par rapport à la flute de tout à l'heure, c'est très difficile de savoir qui est le plus chaud. Dans la flute alto on a pas beaucoup d'aigu, mais on a une résonance médium un peu nasale, alors que dans la flute normale, il y a rien de nasale, quelque chose dans l'extrême aigu lié au souffle, mais les deux sont chauds.
+R: Le marimba déjà c'est chaud oui, plus dans le grave et piano, mais plutôt C3 et C4, le C2 fait toujours bizarre. Le vibraphone c'st moins chaud. La richesse spectrale et la quantité d'harmonique aiguës dans le vibraphone est plus élevée que pour le marimba, ça le rend plus ouvert et donc pour le chaleureux ça va moins bien. Pour la clarinette basse dans le piano le C2 est chaud, le C3 aussi mais un peu moins. J'ai l'impression que le bruit que j'entends dans le C2 est plus présent que dans le C3, plus le fait que ça soit plus grave, ça multiplie l'effet de chaleur. Le bruit participe un peu. Dans la prise de son vintage il y avait plus de bruit aussi. Un bruit de fond, assez lisse. Dans la flute semi-éolien C4 il y a de la chaleur avec le souffle. Mais au final le C4 ordinario piano est plus chaud. Parce que dans le semi-éolien j'entends le souffle et une harmonique aiguë, alors que dans l'ordinario il y a plus d'homogénéité, une pâte commune entre le souffle et la note. La clarinette semi-éolien c'est chaud aussi, c'est plutôt bien associé une fois que ça résonne. La flute alto aussi c'est chaud dans le grave piano, mais c'est rond aussi. Par rapport à la flute de tout à l'heure, c'est très difficile de savoir qui est le plus chaud. Dans la flute alto on a pas beaucoup d'aigu, mais on a une résonance médium un peu nasale, alors que dans la flute normale, il y a rien de nasale, quelque chose dans l'extrême aigu lié au souffle, mais les deux sont chauds.
 
 Q: Des sons chauds manquants ?
 
@@ -24,9 +20,7 @@ R: Une guitare électrique jouée au doigt. D'ailleurs un pizzicato de contrebas
 
 Q4
 
-R: Tout ce qui va être métallique, donc le glockenspiel. Pas chaud du tout. La flute piccolo aussi. 
-le cor cuivré C4 c'est pas chaud, typique de pas chaud.
-Le violon dans l'aigu aussi c'est pas chaud. Mais le frottement fait que c'est pas un archétype de pas chaud.
+R: Tout ce qui va être métallique, donc le glockenspiel. Pas chaud du tout. La flute piccolo aussi. Le cor cuivré C4 c'est pas chaud, typique de pas chaud. Le violon dans l'aigu aussi c'est pas chaud. Mais le frottement fait que c'est pas un archétype de pas chaud.
 
 Q5
 
@@ -40,8 +34,7 @@ R: Oui malgré le frottement il y a quand même du métallique.
 
 Q: Et le métallique c'est pas chaud ? Sachant que tu as hésité sur le vibraphone.
 
-R: Bon c'est pas parce que c'est un morceau de métal que c'est métallique. 
-Electronique aussi, même si dans les sources électroniques il peut y avoir de tout, mais quand on pense à quelque chose de chaud on pense pas à de l'électronique, parce que c'est pas naturel. Dans le chaud, il y a quelque chose lié à la nature, à la vie. A l'opposé de chaud un son synthétique. 
+R: Bon c'est pas parce que c'est un morceau de métal que c'est métallique. Electronique aussi, même si dans les sources électroniques il peut y avoir de tout, mais quand on pense à quelque chose de chaud on pense pas à de l'électronique, parce que c'est pas naturel. Dans le chaud, il y a quelque chose lié à la nature, à la vie. A l'opposé de chaud un son synthétique. 
 
 Q: Un son comme celui de l'accordéon ?
 

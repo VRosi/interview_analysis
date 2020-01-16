@@ -1,12 +1,16 @@
+QR:T
+
 Q1
+
+R: Chaud, oui de temps en temps.
 
 Q2
 
-R: Chaud, oui de temps en temps. Par exemple pour nous (les violons), un son chaud, dans l'attaque il faut pas que ce soit dur, ça va être avec du vibrato en général. Dans les sentiments ça veut aussi dire être plus investit dans le mode de jeu romantique avec une prise de son de l'archet qui rentre bien dans la corde.
+R: Par exemple pour nous (les violons), un son chaud, dans l'attaque il faut pas que ce soit dur, ça va être avec du vibrato en général. Dans les sentiments ça veut aussi dire être plus investit dans le mode de jeu romantique avec une prise de son de l'archet qui rentre bien dans la corde.
 
 Q: L'archet qui rentre bien dans la corde, ça donne quoi comme effet dans le son ?
 
-R: C'est-à-dire qu'un archet qui rentre dans la corde, il y a plus d'harmoniques aussi qui vont plus sortir de l'instrument. L'archet aussi, utiliser tous les crins de l'archet, alors que quand on joue normalement, on va pas forcément utiliser tous les crins, là on met ce qu'on appelle la mèche à plat donc forcément il y a plus de point de contact entre la corde et ce qui fait vibrer la corde: l'archet. Donc forcément, le son est plus riche, avec plus d'harmoniques, quelque chose qui fait que le violon résonne plus, et au niveau des décibels c'est plus fort.
+R: C'est-à-dire qu'un archet qui rentre dans la corde, il y a plus d'harmoniques aussi qui vont plus sortir de l'instrument. L'archet aussi, utiliser tous les crins de l'archet, alors que quand on joue normalement, on va pas forcément utiliser tous les crins, là on met ce qu'on appelle la mèche à plat donc forcément il y a plus de point de contact entre la corde et ce qui fait vibrer la corde, l'archet. Donc forcément, le son est plus riche, avec plus d'harmoniques, quelque chose qui fait que le violon résonne plus, et au niveau des décibels c'est plus fort.
 
 Q: Tu m'as quand même dis avec une attaque pas dure.
 
@@ -26,12 +30,11 @@ R: A l'écoute, c'est ce que je disais sur le cor, je trouvais le son chaud par 
 
 Q: Alors tu m'avais dis rond pas chaud.
 
-R: Bon bah c'était rond alors. C'est que je trouve ça chaud. J'entendais quelque chose chez le cor de plus rond que le trombone. Moins rugueux en fait. 
-Ce que j'ai dis sur le chaud pour mon instrument, je pense que c'est valable aussi bien pour tous les instruments à cordes.
+R: Bon bah c'était rond alors. C'est que je trouve ça chaud. J'entendais quelque chose chez le cor de plus rond que le trombone. Moins rugueux en fait. Ce que j'ai dis sur le chaud pour mon instrument, je pense que c'est valable aussi bien pour tous les instruments à cordes.
 
 Q: Et pour les vents et les percussions par exemple ,
 
-R: Alors par exemple les percussions je me dis que ça doit être difficile pour eux de faire un son chaud. D'ailleurs on a pas eu les timbales. Parce que j'allais dire les timbales, ils peuvent continuer un son comme ça, alors que le xylophone, si il continue on va entendre "tacatacatac...".
+R: Alors par exemple les percussions je me dis que ça doit être difficile pour eux de faire un son chaud. D'ailleurs on a pas eu les timbales. Parce que j'allais dire les timbales, ils peuvent continuer un son comme ça, alors que le xylophone, si il continue on va entendre ''tacatacatac...''.
 
 Q3
 
@@ -115,28 +118,23 @@ R: La clarinette basse C2 piano pour le coup c'est assez doux, c'est un peu chau
 
 Q: Est-ce que tu dirais que les sons de cordes de tout à l'heure il y a une question de douceur aussi ?
 
-R: Peut-être pas. Une douceur par rapport au forte. Mais c'est lié à l'attaque. Nous (les cordes) la douceur j'ai l'impression qu'elle va être plus marquée sur les cordes plus aiguës où justement ça peut être facilement dur. Parce que du fait de la corde qui est toute petite, ça arrache un peu. On dit d'ailleurs "le violon, aah ça arrache les oreilles", quand c'est hyper aigu. Donc le son doux, je le cherche pas forcément dans les graves parce qu'il est peut-être doux naturellement, mais parce que dans les aigus on va essayer de chercher, une douceur, une rondeur, parce que ça peut-être difficile à trouver dans l'aigu.
+R: Peut-être pas. Une douceur par rapport au forte. Mais c'est lié à l'attaque. Nous (les cordes) la douceur j'ai l'impression qu'elle va être plus marquée sur les cordes plus aiguës où justement ça peut être facilement dur. Parce que du fait de la corde qui est toute petite, ça arrache un peu. On dit d'ailleurs ''le violon, aah ça arrache les oreilles'', quand c'est hyper aigu. Donc le son doux, je le cherche pas forcément dans les graves parce qu'il est peut-être doux naturellement, mais parce que dans les aigus on va essayer de chercher, une douceur, une rondeur, parce que ça peut-être difficile à trouver dans l'aigu.
 
 Q: Par rapport aux sons qu'on a écouté de clarinette, clarinette basse et saxophone, il y en a qui sont plus chauds que d'autres ?
 
-R: Je retourne sur le saxophone. Le problème pour moi le saxophone c'est que c'est limite un harmonium le saxophone. Je sais j'ai l'impression d'avoir l'harmonica; Déjà dans le piano c'est mieux. Oui je vois plus celui là le C4 piano, le chaud. Le son de clarinette C4 piano il est chaud.
-Bon j'écoute d'autres instruments. Le C5 piano de cor par exemple c'est assez chaud. Parce que ça ressemble plus à ce que j'ai dis pour la clarinette piano.
+R: Je retourne sur le saxophone. Le problème pour moi le saxophone c'est que c'est limite un harmonium le saxophone. Je sais j'ai l'impression d'avoir l'harmonica; Déjà dans le piano c'est mieux. Oui je vois plus celui là le C4 piano, le chaud. Le son de clarinette C4 piano il est chaud. Bon j'écoute d'autres instruments. Le C5 piano de cor par exemple c'est assez chaud. Parce que ça ressemble plus à ce que j'ai dis pour la clarinette piano.
 
 Q: Mais ça relève du chaud du coup ?
 
-R: C'est pour ça que quand tu me dis "est-ce que c'est chaud ?" je le remets un peu en question. 
-
-Peut-être que ça se rapprocherait un peu plus de la douceur que de la chaleur. Ce que je voulais dire c'est qu'encore une fois, même si je te parlais de mode de jeu sur le chaud, c'est quand même très lié à une harmonie, une belle modulation qu'on veut faire sentir. Par exemple, moi Brahms c'est un archétype de musique chaude. Ça déborde de sentiment, c'est chaud. Et justement, quand tout un coup on a une plénitude au niveau du son...
+R: C'est pour ça que quand tu me dis ''est-ce que c'est chaud ?'' je le remets un peu en question. Peut-être que ça se rapprocherait un peu plus de la douceur que de la chaleur. Ce que je voulais dire c'est qu'encore une fois, même si je te parlais de mode de jeu sur le chaud, c'est quand même très lié à une harmonie, une belle modulation qu'on veut faire sentir. Par exemple, moi Brahms c'est un archétype de musique chaude. Ça déborde de sentiment, c'est chaud. Et justement, quand tout un coup on a une plénitude au niveau du son...
 
 Q: Il y a une notion d'harmonie pour la plénitude du son ?
 
-R: C'est à dire que ça aide. On a l'impression qu'on va jouer plus chaud.
-
-Non mais quand c'est qu'une note, c'est un do déjà, quand on a l'oreille absolu on entend que le do.
+R: C'est à dire que ça aide. On a l'impression qu'on va jouer plus chaud. Non mais quand c'est qu'une note, c'est un do déjà, quand on a l'oreille absolu on entend que le do.
 
 Q: Et ça pose problème pour trouver le chaud ? Puisque c'est pas un ré bémol ?
 
-R: Non ça pose pas de problème. Non mais c'est marrant parce que du coup quand il joue, je vais pas entendre le son "A" je vais entendre le son "O". Forcément sur le do il y a forcément, le "O" qui vient, alors que le "A", c'est La.
+R: Non ça pose pas de problème. Non mais c'est marrant parce que du coup quand il joue, je vais pas entendre le son ''A'' je vais entendre le son ''O''. Forcément sur le do il y a forcément, le ''O'' qui vient, alors que le ''A'', c'est La.
 
 Q: Si tu devais me choisir quand même un extrait qui est chaud dans tout ça ?
 
@@ -158,7 +156,7 @@ Q: Moi je me posais la question parce que de chefs d'orchestres me l'ont évoqu�
 
 R: Ça c'est possible. C'est possible que je me dise, pour les cordes, ça m'aurait évoqué, le début de la sérénade pour cordes de Tchaïkovski où c'est que des cordes. Et là en générale pour moi ça c'est très chaud. 
 
-Q : son manquant ?
+Q: son manquant ?
 
 R: Du style, un quatuor de cor, oui peut-être. Je sais pas quand vous êtes aussi en ensemble de cuivres.
 
@@ -184,9 +182,7 @@ R: Ah mais ceci dit, pas chaud ça peut être dans les modes de jeu. La trompett
 
 Q: Ah, vu que c'est un peu plus grave si on prend la sourdine harmon de trombone ?
 
-R: Oui le son quand les bateau entre dans le port.
-Je voudrais trouver un exemple plus marquant pour dire que c'est pas chaud.
-Oui tout ce qui va être pizzicato, je sens pas une chaleur énorme, donc par exemple la guitare, ou même la harpe. Le C1 de harpe je trouve pas que c'est chaud, c'est angoissant.
+R: Oui le son quand les bateau entre dans le port. Je voudrais trouver un exemple plus marquant pour dire que c'est pas chaud. Oui tout ce qui va être pizzicato, je sens pas une chaleur énorme, donc par exemple la guitare, ou même la harpe. Le C1 de harpe je trouve pas que c'est chaud, c'est angoissant.
 
 Q: Et le glockenspiel de tout à l'heure ? On est juste passé dessus...
 
@@ -198,8 +194,7 @@ R: Oui, c'est pas que ça interfère mais c'est que limite pour moi ce serait an
 
 Q: Est ce que si je te fais écouter quelques instruments que tu n'as pas encore écouté, notamment l'accordéon...
 
-R: Oui je trouve pas ça chaud parce que je trouve ça trop extérieur.
-Le marimba, je pense que ça peut être assez chaud, le C4 c'est plus chaud. Mais le plus aigu on est d'accord c'est difficile de trouver du chaud là-dessus. C'est "pik" quoi, ça tiens même pas.
+R: Oui je trouve pas ça chaud parce que je trouve ça trop extérieur. Le marimba, je pense que ça peut être assez chaud, le C4 c'est plus chaud. Mais le plus aigu on est d'accord c'est difficile de trouver du chaud là-dessus. C'est ''pik'' quoi, ça tiens même pas.
 
 Q: Il y a une question de son un peu entretenu, ou qui dure ?
 
@@ -209,11 +204,15 @@ Q: Oui j'essaie juste de voir des sons que tu n'as pas trop exploré.
 
 R: Mais le vibraphone ça résonne plus le C4 piano donc il y a une sensation de douceur, mais le forte il y a une attaque. Je serais très embêté si je devais faire ce son là et qu'on me demande de faire ce son plus chaud.
 
-Q: En terme de satisfaction ?R: Un peu moins 6? Parce que en effet on a parlé de la durée, et je pense en fait ce qui est pas chaud pour moi c'est ce qui est net, ce qui se coupe. Du coup le piccolo, comme il tient un peu...
+Q: En terme de satisfaction ?
 
-Q: Et tu penses quoi de ce son de xylophone avec les baguettes dures ?R: Surtout, plus c'est aigu, moins ça résonne. Donc pour trouver quelque chose de chaud là dedans...
+R: Un peu moins 6? Parce que en effet on a parlé de la durée, et je pense en fait ce qui est pas chaud pour moi c'est ce qui est net, ce qui se coupe. Du coup le piccolo, comme il tient un peu...
 
-Q : son manquant ?
+Q: Et tu penses quoi de ce son de xylophone avec les baguettes dures ?
+
+R: Surtout, plus c'est aigu, moins ça résonne. Donc pour trouver quelque chose de chaud là dedans...
+
+Q: son manquant ?
 
 R: Par exemple dans les percussions, tout ce qui est cymbales, j'aurais peut-être tout de suite dis que c'est pas chaud pour moi.
 

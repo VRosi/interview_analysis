@@ -1,10 +1,12 @@
+QR:T
+
 Q1
 
 R: Oui j'en parle de rondeur. Pour moi la rondeur c'est quelque chose d'assez musical en fait. 
 
 Q: Plus que les trois autres termes ?
 
-R: Non, non. C'est pas strictement musical. Mais disons que les sons typiques de rondeur pour moi ça va être des sons de basse électrique ou la définition de ce que tu veux d'un son de basse, avec l'idée "Est-ce que tu veux quelque chose de précis ou de rond ?". 
+R: Non, non. C'est pas strictement musical. Mais disons que les sons typiques de rondeur pour moi ça va être des sons de basse électrique ou la définition de ce que tu veux d'un son de basse, avec l'idée ''Est-ce que tu veux quelque chose de précis ou de rond ?''. 
 
 Q2
 
@@ -12,7 +14,7 @@ R: Heu non, pas forcément pour l'enregistrement, plus une façon de jouer. Mais
 
 Q: Contrairement à la brillance où ça sera une résonance dans l'aigu ?
 
-R: Tout à fait. Pour moi ça va être centré autour de ça : attaque plus molle et résonance autour de la fondamentale et des premières harmoniques, dans la zone basse du spectre.
+R: Tout à fait. Pour moi ça va être centré autour de ça, attaque plus molle et résonance autour de la fondamentale et des premières harmoniques, dans la zone basse du spectre.
 
 Q: Tu m'en avais pas parler pour le chaud de ces choses là bien que tu les rattaches.
 
@@ -24,8 +26,7 @@ R: Oui. Non parce qu'avoir un timbre plein, ça veut dire étalé, au contraire 
 
 Q3
 
-R: De la contrebasse du coup, plutôt en pizzicato. Oui voilà le C2 pizzicato piano c'est rond, surtout celle là.
-Sinon j'irais dans du marimba.
+R: De la contrebasse du coup, plutôt en pizzicato. Oui voilà le C2 pizzicato piano c'est rond, surtout celle là. Sinon j'irais dans du marimba.
 
 Q: Est ce que la hauteur va jouer sur la rondeur ?
 
@@ -37,13 +38,11 @@ R: Le marimba dans le piano parce que dans le forte on va avoir une attaque dure
 
 Q: On entend quand même bien une harmonique aiguë sur le son C2 de marimba, c'est pas dans la bas du spectre ça.
 
-R: Non ça me dérange pas, parce que je ressens avant tout c'est la résonance qui est très prononcée et qui prend beaucoup de place.
-Pour le pizzicato de guitare C3 on est sur du rond aussi.
+R: Non ça me dérange pas, parce que je ressens avant tout c'est la résonance qui est très prononcée et qui prend beaucoup de place. Pour le pizzicato de guitare C3 on est sur du rond aussi.
 
 Q: Autre chose ? Peut-être un son entretenu , ça peut être rond ?
 
-R: Oui mais ils le seront moins. 
-Oui le basson C2 mezzoforte c'est pas très rond.
+R: Oui mais ils le seront moins. Oui le basson C2 mezzoforte c'est pas très rond.
 
 Q: Mais là il y a beaucoup d'harmoniques non ?
 
@@ -63,15 +62,11 @@ R: Ça va être des sons très itératifs, très courts, qui vont pas trainer, o
 
 Q: Un xylophone par exemple ?
 
-R: Oui complètement. Là ce sont vraiment le transitoire et l'attaque qui ressortent. Beaucoup plus que la résonance. 
-Sur le pizz bartok aussi, mais plutôt sur le violon. C'est marrant il y a quand même de la résonance. 
-Oui sinon des sons percussifs avec très peu de résonance comme le xylophone dure C7 mezzoforte. Le multiphonique de basson c'est pas rond.
+R: Oui complètement. Là ce sont vraiment le transitoire et l'attaque qui ressortent. Beaucoup plus que la résonance. Sur le pizzicato bartok aussi, mais plutôt sur le violon. C'est marrant il y a quand même de la résonance. Oui sinon des sons percussifs avec très peu de résonance comme le xylophone dure C7 mezzoforte. Le multiphonique de basson c'est pas rond.
 
 Q: Mais là le trop plein d'information te dérange pas ?
 
-R: Oui bon, mais je trouve ça pas rond du tout.
-Sinon en flute, un son semi-éolien, forte c'est pas rond, pour prendre un exemple tenue.
-Les staccatos de cuivre c'est pas forcément parlant.
+R: Oui bon, mais je trouve ça pas rond du tout. Sinon en flute, un son semi-éolien, forte c'est pas rond, pour prendre un exemple tenue. Les staccatos de cuivre c'est pas forcément parlant.
 
 Q: Tu penses quoi d'un son de trompette en sourdine ? On a des harmoniques aiguës, des attaques...
 
@@ -81,7 +76,7 @@ Q: Tu le retrouves pour le trombone qui joue avec la même sourdine ?
 
 R: Non là justement c'est rond.
 
-Q : son manquant ?
+Q: son manquant ?
 
 R: Non en fait parce que la composante ronde est quelque chose d'assez flagrant, c'est plutôt son absence qui marque un son comme non rond, c'est pas comme brillant et mat.
 

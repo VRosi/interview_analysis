@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: Rugueux je l'utilise pas très souvent. Ça va plutôt être pour décrire des sons avec un aspect temporel avec beaucoup de micro-informations qui changent et un aspect un peu agressif eventuellement, justement pas rond tu vois.
@@ -8,16 +10,7 @@ R: Des sons qui ont beaucoup de micro-informations qui changent au cours du son.
 
 Q3
 
-R: Des sons de cordes avec l'archet vraiment écrasé sur la corde. Après les cordes il y a toujours le bruit du crin qui porte un peu l'idée de rugueux parce que il y a le frottement bruité. On l'entends moins dans l'aigu. Mais dans l'alto forte ordinario C3 c'est assez rugueux. Pareil pour le violoncelle. 
-Le violon pianissimo il y a un petit côté rugueux sur le C6 pianissimo. Mais sur l'alto il y a vraiment quelque chose de complexe.
-Dans le sul ponticello, il y a quelque chose avec peu d'énergie qui donnent pas trop le côté râpeux. Il y a le côté bruité quand même. 
-(écoute corde écrasée de contrebasse) Oui ça c'est rugueux.
-Sinon dans les flatterzunge tu va avoir sans doute un côté rugueux. La flute en flatterzunge c'est rugueux mais c'est un autre rugueux. Il y a un peu des pulses, qui sont assez prévisibles mais en même temps tu as une structure temporelle qui n'est pas lisse. C'est pas la même chose que la corde écrasée ou tu as un bruit quasi aléatoire. Mais je dirais quand même que c'est rugueux. C'est un mode de jeu qui ajoute de la rugosité.
-C'est marrant parce que le flatterzunge de cor anglais je dirais pas que c'est rugueux. 
-La trompette en flatterzunge c'est rugueux, il y a une sorte de petit claquement. Le joué et chanté de tuba c'est pas trop rugueux. 
-Dans les flatterzunge rugueux il y a un claquement alors que les autres c'est plus une modulation.
-Pour les multiphoniques de flûte, ceux où il y a un battement où une interférence, il y a quelque chose de plus rugueux.
-Le multiphonique de basson c'est rugueux. pour le saxophone le multiphonique est moins rugueux.
+R: Des sons de cordes avec l'archet vraiment écrasé sur la corde. Après les cordes il y a toujours le bruit du crin qui porte un peu l'idée de rugueux parce que il y a le frottement bruité. On l'entends moins dans l'aigu. Mais dans l'alto forte ordinario C3 c'est assez rugueux. Pareil pour le violoncelle. Le violon pianissimo il y a un petit côté rugueux sur le C6 pianissimo. Mais sur l'alto il y a vraiment quelque chose de complexe. Dans le sul ponticello, il y a quelque chose avec peu d'énergie qui donnent pas trop le côté râpeux. Il y a le côté bruité quand même. (écoute corde écrasée de contrebasse) Oui ça c'est rugueux. Sinon dans les flatterzunge tu va avoir sans doute un côté rugueux. La flute en flatterzunge c'est rugueux mais c'est un autre rugueux. Il y a un peu des pulses, qui sont assez prévisibles mais en même temps tu as une structure temporelle qui n'est pas lisse. C'est pas la même chose que la corde écrasée ou tu as un bruit quasi aléatoire. Mais je dirais quand même que c'est rugueux. C'est un mode de jeu qui ajoute de la rugosité. C'est marrant parce que le flatterzunge de cor anglais je dirais pas que c'est rugueux. La trompette en flatterzunge c'est rugueux, il y a une sorte de petit claquement. Le joué et chanté de tuba c'est pas trop rugueux. Dans les flatterzunge rugueux il y a un claquement alors que les autres c'est plus une modulation. Pour les multiphoniques de flûte, ceux où il y a un battement où une interférence, il y a quelque chose de plus rugueux. Le multiphonique de basson c'est rugueux. pour le saxophone le multiphonique est moins rugueux.
 
 Q: Il y a d'autres sons rugueux qui ont manqué ?
 
@@ -25,13 +18,11 @@ R: Des sons de percussions, comme un son de cymbale frottée avec une baguette. 
 
 Q4
 
-R: Le glockenspiel ou la clarinette. Oui le glockenspiel est pas rugueux. 
-Et la clarinette c'est pas rugueux non plus dans son ensemble.
-L'accordéon de C4 à C8 c'est pas rugueux. Dans le grave il est un peu rugueux, et c'est le genre de rugueux du flatterzunge.
+R: Le glockenspiel ou la clarinette. Oui le glockenspiel est pas rugueux. Et la clarinette c'est pas rugueux non plus dans son ensemble. L'accordéon de C4 à C8 c'est pas rugueux. Dans le grave il est un peu rugueux, et c'est le genre de rugueux du flatterzunge.
 
 Q5
 
-R: Un son qui est lisse ou qui est rond. Un son qui est prévisible, qui n'est pas bruité. Un son prévisible dans sa structure, périodique etc. Un son harmonique avec peu de variation sinternes.
+R: Un son qui est lisse ou qui est rond. Un son qui est prévisible, qui n'est pas bruité. Un son prévisible dans sa structure, périodique etc. Un son harmonique avec peu de variations internes.
 
 Q: Mais à ce titre là est ce que lisse ne peut pas être contenu dans rond ?
 
@@ -39,8 +30,7 @@ R: Si c'est apparenté. 
 
 Q: Si tu devais décider d'un opposé entre lisse et rond ?
 
-R: Instinctivement je ferais la différence. Rond va être lisse, mais lisse n'est pas nécessairement rond. Dans rond il y a le côté pas agressif, avec un son pas fatigant à écouter, alors que dans le côté lisse, tu pourrais mettre un sinus à 10000 herz, ça serait lisse, mais ça serait vite fatigant. Rond c'est agréable auditivement. 
-Lisse c'est pas parasité, pas bruité.
+R: Instinctivement je ferais la différence. Rond va être lisse, mais lisse n'est pas nécessairement rond. Dans rond il y a le côté pas agressif, avec un son pas fatigant à écouter, alors que dans le côté lisse, tu pourrais mettre un sinus à 10000 hertz, ça serait lisse, mais ça serait vite fatigant. Rond c'est agréable auditivement. Lisse c'est pas parasité, pas bruité.
 
 Q6
 

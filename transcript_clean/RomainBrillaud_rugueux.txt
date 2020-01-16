@@ -1,6 +1,8 @@
+QR:T
+
 Q1
 
-R: Tel quel, je ne l'utilise jamais. Par contre son contraire oui, on va rechercher à faire qu'un son soit pas rugueux. Je l'utilise pour du "foley", c'est tout ce qu'on va re-bruiter. 
+R: Tel quel, je ne l'utilise jamais. Par contre son contraire oui, on va rechercher à faire qu'un son soit pas rugueux. Je l'utilise pour du ''foley'', c'est tout ce qu'on va re-bruiter. 
 
 Q2
 
@@ -8,34 +10,23 @@ R: C'est une vibration forcée et pas naturelle. C'est un son âpre. On rentre a
 
 Q3
 
-R: Je vais trouver plus rugueux les sons de cordes oui je pense.
-Le violon non vibrato C7 et pianissimo est très rugueux. L'harmonique de violon aussi est bien rugueux.
-Le violoncelle et contrebasse en harmonique aussi c'est rugueux.
+R: Je vais trouver plus rugueux les sons de cordes oui je pense. Le violon non vibrato C7 et pianissimo est très rugueux. L'harmonique de violon aussi est bien rugueux. Le violoncelle et contrebasse en harmonique aussi c'est rugueux.
 
 Q: Don dès qu'on entend le frottement c'est rugueux. Le sulponticello aussi c'est rugueux ?
 
-R: Peut-être un peu moins le sulponticello. Le frottement est moins forcé, il y a moins de résistance.
-Le pizzicato Bartok c'est un son rugueux mais pas de la même façon. C'est vrai qu'on pourrait dire que c'est un son brut, comme j'ai dit abrupte. Ça rejoint le côté soudai des pizzicato Bartok. Après il y a un lien cognitif au fait qu'on sent une utilisation non standard de l'instrument. Je sais pas si on parle du son ou alors de l'utilisation de l'instrument, je suis pas sur de bien faire la distinction.
+R: Peut-être un peu moins le sulponticello. Le frottement est moins forcé, il y a moins de résistance. Le pizzicato Bartok c'est un son rugueux mais pas de la même façon. C'est vrai qu'on pourrait dire que c'est un son brut, comme j'ai dit abrupte. Ça rejoint le côté soudain des pizzicato Bartok. Après il y a un lien cognitif au fait qu'on sent une utilisation non standard de l'instrument. Je sais pas si on parle du son ou alors de l'utilisation de l'instrument, je suis pas sur de bien faire la distinction.
 
 Q: Par rapport à une utilisation non conventionnelle de l'instrument est ce que des multiphoniques de bois peuvent être rugueux ?
 
-R: Oui la pour la flute jouant en multiphonique sur certains il y a une frottement. 
-Le vibraphone à l'archet me parait rugueux mais moins que le violon à cause de la résonance.
-Le multiphonique 3 de clarinette est rugueux. C'est l'association des notes je pense. Le dernier multiphonique de basson est très rugueux aussi.
-Le flatterzunge de basson est moins rugueux que le multiphonique de basson. 
-Je sens moins le frottement dans les multiphoniques de saxophone.
-Le tuba chanté je dirais pas que c'est rugueux.
+R: Oui la pour la flute jouant en multiphonique sur certains il y a une frottement. Le vibraphone à l'archet me parait rugueux mais moins que le violon à cause de la résonance. Le multiphonique 3 de clarinette est rugueux. C'est l'association des notes je pense. Le dernier multiphonique de basson est très rugueux aussi. Le flatterzunge de basson est moins rugueux que le multiphonique de basson. Je sens moins le frottement dans les multiphoniques de saxophone. Le tuba chanté je dirais pas que c'est rugueux.
 
 Q: Il y a des sons qui ont manqué ?
 
-R: Oui le frottement d'un plectre sur une corde.
-Sinon pour une harpe dans le grave forte ou le piano dans le grave forte, il y a l'aspect surprenant et brut qui les rend un peu rugueux. Mais pas de la même façon que le pizzicato bartok.
+R: Oui le frottement d'un plectre sur une corde. Sinon pour une harpe dans le grave forte ou le piano dans le grave forte, il y a l'aspect surprenant et brut qui les rend un peu rugueux. Mais pas de la même façon que le pizzicato bartok.
 
 Q4
 
-R: Le marimba c'est un pas rugueux, mais un peu dans l'aigu, à cause de l'aspect percussif fort. On peut trouver mieux. 
-Le cor anglais joué ordinario c'est pas rugueux. Le hautbois c'est un peu rugueux, le basson aussi.
-La note C1 de contrebasson c'est pas très rugueux parce que le son est très constant, on a pas l'impression d'un effort, de matière qui frotte. 
+R: Le marimba c'est un pas rugueux, mais un peu dans l'aigu, à cause de l'aspect percussif fort. On peut trouver mieux. Le cor anglais joué ordinario c'est pas rugueux. Le hautbois c'est un peu rugueux, le basson aussi. La note C1 de contrebasson c'est pas très rugueux parce que le son est très constant, on a pas l'impression d'un effort, de matière qui frotte. 
 
 Q: C'est peut-être ça le point commun entre les différents sons rugueux  qu'on a écouté, ils sont pas constants;
 
@@ -43,15 +34,13 @@ R: Oui ils sont pas constants, un peu chaotiques,  pas stables. Le son de contr
 
 Q: Et le vibraphone tu vas trouver ça rugueux ?
 
-R: Non c'est pas rugueux dans le piano. Alors que le marimba un peu. Et le vibraphone à l'archet c'est plus rugueux.
-Les pizzicatos c'est très peu rugueux. Dans l'aigu et forte c'est un peu plus rugueux. Le pizzicato de contrebasse ou de violoncelle mezzoforte et piano dans le grave est très "smooth".
+R: Non c'est pas rugueux dans le piano. Alors que le marimba un peu. Et le vibraphone à l'archet c'est plus rugueux. Les pizzicatos c'est très peu rugueux. Dans l'aigu et forte c'est un peu plus rugueux. Le pizzicato de contrebasse ou de violoncelle mezzoforte et piano dans le grave est très ''smooth''.
 
 Q5
 
-Q: Est ce que justement "smooth" c'est un mot que tu utilises ?
+Q: Est ce que justement ''smooth'' c'est un mot que tu utilises ?
 
-R: Oui, je l'utilise "smooth" professionnellement. Doux ça me parait bien correspondre aussi, ou alors lisse, ça m'arrive de le dire aussi, par opposition à une vibration avec une résistance. Presque comme un sweep, l'inverse de rugueux. 
-Sinon lisse, stable et doux c'est vraiment l'opposé, c'est l'inverse de la vibration forcée, c'est un glissement, il n'y a pas de résistance.
+R: Oui, je l'utilise ''smooth'' professionnellement. Doux ça me parait bien correspondre aussi, ou alors lisse, ça m'arrive de le dire aussi, par opposition à une vibration avec une résistance. Presque comme un sweep, l'inverse de rugueux. Sinon lisse, stable et doux c'est vraiment l'opposé, c'est l'inverse de la vibration forcée, c'est un glissement, il n'y a pas de résistance.
 
 Q: Il y a des sons qui ont manqué ?
 
@@ -59,7 +48,4 @@ R: Le long bâton qu'ils utilisent en Capoeira (le berimbao). Sinon tu as des pe
 
 Q6
 
-R: Oui pour du rugueux, c'est un désagrément, une gêne et une insatisfaction. 
-Dans rond il y a pas cette idée de frottement. Un son rond va être lisse, c'est hyper important.
-Sinon, lisse c'est pas systématique, mais ça peut être lié à quelque chose d'agréable. C'est ce qu'on utilise d'ailleurs dans les récompenses pour le joueur. Quelque chose qu'on a envie de déclencher. 
-Le rond aussi ça peut être une récompense parfois, mais pas forcément.
+R: Oui pour du rugueux, c'est un désagrément, une gêne et une insatisfaction. Dans rond il y a pas cette idée de frottement. Un son rond va être lisse, c'est hyper important. Sinon, lisse c'est pas systématique, mais ça peut être lié à quelque chose d'agréable. C'est ce qu'on utilise d'ailleurs dans les récompenses pour le joueur. Quelque chose qu'on a envie de déclencher. Le rond aussi ça peut être une récompense parfois, mais pas forcément.

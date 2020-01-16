@@ -1,31 +1,24 @@
+QR:T
+
 Q1
 
 R: Oui je l'emploie oui. Pour de la musique instrumentale et de la musique mixte c'est surtout un moyen de communication. C'est un moyen de faire comprendre quelque chose pour l'interprétation, et pour discuter avec les ingénieurs du son.
 
 Q2
 
-R: C'est un son assez enveloppé. La rondeur ça peut être une certaine forme de souplesse dans l'interprétation. La rondeur c'est par exemple la souplesse des coups d'archet. Si le musicien à corde joue de manière plus saccadée, ça ne sera pas très rond. C'est aussi une manière de parler de la morphologie des notes. Plutôt la morphologie temporelle. Une morphologie avec une attaque longue, avec une sorte de fade, au niveau de l'intensité assez progressif. Ou alors une attaque rond au piano, c'est une sensation d'attaque pas trop brillante. Quand je dis brillant c'est des harmoniques aiguës.  On essaie d'avoir un équilibre spectral plutôt bas-médium. C'est surtout sur l'attaque quand on est avec des musiciens. Ce côté enveloppant vient d'un équilibre global plutôt bas. Pour parler de percussion c'est pas mal parce qu'il ne peuvent pas trop agir sur le timbre mais surtout sur l'attaque, ça serait un Do3 de gong, ça a une certaine inertie, l'attaque est assez longue et après la résonance est assez basse. 
-Je dirais pas que la grosse caisse est ronde parce qu'elle a trop de volume. 
+R: C'est un son assez enveloppé. La rondeur ça peut être une certaine forme de souplesse dans l'interprétation. La rondeur c'est par exemple la souplesse des coups d'archet. Si le musicien à corde joue de manière plus saccadée, ça ne sera pas très rond. C'est aussi une manière de parler de la morphologie des notes. Plutôt la morphologie temporelle. Une morphologie avec une attaque longue, avec une sorte de fade, au niveau de l'intensité assez progressif. Ou alors une attaque rond au piano, c'est une sensation d'attaque pas trop brillante. Quand je dis brillant c'est des harmoniques aiguës.  On essaie d'avoir un équilibre spectral plutôt bas-médium. C'est surtout sur l'attaque quand on est avec des musiciens. Ce côté enveloppant vient d'un équilibre global plutôt bas. Pour parler de percussion c'est pas mal parce qu'il ne peuvent pas trop agir sur le timbre mais surtout sur l'attaque, ça serait un Do3 de gong, ça a une certaine inertie, l'attaque est assez longue et après la résonance est assez basse. Je dirais pas que la grosse caisse est ronde parce qu'elle a trop de volume. 
 
 Q3
 
-R: Un pizzicato de contrebasse plutôt grave. Oui voilà le C2 mezzoforte c'est très rond. Le C3 est moins rond, et en mezzoforte c'est mieux. Le pizzicato de violoncelle aussi c'est rond mais moins que la contrebasse. Sur les cordes à vide on à moins de rondeur que quand c'est pincé. C'est une question de volume spatial.
-Le cor dans les nuances faibles c'est très rond de C3 à C5\. Dans l'entretien, le spectre ça le fait. La clarinette dans les nuances faibles aussi c'est rond. Pour la clarinette basse il faut vraiment que ça soit piano. En fait il y a quelque chose de détimbré, c'est à dire avec peu d'harmoniques aiguës. Les subtones de saxophone j'imagine qu'il y a une qualité un peu ronde. 
-Le tuba dans le piano et C3 C4 c'est rond oui . Le tuba va être assez doux. Je fais pas une différence très nette entre rond et doux. Je pense que j'utilise rond un peu plus objectivement. 
-Le piano ça marche pas je trouve, par rapport aux échantillons qui sont là, c'est trop métallique.
-Le marimba ça va pas. C'est l'attaque qui va pas.
-Le vibraphone C4 avec la baguette molle, il y a une certaine rondeur mais pas autant que la contrebasse. Là c'est plus une question de registre que d'attaque.
-Les meilleurs exemples sont surtout le tuba et la contrebasse.
+R: Un pizzicato de contrebasse plutôt grave. Oui voilà le C2 mezzoforte c'est très rond. Le C3 est moins rond, et en mezzoforte c'est mieux. Le pizzicato de violoncelle aussi c'est rond mais moins que la contrebasse. Sur les cordes à vide on à moins de rondeur que quand c'est pincé. C'est une question de volume spatial. Le cor dans les nuances faibles c'est très rond de C3 à C5. Dans l'entretien, le spectre ça le fait. La clarinette dans les nuances faibles aussi c'est rond. Pour la clarinette basse il faut vraiment que ça soit piano. En fait il y a quelque chose de détimbré, c'est à dire avec peu d'harmoniques aiguës. Les subtones de saxophone j'imagine qu'il y a une qualité un peu ronde. Le tuba dans le piano et C3 C4 c'est rond oui . Le tuba va être assez doux. Je fais pas une différence très nette entre rond et doux. Je pense que j'utilise rond un peu plus objectivement. Le piano ça marche pas je trouve, par rapport aux échantillons qui sont là, c'est trop métallique. Le marimba ça va pas. C'est l'attaque qui va pas. Le vibraphone C4 avec la baguette molle, il y a une certaine rondeur mais pas autant que la contrebasse. Là c'est plus une question de registre que d'attaque. Les meilleurs exemples sont surtout le tuba et la contrebasse.
 
-Q : son manquant ?
+Q: son manquant ?
 
 R: Ah il y a quand même des sons de basson qui peuvent être doux. Ah non pas trop les anches doubles. Plutôt anche simple, cordes grave, et cuivre plutôt grave joués dans l'aigu.
 
 Q4
 
-R: Le multiphonique de hautbois c'est pas rond (1). Celui là à un côté très pointu, très hérissé. Si je prends les cordes aiguës et les anches doubles. Le pizzicato bartok de violon par exemple c'est pas rond.
-Le basson c'est quand même spécial. La trompette cuivrée très fort c'est pas rond. 
-Le glockenspiel c'est pas très rond.
+R: Le multiphonique de hautbois c'est pas rond (1). Celui là à un côté très pointu, très hérissé. Si je prends les cordes aiguës et les anches doubles. Le pizzicato bartok de violon par exemple c'est pas rond. Le basson c'est quand même spécial. La trompette cuivrée très fort c'est pas rond. Le glockenspiel c'est pas très rond.
 
 Q: Tout à l'heure tu me parlais de morphologie, et là tu me site quand même de sons qui ont une certaine résonance, un peu de fade out, donc qui ont une partie de la morphologie que tu observe dans un son rond, est ce que c'est primordial pour un son rond d'avoir une résonance ?
 
@@ -33,10 +26,7 @@ R: Oui c'est d'avoir une sensation d'harmonicité. Un son rond on comprend bien 
 
 Q: Ici le glockenspiel a un peu de résonance, est ce qu'il a du coup un peu de rondeur ?
 
-R: Oui avec la résonance, il en a exactement. Dans la rondeur il y a aussi une sensation de confort d'écoute, d'objet qu'on reconnait bien.
-Des fois quand l'émission semble difficile, le son est moins rond.
-Pour la trompette cuivrée, c'est plus hérissé dans le grave.
-Le rond c'est presque de la synesthésie sur les formes. Quelque chose de rond ont l'associe à quelque chose de l'ordre de la voyelle, de circulaire, de doux. C'est le mot maluma, en opposition à takete. Le multiphonique de hautbois est hérissé et acide aussi inharmonique. Il a pas de dynamique en plus.
+R: Oui avec la résonance, il en a exactement. Dans la rondeur il y a aussi une sensation de confort d'écoute, d'objet qu'on reconnait bien. Des fois quand l'émission semble difficile, le son est moins rond. Pour la trompette cuivrée, c'est plus hérissé dans le grave. Le rond c'est presque de la synesthésie sur les formes. Quelque chose de rond ont l'associe à quelque chose de l'ordre de la voyelle, de circulaire, de doux. C'est le mot maluma, en opposition à takete. Le multiphonique de hautbois est hérissé et acide aussi inharmonique. Il a pas de dynamique en plus.
 
 Q: Mais le son de tuba n'a pas beaucoup de dynamique non plus.
 
@@ -48,7 +38,4 @@ R: J'ai dis acide, hérissé et pointu. Pointu c'est pas mal parce que tu as un 
 
 Q6
 
-R: Oui tu sais quand j'ai dis doux c'est aussi un jugement d'affect, même si on nous apprend à pas trop mettre d'affect sur les sons. C'est pas quelque chose sur lesquels on insiste beaucoup, par exemple dans les traités d'instruments, on parle pas d'affect. On nous décrit les modes de jeu mais on ne donne pas un caractère. 
-Oui le rond c'est rattaché à de la douceur, à du confort. Mais c'est pas forcément positif ou négatif. 
-Il y a plus de violence dans le son pour l'opposé. 
-Le rond c'est plus calme. Mais je mets pas d'affect sur ces termes.
+R: Oui tu sais quand j'ai dis doux c'est aussi un jugement d'affect, même si on nous apprend à pas trop mettre d'affect sur les sons. C'est pas quelque chose sur lesquels on insiste beaucoup, par exemple dans les traités d'instruments, on parle pas d'affect. On nous décrit les modes de jeu mais on ne donne pas un caractère. Oui le rond c'est rattaché à de la douceur, à du confort. Mais c'est pas forcément positif ou négatif.  Il y a plus de violence dans le son pour l'opposé. Le rond c'est plus calme. Mais je mets pas d'affect sur ces termes.

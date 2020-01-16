@@ -1,6 +1,10 @@
+QR:T
+
 Q1
 
-R:  Oui je l'utilise tout à fait. Je l'emploi pas avec la même signification pour différents instruments.
+R: Oui je l'utilise tout à fait. Je l'emploi pas avec la même signification pour différents instruments.
+
+Q2
 
 Q: Vous l'employez pour les 3 casquettes ? 
 
@@ -18,11 +22,11 @@ Q: C'est la conséquence de jouer un son forte ou c'est la cause ?
 
 R: Non c'est une manière de jouer plus fort que de jouer brillant. C'est un outils, c'est un chemin.
 
-Q: Donc il y a une possibilité d'impacter seulement, la brillance du son sans forcément augmenter la nuance. Et la question que j'avais c'est : Est-ce que le fait de jouer plus fort, ne va pas automatiquement, augmenter le nombre d'harmoniques par exemple ?
+Q: Donc il y a une possibilité d'impacter seulement, la brillance du son sans forcément augmenter la nuance. Et la question que j'avais c'est ''Est-ce que le fait de jouer plus fort, ne va pas automatiquement, augmenter le nombre d'harmoniques par exemple ?''
 
 R: Oui, ça dépend des instruments, mais oui, il y a cette tendance. Mais du coup on est reparti dans un mélange entre deux genre qui sont la conception de la brillance pour un instrumentiste et la conception de la brillance pour quelqu'un qui étudie le signal.
 
-Q4
+Q3
 
 R: Je pense que ceux qui ont le plus de palette pour le brillant ce sont les cuivres qui cuivrent. Je pense qu'ensuite je pense qu'on va facilement trouver des sons brillants quand on va chercher des choses dans le hautbois, certaines zones de la tessiture, certaines nuance ou modes de jeu. Et puis... oui c'est les deux exemples que j'ai en tête.
 
@@ -48,8 +52,7 @@ R: Voilà. Par contre d'un point de vue d'instrumentiste... Ça dépend des inst
 
 Q: Vous m'avez aussi parlé de hautbois, on va écouter.
 
-R: Donc là on est encore dans une normalisation qui fait chier. Pour changer. Je suis déçu par la différence entre le forte et le mezzoforte. Pas super brillant.
-On peut aller chercher le pizzicato bartok, sur n'importe quel instrument, l'alto par exemple.
+R: Donc là on est encore dans une normalisation qui fait chier. Pour changer. Je suis déçu par la différence entre le forte et le mezzoforte. Pas super brillant. On peut aller chercher le pizzicato bartok, sur n'importe quel instrument, l'alto par exemple.
 
 Q: Mais c'est brillant ces pizz bartok ?
 
@@ -89,13 +92,11 @@ R: Il y a des moment où on est brillant. Le fait de vouloir se montrer. C'est q
 
 Q: D'autres sons ?
 
-R: On peut tenter un contrebasson qui ordinario et piano. Oui le C3 piano est pas brillant.
-On va écouter un violoncelle ponticello, j'ai oublié, il était pourri aussi ? Ah oui c'est pas brillant..;
+R: On peut tenter un contrebasson qui ordinario et piano. Oui le C3 piano est pas brillant. On va écouter un violoncelle ponticello, j'ai oublié, il était pourri aussi ? Ah oui c'est pas brillant..;
 
 Q: C'est pas brillant le violoncelle ?
 
-R: Non, non c'est pas un très bon exemple.
-Un tuba qui joue piano. On va chercher dans les graves toujours. Oui voilà le C2 et C3 piano c'est pas brillant.
+R: Non, non c'est pas un très bon exemple. Un tuba qui joue piano. On va chercher dans les graves toujours. Oui voilà le C2 et C3 piano c'est pas brillant.
 
 Q5
 
@@ -113,8 +114,7 @@ R: Oui, c'est pas opposé dans le sens où ça serait des opposés bêtes et sim
 
 Q: Du coup pour l'un vous avez parlé de proportion de fréquences basses pour le rond et là vous parlez plutôt de centre de gravité spectral vers les hautes fréquences, est-ce que c'est cohérent ?
 
-R: Oui mais j'étais pas tout à fait d'accord avec l'idée d'un critère spectral tel que le centre de gravité spectral qui irait pour le rond. 
-Sur le plan du jeu instrumental, j'ai pas envie d'opposer les deux. J'ai pas envie d'opposer rond et brillant, parce qu'on peut imaginer un son qui est à la fois rond et brillant.
+R: Oui mais j'étais pas tout à fait d'accord avec l'idée d'un critère spectral tel que le centre de gravité spectral qui irait pour le rond.  Sur le plan du jeu instrumental, j'ai pas envie d'opposer les deux. J'ai pas envie d'opposer rond et brillant, parce qu'on peut imaginer un son qui est à la fois rond et brillant.
 
 Q: Donc du coup un son qui n'est pas brillant c'est un son dont le centre de gravité spectral ne serait pas très élevé.
 

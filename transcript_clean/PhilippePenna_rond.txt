@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: Oui rond je l'utilise, principalement pour le bas du spectre. Faire un grave rond. La rondeur du grave c'est quelque chose de plaisant, parce que ça apporte un certain réconfort auditif. Mais c'est toujours une question de dosage. Une rondeur excessif, peut amener un son pataud, pas articulé, un grave boomy, où il y a pas de subtilité. Par contre une certaine rondeur, même si on écoute une voix d'homme, il y a une certaine profondeur de la voix, grâce à cette rondeur là, ça fait plus plaisant. Ça ajoute un soupçon de chaleur et un peu de brillance., ça passe très bien. Ça fait une voix à la Murat.
@@ -18,24 +20,19 @@ R: La rondeur va être aussi liée à l'attaque, c'est à dire que si le son n'e
 
 Q3
 
-R: Par exemple quand on parlait de Mahler. Quand il y a les 8 contrebasses, on distingues pas les 8 contrebasses, mais un spectre rond autour des contrebasses. Un ensemble de contrebasse. Il y a le tuba basse aussi.
-Contrebasse c'est quoi ? C'est harmonique quand on joue frotté ? 
+R: Par exemple quand on parlait de Mahler. Quand il y a les 8 contrebasses, on distingues pas les 8 contrebasses, mais un spectre rond autour des contrebasses. Un ensemble de contrebasse. Il y a le tuba basse aussi. Contrebasse c'est quoi ? C'est harmonique quand on joue frotté ? 
 
 Q: Non c'est ordinario
 
-R: Le C2 ordinario mezzoforte c'est rond dans le forte aussi. 
-Le cor anglais aussi peut-être ? Non.
-La clarinette basse ordinario C2 pianissimo, c'est rond. Avec le souffle, qui rajoute de la chaleur. et le "rr" ajoute de la rondeur. Le C3 pianissimo est moins rond.
+R: Le C2 ordinario mezzoforte c'est rond dans le forte aussi. Le cor anglais aussi peut-être ? Non. La clarinette basse ordinario C2 pianissimo, c'est rond. Avec le souffle, qui rajoute de la chaleur. et le ''rr'' ajoute de la rondeur. Le C3 pianissimo est moins rond.
 
 Q: Et la clarinette normale dans le piano ?
 
-R: C'est plutôt chaud que rond.
-Le contrebasson C1 mezzoforte c'est rond. Si c'était à une autre fréquence ça pourrait être rugueux, mais là c'est rond.
+R: C'est plutôt chaud que rond. Le contrebasson C1 mezzoforte c'est rond. Si c'était à une autre fréquence ça pourrait être rugueux, mais là c'est rond.
 
 Q: Alors ensuite ? Tu m'as dis le tuba basse aussi.
 
-R: Le tuba, le C2 est plus rond que les notes C1 plus graves. Je sais pas, il y a une notion d'enveloppe. Mais c'est moins rond.
-Le marimba peut-être ? Le marimba C3 je suis limite, rond et chaud. le C2, il y a une vibration dans le bas qui me fait penser à de la rondeur.  Avec la baguette dure c'est une rondeur un peu étouffée, moins expressive qu'avec la baguette molle. Il y a plus de vibration, plutôt dans le piano.
+R: Le tuba, le C2 est plus rond que les notes C1 plus graves. Je sais pas, il y a une notion d'enveloppe. Mais c'est moins rond. Le marimba peut-être ? Le marimba C3 je suis limite, rond et chaud. le C2, il y a une vibration dans le bas qui me fait penser à de la rondeur. Avec la baguette dure c'est une rondeur un peu étouffée, moins expressive qu'avec la baguette molle. Il y a plus de vibration, plutôt dans le piano.
 
 Q: Don ce qui manque tu m'as parlé d'un ensemble de contrebasse ?
 
@@ -51,11 +48,7 @@ R: Oui mais c'est pas assez grave pour moi.
 
 Q4
 
-R: Cuivres, style trompette. La trompette quand on joue en haut. La trompette forte c'est pas rond. Dans l'aigu c'est pas rond. Dans le piano il y a un côté un peu étouffé qui pourrait passer pour de la rondeur, mais non. 
-Le cor par contre c'est rond pour moi le C3 et C2 mezzoforte.
-La harpe c'est pas rond Nulle part.
-La guitare ordinario je dirais chaleur mais pas rond. Le C4 forte c'est surtout pas rond, tu sens la corde et ensuite la table d'harmonie.
-Le violon je pense que c'est pas rond. Non joué ordinario c'est pas rond, sur le C6 mezzoforte, on trouve le côté un peu rugueux.
+R: Cuivres, style trompette. La trompette quand on joue en haut. La trompette forte c'est pas rond. Dans l'aigu c'est pas rond. Dans le piano il y a un côté un peu étouffé qui pourrait passer pour de la rondeur, mais non. Le cor par contre c'est rond pour moi le C3 et C2 mezzoforte. La harpe c'est pas rond Nulle part. La guitare ordinario je dirais chaleur mais pas rond. Le C4 forte c'est surtout pas rond, tu sens la corde et ensuite la table d'harmonie. Le violon je pense que c'est pas rond. Non joué ordinario c'est pas rond, sur le C6 mezzoforte, on trouve le côté un peu rugueux.
 
 Q: Il y a des sons qui manquent ?
 
@@ -75,7 +68,7 @@ R: Pour moi un son rond, c'est un son qui a une certaine dimension dans l'espace
 
 Q: Le côté impulsif, tu l'as aussi évoqué pour la chaleur.
 
-R:  Oui C'est ce que j'expliquai, pour moi la chaleur, c'est un décalage fréquentiel de la rondeur. En fait, pour moi la rondeur je vais l'associer à la contrebasse, la chaleur je vais l'associer au violoncelle. Donc il y a une histoire de dimensionnement et de reproduction spectrale.
+R: Oui C'est ce que j'expliquai, pour moi la chaleur, c'est un décalage fréquentiel de la rondeur. En fait, pour moi la rondeur je vais l'associer à la contrebasse, la chaleur je vais l'associer au violoncelle. Donc il y a une histoire de dimensionnement et de reproduction spectrale.
 
 Q: Donc c'est globalement comme la chaleur quoi
 
@@ -83,7 +76,7 @@ R: Oui mais il y a plus d'ampleur. La chaleur demande peut-être à être moins 
 
 Q: Mais dans la différence, un son qui ne va pas être chaud, ne va pas être rond non plus ?
 
-R:  Oui je pense que c'est indissociable.
+R: Oui je pense que c'est indissociable.
 
 Q: Comme chaud tu vas pas utiliser de terme ? Tu vas dire que ça manque de rondeur ?
 
@@ -103,5 +96,4 @@ R: Oui il y a de l'affect, parce que moi c'est quelque chose que je recherche.
 
 Q: Un son aigre du coup ça va être quelque chose de négatif ?
 
-R: Oui. 
-Pour faire un aparte, je me suis rendu compte, les mélomanes ont une attente, et les musiciens ont une autre attente. Moi je vais chercher à baigner dans la musique, je vais chercher l'enveloppe, je vais chercher l'espace, l'air autour des instruments, et je suis vachement attaché à la reproduction spectrale, parce que je suis bien placé dans la salle de concert. Le musicien, lui il est en champ proche dans son instrument, donc il va chercher l'attaque et le timbre. Moi c'est pas des choses qui m'interpelle, moi c'est l'enveloppe. Donc pour faire un parallèle, pour moi la brillance c'est mettre une loupe sur quelque chose, le musicien ou le technicien du son qui va chercher à travailler le son il va chercher ça, moi je vais chercher plus, une atmosphère. Donc ça peut expliquer la variabilité. C'est un milieu très fermé les enceintes.
+R: Oui. Pour faire un aparte, je me suis rendu compte, les mélomanes ont une attente, et les musiciens ont une autre attente. Moi je vais chercher à baigner dans la musique, je vais chercher l'enveloppe, je vais chercher l'espace, l'air autour des instruments, et je suis vachement attaché à la reproduction spectrale, parce que je suis bien placé dans la salle de concert. Le musicien, lui il est en champ proche dans son instrument, donc il va chercher l'attaque et le timbre. Moi c'est pas des choses qui m'interpelle, moi c'est l'enveloppe. Donc pour faire un parallèle, pour moi la brillance c'est mettre une loupe sur quelque chose, le musicien ou le technicien du son qui va chercher à travailler le son il va chercher ça, moi je vais chercher plus, une atmosphère. Donc ça peut expliquer la variabilité. C'est un milieu très fermé les enceintes.

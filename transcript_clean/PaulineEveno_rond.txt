@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: J'ai beaucoup de gens autour de moi qui l'utilise, les musiciens. Mais moi je l'utilise pas parce que je sais pas ce que c'est. Pour moi le son rond j'arrive pas à voir ce que ça représente, du coup je l'utilise pas tellement.
@@ -52,21 +54,13 @@ R: Oui mais c'est ce que je te dis, ils veulent un son rond et un son boisé. Et
 
 Q: Sinon un son de cor, pour aller dans les cuivres.
 
-R: (C3/ordinario) il y a un peu de rugosité dans le son... Plutôt une trompette peut être du coup. En fait j'ai l'impression que je lie ça pas mal au registre un peu aigu. Ou en tout cas aux instruments plus dans le... Tu vois sur le saxophone ténor ça aurait pas fait pareil. 
+R: Le cor C3 ordinario il y a un peu de rugosité dans le son... Plutôt une trompette peut être du coup. En fait j'ai l'impression que je lie ça pas mal au registre un peu aigu. Ou en tout cas aux instruments plus dans le... Tu vois sur le saxophone ténor ça aurait pas fait pareil. Pour la trompette finalement c'est pas très rond C5 ordinario. Je pense que le hautbois c'est rond., le C5 ordinario oui en même temps c'est un peu rugueux aussi le hautbois. Là je me suis perdu dans ma définition. Je me suis convaincu que le saxophone alto était rond parce que c'était Claude Delangle. T'aurais pas dû le dire. En vrai je suis assez surprise du son du saxophone alto. Un son rond c'est lié au son classique. Sur une note c'est difficile de juger, il manque d'un contexte musical.
 
-Pour la trompette finalement c'est pas très rond (C5/ordinario).
+Q: J'essaie encore un peu alors 
 
-Je pense que le hautbois c'est rond. (C5/ordinario) oui en même temps c'est un peu rugueux aussi le hautbois. Là je me suis perdu dans ma définition. 
+R: La clarinette je pense que c'est assez rond. plus rond dans le piano et le mezzoforte. Dans le piano il y a un peu de souffle. Un son rond je l'imagine très mezzoforte. Un son rond, vu que c'est très compact. Un son rond c'est le son standard, un beau son, nickel, il faut pas déborder, du coup ça marche que dans le mezzo forte. Dans le forte il y a un peu des trucs non-linéaires qui apparaissent et qui vont el rendre rugueux. Mais le cuivre je pense qu'il est plus rond dans le piano mais pas dans l'aigu. Le cor C4 pianissimo ordinario me semble rond oui. Après certains par leur timbres sont un peu rugueux. Là pour le cor anglais là c'est droit... On a pas trop fait les cordes du coup. Non c'est rugueux les cordes. 
 
-Je me suis convaincu que le saxophone alto était rond parce que c'était Claude Delangle. T'aurais pas dû le dire. En vrai je suis assez surprise du son du saxophone alto. Un son rond c'est lié au son classique. Sur une note c'est difficile de juger, il manque d'un contexte musical.
-
-Q: J'essaie encore un peu alors (écoute de sons divers dans toute la BDD)
-
-R: La clarinette je pense que c'est assez rond. plus rond dans le piano et le mf. Dans le piano il y a un peu de souffle. Un son rond je l'imagine très mf. Un son rond, vu que c'est très compact. Un son rond c'est le son standard, un beau son, nickel, il faut pas déborder, du coup ça marche que dans le mezzo forte. Dans le forte il y a un peu des trucs non-linéaires qui apparaissent et qui vont el rendre rugueux. Mais le cuivre je pense qu'il est plus rond dans le piano mais pas dans l'aigu. Le cor C4/pp/ordinario me semble rond oui. Après certains par leur timbres sont un peu rugueux. Là pour le cor anglais là c'est droit...
-
-On a pas trop fait les cordes du coup. Non c'est rugueux les cordes. 
-
-Q: Essaie la flûte alto pour voir... 14:44 
+Q: Essaie la flûte alto pour voir... 
 
 R:  Oui oui bon. 
 
@@ -76,7 +70,7 @@ R: C'est la conception que j'ai par les musiciens classiques, et par rapport à 
 
 Q4
 
-R: Tous les sons qui poussent un peu. Quand tu passes dans le forte c'est plus très rond. J'pense que la nuance joue. Le son rond ça existe seulement dans le mf, c'est nickel chrome, et il y a que dans le mf où tu peux arriver à pincer un peu, pour que ton son soit un peu....
+R: Tous les sons qui poussent un peu. Quand tu passes dans le forte c'est plus très rond. J'pense que la nuance joue. Le son rond ça existe seulement dans le mezzoforte, c'est nickel chrome, et il y a que dans le mezzoforte où tu peux arriver à pincer un peu, pour que ton son soit un peu....
 
 Q: C'est un son pincé, rond ? 
 
@@ -124,7 +118,7 @@ Q: Est ce qu'il y a des sons qui manque pour définir un son qui est rond et un 
 
 R: J'aurais bien aimé comparé les mêmes notes jouées par un saxophoniste classique et un saxophoniste jazz. Parce que c'est ça que je connais. On aurait pu entendre des différences vu que rond c'est pas trop un truc que cherche les saxophonistes jazz. 
 
-Q: Tu vois une qualité positive, négative ou neutre à un son rond ou pas rond ?
+Q6
 
 R: Non mais... Franchement rond, c'est nul pour décrire un son. La rugosité tu arrives a faire la parallèle avec le touché alors que rond c'est très contextuel. TU pourrais dire un son spiral.
 

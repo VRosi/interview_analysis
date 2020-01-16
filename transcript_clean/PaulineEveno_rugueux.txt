@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: C'est quand moi je l'utilise ou quand des gens autour de moi l'utilise ?
@@ -6,7 +8,7 @@ Q: Est ce que lorsque des gens autour de toi l'utilise, tu vas interagir avec eu
 
 R: Ah oui ok. Oui, après c'est pas très fréquent. Mais je l'ai déjà entendu. Plutôt dans quel contexte ? Lorsque je fais tester des becs avec des saxophonistes. Je vois pas trop a quel autre moment.
 
-Q: Tu pourrais dans la conception de tes becs faire le lien entre la physique de tes bec et le timbre voulu, peut-être que tu emploi certains termes...
+Q: Tu pourrais dans la conception de tes becs faire le lien entre la physique de tes bec et le timbre voulu, peut-être que tu emplois certains termes...
 
 R: Oui, oui, mais rugueux c'est pas un terme que j'utilise trop.
 
@@ -24,7 +26,7 @@ R: Oui je le sens aussi. Les deux sons un peu rugueux. Je trouve le sul ponticel
 
 Q: Tu m'a parlé de battement aussi. 
 
-R: Peut-être celui ou il chante dans son "cor" [Tuba]. Je sais pas si ça c'est rugueux. Mais plus pour la 5te diminuée que pour la seconde mineur.
+R: Peut-être celui ou il chante dans son ''cor'' [Tuba]. Je sais pas si ça c'est rugueux. Mais plus pour la 5te diminuée que pour la seconde mineur.
 
 Q: C'est différent sur la 2nde mineur tu as vraiment la sensation de battement.
 
@@ -78,11 +80,11 @@ Q: Alors pour l'instant tu me donnes des sons entretenus pour des sons rugueux, 
 
 R: Ce qui me parait logique. La flute tu vois je pense. Ou la clarinette. (C4) oui tu vois ça c'est pas rugueux. Je pourrais dire que tous les instruments dans l'aigu ça gagne en rugosité. Je sais pas si c'est vraiment ça. Peut-être les harmoniques supérieures.
 
-Q: Il y a des sons qui sont assez purs, par exemple l'accordéon si tu le prends dans le medium aigu... qu'en penses-tu ?
+Q: Il y a des sons qui sont assez purs, par exemple l'accordéon si tu le prends dans le médium aigu... qu'en penses-tu ?
 
 R: Non pas trop de rugosité.
 
-Q: Bon tu as pas l'air trop convaincu. J'ai noté les claviers, marimba, vibraphone et xylo, je note quand même que dans l'aigu certains de ces claviers là peuvent apporter une certaine rugosité. J'ai aussi noté la clarinette dans le medium. Du coup de 1 à 10 tu te places comment ?
+Q: Bon tu as pas l'air trop convaincu. J'ai noté les claviers, marimba, vibraphone et xylophone, je note quand même que dans l'aigu certains de ces claviers là peuvent apporter une certaine rugosité. J'ai aussi noté la clarinette dans le médium. Du coup de 1 à 10 tu te places comment ?
 
 R:  Sur la non rugosité ? 9/10.
 

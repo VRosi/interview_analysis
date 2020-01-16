@@ -1,22 +1,24 @@
+QR:T
+
 Q1
 
 R: Brillant je l'utilise tout le temps. Beaucoup plus que chaud, vraiment.  Tout simplement, genre des becs de saxophones, c'est un terme que j'utilise sur mon site internet au moment je vends les becs de saxophone, ils sont tous caractérisés par une échelle de brillance.
 
 Q: Pourquoi tu l'utilises plus que chaud ? Tu l'utilise dans d'autres cadres ?
 
-R: Non C'est toujours avec des saxophonistes, mais il est très vite utilisé aussi par les saxophonistes lors de séances d'essais de bec. En fait c'est vraiment le terme qui est vraiment utilisé pour la palette sonore de son de saxophone. Il est vraiment comréhensible, en plus on a fait des tests, sur des échelles psychoacoustiques, et ça se démarque nettement, ça explique toute la variance. Il y a pas trop trop de doute pour moi pour ce terme là.
+R: Non C'est toujours avec des saxophonistes, mais il est très vite utilisé aussi par les saxophonistes lors de séances d'essais de bec. En fait c'est vraiment le terme qui est vraiment utilisé pour la palette sonore de son de saxophone. Il est vraiment compréhensible, en plus on a fait des tests, sur des échelles psychoacoustiques, et ça se démarque nettement, ça explique toute la variance. Il y a pas trop trop de doute pour moi pour ce terme là.
 
 Q2
 
 R: Moi je caractérise plus des becs que des sons. Je peux te le définir par l'exemple. Tu prends des saxophonistes comme Michael Brecker, c'est super brillant, c'est l'extrême brillance, et à l'opposé tu prends Paul Desmond, Stan Getz, là c'est le côté vraiment mat. Mais on a mis des exemples sonores sur notre site.
 
-Q: Tout à l'heure tu m'as parlé de l'échelle de brillance: brillant-mat.
+Q: Tout à l'heure tu m'as parlé de l'échelle de brillance, brillant-mat.
 
 R: Oui dark-bright. On dis plus souvent ça en anglais. 
 
 Q: mais brillant-sombre tu l'utilises pas ?
 
-R: Non mais ça se dit pas en français, on dit plutôt mat. Il y a quand même une sorte de consensus. En plus ça m'énerve parce que dans ma thèse il y avait une grosse ambiguïté avec le côté sec du son. Pour un saxophone ça a pas trop d'impact. Mais c'est aussi produit par le même effet. Si tu rajoutes de la reverbe sur un son dans une post-prod, tu vas le rendre plus brillant. 
+R: Non mais ça se dit pas en français, on dit plutôt mat. Il y a quand même une sorte de consensus. En plus ça m'énerve parce que dans ma thèse il y avait une grosse ambiguïté avec le côté sec du son. Pour un saxophone ça a pas trop d'impact. Mais c'est aussi produit par le même effet. Si tu rajoutes de la réverbe sur un son dans une post-prod, tu vas le rendre plus brillant. 
 
 Q: Quelle serait la différence alors?
 
@@ -32,7 +34,7 @@ R: Oui ça va être plus simple. Je vais aller chercher directement dans la trom
 
 Q: Quand tu m'as parlé de kazoo tout à l'heure c'était pas forcément en bon termes. Est ce que la brillance n'est pas quelque chose que tu apprécies ?
 
-R: Ah oui. Moi je suis pas très fan des sons brillants. Michael Brecker, c'est pas vraiment le type de son que j'aime bien. Mais tous les sons de saxophones, rock n roll, electro, ce sont des sons brillants. Ils recherchent ça...
+R: Ah oui. Moi je suis pas très fan des sons brillants. Michael Brecker, c'est pas vraiment le type de son que j'aime bien. Mais tous les sons de saxophones, rock n roll, électro, ce sont des sons brillants. Ils recherchent ça...
 
 Q: Avec plus de réverbe sur les enregistrements de trompette, tu aurais trouvé ça encore plus brillant ?
 
@@ -40,19 +42,15 @@ R: Je sais pas. Ça va souvent avec. Après quand tu mets beaucoup de réverbe s
 
 Q: D'autres sons ?
 
-R: Là je vais dans le saxophone spontanément. Là le saxophone je le trouve pas mal brillant, un peu partout. Après c'est du saxophone classique... J'aurais quand même tendance à dire que c'est moins brillant dans le piano, mais ça reste assez brillant, après je compare les sons de saxophone altos entre eux. Au sein du même instrument, si tu souffle comme un boeuf dans l'aigu ça sera plus brillant. Le C4, C5 et C6 forte c'est brillant. Le C4 c'est bien nasal. Nasal c'est peut-être la mauvaise brillance. Bon après j'aime pas trop le brillant. Nasal c'est plus dans le médium que ça se joue.
-Après moi la brillance pour moi elle est très spécifique aux instruments à vent. Mais bon le glockenspiel ça va être brillant. Le glockenspiel dans les aigus.
-Même un violon... Mais j'ai du mal avec la notion de brillance pour les cordes. 
-Je parle de brillant, mais je ne vais jamais comparer deux sons de deux saxophonistes joués sur le même matos à l'identique. Ça n'a pas de sens pour moi, de l'entendre jouer une note et une autre note et de demander laquelle est la plus brillante. Pour moi la brillance, ça va venir comparer le ré aigu sur un bec et sur un autre, ou sur des saxophones différents... Mais comparer la brillance avec le même musicien... Pour moi le vocabulaire de brillance, à quoi il nous sert, c'est pour différencier de façons de jouer une même note. 
-L'alto et le soprano c'est plus brillant que le ténor, de base. Donc on a aussi cette comparaison là.  j'ai du mal à voir quelqu'un, prendre son saxophone alto et se dire "à l'alto, l'octave du haut elle est plus brillante que l'octave du bas." Ce mot là il est pas tellement fait pour comparer ça. Il est plutôt fait pour comparer la même note, joué soit de manière différente, soit avec un matos différent.
+R: Là je vais dans le saxophone spontanément. Là le saxophone je le trouve pas mal brillant, un peu partout. Après c'est du saxophone classique... J'aurais quand même tendance à dire que c'est moins brillant dans le piano, mais ça reste assez brillant, après je compare les sons de saxophone altos entre eux. Au sein du même instrument, si tu souffle comme un boeuf dans l'aigu ça sera plus brillant. Le C4, C5 et C6 forte c'est brillant. Le C4 c'est bien nasal. Nasal c'est peut-être la mauvaise brillance. Bon après j'aime pas trop le brillant. Nasal c'est plus dans le médium que ça se joue. Après moi la brillance pour moi elle est très spécifique aux instruments à vent. Mais bon le glockenspiel ça va être brillant. Le glockenspiel dans les aigus. Même un violon... Mais j'ai du mal avec la notion de brillance pour les cordes. Je parle de brillant, mais je ne vais jamais comparer deux sons de deux saxophonistes joués sur le même matos à l'identique. Ça n'a pas de sens pour moi, de l'entendre jouer une note et une autre note et de demander laquelle est la plus brillante. Pour moi la brillance, ça va venir comparer le ré aigu sur un bec et sur un autre, ou sur des saxophones différents... Mais comparer la brillance avec le même musicien... Pour moi le vocabulaire de brillance, à quoi il nous sert, c'est pour différencier de façons de jouer une même note. L'alto et le soprano c'est plus brillant que le ténor, de base. Donc on a aussi cette comparaison là.  j'ai du mal à voir quelqu'un, prendre son saxophone alto et se dire ''à l'alto, l'octave du haut elle est plus brillante que l'octave du bas.'' Ce mot là il est pas tellement fait pour comparer ça. Il est plutôt fait pour comparer la même note, joué soit de manière différente, soit avec un matos différent.
 
 Q: Oui mais il peut aussi être utiliser pour relever l'hétérogénéité d'un instrument non ?
 
-R: Ah oui bien sur. J'ai des saxophonistes qui ont pu me dire "c'est trop brillant dans les aigus" ou "il est bien mais dans les graves il est trop brillant".
+R: Ah oui bien sur. J'ai des saxophonistes qui ont pu me dire ''c'est trop brillant dans les aigus'' ou ''il est bien mais dans les graves il est trop brillant''.
 
 Q: On est d'accord alors. 
 
-R: Oui, mais "il est trop brillant dans les graves", il essaie un instrument et il le dit. Mais ça va être lié à une question de matériel ou de façon de jouer, mais pas de généralité sur l'instrument, de dire "le registre aigu c'est brillant, le registre grave d'un saxophone, c'est mat".  Le sens et la définition de ces termes pour moi vient de ce que disent les saxophonistes.
+R: Oui, mais ''il est trop brillant dans les graves'', il essaie un instrument et il le dit. Mais ça va être lié à une question de matériel ou de façon de jouer, mais pas de généralité sur l'instrument, de dire ''le registre aigu c'est brillant, le registre grave d'un saxophone, c'est mat''.  Le sens et la définition de ces termes pour moi vient de ce que disent les saxophonistes.
 
 Q: Avant de passer à la suite, j'aimerai qu'on revienne sur le glockenspiel, et de voir si tu vois des nuances de brillance entre les différents sons à disposition.
 
@@ -76,10 +74,7 @@ R: Non c'est pas mat... Autant dans le saxophone ils disent tous mat, donc je le
 
 Q: D'autres sons dark alors...
 
-R: Bon alors je fais l'inverse de la consigne mais le son de clarinette basse C2 mezzoforte c'est pas dark du tout, pour moi c'est brillant. Le basson C2 mezzoforte c'est pas dark du tout. Un peu plus dans les pianissimo. C'est marrant ce genre d'instrument que je trouve pas chaud, et brillant dans les graves. Le saxophone baryton ça se rapproche de ça aussi. 
-Le cor c'est pas très brillant. Sauf quand ça cuivre. Le C4 mezzoforte c'est pas brillant. Au saxophone, c'est toi qui fait la brillance, le bec ça va t'aider mais c'est toi qui fait que ton son est brillant ou non.
-Le tuba et trombone C4 piano non plus c'est pas brillant.
-Dans le vibraphone peut-être. Dès qu'il y a une attaque c'est dur de qualifier le son de pas brillant.
+R: Bon alors je fais l'inverse de la consigne mais le son de clarinette basse C2 mezzoforte c'est pas dark du tout, pour moi c'est brillant. Le basson C2 mezzoforte c'est pas dark du tout. Un peu plus dans les pianissimo. C'est marrant ce genre d'instrument que je trouve pas chaud, et brillant dans les graves. Le saxophone baryton ça se rapproche de ça aussi. Le cor c'est pas très brillant. Sauf quand ça cuivre. Le C4 mezzoforte c'est pas brillant. Au saxophone, c'est toi qui fait la brillance, le bec ça va t'aider mais c'est toi qui fait que ton son est brillant ou non. Le tuba et trombone C4 piano non plus c'est pas brillant. Dans le vibraphone peut-être. Dès qu'il y a une attaque c'est dur de qualifier le son de pas brillant.
 
 Q: L'attaque joue sur la brillance pour ces sons là ?
 
@@ -109,7 +104,7 @@ R: Bah, j'aime pas trop ce terme. Parce que pour moi c'est pas opposé. Pour moi
 
 Q: Qu'est ce que c'est qu'un son dark du coup ?
 
-R: Oui un passe-bas. J'ai du mal à définir le son de contrebasse comme un son mat, alors que dark j'ai aucun problème. Tu vois pour moi, mat et brillant c'est le timbre d'une caisse claire aussi. Dès que tu coupes la résonance, tu dis que c'est mat. Ou si tu tapes sur un verre d'eau, et que tu coupe la résonance du coup pour moi tu vas avoir un son mat. C'est un peu péjoratif, mais je dirais pas que c'est dark. Je dirais que c'est dark si tu prends un gros verre ballon et que ça fait un son bien 34:28 . C'est ce que j'avais défini dans ma thèse...
+R: Oui un passe-bas. J'ai du mal à définir le son de contrebasse comme un son mat, alors que dark j'ai aucun problème. Tu vois pour moi, mat et brillant c'est le timbre d'une caisse claire aussi. Dès que tu coupes la résonance, tu dis que c'est mat. Ou si tu tapes sur un verre d'eau, et que tu coupe la résonance du coup pour moi tu vas avoir un son mat. C'est un peu péjoratif, mais je dirais pas que c'est dark. Je dirais que c'est dark si tu prends un gros verre ballon et que ça fait un son bien. C'est ce que j'avais défini dans ma thèse...
 
 Q6
 
@@ -117,8 +112,7 @@ R: Pas dans mon utilisation. Si je t'ai dit, mat je trouve ça un peut péjorati
 
 Q: Tu m'as dis que brillant c'était péjoratif aussi non?
 
-R: Non j'ai dis que j'aimais pas la brillance, c'est différent. J'ai découvert que beaucoup de gens aiment ça. Malgré le fait que ça soit pas trop la mode en ce moment. Le smooth jazz c'est que ça du saxophone brillant. 
-Moi je joue toujours avec la pédale Una corda sur un piano. Même sur un piano à queue je joue sur une seule corde pour rendre le son un peu plus mat. J'aime bien même sur les synthé j'aime bien joué les sons mats. 
+R: Non j'ai dis que j'aimais pas la brillance, c'est différent. J'ai découvert que beaucoup de gens aiment ça. Malgré le fait que ça soit pas trop la mode en ce moment. Le smooth jazz c'est que ça du saxophone brillant. Moi je joue toujours avec la pédale Una corda sur un piano. Même sur un piano à queue je joue sur une seule corde pour rendre le son un peu plus mat. J'aime bien même sur les synthétiseur j'aime bien joué les sons mats. 
 
 Q: Est ce que ça serait pas un peu péjoratif ?
 

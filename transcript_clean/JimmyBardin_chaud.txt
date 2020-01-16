@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: Utilisation beaucoup plus fréquente (7/10)
@@ -20,8 +22,7 @@ R: Grave, pas d'attaque, long... ou au moins entretenu. Parce que tu vois du pia
 
 Q: Comment tu arriverais a caractériser cette idée d'enveloppant, en terme de propriétés acoustiques, comment tu le gère sur ta table de mixage ?
 
-R: Je vais évoiter que ça soit trop dans l'aigu, donc un coupe-haut ou je vais un peu baisser. Je vais vraiment mettre un truc qui va couper les attaques. Je vais peut-être booster certaines fréquences graves, entre 100 Hz et 500 Hz, là c'est un peu à affiner.
-Moi un son chaud, c'est pas spécialement grave, ça peut être grave et medium. Si tu me demandes un son chaud, tu l'as pas là c'est un son de cordes. Un bon son de cordes, un ensemble de corde qui joue dans le bas-medium, pour moi c'est un son rond.
+R: Je vais évoiter que ça soit trop dans l'aigu, donc un coupe-haut ou je vais un peu baisser. Je vais vraiment mettre un truc qui va couper les attaques. Je vais peut-être booster certaines fréquences graves, entre 100 Hz et 500 Hz, là c'est un peu à affiner. Moi un son chaud, c'est pas spécialement grave, ça peut être grave et medium. Si tu me demandes un son chaud, tu l'as pas là c'est un son de cordes. Un bon son de cordes, un ensemble de corde qui joue dans le bas-medium, pour moi c'est un son rond.
 
 Q: Ah non ! 
 
@@ -45,8 +46,7 @@ R: Oui. J'essaie sans le vibrato.
 
 Q: Essaies la contrebasse, ça descend plus grave.
 
-R: Oui ok, la contrebasse nonvibrato C2 mezzoforte Clairement Oui.
-Je vais chercher le Basson.
+R: Oui ok, la contrebasse nonvibrato C2 mezzoforte Clairement Oui. Je vais chercher le Basson.
 
 Q: Donc c'est vraiment un son entretenu pour toi ? 
 
@@ -58,14 +58,13 @@ R: Du coup, Il faut que je me sorte [de la tête] que c'est pas rond. Un son cha
 
 Q: Et une note frottée de vibraphone C4 ?
 
-R: Alors tu viens peut-être de mettre le doigt sur la différence entre chaud et rond. Ça c'est rond, donc rond va plus se permettre d'aller dans l'aigu, mais c'est pas chaud. C'est plutôt medium-aigu. 
-Pour moi ça va être vraiment plus contrebasse, violoncelle, tuba.
+R: Alors tu viens peut-être de mettre le doigt sur la différence entre chaud et rond. Ça c'est rond, donc rond va plus se permettre d'aller dans l'aigu, mais c'est pas chaud. C'est plutôt medium-aigu.  Pour moi ça va être vraiment plus contrebasse, violoncelle, tuba.
 
 Q: Les pizzicato ont oublie  ?
 
 R: Bah les pizzicato tout seul quoi.  Vas y mets moi un petit pizzicato. Un peu mezzo. Bah celi de contrebasse C3 mezzoforte c'est pas mal quand même. Le C2 mezzoforte c'est pas mal... c'est pas mal.
 
-Q: Si on compare le mode de jeu "normal" et l'équivalent en pizz ?
+Q: Si on compare le mode de jeu ''normal'' et l'équivalent en pizz ?
 
 R: Ça marche aussi pas mal mais c'est pas dans mon top 3\. Parce que je pense que je vais avoir un cor dans le grave aussi, ou un tuba.
 
@@ -75,7 +74,7 @@ R: Oui ! Bien chaud parce qu'il y a du souffle aussi peut-être.
 
 Q: Pourtant tout a l'heure dans le violoncelle tu m'a dit que le son était pas (il était grinçant). 
 
-R: Oui il était un peu "krrr". Mais c'est peut-être technique.
+R: Oui il était un peu ''krrr''. Mais c'est peut-être technique.
 
 Q: C'est quoi la différence entre les deux ?
 
@@ -93,7 +92,7 @@ Q: Et si on écoute le tuba ?
 
 R: Oui carrément. J'ai un problème avec le timbre du Tuba. En fait j'aime pas le timbre. Du coup j'ai l'impression d'avoir un truc serré.
 
-Q: Il y a question de "largeur" dans un son chaud ?
+Q: Il y a question de ''largeur'' dans un son chaud ?
 
 R: Je trouve qu'il manque des fréquences dans le tuba.
 
@@ -111,8 +110,7 @@ R: Je pense que la clarinette basse gagne. 
 
 Q: Tu aurais une idée d'un autre son ?
 
-R: C'est vraiment un son de là-dedans (la banque de son)s, c'est pas un son que j'ai dans la tête.
-Je vais juste écouter un peu le piano.
+R: C'est vraiment un son de là-dedans (la banque de son)s, c'est pas un son que j'ai dans la tête. Je vais juste écouter un peu le piano.
 
 Q: C'est dur il faut s'extraire du contexte musical... Pour avancer un peu dis moi quel est ton taux de certitude par rapport à ces choix ?
 
@@ -128,13 +126,11 @@ R: Bah, aigu, métallique mais pour le coup percussif. Un Glockenspiel.
 
 Q: Tu veux bien en écouter, peut-être un peu tout l'instrument et tu me dis si il y a des différences.
 
-R: Le glockenspiel, tout ça c'est pourri ! par rapport au chaud.
-Le xylophone, bah oui c'est pas chaud du tout.
-J'écoute un peu la harpe dans l'aigu. Harpe clairement dans l'aigu C6, peut être harmonique aussi. Ah non pas harmonique. Peut-être harpe dans l'aigu. Par contre le C2 mezzoforte, ça c'est pas mal pour un son chaud, le C1 un peu moins. Pour le coup le C2 mezzoforte c'est pas mal du tout. Par contre le C7 pas du tout.
+R: Le glockenspiel, tout ça c'est pourri ! par rapport au chaud. Le xylophone, bah oui c'est pas chaud du tout. J'écoute un peu la harpe dans l'aigu. Harpe clairement dans l'aigu C6, peut être harmonique aussi. Ah non pas harmonique. Peut-être harpe dans l'aigu. Par contre le C2 mezzoforte, ça c'est pas mal pour un son chaud, le C1 un peu moins. Pour le coup le C2 mezzoforte c'est pas mal du tout. Par contre le C7 pas du tout.
 
 Q: C'est quand même un son qui a une grosse résonance.
 
-R: En fait, je m'étonne de penser ça parce qu'il y a l'attaque. Mais le son il est limpide. Il y a pas de 'grrrrr' ou de "bvrrr". 
+R: En fait, je m'étonne de penser ça parce qu'il y a l'attaque. Mais le son il est limpide. Il y a pas de 'grrrrr' ou de ''bvrrr''. 
 
 Q: Mais le souffle ça t'avait plu pour la clarinette basse.
 
@@ -174,7 +170,7 @@ Q: Quel serait le mot que tu emplois pour parler d'un son pas chaud, si tu en ut
 
 R: Froid ? Non. 
 
-Q: Il peut ne pas exister, tu dis peut-être "pas chaud", ou "pas rond", ou "pas brillant".
+Q: Il peut ne pas exister, tu dis peut-être ''pas chaud'', ou ''pas rond'', ou ''pas brillant''.
 
 R: Agressif. oui . C'est ce qui me parait être le plus... Parce que pour moi chaud, je me sens bien. Je pense même qu'il y a une réaction psychologique qui se passe. Ça me fait du bien.
 

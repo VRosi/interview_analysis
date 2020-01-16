@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: Non je n'utilise pas rond non plus. Pourquoi ? Parce que je n'utilise pas d'instrument.
@@ -60,8 +62,7 @@ R: Oui. Oui pour moi ça correspond les C2 pianissimo et mezzoforte, encore plus
 
 Q4
 
-R: Le saxophone alto ? Non mauvais choix d'instrument. 
-Le cor anglais, fortissimo ? bof.
+R: Le saxophone alto ? Non mauvais choix d'instrument. Le cor anglais, fortissimo ? bof.
 
 Q: Si je te rappelle ce que tu m'as dis pour rond [...]
 
@@ -101,13 +102,11 @@ R: Oui même dans le cuivré il y a de la rondeur.
 
 Q: Ensuite le pizzicato de contrebasse, en comparaison aux pizzicato bartok.
 
-R: C'est presque slappé ça. Il y a un peu de rondeur, mais le fait de slapper sur la corde, enlève ce côté rassurant et enveloppant. 
-On a pas encore écouté le piano. En C1 ou C2\. Non c'est pas rond dans le forte. Dans le pianissimo c'est plus rond. 
+R: C'est presque slappé ça. Il y a un peu de rondeur, mais le fait de slapper sur la corde, enlève ce côté rassurant et enveloppant. On a pas encore écouté le piano. En C1 ou C2. Non c'est pas rond dans le forte. Dans le pianissimo c'est plus rond. 
 
 Q: Si on compare à la harpe.
 
-R: Pas rond. Enfin il y a des éléments mais... Peut-être le C1 de harpe fort était moins rond.
-Je suis pas très sur pour ces choix.
+R: Pas rond. Enfin il y a des éléments mais... Peut-être le C1 de harpe fort était moins rond. Je suis pas très sur pour ces choix.
 
 Q: Il y a des sons ronds qui manquent ?
 
@@ -119,8 +118,7 @@ R: Est-ce qu'un son aigu est rond ? Allons-y
 
 Q: le piccolo C8 ?
 
-R: Oh putain. T'es à quelle fréquence là ? Oui ça porte un peu de rondeur mais c'est pas franc, c'est pas flagrant.
-La rondeur moi je la vois plus dans les sons graves, donc il y a de la rondeur parce que si je mets une image sur ce son, je le vois quand même enveloppant quelque part, mais autant dans les sons qui font rond, je me sens dans une couette, là je suis juste entouré d'un drap.
+R: Oh putain. T'es à quelle fréquence là ? Oui ça porte un peu de rondeur mais c'est pas franc, c'est pas flagrant. La rondeur moi je la vois plus dans les sons graves, donc il y a de la rondeur parce que si je mets une image sur ce son, je le vois quand même enveloppant quelque part, mais autant dans les sons qui font rond, je me sens dans une couette, là je suis juste entouré d'un drap.
 
 Q5
 
@@ -134,7 +132,9 @@ Q:  Là on a écouté quelques sons aigus qui avaient un peu de rondeur non ? T
 
 R: Oui, pour moi.
 
-Q: Tu dirais pas juste pas rond ?R: Bah pour moi la rondeur effectivement,  il y a pas d'angle, par rapport à un carré, pour moi rugueux anguleux ça répond à rond lisse. D'ailleurs dès qu'on entendais un peu la corde, c'était plus rond.
+Q: Tu dirais pas juste pas rond ?
+
+R: Bah pour moi la rondeur effectivement,  il y a pas d'angle, par rapport à un carré, pour moi rugueux anguleux ça répond à rond lisse. D'ailleurs dès qu'on entendais un peu la corde, c'était plus rond.
 
 Q6
 

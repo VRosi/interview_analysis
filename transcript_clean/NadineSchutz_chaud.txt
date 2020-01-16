@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: Je l'emploi pas trop. Encore plus qu'avec rond et rugueux, il n'a pas le même sens, ça serait pour des questions climatiques, des questions d'écologie environnementale. J'utiliserai à la limite plutôt chaleureux, pour lui apporter un côté un peu plus personnification. Si on parle d'une personne chaleureuse. D'ailleurs si j'essaie de le qualifier comme ça je m'appuie plus sur des attributs qu'on utilise pour décrire des personnes.
@@ -20,7 +22,7 @@ Q: Oui on va écouter des exemples, mais là déjà, qu'est ce que tu voulais di
 
 R: Non mais c'est juste, J'avais tendance à dire que rond c'est une tendance d'avoir un peu peu plus de basse, et le chaud on va peut-être vers un truc équilibré... Mais je suis pas très sur.
 
-Q: Tu veux écouter des sons ?
+Q3
 
 R: Oui et d'ailleurs, si ça te dérange pas je proposerais même que tu commences à me proposer des sons.
 
@@ -50,7 +52,7 @@ R: Ah la clarinette c'est assez chaud. Le cor aussi. Le xylophone.
 
 Q: Du coup je te propose de reprendre un peu les sons que tu m'as cité. D'abord la clarinette, un peu la clarinette basse aussi, on va écouter le cor et après le xylophone.
 
-R: Entre tous les sons ordinario de clarinette, je pense que ce que j'ai trouve le plus chaud c'est dans le coin des piano mezzoforte medium grave.
+R: Entre tous les sons ordinario de clarinette, je pense que ce que j'ai trouve le plus chaud c'est dans le coin des piano mezzoforte médium grave.
 
 Q: Alors qu'est ce qui fait que ces sons sont plus chaud ?
 
@@ -114,8 +116,7 @@ R: Pour moi j'ai dis posé pour rond, pour moi chaud a quelque chose qui s'appro
 
 Q: Tu veux dire quoi par actif ?
 
-R: Pour moi quand tu prends un son, si tu regardes une belle personne qui regarde autre chose. Et un son chaud c'est plutôt une belle personne qui te regarde aussi quand tu la regarde. C'est pas quelque chose d'imposant dans le son, comme rugueux, où il y a ce côté physique ce grattage d'oreille, c'est plutôt quelque chose de face à face. 
-Faire ces choix j'ai trouvé ça très difficile.
+R: Pour moi quand tu prends un son, si tu regardes une belle personne qui regarde autre chose. Et un son chaud c'est plutôt une belle personne qui te regarde aussi quand tu la regarde. C'est pas quelque chose d'imposant dans le son, comme rugueux, où il y a ce côté physique ce grattage d'oreille, c'est plutôt quelque chose de face à face. Faire ces choix j'ai trouvé ça très difficile.
 
 Q: J'ai noté qu'une des choses dont tu voulais parler pour la chaleur c'est la voix, il y a quelque chose d'humain dans un son chaud ?
 

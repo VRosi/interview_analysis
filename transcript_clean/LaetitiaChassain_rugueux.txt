@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: Non rugueux je l'utilise pas souvent. Mais c'est un beau terme. Je l'entends plutôt dans la façon qu'on peut parler d'une oeuvre. Un compositeur qui va travailler sur la rugosité du son.
@@ -16,9 +18,7 @@ R: Je vais encore aller vers les cordes parce que c'est ça que je connais le mi
 
 Q: Est ce que des harmoniques de violoncelle ça peut être rugueux aussi ?
 
-R: Non...
-Dans le violon piano non vibrato c'est rugueux. C'est un son qui est nécessairement n'est pas conduit. C'est un son qui est strillé. Il y a des aspérités dans le son. 
-Le son grave C2 de violoncelle, je dirais qu'il y a de la rugosité dedans, parce que c'est la corde grave et on sent la matière de l'archet. La rugosité vient aussi dans l'idée de matière du son. La je sens plus la matière du son. Mais ça participe là en l'occurence à la chaleur du son. Dans la chaleur il y a aussi une par de rugosité, parce qu'on a besoin de cette présence et de cette profondeur dont je te parlais tout à l'heure.
+R: Non... Dans le violon piano non vibrato c'est rugueux. C'est un son qui est nécessairement n'est pas conduit. C'est un son qui est strillé. Il y a des aspérités dans le son. Le son grave C2 de violoncelle, je dirais qu'il y a de la rugosité dedans, parce que c'est la corde grave et on sent la matière de l'archet. La rugosité vient aussi dans l'idée de matière du son. La je sens plus la matière du son. Mais ça participe là en l'occurence à la chaleur du son. Dans la chaleur il y a aussi une par de rugosité, parce qu'on a besoin de cette présence et de cette profondeur dont je te parlais tout à l'heure.
 
 Q: Je sors pour te montrer un son de corde écrasée de contrebasse, est ce que tu trouves ça rugueux ?
 
@@ -38,8 +38,7 @@ R: C'est pas ce que je dirais en premier. Mais je dirais qu'il y a de la rugosit
 
 Q: Alors si je te vais écouter un flatterzunge de flute dans l'aigu ?
 
-R: Alors là il y a de la brillance et du rugueux. Pour moi le brillant passe plus que le rugueux.
-Un flatterzunge de trombone C4 oui c'est rugueux ça. C'est une matière sonore avec beaucoup d'aspérité.
+R: Alors là il y a de la brillance et du rugueux. Pour moi le brillant passe plus que le rugueux. Un flatterzunge de trombone C4 oui c'est rugueux ça. C'est une matière sonore avec beaucoup d'aspérité.
 
 Q: Tu parlais de frottement pour le rugueux, ça peut aussi être un frottement de deux notes, comme un multiphonique ?
 
@@ -47,10 +46,7 @@ R: Oui ça peut. Le multiphonique (1) de hautbois c'est un son acide, nasale, ma
 
 Q4
 
-R: C'est difficile, je vais encore chercher dans des sons de claviers. Un son de marimba c'est pas rugueux. C'est un son très homogène. L'anti-rugueux c'est homogène.
-Je vais pas choisir dans les cordes parce que dans les cordes il y a un contact avec la matière. A chauqe fois il y a une dose de rugosité qui fait partie nécessairement de l'instrument.
-L'accordéon C4 pour moi c'est pas rugueux.
-Le cor C3 mezzoforte c'est pas rugueux, c'est rond.
+R: C'est difficile, je vais encore chercher dans des sons de claviers. Un son de marimba c'est pas rugueux. C'est un son très homogène. L'anti-rugueux c'est homogène. Je vais pas choisir dans les cordes parce que dans les cordes il y a un contact avec la matière. A chauqe fois il y a une dose de rugosité qui fait partie nécessairement de l'instrument. L'accordéon C4 pour moi c'est pas rugueux. Le cor C3 mezzoforte c'est pas rugueux, c'est rond.
 
 Q5
 

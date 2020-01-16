@@ -1,6 +1,8 @@
+QR:T
+
 Q1
 
-R: Chaud c'est un terme que j'emploi pas forcément de faon très fréquente mais c'est vrai qu'il m'est quand même plus familier que rond. Du coup c'est un petit peu pareil que quand j'ai répondu à rond c'est à dire que j'aurais tendance à l'associer à une sonorité d'ensemble.
+R: Chaud c'est un terme que j'emploi pas forcément de façon très fréquente mais c'est vrai qu'il m'est quand même plus familier que rond. Du coup c'est un petit peu pareil que quand j'ai répondu à rond c'est à dire que j'aurais tendance à l'associer à une sonorité d'ensemble.
 
 Q: Donc de la même façon un ensemble homogène d'instrument ? Tous types d'instruments ?
 
@@ -32,7 +34,9 @@ R: Oui je pense.
 
 Q3
 
-Q: Alors on va d'abord écouter les mêmes sons que pour rond... Est-ce qu'il sont aussi chaud que rond ? D'abord le violoncelle.R: Oui le C2 de violoncelle mezzoforte il est aussi chaud. Oui alors j'aurais besoin du mezzoforte pour le qualifier de chaud, mezzoforte, forte.
+Q: Alors on va d'abord écouter les mêmes sons que pour rond... Est-ce qu'il sont aussi chaud que rond ? D'abord le violoncelle.
+
+R: Oui le C2 de violoncelle mezzoforte il est aussi chaud. Oui alors j'aurais besoin du mezzoforte pour le qualifier de chaud, mezzoforte, forte.
 
 Q: En terme de hauteur ?
 
@@ -52,9 +56,7 @@ R: Je trouve que le son du violoncelle est plus chaud.
 
 Q: Du coup une autre famille d'instrument...
 
-R: Pour les vent j'aurais tendance à aller vers le basson, le bois grave, basson ou contrebasson. Oui le C2 et C3 mezzoforte. Le C2 mezzoforte est plus grave, le forte aussi est chaud, beaucoup moins le piano.
-
-Pour le contrebasson je pense que ça va être pareil pour le C1 et C2 mezzoforte.
+R: Pour les vent j'aurais tendance à aller vers le basson, le bois grave, basson ou contrebasson. Oui le C2 et C3 mezzoforte. Le C2 mezzoforte est plus grave, le forte aussi est chaud, beaucoup moins le piano. Pour le contrebasson je pense que ça va être pareil pour le C1 et C2 mezzoforte.
 
 Q: Pour comparer avec un instrument ou vous m'avez dis que c'était pas forcément rond, à la même hauteur, pour la clarinette basse, vous allez trouver ça plus ou moins chaud, ou pas.
 
@@ -76,7 +78,9 @@ Q: J'ai l'impression qu'une nuance se créée entre chaud et rond, qui relève p
 
 R: Oui là on a besoin d'une plus grande richesse harmonique.
 
-Q: Pour le cor c'est intéressant, parce qu'on allait plutôt vers du piano et mezzoforte pour rond, mais la peut-être que ça a changé, vous trouvez le C3 forte rond ?R: Non. Mais il est plus chaud.
+Q: Pour le cor c'est intéressant, parce qu'on allait plutôt vers du piano et mezzoforte pour rond, mais la peut-être que ça a changé, vous trouvez le C3 forte rond ?
+
+R: Non. Mais il est plus chaud.
 
 Q: Est ce que pour le tuba, la même observation se fait ?
 
@@ -90,8 +94,7 @@ Q: Je note encore qu'un ensemble de cordes ou de cuivres manque pour parler de c
 
 Q4
 
-R: Par exemple le xylophone. Plutôt avec des baguettes dures. Non dans tout c'est pas chaud.
-Pareil pour les cordes aiguës, le violon, bon même si il joue dans le grave il y a une certaine chaleur. Le do vibré on peut le qualifié de chaud, même si il est pas vibré. pour le violon C6 nonvibrato il y a plus de chaleur, il y a un peu plus de chaleur avec le vibrato.
+R: Par exemple le xylophone. Plutôt avec des baguettes dures. Non dans tout c'est pas chaud. Pareil pour les cordes aiguës, le violon, bon même si il joue dans le grave il y a une certaine chaleur. Le do vibré on peut le qualifié de chaud, même si il est pas vibré. pour le violon C6 nonvibrato il y a plus de chaleur, il y a un peu plus de chaleur avec le vibrato.
 
 Q: Là on est un peu dans l'aigu,
 
@@ -103,9 +106,7 @@ R: Il y aurait peut-être le cor anglais...
 
 Q: Alors je l'ai pas très grave. Mais quand même entre les 3 C4 qu'est ce qui va être le plus chaud ?
 
-R: Le forte.
-
-Sinon la flute en sol.
+R: Le forte. Sinon la flute en sol.
 
 Q: Oui mais plutôt pour du pas chaud ?
 
@@ -121,11 +122,7 @@ R: Du pas chaud dans les instruments graves.
 
 Q: Si je vous propose l'accordéon par rapport à votre définition ?
 
-R: Oui le C3 d'accordéon c'est pas chaud. Le C2 il y a une certaine chaleur. On se retrouve dans l'équivalent de la clarinette.
-
-Il y a la harpe aussi, Le C2 et le C3 mezzoforte sont pas chauds. La harpe, pas tellement de caractère. 
-
-Et dans le piano, le C3 c'est un peu comme la rondeur...
+R: Oui le C3 d'accordéon c'est pas chaud. Le C2 il y a une certaine chaleur. On se retrouve dans l'équivalent de la clarinette. Il y a la harpe aussi, Le C2 et le C3 mezzoforte sont pas chauds. La harpe, pas tellement de caractère. Et dans le piano, le C3 c'est un peu comme la rondeur...
 
 Q : son manquant ?
 
@@ -137,7 +134,7 @@ R: Sinon la cymbale aussi. Curieusement, la cymbale je peux aussi l'associer à 
 
 Q5
 
-R: D'abord c'est qu'il est relativement aigu. il a une dynamique trop faible. Il a aussi des caractéristiques harmoniques : je pense que effectivement, il y a une certaine pauvreté en harmoniques.
+R: D'abord c'est qu'il est relativement aigu. il a une dynamique trop faible. Il a aussi des caractéristiques harmoniques, je pense que effectivement, il y a une certaine pauvreté en harmoniques.
 
 Q6
 
@@ -163,7 +160,7 @@ Q: Vous trouvez pas que c'est un son chaud, le C4 harmonique ?
 
 R: Non c'est un son qui n'est pas du tout chaud. J'ai quand même trouvé les sons vibrés, plus chauds que les sons non vibrés, donc je pense qu'il y a l'influence de l'entretien. Un son de résonance ne sera vraiment pas chaud du tout. Ce qui exclus tous les instruments basés sur l'attaque.
 
-Q: Tout ça pour dire qu'ul n'y a pas forcément de terme pour parler de chaud ? Ou glacé c'est un terme que vous employez ?
+Q: Tout ça pour dire qu'il n'y a pas forcément de terme pour parler de chaud ? Ou glacé c'est un terme que vous employez ?
 
 R: Oui non, il n'y aurait pas forcément de terme.
 

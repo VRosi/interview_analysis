@@ -1,11 +1,12 @@
+QR:T
+
 Q1
 
 R: Je l'utilise pas trop mais ça m'évoque quand même plein de choses. Pour l'ingénierie sonore, je pense qu'en musique on peut l'employer plus souvent qu'en cinéma. En cinéma tu qualifies plein de son, mais tu parles beaucoup de voix, et la rugosité dans la voix c'est rare. Mais on parle beaucoup de clair ou de rond. La voix je pense que ça manque pour l'ensemble.
 
 Q2
 
-R: Déjà c'est un terme employé par rapport à de la matière. La rugosité c'est presque pas auditif, c'est lié au touché. La rondeur je la vois plus par un stimulus visuel... La rugosité c'est quelque chose qui frotte. Ça peut frotter, ça peut grincer, tout ce qui est friction.
-Je pense aussi qu'il y a une notion de durée. Pour percevoir la rugosité il faut qu'elle se perçoive dans le temps. La rugosité s'exprime par une forme d'aléatoire, de bruit. Il y a aussi un aspect imprévisible.
+R: Déjà c'est un terme employé par rapport à de la matière. La rugosité c'est presque pas auditif, c'est lié au touché. La rondeur je la vois plus par un stimulus visuel... La rugosité c'est quelque chose qui frotte. Ça peut frotter, ça peut grincer, tout ce qui est friction. Je pense aussi qu'il y a une notion de durée. Pour percevoir la rugosité il faut qu'elle se perçoive dans le temps. La rugosité s'exprime par une forme d'aléatoire, de bruit. Il y a aussi un aspect imprévisible.
 
 Q3
 
@@ -13,13 +14,7 @@ R: Dans le basson.  Oui le C2 fortissimo c'est rugueux.
 
 Q: Mais je vois pas trop le côté aléatoire dont tu parles ici.
 
-R: Il y a quand même le bruit du souffle. L'aléatoire fait parti du rugueux, mais ne fait pas tout. Mais j'entends le frottement. 
-Mais la clarinette basse et la flute éolien n'est pas rugueux.
-Dans le contrebasson, ce battement régulier rend rugueux. 
-Mais un son qui manque peut être c'est la caisse claire jouée au balai.
-Mais ces sons de base de données sont trop propres, si ils étaient joués plus naturellement, ça aurait plus de rugosité.
-Oui il y a de la rugosité dans l'archet dans le rapport harmonique/frottement, il y a pas mal de frottement, dans l'ordinario C4 pianissimo. Le mode de jeu harmoniques est rugueux aussi. Le Sul ponticello aussi beaucoup. Il y a le son harmonique dominé par le frottement, Et en plus dans le mode de jeu, il y a un aléatoire, imprévisible très présent. Le violon non vibrato C4 pianissimo c'est très rugueux.
-Le violoncelle non vibrato c'est moins rugueux, mais plus en harmoniques. 
+R: Il y a quand même le bruit du souffle. L'aléatoire fait parti du rugueux, mais ne fait pas tout. Mais j'entends le frottement. Mais la clarinette basse et la flute éolien n'est pas rugueux. Dans le contrebasson, ce battement régulier rend rugueux. Mais un son qui manque peut être c'est la caisse claire jouée au balai. Mais ces sons de base de données sont trop propres, si ils étaient joués plus naturellement, ça aurait plus de rugosité. Oui il y a de la rugosité dans l'archet dans le rapport harmonique/frottement, il y a pas mal de frottement, dans l'ordinario C4 pianissimo. Le mode de jeu harmoniques est rugueux aussi. Le Sul ponticello aussi beaucoup. Il y a le son harmonique dominé par le frottement, Et en plus dans le mode de jeu, il y a un aléatoire, imprévisible très présent. Le violon non vibrato C4 pianissimo c'est très rugueux. Le violoncelle non vibrato c'est moins rugueux, mais plus en harmoniques. 
 
 Q: Dans l'idée de battement, si on reprend les bassons et contrebasson.
 
@@ -31,8 +26,7 @@ R: Au passage,  dans ce type de son on élimine tout ce qui est pizzicato, car 
 
 Q4
 
-R: Si on devait employer un terme inverse on dirait lisse. Rugueux et lisse. Tous les marimba, xylophone ou glockenspiel il y a aucune rugosité là-dedans. Le fait d'avoir une attaque et une résonance, c'est pas assez. Il manque le geste, l'idée, le frottement.
-Très peu de rugosité dans le son de saxophone pianissimo C4 et C5, de manière général c'est pas rugueux. L'accordéon dans l'aigu c'est pas rugueux du tout.
+R: Si on devait employer un terme inverse on dirait lisse. Rugueux et lisse. Tous les marimba, xylophone ou glockenspiel il y a aucune rugosité là-dedans. Le fait d'avoir une attaque et une résonance, c'est pas assez. Il manque le geste, l'idée, le frottement. Très peu de rugosité dans le son de saxophone pianissimo C4 et C5, de manière général c'est pas rugueux. L'accordéon dans l'aigu c'est pas rugueux du tout.
 
 Q5
 
@@ -52,5 +46,4 @@ R: Je saurais pas trop te donner une bonne définition.
 
 Q6
 
-R: Même par rapport au rond, c'est assez politique. On considère qu'un son confortable est agréable mais bon. Justement, j'ai pas d'affect avec les sons, j'essaie de ne pas en avoir. On dirait que les gens préfèrent du lisse, mais moi la rugosité je trouve ça hyper intéressant. Du coup sur la rugosité, comme pour le rond je mettrais pas d'affect. J'ai pas envie d'avoir d'affect sur les sons, j'ai envie de les utiliser dans des buts précis. 
-Je mettrais pas d'affect parce que c'est pas lié à un objet artistique. Si tu fais un mix rond pour un film d'action qui nécessite une grande dynamique, tu te plantes. C'est pas parce que c'est confortable que c'est quelque chose de positif. Je peux ne pas aimer être confortable.
+R: Même par rapport au rond, c'est assez politique. On considère qu'un son confortable est agréable mais bon. Justement, j'ai pas d'affect avec les sons, j'essaie de ne pas en avoir. On dirait que les gens préfèrent du lisse, mais moi la rugosité je trouve ça hyper intéressant. Du coup sur la rugosité, comme pour le rond je mettrais pas d'affect. J'ai pas envie d'avoir d'affect sur les sons, j'ai envie de les utiliser dans des buts précis.  Je mettrais pas d'affect parce que c'est pas lié à un objet artistique. Si tu fais un mix rond pour un film d'action qui nécessite une grande dynamique, tu te plantes. C'est pas parce que c'est confortable que c'est quelque chose de positif. Je peux ne pas aimer être confortable.

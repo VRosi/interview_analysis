@@ -1,4 +1,8 @@
+QR:T
+
 Q1
+
+Q2
 
 R: Je pense que j'alterne un peu rond et chaud, enfin je peux utiliser l'un pour l'autre.
 
@@ -50,14 +54,15 @@ R: Oui c'est vrai, prenons un trombone. Avec une sourdine bol... Oui c'est pas t
 
 Q: Est ce que c'est chaud ?
 
-R: C'est pas très chaud. Dans le forte c'est pas chaud, et c'est pas rond non plus.
-Tous les sons de C3, C4 mezzoforte ou piano c'est rond. Pour moi rond il y a aussi une idée de ronronner.
+R: C'est pas très chaud. Dans le forte c'est pas chaud, et c'est pas rond non plus. Tous les sons de C3, C4 mezzoforte ou piano c'est rond. Pour moi rond il y a aussi une idée de ronronner.
 
 Q: Une idée qui n'est pas présente dans chaud ?
 
-R: Pas forcément non. Par exemple si je prends une contrebasse. Oui, bon c'est rond et chaud dans le grave. La flute... c'est ni rond, ni chaud.
-Rond ça sera toujours plutôt dans les nuances piano. Le saxophone C5 pianissimo il est rond.Q: Est-ce qu'il est chaud aussi ?R: Oui, il est plutôt chaud.
-Le vibraphone, avec une baguette molle C5 piano là c'est rond et chaud, le C6 aussi, le C4 aussi. Donc ça se recoupe dans pas mal d'occasions mais pas tout le temps.
+R: Pas forcément non. Par exemple si je prends une contrebasse. Oui, bon c'est rond et chaud dans le grave. La flute... c'est ni rond, ni chaud. Rond ça sera toujours plutôt dans les nuances piano. Le saxophone C5 pianissimo il est rond.
+
+Q: Est-ce qu'il est chaud aussi ?
+
+R: Oui, il est plutôt chaud. Le vibraphone, avec une baguette molle C5 piano là c'est rond et chaud, le C6 aussi, le C4 aussi. Donc ça se recoupe dans pas mal d'occasions mais pas tout le temps.
 
 Q: Ça serait intéressant de savoir pourquoi, quand ça se recoupe, et quand ça se recoupe pas.
 
@@ -81,14 +86,11 @@ R: Oui plutôt. Dans le piano aussi.
 
 Q4
 
-R: Non le xylophone c'est pas rond du tout. Plutôt baguette bois. Oui c'est pas rond, le C7 par exemple.
-L'accordéon c'est pas rond... ah attends, non c'est pas rond. Bah si c'est un peu rond dans le grave. Dans le grave ça ronronne.
+R: Non le xylophone c'est pas rond du tout. Plutôt baguette bois. Oui c'est pas rond, le C7 par exemple. L'accordéon c'est pas rond... ah attends, non c'est pas rond. Bah si c'est un peu rond dans le grave. Dans le grave ça ronronne.
 
 Q: C'est plutôt grave les sons ronds, un peu comme le chaud ?
 
-R: Un peu comme le chaud, enfin non le chaud c'est plutôt médium. Rond c'est plutôt grave. 
-Alors pas rond du tout. Fais voir le hautbois.  Si c'est rond, c'est même très rond.
-Le Piccolo dans son ensemble c'est pas rond.
+R: Un peu comme le chaud, enfin non le chaud c'est plutôt médium. Rond c'est plutôt grave. Alors pas rond du tout. Fais voir le hautbois.  Si c'est rond, c'est même très rond. Le Piccolo dans son ensemble c'est pas rond.
 
 Q: Autre chose ? Par exemple, qu'est ce que tu penses du basson ?
 
@@ -116,7 +118,9 @@ R: Pour du pas rond, et bien non ça va.
 
 Q5
 
-R: Un son pas rond, un son lisse, sec, j'allais dire froid mais j'ai pas le droit parce que froid c'est pour chaud. Pas rond, oui plutôt lisse et sec... C'est compliqué de définir un adjectif par un autre adjectif.Q: Parle moi du son lui-même, ses caractéristiques, comment il est ?
+R: Un son pas rond, un son lisse, sec, j'allais dire froid mais j'ai pas le droit parce que froid c'est pour chaud. Pas rond, oui plutôt lisse et sec... C'est compliqué de définir un adjectif par un autre adjectif.
+
+Q: Parle moi du son lui-même, ses caractéristiques, comment il est ?
 
 R: Il est strident, claquant...
 
@@ -128,7 +132,9 @@ Q: Pour ce qui est de l'attaque douce du son rond ?
 
 R: L'attaque sera plutôt franche.
 
-Q: Il y a un terme que tu utilises pour dire pas rond ou non ?R: J'essaie de réfléchir à ce que je dis au musicien. Oui je vais dire sec. 
+Q: Il y a un terme que tu utilises pour dire pas rond ou non ?
+
+R: J'essaie de réfléchir à ce que je dis au musicien. Oui je vais dire sec. 
 
 Q6
 

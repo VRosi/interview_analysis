@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: Oui. Brillant je l'utilise. Peut-être plus souvent que les autres termes. Et que j'utilise peut-être en références au sonorité des cuivres.
@@ -28,18 +30,11 @@ R: Oui je pense que pour le côté brillant, l'attaque peut avoir une importance
 
 Q3
 
-R: On peut écouter la trompette. La brillance va être liée à la hauteur. Aussi à la dynamique. Plus c'est cuivré plus c'est brillant. Théoriquement, ça devrait être le plus aigu qui est le plus brillant, mais là j'ai un petit doute. Finalement C'est le C5 cuivré qui est le plus brillant.
-
-Sinon, dans les modes de jeu, peut-être la sourdine bol, ou la sourdine harmon. Oui la sourdine harmon, et bol aussi c'est brillant. Mais la harmon est la plus brillante. Et le cuivré est plus brillant. 
-
-Pour le cor ça va pas être la même chose que la trompette. Pour moi le cuivré C2 c'est pas brillant, le C3 ça l'est déjà plus, le C4 encore plus.
+R: On peut écouter la trompette. La brillance va être liée à la hauteur. Aussi à la dynamique. Plus c'est cuivré plus c'est brillant. Théoriquement, ça devrait être le plus aigu qui est le plus brillant, mais là j'ai un petit doute. Finalement C'est le C5 cuivré qui est le plus brillant. Sinon, dans les modes de jeu, peut-être la sourdine bol, ou la sourdine harmon. Oui la sourdine harmon, et bol aussi c'est brillant. Mais la harmon est la plus brillante. Et le cuivré est plus brillant.  Pour le cor ça va pas être la même chose que la trompette. Pour moi le cuivré C2 c'est pas brillant, le C3 ça l'est déjà plus, le C4 encore plus.
 
 Q: C'est aussi brillant que pour la trompette ?
 
-R: Non moins. 
-Sinon dans d'autres familles d'instrument, le piccolo... Le plus aigu ? Non le C7 forte c'est le plus brillant je pense. Ordinaire et flatterzunge d'ailleurs je pense. Le C7 flatterzunge est encore plus brillant.
-
-La flute pourrait aussi être brillant dans l'aigu. Le C7 c'est moins brillant que ce que l'on a entendu, mais c'est bien, pareil pour le flatterzunge.
+R: Non moins.  Sinon dans d'autres familles d'instrument, le piccolo... Le plus aigu ? Non le C7 forte c'est le plus brillant je pense. Ordinaire et flatterzunge d'ailleurs je pense. Le C7 flatterzunge est encore plus brillant. La flute pourrait aussi être brillant dans l'aigu. Le C7 c'est moins brillant que ce que l'on a entendu, mais c'est bien, pareil pour le flatterzunge.
 
 Q: Qu'est ce qu'il apporte le flatterzunge pour la brillance ? C'est peut-être l'enregistrement ?
 
@@ -55,9 +50,7 @@ R: Si pourquoi pas, je verrais bien le xylophone. Plutôt une baguette en bois, 
 
 Q: Et si on garde la résonance est ce que la guitare ou la harpe ça sera aussi brillant que ceux là ? Par exemple la harpe ?
 
-R: Oui le C6 de harpe c'est brillant, mais moins que le glockenspiel. Donc c'est vraiment lié pour moi à la résonance.
-
-Donc au final le top c'est plutôt trompette, puis le cor et un peu moins le glockenspiel, avec la flute piccolo.
+R: Oui le C6 de harpe c'est brillant, mais moins que le glockenspiel. Donc c'est vraiment lié pour moi à la résonance. Donc au final le top c'est plutôt trompette, puis le cor et un peu moins le glockenspiel, avec la flute piccolo.
 
 Q: Son manquant ?
 
@@ -65,21 +58,13 @@ R: Peut-être le triangle.
 
 Q4
 
-R: Dans le violon, les harmoniques de cordes peuvent être brillant. Ah mais on cherche pas brillant... Mais comme j'ai pas cité les cordes du tout... Bon c'est pas grave.
-
-Des sons pas brillants, la flute dans le grave, la flute alto. La flute alto C4 c'est moins brillant que la flute. Plus c'est piano moins c'est brillant. Le son plus aigu C5 c'est plus brillant. La brillance ça faut pas parti des caractéristiques de la flute alto, de la flute oui.
-
-Le basson sinon. Quelque soit son registre je vais pas le trouver brillant. Rien de brillant dans le mezzoforte. Le contrebasson aussi.
-
-Le saxophone peut être brillant je pense, dans le forte et l'aigu plutôt.
-
-Le piano sinon, partout. Dans l'aigu on va trouver une brillance. 
+R: Dans le violon, les harmoniques de cordes peuvent être brillant. Ah mais on cherche pas brillant... Mais comme j'ai pas cité les cordes du tout... Bon c'est pas grave. Des sons pas brillants, la flute dans le grave, la flute alto. La flute alto C4 c'est moins brillant que la flute. Plus c'est pianissimo moins c'est brillant. Le son plus aigu C5 c'est plus brillant. La brillance ça faut pas parti des caractéristiques de la flute alto, de la flute oui. Le basson sinon. Quelque soit son registre je vais pas le trouver brillant. Rien de brillant dans le mezzoforte. Le contrebasson aussi. Le saxophone peut être brillant je pense, dans le forte et l'aigu plutôt. Le piano sinon, partout. Dans l'aigu on va trouver une brillance. 
 
 Q: Par rapport à la flute alto et le basson, c'est aussi peu brillant ?
 
 R: Le piano c'est peu brillant aussi, au même niveau que le basson et la flute en dessous du C4.
 
-Q: Par rapport à ce qu'on a entendu tout à l'heure, je peux vous suggérer le son de Cor C3 piano ? Vous trouvez ça comment ?
+Q: Par rapport à ce qu'on a entendu tout à l'heure, je peux vous suggérer le son de Cor C3 pianissimo ? Vous trouvez ça comment ?
 
 R: Pas brillant. Je trouve que le cor c'est l'instrument qui a le moins de caractéristiques brillantes dans la famille des cuivres. Après quand il est dans l'aigu, quand il éclate oui. Mais là il n'y a pas de brillance pour le cor, mais pour le trombone si un peu sur le C3\. Pour le tuba C3 je trouve de la brillance.
 
@@ -89,7 +74,7 @@ R: Un son pas brillant c'est terne, gris... Je sais pas comment dire. En même t
 
 Q: Commençons par définir le non brillant alors.
 
-R: Un son qui n'est pas brillant, ça serait un son qui en terme de spectre harmonique, peu riche en harmoniques aiguës. Et qui serait plutôt dans une dynamique piano.
+R: Un son qui n'est pas brillant, ça serait un son qui en terme de spectre harmonique, peu riche en harmoniques aiguës. Et qui serait plutôt dans une dynamique pianissimo.
 
 Q: Donc en fait terne ça serait pas représentatif de tous les sons du non brillant. Donc qu'est ce que ce serait un son pas brillant ?
 

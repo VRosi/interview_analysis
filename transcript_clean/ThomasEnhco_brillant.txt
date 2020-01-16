@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: Déjà au piano, brillant je vais l'utiliser beaucoup et de plein de façons différentes. D'abord en tant que pianiste de jazz, on improvise un peu tout, et notamment les voicing, c'est-à-dire la façon d'organiser les notes dans un même accord, donc pas seulement le renversement mais aussi les doublures etc. Et le voice leading qui est la conduite des voix entre les différents voicing. Et donc moi, pour une même harmonie, un même accord, je vais chercher un voicing plus ou moins brillant. Et donc je vais organiser comme ça... Je ne sais pas trop en terme acoustiques comment ça marche mais c'est vrai que tel ou tel voicing va être plus brillant, pour une même harmonie. Donc ça c'est pour le piano, après, sans parler des notes qu'on utilise, mais juste de la façon dont on les joue, on peut avoir un touché plus ou moins brillant, sur une même note, sur un même accord, sur une même phrase, et donc dans ce cas là... Par exemple, hier j'étais en concert, je jouais une sonate de Mozart pour deux pianos, il y avait un passage que je travaillais pour le rendre plus brillant, au sens plus émotionnel du terme. Je voulais que ça soit brillant, comme un chevalier sur son cheval.
@@ -20,7 +22,7 @@ Q: Tu veux dire qu'on entend les harmoniques aiguës ?
 
 R: Bah oui. On entend les harmoniques aiguës. Pour moi brillant c'est pas sec. Donc c'est plutôt quelque chose de chatoyant. C'est pas forcément fort, mais c'est plutôt quelque chose d'assez affirmé. 
 
-Q: Ça va avec l'idée de "qui passe au dessus des autres". Autre chose ?
+Q: Ça va avec l'idée de qui passe au dessus des autres. Autre chose ?
 
 R: En terme de matière ça ira plutôt vers le métal.
 
@@ -52,7 +54,9 @@ Q: Tu vois une différence dans la brillance, entre ordinario et non vibrato ?
 
 R: C'est un peu plus brillant avec vibrato.
 
-Q: Un autre son ?R: Et bien la trompette, c'est brillant. La trompette ou le cor. La trompette C5 mezzoforte ordinario c'est assez brillant. Le C6 aussi, oui autant. Le C5 forte c'est plus brillant, pareil pour le C6\. Et quand c'est cuivré le C5, pour moi c'est pas spécialement plus brillant, c'est plus intense, mais...
+Q: Un autre son ?
+
+R: Et bien la trompette, c'est brillant. La trompette ou le cor. La trompette C5 mezzoforte ordinario c'est assez brillant. Le C6 aussi, oui autant. Le C5 forte c'est plus brillant, pareil pour le C6\. Et quand c'est cuivré le C5, pour moi c'est pas spécialement plus brillant, c'est plus intense, mais...
 
 Q: Donc les C5 et C6 forte étaient bien.
 
@@ -98,7 +102,7 @@ Q: Il y a quand même une bonne différence entre les sons de cordes ou de vents
 
 R: Je crois que c'est cette affaire d'aigu. Aigu pour l'instrument. Peut-être qu'un violoncelle joué dans l'aigu, qui serait du grave pour le violon, serait brillant chez le violoncelle.
 
-Q: Ça va avec l'idée dans ce que tu disais tout à l'heure : lorsque l'instrument joue dans le milieu de sa tessiture une zone où il est à l'aise. Peut-être que dans le suraigu ça marche pas forcément.
+Q: Ça va avec l'idée dans ce que tu disais tout à l'heure, lorsque l'instrument joue dans le milieu de sa tessiture une zone où il est à l'aise. Peut-être que dans le suraigu ça marche pas forcément.
 
 R: Oui non. Bah le glockenspiel, quand on allait dans l'aigu, c'était finalement moins brillant, en tout cas de ce que j'entendais là. Donc je crois que ce qu'il y a en commun c'est la richesse harmonique en fait, qui d'ailleurs est plus évidente au violon quand il vibre que quand il vibre pas. Parce que ça provoque des frottements d'harmonique. Et puis le glockenspiel on entend pas forcément bien la fondamentale de la note. Mais la tiers, ou la quinte sont très présentes. Donc c'est très résonant.
 

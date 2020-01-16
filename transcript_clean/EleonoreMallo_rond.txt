@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: Je l'utilise assez souvent pour le coup. En bruitage également, c'est beaucoup plus fréquent (par rapport à rugueux) et ça peut s'appliquer à beaucoup de types de bruitage. Par exemple des bruits de pas, des accessoires, des résonances. Je parle beaucoup de rondeur, souvent par rapport à ce que veut le réalisateur. Dans la vie aussi pour décrire un son, une voix. C'est vraiment un son que j'utilise beaucoup.
@@ -12,9 +14,7 @@ R: Elle est franche sans être violente ou dure, mais il faut qu'elle soit nette
 
 Q3
 
-R: Oui le pizzicato C4 mezzoforte d'alto que tu viens de me faire écouter. Quand c'est forte, le son est plus rond, il est trop violent, et ça amène une sorte de saturation naturelle qui enlève la rondeur. Sur le violon, dans l'aigu le pizzicato est moins rond. Pour la contrebasse, c'est vraiment le plus rond en pizzicato, sauf quand c'est fort, le C3 mezzoforte. 
-
-Pour moi sinon, le glockenspiel ça me dérange, il y a un aspect métallique qui frise un peu, c'est moins rond. Le vibraphone baguette molle c'est rond en C4\. Ok le marimba est plus rond. Le marimba en premier et ensuite le vibraphone avec les baguettes molles.
+R: Oui le pizzicato C4 mezzoforte d'alto que tu viens de me faire écouter. Quand c'est forte, le son est plus rond, il est trop violent, et ça amène une sorte de saturation naturelle qui enlève la rondeur. Sur le violon, dans l'aigu le pizzicato est moins rond. Pour la contrebasse, c'est vraiment le plus rond en pizzicato, sauf quand c'est fort, le C3 mezzoforte. Pour moi sinon, le glockenspiel ça me dérange, il y a un aspect métallique qui frise un peu, c'est moins rond. Le vibraphone baguette molle c'est rond en C4\. Ok le marimba est plus rond. Le marimba en premier et ensuite le vibraphone avec les baguettes molles.
 
 Q: Quels sont les liens en termes de rondeurs sur ces sons
 
@@ -22,13 +22,11 @@ R: Ce sont des sons assez courts et résonants oui.
 
 Q: Un son continu ça peut être rond ? 
 
-R: Pas trop en fait. Un son rond c'est plutôt court dans mon esprit. Après ça peut-être une succession de son court. Mais le staccato de cuivre c'est pas rond pour moi.
-Le piano ça s'approche du rond, mais c'est un peu moins rond que le marimba ou le vibraphone. La guitare ordinario c'est plus rond que le piano. 
+R: Pas trop en fait. Un son rond c'est plutôt court dans mon esprit. Après ça peut-être une succession de son court. Mais le staccato de cuivre c'est pas rond pour moi. Le piano ça s'approche du rond, mais c'est un peu moins rond que le marimba ou le vibraphone. La guitare ordinario c'est plus rond que le piano. 
 
 Q: J'ai l'impression que l'impact, si il est trop marqué tu vas pas trouver ça rond.
 
-R: Non c'est pas ça, C'est quand on entend l'impact en tant que tel et qu'il est pas lié à la résonance, il y a une perturbation.
-La harpe ordinario C4 c'est rond aussi.
+R: Non c'est pas ça, C'est quand on entend l'impact en tant que tel et qu'il est pas lié à la résonance, il y a une perturbation. La harpe ordinario C4 c'est rond aussi.
 
 Q: Il y a des sons ronds qui t'on manqué ?
 
@@ -36,29 +34,21 @@ R: Le bol tibétain, tout de suite, quand on le frappe.
 
 Q4
 
-R: Le sul ponticello de violon là c'est pas rond du tout, ça en est très loin. Le pizzicato Bartok, il y a un tout petit peu de rondeur. Parce qu'il y a des caractéristiques du son rond, l'impact et la petite résonance. 
-
-Pour la clarinette semi-éolien, le souffle qui donne un côté bruité m'écarte de l'aspect rond, mais le son original de la clarinette derrière il y a de la rondeur. La clarinette ordinario il y a une partie qui peut être considérée comme rond justement parce qu'elle évoque une résonance.
+R: Le sul ponticello de violon là c'est pas rond du tout, ça en est très loin. Le pizzicato Bartok, il y a un tout petit peu de rondeur. Parce qu'il y a des caractéristiques du son rond, l'impact et la petite résonance. Pour la clarinette semi-éolien, le souffle qui donne un côté bruité m'écarte de l'aspect rond, mais le son original de la clarinette derrière il y a de la rondeur. La clarinette ordinario il y a une partie qui peut être considérée comme rond justement parce qu'elle évoque une résonance.
 
 Q: Si tu peux essayer de décrire un peu plus cette résonance, parce que là c'est un son entretenu mais tu le trouves un peu rond. Quel est le point commun de ces sons ?
 
-R: Si on me demandais je dirais la rondeur *rire*. C'est difficile. Je pense que je suis influencé par la note, le fait que ça soit une note dans le bas-médium. Dans l'aigu la clarinette ordinario piano c'est plus rond pour moi. Je pense que c'est ce côté plein qu'elle à la clarinette dans le bas-médium qui va la rapprocher de la résonance du pizzicato, homogène.
-
-Le tuba ordinario dans l'aigu oui c'est un peu rond, mais le côté un peu soufflé va faire que c'est pas le meilleur exemple.
+R: Si on me demandais je dirais la rondeur *rire*. C'est difficile. Je pense que je suis influencé par la note, le fait que ça soit une note dans le bas-médium. Dans l'aigu la clarinette ordinario piano c'est plus rond pour moi. Je pense que c'est ce côté plein qu'elle à la clarinette dans le bas-médium qui va la rapprocher de la résonance du pizzicato, homogène. Le tuba ordinario dans l'aigu oui c'est un peu rond, mais le côté un peu soufflé va faire que c'est pas le meilleur exemple.
 
 Q: Si on retourne vers les exemples de sons pas rond...
 
-R: La trompette avec la sourdine harmon c'est pas rond. C'est nasillard. Cuivré non plus c'est pas rond. Parce qu'il y a une composante qui gratte au dessus.
-
-Le glockenspiel baguette bois et C7 piano c'est pas très rond pour moi, la résonance va amener un peu de rondeur mais je considère pas ça comme très rond. Un peu comme pour le pizzicato Bartok.
+R: La trompette avec la sourdine harmon c'est pas rond. C'est nasillard. Cuivré non plus c'est pas rond. Parce qu'il y a une composante qui gratte au dessus. Le glockenspiel baguette bois et C7 piano c'est pas très rond pour moi, la résonance va amener un peu de rondeur mais je considère pas ça comme très rond. Un peu comme pour le pizzicato Bartok.
 
 Q5
 
-R: Un son qui est pas rond c'est un son qui est accidenté, qui va pas avoir une évolution constante et homogène. Il n'est pas pur (le sons de joué et chanté du tuba en seconde mineur n'est pas rond). Un son pas rond ne va pas résonné non plus. 
+R: Un son qui est pas rond c'est un son qui est accidenté, qui va pas avoir une évolution constante et homogène. Il n'est pas pur (le sons de joué et chanté du tuba en seconde mineur n'est pas rond). Un son pas rond ne va pas résonné non plus. Un son pas rond, je dirais un son qui accroche, un son sale.
 
-Un son pas rond, je dirais un son qui accroche, un son sale.
-
-Q: Tu m'as parlé d'une attaque nette pour le son rond, qu'en est-il pour un son "sale" ?
+Q: Tu m'as parlé d'une attaque nette pour le son rond, qu'en est-il pour un son ''sale'' ?
 
 R: Il va y avoir quelque chose qui perturbe l'attaque. Ou alors l'attaque est à une intensité telle qu'elle est perturbée, comme pour les pizzicato fortissimo. 
 

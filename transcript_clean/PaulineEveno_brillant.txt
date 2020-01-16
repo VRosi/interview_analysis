@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R:  Beaucoup. Parce que ça fait parti des échelles qu'on a sur notre site pour définir un son. Pour choisir le bec du musicien, oui on l'utilise. Dans le contact avec le musicien.
@@ -24,7 +26,7 @@ R:  Tu as réussi à me perdre sur le brillant. C'était celui que je connaissai
 
 Q: Ecoute des instruments graves aussi.
 
-R: Oui mais la clarinette basse je dirais que c'est pas très brillant. Oui c'est pas très brillant. Le hautbois c'est plus brillant. Celui-là (ordinario/C5/ff) il est assez brillant je trouve. (le basson) on dirait un violoncelle c'est marrant. Le glockenspiel ça doit être brillant. Je pense que les sons dit "métalliques" sont brillant.
+R: Oui mais la clarinette basse je dirais que c'est pas très brillant. Oui c'est pas très brillant. Le hautbois c'est plus brillant. Celui-là (ordinario / C5 / fortissimo) il est assez brillant je trouve. (le basson) on dirait un violoncelle c'est marrant. Le glockenspiel ça doit être brillant. Je pense que les sons dit ''métalliques'' sont brillant.
 
 Q: Du coup le glockenspiel c'est brillant ?
 
@@ -42,9 +44,9 @@ Q: Et les cordes ?
 
 R: Non pas trop.
 
-Q: Pour l'instant tu m'as dis le hautbois, le glockenspiel, la trompette qui joue forte,  est ce que pour les autres cuivres tu vas avoir la même chose, sachant qu'ils jouent plus grave ? Si je les mets en opposition (cor pp et ff)   
+Q: Pour l'instant tu m'as dis le hautbois, le glockenspiel, la trompette qui joue forte,  est ce que pour les autres cuivres tu vas avoir la même chose, sachant qu'ils jouent plus grave ? Si je les mets en opposition (cor pianissimo et fortissimo)   
 
-R: Oui je dirais que ça [ff] c'est peu plus brillant. Oui les cuivres sont brillant en forte et pas trop en piano. Mais c'est encore l'histoire du son cuivré. Pour la clarinette...
+R: Oui je dirais que fortissimo c'est peu plus brillant. Oui les cuivres sont brillant en forte et pas trop en piano. Mais c'est encore l'histoire du son cuivré. Pour la clarinette...
 
 Q: Tu le retrouves comme pour le cuivre ?
 
@@ -64,7 +66,7 @@ R: Je mettrais genre 6/10. J'arrive sur un saxophone, mais là avec tous les son
 
 Q4
 
-R: Oui ce sont des sons où il y a beaucoup de souffle, pas beaucoup d'harmoniques aigus. Bah la flûte du coup. J'ai l'impression que ce sont les trucs chauds qui ne sont pas brillants. Ça par exemple (flûte/ordinario/C4C5/mf-pp) c'est pas brillant. On a dit tous les pp. Pour tous les instruments le pianissimo il est moins brillant.
+R: Oui ce sont des sons où il y a beaucoup de souffle, pas beaucoup d'harmoniques aigus. Bah la flûte du coup. J'ai l'impression que ce sont les trucs chauds qui ne sont pas brillants. Ça par exemple (flute / ordinario / C4 C5 / mezzoforte-pianissimo) c'est pas brillant. On a dit tous les pp. Pour tous les instruments le pianissimo il est moins brillant.
 
 Q: Essaie avec le cor, à la même hauteur. 
 
@@ -72,7 +74,7 @@ R: Entre le cor et la trompette ? Oui le cor est un peu moins brillant.
 
 Q: Il représente bien le mat pour toi ?
 
-R: Je dirais pas que ça serait le cor qui représente plus le mat. Plutôt la clarinette basse. Oui ça c'est mat (Clarbass/ord/C3/mf). Oui je pense que c'est plutôt dans le piano.
+R: Je dirais pas que ça serait le cor qui représente plus le mat. Plutôt la clarinette basse. Oui ça c'est mat (Clarbass/ord/C3/mezzoforte). Oui je pense que c'est plutôt dans le piano.
 
 Q: Et pour aller un peu en opposition du glockenspiel ?
 

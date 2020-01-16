@@ -1,8 +1,12 @@
+QR:T
+
 Q1
+
+R: Oui ça peut arriver.
 
 Q2
 
-R: Oui ça peut arriver. Brillant pour moi c'est un son qui émerge, dans l'aigu.
+R: Brillant pour moi c'est un son qui émerge, dans l'aigu.
 
 Q: Je t'en ai parlé un peu pour le rond, on est pas trop revenu dessus, mais d'un point de vu spectral, est-ce que tu vois des choses particulières à dire pour le brillant. On en a pas trop parlé pour le chaud et le rond.
 
@@ -38,9 +42,7 @@ R: Ah d'accord. Donc plutôt baguette dure. Oui pour moi c'est brillant ça.
 
 Q: Autant que le glockenspiel ?
 
-R: Non, moins que le glockenspiel.
-Sur la flute, ordinario. 
-La brillance je l'entends pas sur le contrebasson. Le saxophone alto, le C6 oui est brillant dans le forte, le C5 aussi. Mezzoforte aussi.
+R: Non, moins que le glockenspiel. Sur la flute, ordinario. La brillance je l'entends pas sur le contrebasson. Le saxophone alto, le C6 oui est brillant dans le forte, le C5 aussi. Mezzoforte aussi.
 
 Q: Et un dernier
 

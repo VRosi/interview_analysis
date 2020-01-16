@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: Rugueux non je l'utilise pas, fréquemment, rarement. Disons rarement, quand j'échange avec des gens ici à l'Ircam, rugueux à quand même une certaine importance au niveau des paramètres psychoacoustiques utilisés pour la question du confort. Ça apparait évidemment, si je veux décrire un son abstrait, mais dans la communication de mes projets j'utilise pas vraiment ce type de notion, parce que la plupart de mes vis-à-vis n'ont pas l'habitude de qualifier des sons de cette manière. Entre collègues oui, mais pas pour communiquer mes projets particulièrement,
@@ -16,8 +18,7 @@ R: Oui je pense qu'il y en a. La flute semi-éolien ça va dans la direction du 
 
 Q: Alors pourquoi tu pensais trouver du rugueux dans le son de flute ?
 
-R: Parce que j'entends des fluctuations claires, et par ce côté frictions qui est très présent.
-Dans le ponticello de violon il y a pour toutes les hauteurs du rugueux.
+R: Parce que j'entends des fluctuations claires, et par ce côté frictions qui est très présent. Dans le ponticello de violon il y a pour toutes les hauteurs du rugueux.
 
 Q: Par rapport à la flute ça va être plus ou moins rugueux ?
 
@@ -25,13 +26,11 @@ R: Plus. J'entends mieux la fluctuation. Peut-être ce que j'ai pas dis, là il 
 
 Q: Des sons avec des fluctuations il y en a plusieurs, le mode de jeu en flatterzunge, ça fluctue pas mal, est ce que tu trouves ça rugueux ?
 
-R: Oui là le flatterzunge de cor je trouve ça rugueux. Là par exemple le C4 forte est plus rugueux, que le C4 piano. 
-Après j'ai du mal à imaginer un son représentatif du rugueux dans les percussions.
+R: Oui là le flatterzunge de cor je trouve ça rugueux. Là par exemple le C4 forte est plus rugueux, que le C4 piano. Après j'ai du mal à imaginer un son représentatif du rugueux dans les percussions.
 
 Q: Je pense que les sons flatterzunges dans une certaine mesure tu vas tous les trouver rugueux, ça va un peu varier en fonction de l'instrumentiste et de l'instrument. Est ce que tu veux bien quand même essayer de trouver un troisième type de son, peut-être pas le même instrument ou le même mode de jeu qui peut proposer cette rugosité ? 
 
-R: Je peux essayer quand même ceux avec lesquels j'aurais plus du mal à imaginer du rugueux, parmi les percussions... 
-Là il y a une différence très claire entre le moment de l'attaque et le reste pour le vibraphone joué à l'archet. Oui donc au moment de l'excitation. 
+R: Je peux essayer quand même ceux avec lesquels j'aurais plus du mal à imaginer du rugueux, parmi les percussions... Là il y a une différence très claire entre le moment de l'attaque et le reste pour le vibraphone joué à l'archet. Oui donc au moment de l'excitation. 
 
 Q: C'est aussi rugueux que le violon et le flatterzunge de cor ?
 
@@ -39,8 +38,7 @@ R: Un peu moins.
 
 Q: Est ce que je peux me permettre de te proposer quelques sons avec des fluctuations, et que tu me dises ce que tu en penses en terme de rugosité. La trompette cuivrée C4 déjà
 
-R: Oui pour moi c'est très rugueux. Au delà des fluctuations, il y a une partie importante des hautes fréquences, et je pense que c'est ça. 
-Le C1 de contrebasson, je trouve ça moins strident. Je découvre qu'il y a différents types de rugosité. Pour le contrebasson C1 c'est une macro-rugosité et ensuite la trompette en cuivrée c'est plutôt le côté qui gratte dans l'oreille où on peut plus suivre avec l'attention les fluctuations.
+R: Oui pour moi c'est très rugueux. Au delà des fluctuations, il y a une partie importante des hautes fréquences, et je pense que c'est ça. Le C1 de contrebasson, je trouve ça moins strident. Je découvre qu'il y a différents types de rugosité. Pour le contrebasson C1 c'est une macro-rugosité et ensuite la trompette en cuivrée c'est plutôt le côté qui gratte dans l'oreille où on peut plus suivre avec l'attention les fluctuations.
 
 Q: Est ce qu'un multiphonique de hautbois par exemple ça serait entre les deux ? C'est rugueux ?
 
@@ -64,20 +62,19 @@ R: J'aurais bien envie d'en choisir deux. Le contrebasson, et la trompette cuivr
 
 Q: Quelle note de satisfaction tu donnerais pour ces choix là ?
 
-R: Comme je donne pas trop d'indication aux instrumentistes, j'utilise pas ce type de termes dans ce sens, donc moi c'est une recherche, comme ça qui est pas habituelle, et je pense que les quatres sons là qu'on a choisi sont pour moi une représentation intéressante, je sais pas trop si ils se complètent, parce que j'ai pas assez d'expérience pour te dire ça, mais pour moi ça représente un cadre ou il y a différentes échelles structurelles qui peuvent amener un sentiment de rugosité pour moi, aussi de tonalité. donc je donnerais 7/10  et c'est pas parce que je pense qu'il manque des sons, c'est juste parce que j'ai du mal à confirmer une complétude.
+R: Comme je donne pas trop d'indication aux instrumentistes, j'utilise pas ce type de termes dans ce sens, donc moi c'est une recherche, comme ça qui est pas habituelle, et je pense que les quatre sons là qu'on a choisi sont pour moi une représentation intéressante, je sais pas trop si ils se complètent, parce que j'ai pas assez d'expérience pour te dire ça, mais pour moi ça représente un cadre ou il y a différentes échelles structurelles qui peuvent amener un sentiment de rugosité pour moi, aussi de tonalité. donc je donnerais 7/10  et c'est pas parce que je pense qu'il manque des sons, c'est juste parce que j'ai du mal à confirmer une complétude.
 
 Q: Est ce qu'il y a des sons pas présents ici, auxquels tu as pensé pour parler de rugosité ?
 
-R: Pour moi le côté percussion est assez limité dans ces échantillons. Dans mon travail de production du contenu sonore, mais dans aussi dans mon suivit des collègues musiciens. C'est un des groupes d'instruments, que j'ai découvert en profondeur dans son ampleur, et ce qui est représenté ici est assez limité. Evidemment quand on parle de rugosité, de composante bruité, je pense trouver des compléments dans les percussions.Q: Tu penses à quel instrument ?
+R: Pour moi le côté percussion est assez limité dans ces échantillons. Dans mon travail de production du contenu sonore, mais dans aussi dans mon suivit des collègues musiciens. C'est un des groupes d'instruments, que j'ai découvert en profondeur dans son ampleur, et ce qui est représenté ici est assez limité. Evidemment quand on parle de rugosité, de composante bruité, je pense trouver des compléments dans les percussions.
+
+Q: Tu penses à quel instrument ?
 
 R: Je pense déjà ça peut être des modes de jeu avec des balais. Ensuite l'archet sur les cymbales.
 
 Q4
 
-R: Le marimba. Ah c'est pas si évident que ça.
-Le glockenspiel baguette bois c'est pas rugueux. Je préfère le C6 au C7 en non rugosité. Mais c'est peut-être un bruit qui relève de l'enregistrement. Au moment de l'attaque du C7 il y a un bruit qui irrite. Mais je pense pas que ce soit le glockenspiel lui-même.
-La harpe C3 c'est encore moins rugueux. 
-L'accordéon, en backwards, plutôt en C5 et C6 c'est pas rugueux.
+R: Le marimba. Ah c'est pas si évident que ça. Le glockenspiel baguette bois c'est pas rugueux. Je préfère le C6 au C7 en non rugosité. Mais c'est peut-être un bruit qui relève de l'enregistrement. Au moment de l'attaque du C7 il y a un bruit qui irrite. Mais je pense pas que ce soit le glockenspiel lui-même. La harpe C3 c'est encore moins rugueux. L'accordéon, en backwards, plutôt en C5 et C6 c'est pas rugueux.
 
 Q: Tu veux bien, vu que ce mode de jeu est très peu utilisé,  tu veux bien me dire si tu entends une différence en terme de rugosité avec le mode de jeu ordinario.
 
@@ -85,8 +82,7 @@ R: Je dirais que c'est un petit peu moins rugueux en backwards, mais c'est vraim
 
 Q: Alors du coup peut-être, prends le temps d'écouter un peu des bois ou des cuivres que tu as pas trop écouté.
 
-R: D'accord..
-La flute alto c'est pas la pureté, si je cherche vraiment quelque chose de pur, c'est pas ça.
+R: D'accord. La flute alto c'est pas la pureté, si je cherche vraiment quelque chose de pur, c'est pas ça.
 
 Q: Une note de satisfaction ?
 
@@ -108,7 +104,7 @@ Q5
 
 Q: Tu as employé le terme pur un peu plus tôt, c'est ce que tu utiliserais pour dire pas rugueux ?
 
-R: Non parce qu'il est trop général, C'est plutôt un mot que j'utilisais pour dire vide de rugosité. C'est un son qui a une certaine stabilité dans la microstructure. Il n'a peut-être pas ce côté que je disais "qui gratte l'oreille", quelque chose qui est très exigeant au niveau perceptif, quand il est moins rugueux, il est peut-être moins exigeant. Exigeant dans le sens que le rugueux s'impose un peu, qu'il serait un peu collant. Quand je dis un son moins rugueux c'est une qualification négative, donc je retourne là en disant qu'il a pas cette friction, il y a un peu moins de matérialité dedans. Moins de résistance.
+R: Non parce qu'il est trop général, C'est plutôt un mot que j'utilisais pour dire vide de rugosité. C'est un son qui a une certaine stabilité dans la microstructure. Il n'a peut-être pas ce côté que je disais ''qui gratte l'oreille'', quelque chose qui est très exigeant au niveau perceptif, quand il est moins rugueux, il est peut-être moins exigeant. Exigeant dans le sens que le rugueux s'impose un peu, qu'il serait un peu collant. Quand je dis un son moins rugueux c'est une qualification négative, donc je retourne là en disant qu'il a pas cette friction, il y a un peu moins de matérialité dedans. Moins de résistance.
 
 Q: Est-ce qu'il y a un terme que tu emploies pour parler de non rugueux ?
 

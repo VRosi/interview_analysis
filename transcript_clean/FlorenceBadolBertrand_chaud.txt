@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R:  Je sais pas pourquoi mais j'évite chaud, et je dis plutôt chaleureux. Donc est-ce qu'on peut les prendre comme synonymes ?
@@ -116,8 +118,7 @@ R: Oui le C4 nonvibrato mezzoforte ça marche. Avec vibrato aussi.
 
 Q: Il y a une différence ou pas ?
 
-R: Non c'est chaleureux aussi avec ou sans vibrato. Le C5 ordinario pianissimo, oui aussi ça marche. Mais je pense que c'est encore plus chaleureux avec vibrato.
-Le violoncelle aussi. Je pense que dans tous les cas ça marche avec le violoncelle.
+R: Non c'est chaleureux aussi avec ou sans vibrato. Le C5 ordinario pianissimo, oui aussi ça marche. Mais je pense que c'est encore plus chaleureux avec vibrato. Le violoncelle aussi. Je pense que dans tous les cas ça marche avec le violoncelle.
 
 Q: Plus que pour l'alto ?
 
@@ -145,8 +146,7 @@ R: Oui si un tuba on peut le mettre. C'est un peu plus vert sur le fortissimo, m
 
 Q4
 
-R: Pas chaleureux, le piccolo. Mais quel vibrato ! Mais pourquoi tant de vibrato. En plus j'allais acheter la banque de son Vienna... Je vais pas l'acheter. Quand il y a autant de vibrato, on est un peu moins sensible, mais si il y a effectivement pas ce vibrato, ça serait clairement pas chaleureux. Le C8 il y en a moins.
-En revanche dans les sons chaleureux on peut ajouter la flute alto. Oui, tout à fait, ça marche.
+R: Pas chaleureux, le piccolo. Mais quel vibrato ! Mais pourquoi tant de vibrato. En plus j'allais acheter la banque de son Vienna... Je vais pas l'acheter. Quand il y a autant de vibrato, on est un peu moins sensible, mais si il y a effectivement pas ce vibrato, ça serait clairement pas chaleureux. Le C8 il y en a moins. En revanche dans les sons chaleureux on peut ajouter la flute alto. Oui, tout à fait, ça marche.
 
 Q: Certains plus que d'autres ?
 
@@ -164,15 +164,13 @@ Q: Autres sons ?
 
 R: Les pizzicato de cordes. Prenons le violon. Oui, encore que non. Le ponticello, c'est même glaçant. Ponticello pour toutes les cordes. Encore plus pour la contrebasse que pour le violoncelle. Parce qu'il y a quand même la chaleur du violoncelle dans le ponticello qui transparait.
 
-Q : son manquant ?
+Q: son manquant ?
 
-R: Oui, le waterphone par exemple. 
-Dans les sons chaleureux, je pense qu'on peut ajouter le steeldrum. C'est le waterphone qui m'y fait penser.  Moins connoté que le waterphone.
+R: Oui, le waterphone par exemple. Dans les sons chaleureux, je pense qu'on peut ajouter le steeldrum. C'est le waterphone qui m'y fait penser.  Moins connoté que le waterphone.
 
 Q5
 
-R: Un son qui n'est pas chaleureux, c'est un son qui ne dégage pas cette ampleur, cette générosité des harmoniques. Je suppose, parce que scientifiquement, je ne sais pas si c'est vérifié. 
-Encore un type de mode de jeu qu'on a pas trouvé, c'est le flautando pour les cordes, qui n'est pas chaleureux justement. C'est littéralement "en faisant de la flute". Et ça peut-être un son qui n'est pas dans les chaleureux, et il peut y avoir dans les contraires de chaleureux, grinçant comme le sul ponticello. 
+R: Un son qui n'est pas chaleureux, c'est un son qui ne dégage pas cette ampleur, cette générosité des harmoniques. Je suppose, parce que scientifiquement, je ne sais pas si c'est vérifié. Encore un type de mode de jeu qu'on a pas trouvé, c'est le flautando pour les cordes, qui n'est pas chaleureux justement. C'est littéralement ''en faisant de la flute''. Et ça peut-être un son qui n'est pas dans les chaleureux, et il peut y avoir dans les contraires de chaleureux, grinçant comme le sul ponticello. 
 
 Q: Vous voyez quelques choses que ces sons là ont en communs, ou non ?
 
@@ -198,8 +196,7 @@ Q: C'est à dire que elle va être modifiée comment, entre le chaleureux et le 
 
 Q: Moelleux c'est un terme à associer à la définition de chaleureux ?
 
-R: Oui ça peut aller aussi.
-Mais là c'est difficile de mettre des mots là dessus. Moi ça me fait penser à des références dans le répertoire, ces harmoniques de harpes on les a chez Berlioz dans les nuits d'été "au cimetière", et en même temps dans le scherzo de la reine Mab dans Roméo et Juliette de Berlioz, c'est pas du tout la même couleur les harmoniques de harpe, mais dans "au cimetière", mêlés, avec les harmoniques de violon, ça fait froid dans le dos. Même hors contexte. Qui fait grincer les dents.
+R: Oui ça peut aller aussi. Mais là c'est difficile de mettre des mots là dessus. Moi ça me fait penser à des références dans le répertoire, ces harmoniques de harpes on les a chez Berlioz dans les nuits d'été ''au cimetière'', et en même temps dans le scherzo de la reine Mab dans Roméo et Juliette de Berlioz, c'est pas du tout la même couleur les harmoniques de harpe, mais dans ''au cimetière'', mêlés, avec les harmoniques de violon, ça fait froid dans le dos. Même hors contexte. Qui fait grincer les dents.
 
 Q: Pour revenir sur la définition du non chaleureux, comment vous définiriez le grinçant ou le glaçant ?
 
@@ -207,10 +204,11 @@ R: Le glacé c'est absolument, pas d'harmoniques, c'est presque un son blanc, po
 
 Q: Ça fait un peu écho à la dimension humaine que vous évoquiez pour les cordes tout à l'heure ? 
 
-R: Oui, c'est exactement ça.
-Et le grinçant, - on va peut-être y arriver avec le rugueux que vous proposez" mais, quelque chose d'un peu râpeux.
+R: Oui, c'est exactement ça. Et le grinçant, - on va peut-être y arriver avec le rugueux que vous proposez'' mais, quelque chose d'un peu râpeux.
 
-Q: Est-ce qu'un son chaleureux peut-être râpeux ?R: Non.
+Q: Est-ce qu'un son chaleureux peut-être râpeux ?
+
+R: Non.
 
 Q6
 

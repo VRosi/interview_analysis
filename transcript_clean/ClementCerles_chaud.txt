@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: Chaud je l'utilise complètement. Chaud ça se rapproche de son instrumentaux et surtout vocaux. 
@@ -44,9 +46,7 @@ R: Chargé en terme de son. Après il y a une logique harmonique derrière vu qu
 
 Q: Donc du coup écoutons de la clarinette. Voici le C5 mezzoforte ordinario.
 
-R: Plutôt sur une note grave du coup. Donc en écoutant les 3 nuances de C4 ordinario de clarinette, dans le forte, il y a un côté plus canard, plus d'harmoniques aiguës, alors que le piano on est sur quelque chose de beaucoup plus doux. Un son chaud, c'est son qui n'est pas agressif. Forcément on a plus d d'harmoniques aiguës qui ressortent en mezzoforte. Oui le ressenti est le même entre C4, C5 et C6 en terme de chaleur dans le piano.
-
-La clarinette basse, C2 piano oui là c'est complètement chaud, peut être plus le C3 piano, parce que le C2 il y a beaucoup de souffle. 
+R: Plutôt sur une note grave du coup. Donc en écoutant les 3 nuances de C4 ordinario de clarinette, dans le forte, il y a un côté plus canard, plus d'harmoniques aiguës, alors que le piano on est sur quelque chose de beaucoup plus doux. Un son chaud, c'est son qui n'est pas agressif. Forcément on a plus d d'harmoniques aiguës qui ressortent en mezzoforte. Oui le ressenti est le même entre C4, C5 et C6 en terme de chaleur dans le piano. La clarinette basse, C2 piano oui là c'est complètement chaud, peut être plus le C3 piano, parce que le C2 il y a beaucoup de souffle. 
 
 Q: Ce souffle te gêne ?
 
@@ -74,9 +74,7 @@ R: On retrouve un peu la même chose, pour le cor que la clarinette. avec toujou
 
 Q: C'est un son chaud pour toi ?
 
-R: Pour le cor, le C3 piano c'est chaud.
-
-Sinon sur le marimba... En écoutant, c'est dur à dire, il faut pas que je fasse l'amalgame entre rond et chaud. Comme je te disais, chaud, pour moi j'ai l'image de quelque chose de rapproché, dans une sonorité assez dans les médiums, de pas agressive du tout. Là on a une résonance qui est pas vraiment ce que je cherche pour le marimba. Là ça apporte un côté plus neutre. C'est assez flagrant pour le cor, si tu montes en nuance, tu vas ramener des composantes aiguës qui vont faire perdre de la chaleur.
+R: Pour le cor, le C3 piano c'est chaud. Sinon sur le marimba... En écoutant, c'est dur à dire, il faut pas que je fasse l'amalgame entre rond et chaud. Comme je te disais, chaud, pour moi j'ai l'image de quelque chose de rapproché, dans une sonorité assez dans les médiums, de pas agressive du tout. Là on a une résonance qui est pas vraiment ce que je cherche pour le marimba. Là ça apporte un côté plus neutre. C'est assez flagrant pour le cor, si tu montes en nuance, tu vas ramener des composantes aiguës qui vont faire perdre de la chaleur.
 
 Q: Un dernier extrait ?
 
@@ -92,10 +90,7 @@ R: Ah c'est interessant, je dirais plutôt le C3 mezzoforte de violoncelle, parc
 
 Q4
 
-R: Il y a du piccolo ? Là le C8 forte c'est pas chaud du tout.
-Le glockenspiel c'est pas chaud.
-Le flatterzunge C4 de cor anglais c'est pas chaud. Par rapport à l'ordinario, le flatterzunge apporte une composante suraiguë assez génante en fait. Il est beaucoup plus canard sur le flatterzunge.
-Tout va dans le même sens, du glockenspiel aigu, du vibraphone aigu ça va pas être chaud. Non c'est vrai que le vibraphone C4 ne vas pas être chaud.
+R: Il y a du piccolo ? Là le C8 forte c'est pas chaud du tout. Le glockenspiel c'est pas chaud. Le flatterzunge C4 de cor anglais c'est pas chaud. Par rapport à l'ordinario, le flatterzunge apporte une composante suraiguë assez génante en fait. Il est beaucoup plus canard sur le flatterzunge. Tout va dans le même sens, du glockenspiel aigu, du vibraphone aigu ça va pas être chaud. Non c'est vrai que le vibraphone C4 ne vas pas être chaud.
 
 Q: Si on prend un cuivre qui va être fort ?
 
@@ -115,8 +110,7 @@ R: Pour moi il n'y a pas d'opposé unique. Dans le sens ou ça peut être quelqu
 
 Q: C'est quoi un son métallique ? Au-delà du rapport à la source ?
 
-R: Dans le métallique il y a une résonance assez pure. Pour le glockenspiel c'est parlant, on est sur un registre aigu, mais c'est pas agressif. l'agressif ça fait aussi parti de l'inverse de chaud. Métalliques, des son avec un contenu harmonique concentré dans l'aigu, s'il fallait parler de manière spectrale. Quelque chose de plus concentré sur des zones d'agressivité.
-Un son resserré sur des zones, comme une vieille radio. On peut rendre un son chaud beaucoup plus neutre, en coupant tout le bas, pour garder qu'une composante plus maigre. 
+R: Dans le métallique il y a une résonance assez pure. Pour le glockenspiel c'est parlant, on est sur un registre aigu, mais c'est pas agressif. l'agressif ça fait aussi parti de l'inverse de chaud. Métalliques, des son avec un contenu harmonique concentré dans l'aigu, s'il fallait parler de manière spectrale. Quelque chose de plus concentré sur des zones d'agressivité. Un son resserré sur des zones, comme une vieille radio. On peut rendre un son chaud beaucoup plus neutre, en coupant tout le bas, pour garder qu'une composante plus maigre. 
 
 Q: Pour revenir sur le métallique, Est ce qu'une résonance pure ça va gêner ta perception du chaud ?
 

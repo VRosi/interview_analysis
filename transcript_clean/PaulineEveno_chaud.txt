@@ -1,10 +1,12 @@
+QR:T
+
 Q1
 
 R: Chaud je l'utilise pas... J'utilise pas trop non plus. Après les musiciens (jazz) l'utilisent aussi. Je me demande si c'est pas aussi les musiciens classiques qui disent chaud. Rond et chaud.
 
 Q2
 
-R: Je l'aurais dis comme le son boisé. Sachant que les musiciens utilisent rond et boisé pour dire la même chose alors que pour moi c'est opposé. Ils utilisent chaud aussi. Ils disent "je voudrais un son rond et chaud ou rond et boisé". Par contre chaud et boisé je les mettrais ensemble. 
+R: Je l'aurais dis comme le son boisé. Sachant que les musiciens utilisent rond et boisé pour dire la même chose alors que pour moi c'est opposé. Ils utilisent chaud aussi. Ils disent ''je voudrais un son rond et chaud ou rond et boisé''. Par contre chaud et boisé je les mettrais ensemble. 
 
 Q: Tu pourrais me détailler boisé, ou me donner d'autres caractéristiques ?
 
@@ -28,7 +30,7 @@ R: Pour le chaud ? Je dirais que la flûte c'est plus chaud que le hautbois.
 
 Q: En écoutant différentes nuances.
 
-R: La flûte ça change pas beaucoup de timbre. Plus peut-être le mf.
+R: La flûte ça change pas beaucoup de timbre. Plus peut-être le mezzoforte.
 
 Q: Et pour la hauteur ?
 
@@ -50,7 +52,7 @@ Q: Dans l'enveloppant, c'est mon point de vue, tu as l'idée d'une salle et du s
 
 R: Oui mais bon on doit pas juger l'instrument à la salle. Après en terme de son...
 
-Q: Si on écoute des son graves. le Cor (C3/ordinario/mf-ff)
+Q: Si on écoute des son graves. le Cor C3  ordinario mezzoforte-fortissimo
 
 R: Là il y a un petit truc qui gêne.
 
@@ -60,15 +62,15 @@ R: Oui
 
 Q: Est ce qu'un son plus grave... Est ce qu'un son cuivré ça peut ?
 
-R: Non ça marchera pas. Oui un Tuba (C2) oui ça marche. mais moins que la flûte. A la clarinette basse ça peut marcher. Le C2 grésille un peu. le C3/pp il est pas mal, le C2/pp aussi c'est ça. mf un peu moins.
+R: Non ça marchera pas. Oui un Tuba (C2) oui ça marche. mais moins que la flûte. A la clarinette basse ça peut marcher. Le C2 grésille un peu. le C3 pianissimo il est pas mal, le C2 pianissimo aussi c'est ça. mezzoforte un peu moins.
 
-Q: Pour revenir sur la flûte Alto et te demander si il y a une différence en terme de nuance (entre ff, mf et pp).
+Q: Pour revenir sur la flûte Alto et te demander si il y a une différence en terme de nuance (entre fortissimo, mezzoforte et pianissimo).
 
 R: Oui c'est plus chaud dans le piano.
 
 Q: Donc je note clarinette basse. Et les cuivres qu'est ce qui manque ?
 
-R: Le cuivre, même quand tu joues en piano mf ça cuivre un peu. Mais bon le Tuba ça marchait quand même. La trompette ça marchera pas trop. Après peut-être le Marimba dans les percussions, parce que c'est un son un peu bois, plutôt baguette molle. Là c'est un peu percussif (ff). Dans le piano ça marche presque, moins que les autres [instruments]. C'est l'idée d'a
+R: Le cuivre, même quand tu joues en piano mezzoforte ça cuivre un peu. Mais bon le Tuba ça marchait quand même. La trompette ça marchera pas trop. Après peut-être le Marimba dans les percussions, parce que c'est un son un peu bois, plutôt baguette molle. Là c'est un peu percussif (fortissimo). Dans le piano ça marche presque, moins que les autres [instruments]. C'est l'idée d'a
 
 Q: C'est l'idée d'attaque qui est un peu dérangeante ?
 
@@ -86,7 +88,9 @@ Q: Je note Alto flûte et flûte dans le piano, Clarinette basse, Tuba un peu ma
 
 R: Aller 8/10.
 
-Q4: T'aurais des exemples opposés de sons qui sont pas chauds ? Par exemple tu m'a dis le piccolo. Ça représente une sorte d'opposé ? 11:42 
+Q4
+
+Q: T'aurais des exemples opposés de sons qui sont pas chauds ? Par exemple tu m'a dis le piccolo. Ça représente une sorte d'opposé ? 
 
 R:  Oui les trucs très aigus, très nasillards.
 
@@ -112,7 +116,7 @@ R: Non c'est vrai c'est pas juste du grave aigu. Non mais là je t'avais dis cui
 
 Q: Tu m'a dis aussi les claviers métalliques. Du coup vu que tu m'a parlé d'une attaque douce pour le son chaud, je vais plutôt aller vers une attaque dure.
 
-R: Oui. Pour le vibraphone pp ça va encore. Oui c'est vrai qu'on s'en fiche un peu du métal. Là en ff c'est plus chaud mais en pp c'est assez chaud en fait.
+R: Oui. Pour le vibraphone pianissimo ça va encore. Oui c'est vrai qu'on s'en fiche un peu du métal. Là en fortissimo c'est plus chaud mais en pianissimo c'est assez chaud en fait.
 
 Q: qu'est ce qui fait que c'est différent entre les deux ?
 
@@ -124,7 +128,7 @@ R: Je pense que le glockenspiel de base il est pas très rond, euh pas très cha
 
 Q: Il y a les sourdines aussi qu'on a pas essayé. Là pour une trompette ?
 
-R: Oui la harmon là c'est pas chaud. Peut-être plus avec la bol ? Oui non. Pour le trombone, c'est un peu plus chaud avec la sourdine. Le medium avec la sourdine il est un peu plus chaud que les autres.
+R: Oui la harmon là c'est pas chaud. Peut-être plus avec la bol ? Oui non. Pour le trombone, c'est un peu plus chaud avec la sourdine. Le médium avec la sourdine il est un peu plus chaud que les autres.
 
 Q: Cuivré, Glockenspiel, Piccolo, tu évalues à combien ton taux de certitude ?
 
@@ -148,6 +152,4 @@ R: Oui ou Stan Getz.
 
 Q6
 
-R: Plutôt positive. Je pense que le terme chaud est agréable. C'est aussi mon gout personnel. Je suis plus Stan Getz que Michael Brecker. 
-
-Tu vois agressif c'est plutôt négatif.
+R: Plutôt positive. Je pense que le terme chaud est agréable. C'est aussi mon gout personnel. Je suis plus Stan Getz que Michael Brecker. Tu vois agressif c'est plutôt négatif.

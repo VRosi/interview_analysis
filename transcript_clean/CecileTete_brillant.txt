@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: Il est assez utilisé brillant. Et dans des choses un peu techniquement difficile, et qu'on arrive justement à pas faire sentir que c'est difficile, et du coup ça devient brillant.
@@ -8,7 +10,7 @@ R: Oui virtuosité, vitesse en générale. Il y a la vitesse qui va jouer, si c'
 
 Q: Il y a une idée d'articulation ? Ça peut être légato ?
 
-R: Non ça peut être legato et brillant. Après bon, peut-être que quand c'est détaché c'est encore plus brillant, maispas forcément en fait, je pense que vraiment pour moi, quand c'est brillant, pour mon instrument, le contraire ça serait pâteux. Un Peu de chewing-gum.
+R: Non ça peut être legato et brillant. Après bon, peut-être que quand c'est détaché c'est encore plus brillant, mais pas forcément en fait, je pense que vraiment pour moi, quand c'est brillant, pour mon instrument, le contraire ça serait pâteux. Un Peu de chewing-gum.
 
 Q2
 
@@ -24,7 +26,9 @@ Q: Donc plutôt dans l'aigu, percutant et incisif. Est ce que tu mets ça en lie
 
 R: Oui, je mets ça en lien, parce que si nos doigts sont incisif, il y a quelque chose de percutant, comme je parlais de vélocité aussi du son... Oui ça sera brillant si on est percutant et incisif.
 
-Q: Et l'aigu ?R: Oui mais après il faut aussi le chercher dans le grave... Mais c'est plus difficile quoi. La brillance instinctivement, ça sera plus facile dans les aigus. D'ailleurs, je me dis toujours qu'en quatuor entre les deux parties de violon, la partie de second violon c'est un peu plus ingrat, on est un peu plus dans les graves et ça va moins sonner facilement, ça va être moins brillant, alors que le premier violon n'a rien à faire, il est sur la corde de mi. Ça sonne facilement.
+Q: Et l'aigu ?
+
+R: Oui mais après il faut aussi le chercher dans le grave... Mais c'est plus difficile quoi. La brillance instinctivement, ça sera plus facile dans les aigus. D'ailleurs, je me dis toujours qu'en quatuor entre les deux parties de violon, la partie de second violon c'est un peu plus ingrat, on est un peu plus dans les graves et ça va moins sonner facilement, ça va être moins brillant, alors que le premier violon n'a rien à faire, il est sur la corde de mi. Ça sonne facilement.
 
 Q3
 
@@ -44,17 +48,15 @@ R: Si parce que moi je trouve qu'il y a des sons qui font que, parce que tu as d
 
 Q: Ah, mais c'est pas ce dont tu me parlais au début. C'est peut-être dans l'orchestration globale que tu disais ça ?
 
-R: Mais c'est vrai que dans le mode de jeu harmonique, il y a des choses brillantes. Oui bon déjà je dirais plus le G7.  Mais ça ressemble un peu finalement au glockenspiel avec quelque chose de plus continu.
-
-Aah la trompette ça peut être brillant aussi. Oui en fait je reste dans le mezzoforte... Ah mais il y a le cuivré aussi. Sinon le trombone quand il est cuivré ? Bah le C6 cuivré de trompette c'est assez brillant pour moi.
+R: Mais c'est vrai que dans le mode de jeu harmonique, il y a des choses brillantes. Oui bon déjà je dirais plus le G7.  Mais ça ressemble un peu finalement au glockenspiel avec quelque chose de plus continu. Aah la trompette ça peut être brillant aussi. Oui en fait je reste dans le mezzoforte... Ah mais il y a le cuivré aussi. Sinon le trombone quand il est cuivré ? Bah le C6 cuivré de trompette c'est assez brillant pour moi.
 
 Q: Alors j'ai trois exemples là, est ce que tu veux écouter autre chose ?
 
 R: Le hautbois c'est pas la même chose. La harpe grave, je vois pas du brillant là dedans, j'entends trop une harmonique qui fait une ondulation lente. Et ça rejoint un peu ce que je dis. Brillant pour moi c'est un peu la virtuosité.
 
-Q : son manquant ?
+Q: son manquant ?
 
-R: Oui peut-être un petit coup de cymbales. En plus brillant, j'ai le truc de Louis de Funès dans la grande vadrouille "l'éclair avant la foudre", c'est con mais c'est l'éclair, il faut quelque chose de "Pssht" (12:24). 
+R: Oui peut-être un petit coup de cymbales. En plus brillant, j'ai le truc de Louis de Funès dans la grande vadrouille ''l'éclair avant la foudre'', c'est con mais c'est l'éclair, il faut quelque chose de ''Pssht''. 
 
 Q: D'impactant un peu
 
@@ -62,14 +64,11 @@ R: Oui. 
 
 Q4
 
-R: Par exemple la harpe C1 pour moi c'est pas brillant. Mais on va pas faire que du grave.C'est un peu binaire ce que je dis, mais tout ce qui va être grave bon... Mais même les compositeurs, ils vont jamais marquer "brillant" pour un truc hyper grave non ?
+R: Par exemple la harpe C1 pour moi c'est pas brillant. Mais on va pas faire que du grave.C'est un peu binaire ce que je dis, mais tout ce qui va être grave bon... Mais même les compositeurs, ils vont jamais marquer ''brillant'' pour un truc hyper grave non ?
 
-Q: Oui mais tu peux trouver des sons plus brillants que d'autres dans le grave non ?
-Bon ici d'accord je prends le contrebasson, mais essaies de trouver des sons dans les mêmes hauteurs que les sons brillants aussi !
+Q: Oui mais tu peux trouver des sons plus brillants que d'autres dans le grave non ? Bon ici d'accord je prends le contrebasson, mais essaies de trouver des sons dans les mêmes hauteurs que les sons brillants aussi !
 
-R: La clarinette généralement je trouve ça trop feutré. Le C7 de clarinette, j'aurais pas dis que c'est de la clarinette. Mais il y a quelque chose, que ça soit mezzoforte ou forte. Ça peut-être même forte. Il y a quelque chose de moins brillant. Peut-être parce qu'il y a de l'air dedans, j'en sais rien.
-
-Par exemple la flute semi-éolien le C7, le fait qu'il y ait de l'air, je trouve ça pas brillant que ça.
+R: La clarinette généralement je trouve ça trop feutré. Le C7 de clarinette, j'aurais pas dis que c'est de la clarinette. Mais il y a quelque chose, que ça soit mezzoforte ou forte. Ça peut-être même forte. Il y a quelque chose de moins brillant. Peut-être parce qu'il y a de l'air dedans, j'en sais rien. Par exemple la flute semi-éolien le C7, le fait qu'il y ait de l'air, je trouve ça pas brillant que ça.
 
 Q: Qu'est ce qu'il fait l'air sur le son ?
 
@@ -85,9 +84,7 @@ R: Oui il y a de l'air, c'est vrai. Peut-être parce que je suis plus habitué, 
 
 Q: Par exemple pour comparer un peu avec le glockenspiel, si tu prends un autre clavier ?
 
-R: Le xylophone. C'est un bruit quoi. Je dirais pas qu'il est pas brillant du tout. 
-
-Pour moi le multiphonique de saxophone c'est pas brillant. Mais bon là on part dans les multiphoniques,  Si je prends n'importe quel multiphonique je vais pas trouver ça hyper brillant.
+R: Le xylophone. C'est un bruit quoi. Je dirais pas qu'il est pas brillant du tout. Pour moi le multiphonique de saxophone c'est pas brillant. Mais bon là on part dans les multiphoniques,  Si je prends n'importe quel multiphonique je vais pas trouver ça hyper brillant.
 
 Q: Mais vu que la brillance pour toi c'est grave et aigu, j'ai l'impression qu'on a tout intéret à comparer des notes graves à la même hauteur.
 
@@ -97,7 +94,7 @@ Q: Pour le basson c'est quelque chose que tu retrouves sur tout le registre ?
 
 R: Oui ! C'est une anche double quoi. Comparé à une anche simple. Le C5 du basson il est brillant oui, en plus c'est le début du sacre. Oui c'est assez difficile. là le C3 c'est limite, pas, terne...
 
-Q : son manquant ?
+Q: son manquant ?
 
 R: Par exemple dans nos instruments, dans les modes de jeu, quand c'est sur la touche (sul tasto). De temps tu peux avoir des trucs très floutés. 
 

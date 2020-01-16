@@ -1,8 +1,12 @@
+QR:T
+
 Q1
+
+R: Je l'utilise pas souvent mais oui je l'utilise. 
 
 Q2
 
-R: Je l'utilise pas souvent mais oui je l'utilise. Je l'utilise pour quelque chose d'assez fusionné.
+R: Je l'utilise pour quelque chose d'assez fusionné.
 
 Q: Tu en as aussi parlé pour chaud.
 
@@ -14,23 +18,15 @@ R: Peut-être... Le rond peut-être brillant, pas brillant aussi. Tu peux avoir 
 
 Q3
 
-R: Bon... Après le C6 cuivré de trompette si tu enlèves l'attaque ça fait un son rond. 
-Oui pour rond il y a de la stabilité aussi.
-Pour le rond il faut pas que l'attaque soit très bruitée. 
-Le xylophone je trouve ça très intéressant, parce que le son de xylophone mezzoforte C6 avec la baguette dure parce que c'est très fusionné, il n'y a pas beaucoup de résonance mais c'est rond. Avec la baguette fil le son va être rond mais d'une autre manière, il va être plus chaud et un peu plus rond. Pour le rond pour moi, il faut qu'il y ait une fusion.
-Oui le vibraphone avec la baguette molle, il y a moins de bruit. A l'attaque avec la baguette dure il y a des harmoniques très aiguës, alors qu'avec la baguette molle.
+R: Bon... Après le C6 cuivré de trompette si tu enlèves l'attaque ça fait un son rond. Oui pour rond il y a de la stabilité aussi. Pour le rond il faut pas que l'attaque soit très bruitée. Le xylophone je trouve ça très intéressant, parce que le son de xylophone mezzoforte C6 avec la baguette dure parce que c'est très fusionné, il n'y a pas beaucoup de résonance mais c'est rond. Avec la baguette fil le son va être rond mais d'une autre manière, il va être plus chaud et un peu plus rond. Pour le rond pour moi, il faut qu'il y ait une fusion. Oui le vibraphone avec la baguette molle, il y a moins de bruit. A l'attaque avec la baguette dure il y a des harmoniques très aiguës, alors qu'avec la baguette molle.
 
 Q: C'est a dire que l'attaque est plus franche pour avec la baguette dure.
 
-R: Je pense qu'on définit la même chose de deux façon différentes, tu me parles du mode de production et moi je te parle du contenu spectral. Lorsque tu n'as pas d'attaque franche tu n'as pas un contenu spectral très aigu. Du coup quand même les sons de vibraphones baguettes molles et piano sont ronds.
-Un cor ça fait des sons ronds aussi. le C3 pianissimo c'est rond. Le C2 il est chaud mais il est pas très rond. Il y a une instabilité à l'intérieur du son quand il joue forte. C'est comme une sorte de battement avec  les harmoniques aiguës on entend "brrrrrr". Dans le rond il y a deux choses, il y a pas beaucoup d'harmoniques et son fusionné. 
-Le tuba C3 et C4 piano c'est rond. Il est chaud et rond le C3.
-le violoncelle est pas rond, on entend une instabilité et il y a l'archet qui frotte. Le pizzicato c'est plus rond. Le pizzicato de contrebasse C2 piano va être rond.
+R: Je pense qu'on définit la même chose de deux façon différentes, tu me parles du mode de production et moi je te parle du contenu spectral. Lorsque tu n'as pas d'attaque franche tu n'as pas un contenu spectral très aigu. Du coup quand même les sons de vibraphones baguettes molles et piano sont ronds. Un cor ça fait des sons ronds aussi. le C3 pianissimo c'est rond. Le C2 il est chaud mais il est pas très rond. Il y a une instabilité à l'intérieur du son quand il joue forte. C'est comme une sorte de battement avec  les harmoniques aiguës on entend ''brrrrrr''. Dans le rond il y a deux choses, il y a pas beaucoup d'harmoniques et son fusionné. Le tuba C3 et C4 piano c'est rond. Il est chaud et rond le C3. Le violoncelle est pas rond, on entend une instabilité et il y a l'archet qui frotte. Le pizzicato c'est plus rond. Le pizzicato de contrebasse C2 piano va être rond.
 
 Q: J'ai l'impression qu'il faut que le son est des aspérités pour que tu trouves ça rond.
 
-R: oui c'est ça, même les pizzicatos qui sont assez doux, si un pizzicato est fort. Il y a une simplicité dans le son. Une simplicité spectrale. Peu de partiels et bien fusionnés.
-Un son de marimba ça va être rond plutôt dans le C3et C4 pianissimo.
+R: oui c'est ça, même les pizzicatos qui sont assez doux, si un pizzicato est fort. Il y a une simplicité dans le son. Une simplicité spectrale. Peu de partiels et bien fusionnés. Un son de marimba ça va être rond plutôt dans le C3et C4 pianissimo.
 
 Q4
 
@@ -40,11 +36,9 @@ Q: Peut-être il y a un son de basson qui peut ressembler.
 
 R: Peut être le flatterzunge. Mais bon il est pas assez trash comme le didgeridoo. Le basson flatterzunge aigu c'est pas rond. 
 
-Q: Pour l'idée de fusion dont tu parlais pour rond il y a un type de son que j'aurais aimé te faire écouter ce sont les pizzicato bartok parce que tu as vraiment le "tak" de l'attaque et la résonance.
+Q: Pour l'idée de fusion dont tu parlais pour rond il y a un type de son que j'aurais aimé te faire écouter ce sont les pizzicato bartok parce que tu as vraiment le ''tak'' de l'attaque et la résonance.
 
-R: Il y a de la rondeur dans la résonance mais pas dans l'attaque. Il y a un tout petit peu de rondeur globale mais l'attaque est forte, si tu avais pas ce "shlak" il y en aurait.
-Un autre type de son pas rond... Si il y avait des slaps. très bruité. le pizzbartok de violon C6 est très fusionné. Il se rapproche de quelque chose de rond. Je pense que c'est un effet psychoacoustique. Dans le sacre du printemps tu as beaucoup d'instruments très différents qui attaquent en même temps, ce qui fait que ça fusionne. Mais ça marche parce que c'est juste une attaque.
-Sul ponticello c'est pas rond. Les harmoniques d'alto sont pas rond non plus. Encore plus les harmoniques de violon. C'est bruité, parasité et pas fusionné.
+R: Il y a de la rondeur dans la résonance mais pas dans l'attaque. Il y a un tout petit peu de rondeur globale mais l'attaque est forte, si tu avais pas ce ''shlak'' il y en aurait. Un autre type de son pas rond... Si il y avait des slaps. très bruité. le pizzbartok de violon C6 est très fusionné. Il se rapproche de quelque chose de rond. Je pense que c'est un effet psychoacoustique. Dans le sacre du printemps tu as beaucoup d'instruments très différents qui attaquent en même temps, ce qui fait que ça fusionne. Mais ça marche parce que c'est juste une attaque. Sul ponticello c'est pas rond. Les harmoniques d'alto sont pas rond non plus. Encore plus les harmoniques de violon. C'est bruité, parasité et pas fusionné.
 
 Q5
 

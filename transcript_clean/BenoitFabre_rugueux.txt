@@ -1,6 +1,8 @@
+QR:T
+
 Q1
 
-R:  La rugosité est pas quelque chose de bien clair pour moi en terme musical, en tant que descripteur qui permettrait de discuter avec un  instrumentiste, ou d'approcher la question avec un musicien ou un instrumentiste. La rugosité est quelque chose qui n'a pas véritablement de sens dans ces sphères là pour moi. J'ai vu, lu, entendu des définitions de la rugosité en terme de l'analyse du signal, mais c'est pas une chose qui a sa place dans un discours musical.
+R: La rugosité est pas quelque chose de bien clair pour moi en terme musical, en tant que descripteur qui permettrait de discuter avec un  instrumentiste, ou d'approcher la question avec un musicien ou un instrumentiste. La rugosité est quelque chose qui n'a pas véritablement de sens dans ces sphères là pour moi. J'ai vu, lu, entendu des définitions de la rugosité en terme de l'analyse du signal, mais c'est pas une chose qui a sa place dans un discours musical.
 
 Q: Alors au-delà du musical, plus dans le sonore, est-ce que c'est un terme que vous utilisez dans un cadre de prise de son ou en tant qu'acousticien ?
 
@@ -26,11 +28,9 @@ Q: Je comprends bien, mais du coup pourquoi avoir évoqué le violoncelle en pre
 
 R: Le souvenir que j'en avais c'était qu'il était mal foutu du point de vue temporel. Du coup je me suis dis irrégularité, mauvaise organisation temporelle, donc on y retourne. Mais sinon. 
 
-Q: je pensais qu'il y avait un rapport avec le frottement de l'archet.R: Négatif.
+Q: je pensais qu'il y avait un rapport avec le frottement de l'archet.
 
-Du hautbois son multiphonique peut-être. Oui c'est rugueux ça le premier. Ça me parle pas vraiment, mais je veux bien lui mettre un étiquette rugueux.
-
-Oui le premier multiphonique de clarinette c'est rugueux. Oh le troisième encore pire, c'est encore plus rugueux, on sent le matériaux qui "grrrrrr" comme ça. Ça gronde, il y a une irrégularité rythmique typique de quand je passe mon doigt sur un truc rugueux à la bonne vitesse. 
+R: Négatif. Du hautbois son multiphonique peut-être. Oui c'est rugueux ça le premier. Ça me parle pas vraiment, mais je veux bien lui mettre un étiquette rugueux. Oui le premier multiphonique de clarinette c'est rugueux. Oh le troisième encore pire, c'est encore plus rugueux, on sent le matériaux qui ''grrrrrr'' comme ça. Ça gronde, il y a une irrégularité rythmique typique de quand je passe mon doigt sur un truc rugueux à la bonne vitesse. 
 
 Q: Je vous guide un peu du coup.
 
@@ -50,7 +50,7 @@ R: Ça se tente. Ah oui c'est rugueux, il y a pas de doute. J'essaie de coller �
 
 Q: Justement, vous m'avez dis irrégularité mais est ce que irrégularité c'est ce que vous diriez pour le flatterzunge de trombone ? 
 
-R: Oui "brrrrrrr" il fait ça.
+R: Oui ''brrrrrrr'' il fait ça.
 
 Q: Oui mais la vibration elle est plutôt régulière là non ?
 
@@ -60,7 +60,7 @@ Q: J'ai quand même un dernier extrait, le tuba joué/chanté ? Est-ce que c'est
 
 R: C'est gentiment rugueux. Moins que les autres, mais c'est rugueux.
 
-Q : son manquant ?
+Q: son manquant ?
 
 R: Un contrebassiste qui tien pas son archet, ça part dans tous les sens.
 
@@ -90,17 +90,15 @@ R: Oui le vibraphone on l'a pas encore entendu. Le C4 piano n'est pas rugueux.
 
 Q: Un autre instrument peut-être ? Avec un son entretenu ?
 
-R: La clarinette ? Le pauvre clarinettiste... Non le C4 c'est pas rugueux, le forte ou plutôt le force est a peine, un soupçon plus rugueux, que les deux autres.
-J'avais beaucoup d'espoir pour la harpe je suis déçu. C'est difficile l'innovation dans les instruments de musique...(humour).
+R: La clarinette ? Le pauvre clarinettiste... Non le C4 c'est pas rugueux, le forte ou plutôt le force est a peine, un soupçon plus rugueux, que les deux autres. J'avais beaucoup d'espoir pour la harpe je suis déçu. C'est difficile l'innovation dans les instruments de musique...
 
-Q : son manquant ?
+Q: son manquant ?
 
 R: Du glass harmonica pour du rugueux. Non pour le pas rugueux c'est très bien.
 
 Q5
 
-Q: Donc un son pas rugueux ça va être l'inverse d'un son rugueux ? Donc un son relativement stable et régulier ?
-Et du coup lisse c'est un terme que vous emploieriez ?
+Q: Donc un son pas rugueux ça va être l'inverse d'un son rugueux ? Donc un son relativement stable et régulier ? Et du coup lisse c'est un terme que vous emploieriez ?
 
 R: Oui, mais comme j'emploie pas rugueux...
 

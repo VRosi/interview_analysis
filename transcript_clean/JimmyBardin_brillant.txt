@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: Brillant je vais l'utiliser dans les mix pour une voix. Pour une voix (ce qui est 90% de mon activité) je vais chercher les aigus. Pas trop utilisé. 
@@ -14,7 +16,9 @@ Q: Ce sont des gens qui te le demande en ces termes?
 
 R: Oui.
 
-Q: Plutôt qui ces gens ?R: Souvent avec des agences de création, sur des pubs, des annonceurs. Sur ce genre de client pas trop connaisseur, c'est un terme qui revient pour le coup assez souvent. Moi par contre quand je fais cette opération d'éclaircir une voix, moi je vais pas penser au terme brillant. Parce que pour moi brillant c'est un peu péjoratif quasiment sur une voix.
+Q: Plutôt qui ces gens ?
+
+R: Souvent avec des agences de création, sur des pubs, des annonceurs. Sur ce genre de client pas trop connaisseur, c'est un terme qui revient pour le coup assez souvent. Moi par contre quand je fais cette opération d'éclaircir une voix, moi je vais pas penser au terme brillant. Parce que pour moi brillant c'est un peu péjoratif quasiment sur une voix.
 
 Q: Autre chose pour définir la brillance ?
 
@@ -26,8 +30,7 @@ R: Après brillant, c'est surtout les fréquences, pas trop la dynamique. Après
 
 Q3
 
-R: Brillant ça va se jouer entre violon, flute, j'hésite entre flute piccolo et flute normale et puis trompette. 
-Flute piccolo...Ça me fait réfléchir parce que d'instinct j'aurais plutôt dis piccolo, parce que ça va chercher plus l'aigu...
+R: Brillant ça va se jouer entre violon, flute, j'hésite entre flute piccolo et flute normale et puis trompette. Flute piccolo...Ça me fait réfléchir parce que d'instinct j'aurais plutôt dis piccolo, parce que ça va chercher plus l'aigu...
 
 Q: Tu m'as dis fréquences aiguës et pas hauteur aiguë, et là tu choisis surtout des instruments aigus.
 
@@ -47,10 +50,9 @@ R: Je suis à la fois influencé par mon côté pro plutôt voix off et mixage e
 
 Q: Du coup un son cuivré de trompette , c'est brillant?
 
-R: Oui le C5 et le C6 cuivré. Ça serait plus brillant. Mais t'as raison, c'est clairement des instruments où ça va jouer dans l'aigu. 
-Par contre pas le Glockenspiel..
+R: Oui le C5 et le C6 cuivré. Ça serait plus brillant. Mais t'as raison, c'est clairement des instruments où ça va jouer dans l'aigu. Par contre pas le hlockenspiel..
 
-Q: Qu'est ce qui fait que tu trouves pas ça brillant le Glockenspiel ?
+Q: Qu'est ce qui fait que tu trouves pas ça brillant le glockenspiel ?
 
 R: Je sais pas. 
 
@@ -64,7 +66,7 @@ R: Oui clairement c'est brillant la sourdine harmon C5 et C6, C'est peut-être m
 
 Q: Et la sourdine bol ?
 
-R: Pas la même sensation, un tout petit peu brillant sur le C6 mais c'est plus serré dans a fréquence. 
+R: Pas la même sensation, un tout petit peu brillant sur le C6 mais c'est plus serré dans la fréquence. 
 
 Q: Il y a une idée de largeur dans la brillance ? 
 
@@ -90,9 +92,7 @@ Q: Autant que la trompette ?
 
 R: Non, peut-être dans l'ordre ça serait Trompette - Flute - Violon. 
 
-Q: A violon quand même ?
-
-Donc je vais te proposer différents sons, dans les sons entretenu aigus, là le saxophone ? C'est brillant ?
+Q: A violon quand même ? Donc je vais te proposer différents sons, dans les sons entretenu aigus, là le saxophone ? C'est brillant ?
 
 R: Oui le saxophone C6-C7 mezzoforte c'est pas mal brillant. Le C5 moins brillant.
 
@@ -134,13 +134,11 @@ R: Si tu prends une note grave d'un marimba, plutôt baguette molle. Oui c'est g
 
 Q: Alors tu ne m'avais pas parlé d'attaque tout à l'heure.
 
-R: Oui parce que du coup, l'attaque, sur un instrument à percussion, ce qui peut nous ramener de la brillance, pour moi c'est l'attaque. Et là sur une baguette molle sur un marimba, dans le grave, du coui il n'y a pas d'attaque.
+R: Oui parce que du coup, l'attaque, sur un instrument à percussion, ce qui peut nous ramener de la brillance, pour moi c'est l'attaque. Et là sur une baguette molle sur un marimba, dans le grave, du coup il n'y a pas d'attaque.
 
 Q: D'autres exemples ?
 
-R: Un bon gros tuba ? J'écoute différents instruments. Déjà guitare et piano c'est pas l'opposé de brillant.
-Le xylophone, je sais pas... Je le mettrais pas la-dedans.
-Peut-être une contrebasse ordinario, quoique non.
+R: Un bon gros tuba ? J'écoute différents instruments. Déjà guitare et piano c'est pas l'opposé de brillant. Le xylophone, je sais pas... Je le mettrais pas la-dedans. Peut-être une contrebasse ordinario, quoique non.
 
 Q: Sans vibrato peut-être ?
 
@@ -176,7 +174,7 @@ R: Oui non. Pas la flute je pense, parce qu'il y a un côté métallique pour mo
 
 Q: Mais pas le glockenspiel ?
 
-R: Mais pas le glockenspiel, parce qu'il y a ce côté "ting". En même temps c'est un peu contradictoire parce que dans un orchestre quand le glockenspiel va arriver, il va ouvrir le spectre, il va y avoir un truc mais... je sais pas.
+R: Mais pas le glockenspiel, parce qu'il y a ce côté ''ting''. En même temps c'est un peu contradictoire parce que dans un orchestre quand le glockenspiel va arriver, il va ouvrir le spectre, il va y avoir un truc mais... je sais pas.
 
 Q: Le semi-éolien de clarinette sur un C4 peut-être ?
 
@@ -188,7 +186,7 @@ R: Pas convaincu. Et le C4 c'est aigu déjà.
 
 Q: Pour la clarinette basse, le C3 piano c'est autant que pour le C2 piano ?
 
-R: Le C3 est moins pas brillant parce que j'entends uun peu plus aigu. C'est marrant parce qu'un pizzicato dans le grave je trouve pas si pas brillant que ça.
+R: Le C3 est moins pas brillant parce que j'entends un peu plus aigu. C'est marrant parce qu'un pizzicato dans le grave je trouve pas si pas brillant que ça.
 
 Q: Quel est ton niveau de certitude entre ta perception d'un son brillant et les sons que tu m'as sélectionné, de 0 à 10. 
 

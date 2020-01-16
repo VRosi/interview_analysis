@@ -1,12 +1,12 @@
+QR:T
+
 Q1
 
 R:  Brillant, c'est un mot que j'utilise plus souvent. Dans un cadre pédagogique, mais aussi dans un cadre de professionnelle (performance jazz).
 
 Q2
 
-R: Un son qui brille. Un son brillant c'est un son qui s'impose à l'auditoire d'une certaine façon. Est ce qu'un son aigre est un son brillant ? Un son qui fait sonné. Ça serait plutôt un son aigu. Est ce que le glockenspiel est un son brillant ? Métallique. Est ce qu'une violoncelle peut avoir un son brillant ?
-(écoute de cuivres, et de claviers)
-J'ai l'impression que métallique, mais je l'ai déjà dis. Les cordes j'en trouve pas.
+R: Un son qui brille. Un son brillant c'est un son qui s'impose à l'auditoire d'une certaine façon. Est ce qu'un son aigre est un son brillant ? Un son qui fait sonné. Ça serait plutôt un son aigu. Est ce que le glockenspiel est un son brillant ? Métallique. Est ce qu'une violoncelle peut avoir un son brillant ? J'ai l'impression que métallique, mais je l'ai déjà dis. Les cordes j'en trouve pas.
 
 Q: La question que tu te posais sur l'aigreur, la façon de faire sonner l'instrument, la quantité d'harmoniques.
 
@@ -28,27 +28,19 @@ Q3
 
 Q: La en écoutant le vibraphone tu as fait exprès de choisir plutôt la baguette dure que la baguette molle ?
 
-R: Oui. Parce que avec la baguette molle, le C4 forte est plus rond. Dans l'attaque. L'attaque est vraiment différente. Une attaque plus costaud, plus musclée.
-Le glockenspiel c'est bien. C'est assez brillant mais, une trompette ça doit pouvoir être bien mais... je sais pas.
-Le piccolo... C'est fou d'avoir autant de vibrato.
-Tu vois une trompette dans un orchestre symphonique. Une trompette solo, dans un registre médium aigu peut être vraiment brillante. Mais là le son c'est pas ça.
+R: Oui. Parce que avec la baguette molle, le C4 forte est plus rond. Dans l'attaque. L'attaque est vraiment différente. Une attaque plus costaud, plus musclée. Le glockenspiel c'est bien. C'est assez brillant mais, une trompette ça doit pouvoir être bien mais... je sais pas. Le piccolo... C'est fou d'avoir autant de vibrato. Tu vois une trompette dans un orchestre symphonique. Une trompette solo, dans un registre médium aigu peut être vraiment brillante. Mais là le son c'est pas ça.
 
 Q: Mais le glockenspiel du coup c'est brillant ?
 
-R: Bah oui le glockenspiel c'est le truc pour l'instant, que j'ai trouvé le plus brillant. 
-Le vibraphone avec l'archet, ou la baguette il faudrait que ça soit plus aigu. 
-Donc un instrument aigu et en métal...
+R: Bah oui le glockenspiel c'est le truc pour l'instant, que j'ai trouvé le plus brillant. Le vibraphone avec l'archet, ou la baguette il faudrait que ça soit plus aigu.  Donc un instrument aigu et en métal...
 
 Q: Le saxophone ?
 
-R: J'ai pas essayé, mais je sais pas je le sens pas... 
-Le ponticello de violon on l'a mis dans le son lisse tout à l'heure ?
-Je suis pas bon là dans le brillant.
+R: J'ai pas essayé, mais je sais pas je le sens pas... Le ponticello de violon on l'a mis dans le son lisse tout à l'heure ? Je suis pas bon là dans le brillant.
 
 Q: Ba si on récapitule, un son aigu et métallique... En vrai le sul ponticello de violon c'est souvent interprété comme un son métallique, tu en penses quoi ?
 
-R: Ça pourrait mais dans l'aigu il y a trop de "HHhhh" (bruit de l'archet). Le violon c'est moins brillant que des cuivres, mais sur les cuivres ça marche pas, je sais pas pourquoi...
-Le piccolo sans vibrato c'est très lisse
+R: Ça pourrait mais dans l'aigu il y a trop de ''HHhhh'' (bruit de l'archet). Le violon c'est moins brillant que des cuivres, mais sur les cuivres ça marche pas, je sais pas pourquoi... Le piccolo sans vibrato c'est très lisse
 
 Q: Sinon dans les sons aigus tu peux aussi avoir de l'accordéon ou de la harpe.
 
@@ -72,10 +64,7 @@ R: La clarinette basse C2 piano c'est pas brillant. 
 
 Q: Pareil, si tu trouve aussi des sons pas forcément graves...
 
-R: Le C5 nonvibrato piano de violoncelle c'est pas mal. Je vais voir si c'est la même chose pour le violon. Pour le violon c'est un peu rugueux. Mais quand je monte dans l'aigu c'est un peu brillant. Il y a un peu des harmoniques aiguës qui paraissent un peu brillantes. Brillant ça va vers l'aigu. Plus je vais vers l'aigu, plus je trouve ça plus brillant.
-Pour la contrebasse si je compare le C3 piano et le C2 forte, le C2 pourrait être plus brillant, parce qu'il est plus timbré, et donc plus d'harmoniques aiguës. Un son qui se baladerait dans l'instrument serait non brillant. Le timbre intervient parce que pour la flute alto dans l'aigu c'est pas trop timbré. 
-Le piccolo je l'aime pas. Mais il est plus brillant, et bruyant. En flatterzunge ça donne quoi ? Si je m'arrêtais pas au vibrato qui m'agace, le C7 forte c'est brillant.
-Je peux prendre le basson mais ça va être un peu le même genre. Le C4 piano de basson c'est pas mal, mais sans doute que le contrebasson c'est pareil. On dirait un violoncelle ou une contrebasse c'est fou. Le C2 de contrebasson est moins brillant que le C1, parce que le C1 il racle, il est plus râpeux, c'est une forme de brillance.
+R: Le C5 nonvibrato piano de violoncelle c'est pas mal. Je vais voir si c'est la même chose pour le violon. Pour le violon c'est un peu rugueux. Mais quand je monte dans l'aigu c'est un peu brillant. Il y a un peu des harmoniques aiguës qui paraissent un peu brillantes. Brillant ça va vers l'aigu. Plus je vais vers l'aigu, plus je trouve ça plus brillant. Pour la contrebasse si je compare le C3 piano et le C2 forte, le C2 pourrait être plus brillant, parce qu'il est plus timbré, et donc plus d'harmoniques aiguës. Un son qui se baladerait dans l'instrument serait non brillant. Le timbre intervient parce que pour la flute alto dans l'aigu c'est pas trop timbré. Le piccolo je l'aime pas. Mais il est plus brillant, et bruyant. En flatterzunge ça donne quoi ? Si je m'arrêtais pas au vibrato qui m'agace, le C7 forte c'est brillant. Je peux prendre le basson mais ça va être un peu le même genre. Le C4 piano de basson c'est pas mal, mais sans doute que le contrebasson c'est pareil. On dirait un violoncelle ou une contrebasse c'est fou. Le C2 de contrebasson est moins brillant que le C1, parce que le C1 il racle, il est plus râpeux, c'est une forme de brillance.
 
 Q: Est ce qu'un son comme ça tu va trouver ça brillant ou non ? (saxophone C4 piano)
 
@@ -83,18 +72,11 @@ R: Ah c'est pas mal ça, en effet c'est pas très brillant. Le C5 aussi mais le 
 
 Q: Et le tuba de tout à l'heure piano ?
 
-R: Oui mais ceux là ils sont ronds.
-Le marimba c'est pas brillant c'est sur. Plutôt baguette molle. Déjà au niveau du 6 ça devient plus brillant.
-Non le C5 de violoncelle nonvibrato c'est plus brillant que ce qu'on a entendu. 
-Le saxophone c'est pas mal.
-Le marimba c'est rond. 
-Mais mon brillant ça voudrait dire qu'il faut qu'il tienne un peu le son... Si c'est un son sec c'est pas brillant.
+R: Oui mais ceux là ils sont ronds. Le marimba c'est pas brillant c'est sur. Plutôt baguette molle. Déjà au niveau du 6 ça devient plus brillant. Non le C5 de violoncelle nonvibrato c'est plus brillant que ce qu'on a entendu. Le saxophone c'est pas mal. Le marimba c'est rond. Mais mon brillant ça voudrait dire qu'il faut qu'il tienne un peu le son... Si c'est un son sec c'est pas brillant.
 
 Q: Alors la contrebasse peut-être.
 
-R: Dans la contrebasse il y a quand même un truc qui grince. Même en harmonique.
-Dans la flute alto il y a un peu de brillance. Le basson je trouve ça trop timbré.
-La clarinette C4 semi-éolien c'est pas mal. C'est pas brillant. Mais c'est un peu pareil que la clarinette basse.
+R: Dans la contrebasse il y a quand même un truc qui grince. Même en harmonique. Dans la flute alto il y a un peu de brillance. Le basson je trouve ça trop timbré. La clarinette C4 semi-éolien c'est pas mal. C'est pas brillant. Mais c'est un peu pareil que la clarinette basse.
 
 Q: Un son pas brillant qui t'a manqué ?
 

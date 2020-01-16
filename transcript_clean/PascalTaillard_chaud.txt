@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: Oui, pas chaud mais chaleureux. Plutôt chaleureux.
@@ -8,8 +10,7 @@ R: Je dirais que c'est la même chose.
 
 Q: Donc pour parler de voix tu me disais ?
 
-R: Pour parler de voix principalement, mais pour de la musique aussi.
-Chaleureux, ça rejoint un peu le côté rond.
+R: Pour parler de voix principalement, mais pour de la musique aussi. Chaleureux, ça rejoint un peu le côté rond.
 
 Q2
 
@@ -23,14 +24,13 @@ Q: D'accord, si tu devais verbaliser une différence entre chaud et rond qu'est 
 
 R: Il y en a pas. Pour moi il y en a pas.
 
-Q: D'accord, si je reprends ce que tu as dis pour rond, dis moi si tout ça, correspond à ton idée de chaud : pas d'attaque, son plutôt grave-médium, sons lisse et doux, son qui rassure, enveloppant, avec une release longue.
+Q: D'accord, si je reprends ce que tu as dis pour rond, dis moi si tout ça, correspond à ton idée de chaud, pas d'attaque, son plutôt grave-médium, sons lisse et doux, son qui rassure, enveloppant, avec une release longue.
 
 R: Peut-être sur la gamme en fait, peut-être qu'on peut sortir d'un grave médium pour un son chaleureux. Et je pense qu'on est plutôt dans le médium-aigu. Moi je vois ça comme ça Victor. Plutôt que de poser des mots qui ont trait aux sons, je suis plus enclin à mettre ma perception sur un son. Pour moi chaleureux effectivement, c'est quelque chose qui dégage de l'énergie, quelque chose de joyeux, donc on sera plutôt sur forte voir fortissimo.
 
-Q4
+Q3
 
-R: Peut-être la harpe ? Oui le C4 mezzoforte pour moi c'est chaleureux. Quand c'est forte un peu moins. Mais il y a ce côté rond et doux aussi pour moi dans chaleureux, enfin sur chaud.
-Oui un son grave-médium c'est chaud aussi.
+R: Peut-être la harpe ? Oui le C4 mezzoforte pour moi c'est chaleureux. Quand c'est forte un peu moins. Mais il y a ce côté rond et doux aussi pour moi dans chaleureux, enfin sur chaud. Oui un son grave-médium c'est chaud aussi.
 
 Q: On va réécouter les sons que tu as écouté pour rond et tu me dis ce que tu en penses, d'abord le C3 pianissimo de clarinette basse.
 
@@ -52,7 +52,7 @@ Q: Et le vibraphone est aussi chaud que rond ?
 
 R: Oui.
 
-Q: Le pizzicato de contrebasse aussi ? Alors attends il me semble que le violoncelle ordinario tu n'avais pas trouvé ça rond. Est-ce que tu trouve ça chaud ? Par exemplce celui qu'on avait écouté, le C3 mezzoforte ordinario ?
+Q: Le pizzicato de contrebasse aussi ? Alors attends il me semble que le violoncelle ordinario tu n'avais pas trouvé ça rond. Est-ce que tu trouve ça chaud ? Par exemple celui qu'on avait écouté, le C3 mezzoforte ordinario ?
 
 R: Oui c'est chaleureux, mais c'est le timbre du violoncelle qui donne le chaleureux.
 
@@ -106,8 +106,7 @@ R: Oui mais j'ai le droit de me tromper. 
 
 Q: Non mais c'est ta perception qui compte en premier.
 
-R: Non mais tu as raison, le souffle. Peut-être que j'étais un peu déconcentré tout à l'heure. Mais oui, pour moi le côté souffle ramène de la chaleur. Oui pour moi le C2 et le C3 pianissimo de clarinette basse son chaud pour moi. 
-On peut essayer le basson ? Oui, le côté chaud pour moi, il y a de l'émotion.
+R: Non mais tu as raison, le souffle. Peut-être que j'étais un peu déconcentré tout à l'heure. Mais oui, pour moi le côté souffle ramène de la chaleur. Oui pour moi le C2 et le C3 pianissimo de clarinette basse son chaud pour moi. On peut essayer le basson ? Oui, le côté chaud pour moi, il y a de l'émotion.
 
 Q: Est-ce que cette émotion peut-être présente dans le rond ?
 

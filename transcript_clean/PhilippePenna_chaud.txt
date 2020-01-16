@@ -1,8 +1,10 @@
+QR:T
+
 Q1
 
 R: Oui j'utilise chaud. Quand je mets au point des enceintes, je fais le filtre. Quand on écoute on dit que le son est un peu trop chaud par exemple. Chaud pour moi c'est une façon de jouer sur le spectre médium. De creuser, de le rendre ce qu'on l'appelle physiologique, loudness. Donc on augmente le haut grave et l'aigu, et on va donc créer u son un peu chaud.
 
-Q2 
+Q2
 
 R: Un son chaud,  c'est un son où le registre du médium est un peu en retrait pour avoir une augmentation des fréquences aiguës, à partir de 8000 Hertz, et de gonfler un peu aussi le haut-grave.Le haut-grave c'est à peut près entre 100 et 250 Hertz. On creuse un peu le médium et on augmente un peu le reste du spectre. 
 
@@ -68,8 +70,7 @@ R: Ça reste toujours chaud pour moi. A un plus bas niveau, mais ça reste dans 
 
 Q: Tu veux bien écouter d'autres sons que tu as pas encore entendu, aussi pour te familiariser un peu avec la base de donnée.
 
-R: Le C4 mezzoforte de marimba pourrait être chaud. C'est quand même moins chaud que le violoncelle.
-Le piano pareil. Par exemple je peux qualifier ça de chaleur, mais là bon...
+R: Le C4 mezzoforte de marimba pourrait être chaud. C'est quand même moins chaud que le violoncelle. Le piano pareil. Par exemple je peux qualifier ça de chaleur, mais là bon...
 
 Q: Par rapport à ce que tu m'as dis, j'ai l'impression que tu trouveras plus de chaleur dans des sons de clarinette basse ou de cuivre un peu grave.
 
@@ -77,8 +78,7 @@ R: Alors la clarinette basse C2 piano c'est chaud et rond. Le C3 plus chaud. Le 
 
 Q: Et si il devait y en rester qu'un et pourquoi?
 
-R: Surtout la clarinette basse jouant C3 piano.
-Au final ce que je trouve le plus chaud c'est surtout le violoncelle, et la clarinette basse. Mais surtout le violoncelle.
+R: Surtout la clarinette basse jouant C3 piano. Au final ce que je trouve le plus chaud c'est surtout le violoncelle, et la clarinette basse. Mais surtout le violoncelle.
 
 Q: Dans les sons manquants tu m'as déjà dis saxophone baryton, et saxophone ténor de Stan Getz. Autre son ?
 
@@ -86,8 +86,7 @@ R: Non, je vois pas trop. Un instrument électroacoustique. Un instrument amplif
 
 Q4
 
-R: Le violon en harmonique c'est pas chaud. 
-La trompette en flatterzunge C5 fortissimo c'est pas chaud.
+R: Le violon en harmonique c'est pas chaud. La trompette en flatterzunge C5 fortissimo c'est pas chaud.
 
 Q: Le flatterzunge apporte quelque chose de particulier pour le pas chaud ?
 
@@ -95,10 +94,7 @@ R: Je peux mettre le cuivré pour voir. le cuivré non plus c'est pas chaud. Peu
 
 Q: Tu pourrais essayer de trouver des sons un peu plus graves qui sont pas chaud ?
 
-R: Il y a pas d'orgues là ? J'étais à un concert là dimanche, d'orgue. Le xylophone C6 piano baguette molle, c'est assez chaud, mais c'est pas ce qu'on cherche.
-Le cor cuivré C5 c'est pas chaud. 
-Le trombone cuivré je peux pas dire que c'est pas chaud du tout.
-La flute sinon. Ah c'est bizarre, la flute C4 mezzoforte c'est chaud. Pour moi c'est vachement lié au spectre la chaleur. Le C6 de flute c'est pas chaud.
+R: Il y a pas d'orgues là ? J'étais à un concert là dimanche, d'orgue. Le xylophone C6 piano baguette molle, c'est assez chaud, mais c'est pas ce qu'on cherche. Le cor cuivré C5 c'est pas chaud. Le trombone cuivré je peux pas dire que c'est pas chaud du tout. La flute sinon. Ah c'est bizarre, la flute C4 mezzoforte c'est chaud. Pour moi c'est vachement lié au spectre la chaleur. Le C6 de flute c'est pas chaud.
 
 Q: Oui donc dès que ça va devenir aigu pour chaque instrument, ça va être pas chaud. 
 
@@ -106,17 +102,15 @@ R: Ça enlève de la chaleur. Parce que en fait là c'est vachement dans l'aigu,
 
 Q: Ok je vais me risquer à te proposer des sons . Un son C4 mezzoforte de cor anglais ?
 
-R: C'est assez chaud oui.
-Le C3 mezzoforte de harpe aussi. Le C2 un peu moins. le C1 non c'est pas chaud. 
+R: C'est assez chaud oui. Le C3 mezzoforte de harpe aussi. Le C2 un peu moins. le C1 non c'est pas chaud. 
 
 Q: Le violoncelle jouant en harmonique un C4 ?
 
 R: Ah ba c'est super chaud le violoncelle pour moi c'est la référence.
 
-Q: Oui mais par rapport aux autres sons de violoncell, c'est assez différent non ?
+Q: Oui mais par rapport aux autres sons de violoncelle, c'est assez différent non ?
 
-R: Oui les sons sont différents, mais les deux sont chauds. Peut être l'ordinario C3 plus chaud quand même, mais ça reste dans le chaud.
-Le basson C3 c'est chaud léger. J'aime pas trop ce son seul en fait. Il y a quand même un peu de chaleur.
+R: Oui les sons sont différents, mais les deux sont chauds. Peut être l'ordinario C3 plus chaud quand même, mais ça reste dans le chaud. Le basson C3 c'est chaud léger. J'aime pas trop ce son seul en fait. Il y a quand même un peu de chaleur.
 
 Q: Et le vibraphone quand tu l'as écouté tout à l'heure ?
 
@@ -140,8 +134,7 @@ R: Note impulsive parce que c'est pas entretenu. Pour moi la chaleur vient de la
 
 Q: Et d'un point de vue spectral ? Quelle différence ?
 
-R: Quelque chose qui est pas chaud, c'est quelque chose qui va être vachement déplacé dans l'aigu, qui va manquer de corps. Ou quelque chose avec un spectre ascendant. 
-Après ça peut-être un son trop brillant, un son agressif, un son qui n'a pas de richesse harmonique. En gros si on prend un piano de base. Il y a une chaleur et une ampleur sur des bons piano allemands, qu'il n'y a pas sur un kawai ou sur un yamaha.
+R: Quelque chose qui est pas chaud, c'est quelque chose qui va être vachement déplacé dans l'aigu, qui va manquer de corps. Ou quelque chose avec un spectre ascendant. Après ça peut-être un son trop brillant, un son agressif, un son qui n'a pas de richesse harmonique. En gros si on prend un piano de base. Il y a une chaleur et une ampleur sur des bons piano allemands, qu'il n'y a pas sur un kawai ou sur un yamaha.
 
 Q: Est ce que tu utilises un qualificatif particulier pour parler de son pas chaud ?
 

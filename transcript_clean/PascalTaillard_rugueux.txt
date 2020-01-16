@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: Non, rugueux, je ne l'utilise pas. Donc pas de contexte.
@@ -13,6 +15,8 @@ R: Non pas forcément non plus.
 Q: Un son qui a des aspérités, ça se manifeste comment ?
 
 R: Un petit comme le flatterzunge.
+
+Q3
 
 Q: D'accord, bon si je te fais écouter le flatterzunge de flute C5 mezzoforte par exemple. Est-ce que c'est rugueux ?
 
@@ -88,7 +92,9 @@ R: C'est pas forcément agréable.
 
 Q: Oui mais c'est rugueux ?
 
-R: C'est différent, là c'est le souffle, donc il y a pas l'intervention d'un instrument tiers pour délivrer la note. Là on est sur le souffle.Q: Donc c'est vraiment lié à l'action pour toi la rugosité.
+R: C'est différent, là c'est le souffle, donc il y a pas l'intervention d'un instrument tiers pour délivrer la note. Là on est sur le souffle.
+
+Q: Donc c'est vraiment lié à l'action pour toi la rugosité.
 
 R: Et la façon  dont on entend, que ce soit l'archet.
 
@@ -130,9 +136,7 @@ R: La trompette C5 forte, il est pas agréable déjà à entendre, je dirais pas
 
 Q: Tu dirais que c'est un archétype de pas rugueux pour autant ?
 
-R: Je sais pas, je le trouve pas agréable du tout...
-L'accordéon C6 mezzoforte c'est pas rugueux. Ça correspond à ce que je te disais tout à l'heure, la note de synthétiseur qui est délivrée, pure.
-Pour le hautbois C5 forte il y a quelque chose dans l'attaque. Bon après il y a un vibrato... Peut-être sur l'attaque oui.
+R: Je sais pas, je le trouve pas agréable du tout... L'accordéon C6 mezzoforte c'est pas rugueux. Ça correspond à ce que je te disais tout à l'heure, la note de synthétiseur qui est délivrée, pure. Pour le hautbois C5 forte il y a quelque chose dans l'attaque. Bon après il y a un vibrato... Peut-être sur l'attaque oui.
 
 Q5
 

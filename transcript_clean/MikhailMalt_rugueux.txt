@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 Q2
@@ -10,8 +12,7 @@ R: Lorsque je le dis, j'ai beaucoup de pudeur avec les étudiants, je dis ce son
 
 Q: Tu es familier avec le terme de granulosité ?
 
-R: Oui mais je l'emploie pour quelque chose de totalement différent.
-Alors ne croit pas que j'écoute chaque battement. Je les vois comme des aspérités, par exemple ce qu'on a écouté dans les multiphoniques, ça c'est vachement rugueux. Certains plus que d'autres, plus instables. 
+R: Oui mais je l'emploie pour quelque chose de totalement différent. Alors ne croit pas que j'écoute chaque battement. Je les vois comme des aspérités, par exemple ce qu'on a écouté dans les multiphoniques, ça c'est vachement rugueux. Certains plus que d'autres, plus instables. 
 
 Q: Récapitule moi tes deux définitions de rugueux.
 
@@ -19,9 +20,7 @@ R: La première c'est la rugosité psychoacoustique, tout ce qui est battement d
 
 Q: Dans la même idée que le battement ?
 
-R: C'est pas exactement la même chose, ça serait une troisième chose, mais je pense que ça tombe dans le même sac, même si c'est pas exactement la même chose.
-Par contre il y a l'autre quand tu parlais de granularité, de rugosité. En fait granularité ça se rapproche de la synthèse granulaire.
-Enfin je l'appelle rugosité, mais je l'associe à une sensation de touché du son. 
+R: C'est pas exactement la même chose, ça serait une troisième chose, mais je pense que ça tombe dans le même sac, même si c'est pas exactement la même chose. Par contre il y a l'autre quand tu parlais de granularité, de rugosité. En fait granularité ça se rapproche de la synthèse granulaire. Enfin je l'appelle rugosité, mais je l'associe à une sensation de touché du son. 
 
 Q3
 
@@ -43,8 +42,7 @@ R: Oui d'accord ce n'est pas la même chose, mais c'est pas fusionné aussi. Il 
 
 Q: Des multiphoniques de basson maintenant ?
 
-R: Par exemple celui qui s'en rapproche dans le basson c'est le 5ème multiphonique.
-Pour moi quand j'entends un battement, je sais pas quelle est sa fréquence, et quand j'entends deux sons dans la même bande critique comme le multiphonique de hautbois ou le cuivré de trompette, ça va être la même chose. C'est simplement quand tu es très proche, dans la bande critique tu entends presque ça comme une modulation.
+R: Par exemple celui qui s'en rapproche dans le basson c'est le 5ème multiphonique. Pour moi quand j'entends un battement, je sais pas quelle est sa fréquence, et quand j'entends deux sons dans la même bande critique comme le multiphonique de hautbois ou le cuivré de trompette, ça va être la même chose. C'est simplement quand tu es très proche, dans la bande critique tu entends presque ça comme une modulation.
 
 Q: Des sons avec des flatterzunges où il y a des battements du coup tu vas trouver ça rugueux ?
 
@@ -52,18 +50,15 @@ R: Plutôt oui. Il y a plusieurs nuances, mais le flatterzunge de trompette oui 
 
 Q: Entre la rugosité du joué/chanté du tuba à la 2nde mineur et le flatterzunge de la trompette qu'est ce qui va changer, ? Qu'est ce qui va être plus rugueux ?
 
-R: Oui c'est différent. En fait ce sont deux processus différents. Pour le flatterzunge tu modules le son à la langue, alors que l'autre tu modules en fréquence. 
-Si c'est rugueux ce n'est pas rond.
+R: Oui c'est différent. En fait ce sont deux processus différents. Pour le flatterzunge tu modules le son à la langue, alors que l'autre tu modules en fréquence.  Si c'est rugueux ce n'est pas rond.
 
 Q4
 
-R: Les sons ronds de tout à l'heure. On peut les réécouter ?
-Pour la contrebasse C2 piano en pizzicato la résonance est pas rugueuse, par contre l'attaque... Je pense pas que j'ai dis que celui-ci j'ai dis qu'il était rond. 
+R: Les sons ronds de tout à l'heure. On peut les réécouter ? Pour la contrebasse C2 piano en pizzicato la résonance est pas rugueuse, par contre l'attaque... Je pense pas que j'ai dis que celui-ci j'ai dis qu'il était rond. 
 
 Q: On l'avait comparé à d'autres cordes.
 
-R: Oui ok c'est rond...
-Et le marimba aussi c'est rond.
+R: Oui ok c'est rond... Et le marimba aussi c'est rond.
 
 Q: Et un son C5 d'accordéon ?
 
@@ -75,9 +70,7 @@ R: Oui oui, il y a quelque chose de stable aussi. Quand c'est rond ça tend à �
 
 Q: un glockenspiel ?
 
-R: C'est intéressant parce que je dirais pas qu'il est rugueux. Mais la résonance est ronde, pas l'attaque qui est trop riche.
-Le basson C2 mezzoforte est un peu entre les deux, qui tend vers rond.
-Rugueux c'est le terme avec lequel je suis le plus à l'aise, brillant aussi je l'utilise, par contre chaud et rond.
+R: C'est intéressant parce que je dirais pas qu'il est rugueux. Mais la résonance est ronde, pas l'attaque qui est trop riche. Le basson C2 mezzoforte est un peu entre les deux, qui tend vers rond. Rugueux c'est le terme avec lequel je suis le plus à l'aise, brillant aussi je l'utilise, par contre chaud et rond.
 
 Q6
 

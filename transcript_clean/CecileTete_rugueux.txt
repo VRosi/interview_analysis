@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: Pour le coup rugueux pas trop. Oui, si un chef me dit rugueux, je me dis qu'il faut qu'on sente les crins sur l'archet. 
@@ -16,9 +18,7 @@ R: Ah et bien voilà les flatterzunges, c'est typique.
 
 Q: C'est rugueux ?
 
-R: Oui, après pas forcément dans les graves ou les aigus. Mais le C4 mezzoforte de trombone il est bien.
-
-La sur le hautbois il le fait là ?
+R: Oui, après pas forcément dans les graves ou les aigus. Mais le C4 mezzoforte de trombone il est bien. La sur le hautbois il le fait là ?
 
 Q: Du coup sur le flatterzunge, il y a moyen que tu trouves des nuances de rugosité plus ou moins équivalentes.
 
@@ -30,9 +30,7 @@ R: Ah ba non parce que je pense que c'est le max.
 
 Q: Tu m'as dis qu'il fallait qu'on sente le crin tout à l'heure.
 
-R: Oui justement, je vais voir dans les cordes. Un ponticello, oui celui de violoncelle c'est rugueux.
-
-Bon là pour le violon C7 nonvibrato c'est normal, bon c'est l'instrument, mais on entend aussi du souffle aussi un peu.
+R: Oui justement, je vais voir dans les cordes. Un ponticello, oui celui de violoncelle c'est rugueux. Bon là pour le violon C7 nonvibrato c'est normal, bon c'est l'instrument, mais on entend aussi du souffle aussi un peu.
 
 Q: Tu l'entends d'ailleurs mieux quand l'instrument joue piano.
 
@@ -44,9 +42,7 @@ R: Oui c'est asez rugueux, c'est vrai.
 
 Q: Il y a autre chose ?
 
-R: Tu vois, le vibraphone c'est pas rugueux du tout, pour moi c'est très lisse. Pas de rugosité.
-
-Après il y a aussi les doubles notes.
+R: Tu vois, le vibraphone c'est pas rugueux du tout, pour moi c'est très lisse. Pas de rugosité. Après il y a aussi les doubles notes.
 
 Q: Les multiphoniques?
 
@@ -84,8 +80,7 @@ R: Oui.
 
 Q: T'as pas écouté beaucoup de tuba, je te dis ça , pas pour te forcer mais plutôt pour que tu aies tout entendu.
 
-R: Oui parce que je connais pas. Mais je pense que le cor C5 piano c'est pas mal.
-Dis donc, beau son sur le C4 mezzoforte. On a l'impression qu'il a une sourdine. Sur le C2 on entend plus de... alors que le C4 pas du tout.
+R: Oui parce que je connais pas. Mais je pense que le cor C5 piano c'est pas mal. Dis donc, beau son sur le C4 mezzoforte. On a l'impression qu'il a une sourdine. Sur le C2 on entend plus de... alors que le C4 pas du tout.
 
 Q: Par rapport au cor de tout à l'heure ?
 
@@ -93,8 +88,7 @@ R: C'est à peu près là même chose.
 
 Q: Un dernier.
 
-R: La clarinette. Non mais il y aura toujours le souffle de la clarinette, donc ça sera pas typique pas rugueux.
-Dans le basson c'est un son plutôt lisse. Oui le C5 mezzoforte il est bien.
+R: La clarinette. Non mais il y aura toujours le souffle de la clarinette, donc ça sera pas typique pas rugueux. Dans le basson c'est un son plutôt lisse. Oui le C5 mezzoforte il est bien.
 
 Q5
 
@@ -108,8 +102,7 @@ R: Oui tu veux dire que le flatterzunge est propre, c'est ça ? Mais le rendu, m
 
 Q: Est ce que tu vois un son lisse qui a manqué ici ?
 
-R: Dans les percussions, je m'étais dis qu'il y avait un truc. Le truc avec l'archet... Mais c'est pas ça. 
-Mais plutôt j'avais fait un concerto pour glass, glass quelque chose...
+R: Dans les percussions, je m'étais dis qu'il y avait un truc. Le truc avec l'archet... Mais c'est pas ça. Mais plutôt j'avais fait un concerto pour glass, glass quelque chose...
 
 Q: Ah oui un glass harmonica ? 
 
@@ -119,7 +112,7 @@ R: Oui donc il y a peut-être un petit peu... On peut faire du son rugueux sans 
 
 Q: Est ce que, par exemple, ça peut être plaisant un son rugueux ?
 
-R: haha, "je fais exprès de mal jouer". De plaisant quoi, à l'oreille. Mais je voyais pas trop d'affect.
+R: haha, ''je fais exprès de mal jouer''. De plaisant quoi, à l'oreille. Mais je voyais pas trop d'affect.
 
 Q: Pareille pour lisse ?
 

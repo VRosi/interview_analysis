@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: Chaud, je l'utilise beaucoup aussi. Alors je reprends pareil, quand je suis au piano, c'est plutôt l'instrument lui-même que je vais trouver plus ou moins chaud. Si on enlève les notes elles-même et l'organisation des accords, si on parle vraiment de timbre, donc là c'est plus dépendant de l'instrument que de l'instrumentiste, en tout cas pour le piano. Pour le timbre d'une note donnée. Evidemment, on peut varier la façon d'articuler pour jouer sur la chaleur mais, en fait pas tellement. Et là ça va aussi être une question d'harmoniques en fait.
@@ -36,8 +38,7 @@ R: Vibré, son vibré et peut-être certains pizzicato. Oui pour le violoncelle 
 
 Q: Entre le C4 et le C3 mezzoforte ?
 
-R: Le C3 est un peu plus chaud, mais ils sont tous les deux chauds. C'est un petit peu moins chaud dans le pianissimo, c'est aussi chaud dans le forte que dans le mezzoforte.
-Le C3 mezzoforte est moins chaud sans vibrato.
+R: Le C3 est un peu plus chaud, mais ils sont tous les deux chauds. C'est un petit peu moins chaud dans le pianissimo, c'est aussi chaud dans le forte que dans le mezzoforte. Le C3 mezzoforte est moins chaud sans vibrato.
 
 Q: Tu saurais me dire pourquoi ?
 
@@ -93,7 +94,7 @@ R: Très satisfait, 10. Enfin ça dépend, c'est vraiment pour l'enregistrement 
 
 Q: Qu'est-ce qui manque ?
 
-R: Je pense que les sons, ne sont pas hyper beau. Ou peut-être qu'ils ne sont pas bien mixés, mais ils sont un peu trop "ordinateur". Ce sont des vrais sons ? En fait c'est un peu trop sec, pour que émotionnellement on puisse avoir le côté heu... C'est trop neutre.
+R: Je pense que les sons, ne sont pas hyper beau. Ou peut-être qu'ils ne sont pas bien mixés, mais ils sont un peu trop ''ordinateur''. Ce sont des vrais sons ? En fait c'est un peu trop sec, pour que émotionnellement on puisse avoir le côté heu... C'est trop neutre.
 
 Q: Dans l'enregistrement, la prise de son ?
 
@@ -109,20 +110,15 @@ R: Bah non parce que pour d'autres types de musique , ça va être plutôt sur d
 
 Q4
 
-R: Pas du tout chaud, le piccolo. C6, C7, C8 mezzoforte, tout ça c'est froid. C'est un peu plus chaud dans le pianissimo, sur le C7 là. Mais sinon c'est quand même pas très chaud. 
-Le grave de la clarinette basse, je trouve pas ça hyper chaud. C'est un peu plus chaud dans le pianissimo, mais pas chaud dans le mezzoforte et le forte.
-Ah tiens on a pas utilisé le basson encore. Le basson il aurait pu, dans le chaud. Ah c'est pas très chaud tous les mezzoforte. le C3 piano mezzoforte et forte c'est pas chaud.
+R: Pas du tout chaud, le piccolo. C6, C7, C8 mezzoforte, tout ça c'est froid. C'est un peu plus chaud dans le pianissimo, sur le C7 là. Mais sinon c'est quand même pas très chaud.  Le grave de la clarinette basse, je trouve pas ça hyper chaud. C'est un peu plus chaud dans le pianissimo, mais pas chaud dans le mezzoforte et le forte. Ah tiens on a pas utilisé le basson encore. Le basson il aurait pu, dans le chaud. Ah c'est pas très chaud tous les mezzoforte. le C3 piano mezzoforte et forte c'est pas chaud.
 
 Q: Il y a quand même une certaine variation des harmoniques dans ces sons là.
 
-R: Oui ils sont pas chaud, parce qu'il ont pour moi un spectre harmonique assez réduit.
-Je peux avoir l'accordéon ? Non c'est pas chaud dans l'ensemble des hauteurs.
+R: Oui ils sont pas chaud, parce qu'il ont pour moi un spectre harmonique assez réduit. Je peux avoir l'accordéon ? Non c'est pas chaud dans l'ensemble des hauteurs.
 
 Q: Une dernière question pour les claviers ? Il y aurait un clavier moins chaud que les autres ?
 
-R: Peut-être le piano. C'est plutôt assez chaud tout ça. En plus sur cet enregistrement il est plutôt assez chaud.
-Le xylophone c'est pas chaud. 
-Le vibraphone c'est plutôt chaud normalement. Le vibraphone C4 piano c'est chaud, dans le forte c'est moins chaud.
+R: Peut-être le piano. C'est plutôt assez chaud tout ça. En plus sur cet enregistrement il est plutôt assez chaud. Le xylophone c'est pas chaud. Le vibraphone c'est plutôt chaud normalement. Le vibraphone C4 piano c'est chaud, dans le forte c'est moins chaud.
 
 Q: Il y a des sons qui te manquent pour parler du pas chaud ?
 
@@ -148,7 +144,7 @@ R: Oui, carrément. D'ailleurs ça se vérifie à la prise de son, tu prends un 
 
 Q: Tu sais pourquoi ?
 
-R: Je me demande si c'est pas justement à cause des harmoniques. C'est une supposition, mais les harmoniques basses se déplacent plus lentement... je sais pas si elles se déplacent plus lentement. Donc je pense qu'il y a une idée de distance oui. D'ailleurs, il ya aussi l'attaque de la note. Il y a plus de grave dans l'attaque quand on est proche que quand on est loin. Par exemple sur un piano, si tu joues fort sur un piano, à deux mètres tu vas entendre "PA"; alors que quand tu es tout proches, tu vas entendre presque le feutre qui s'écrase sur la corde tu va entendre "Pouf". D'ailleurs en studio on fait exprès, si on veut un son super chaleureux, on met des micros dans le piano, et on va mettre un micro a l'autre bout du piano, presque collé aux cordes, ou alors collé au marteau. 
+R: Je me demande si c'est pas justement à cause des harmoniques. C'est une supposition, mais les harmoniques basses se déplacent plus lentement... je sais pas si elles se déplacent plus lentement. Donc je pense qu'il y a une idée de distance oui. D'ailleurs, il ya aussi l'attaque de la note. Il y a plus de grave dans l'attaque quand on est proche que quand on est loin. Par exemple sur un piano, si tu joues fort sur un piano, à deux mètres tu vas entendre ''PA''; alors que quand tu es tout proches, tu vas entendre presque le feutre qui s'écrase sur la corde tu va entendre ''Pouf''. D'ailleurs en studio on fait exprès, si on veut un son super chaleureux, on met des micros dans le piano, et on va mettre un micro a l'autre bout du piano, presque collé aux cordes, ou alors collé au marteau. 
 
 Q: Si tu transposes cette idée de prise de son plus ou moins distantes à un son d'un autre instrument ? Qu'est ce que tu vas entendre en plus qui rend le son chaud ?
 
@@ -156,7 +152,11 @@ R: Par exemple une contrebasse ou un violoncelle, si tu te colles contre la tabl
 
 Q: Donc il manque du médium mais aussi du grave aussi peut-être un peu non ?
 
-R: Et aussi du grave oui, mais du grave avec les médiums. Parce que tu vois dans le cas de la clarinette basse, les notes graves n'ont pas beaucaup de médium, et donc pour moi c'est plutôt un peu froid, et un peu rugueux mais on y reviendra.Q: Et c'est peut-être la question d'équilibre dont tu parlais tout à l'heure ?R: Oui, par exemple au piano quand on parle des fameux voicing, un accord dans lequel tu équilibres beaucoup les notes qui composent l'accord, donc par exemple un accord de 4 ou 5 sons avec des écarts de tierces ou de quartes entre chaque note, il va en général être assez équilibré, assez riche, assez brillant peut-être, alors que si tu resserres plutôt les voix vers le grave, ça va être beaucoup moins brillant ça c'est sur, ça va frotter plus, ça va être moins définis, ça va être plus boueux. Donc je pense qu'avec les harmoniques c'est un peu pareil, si tu joues un accord avec un grand espace entre plusieurs groupes de notes au milieu par exemple, ça va être assez percutant, mais plutôt assez froid, alors que si tu répartis de façon plus équilibrée, homogène ton accord, ça va être plus riche, plus puissant, sans forcément être forme, je parle pas de volume, et plus chaud. Donc ça c'est pour un accord, mais j'imagine que pour une même note et le timbre d'une note d'un instrument ça doit se vérifier aussi au niveau des harmoniques.
+R: Et aussi du grave oui, mais du grave avec les médiums. Parce que tu vois dans le cas de la clarinette basse, les notes graves n'ont pas beaucaup de médium, et donc pour moi c'est plutôt un peu froid, et un peu rugueux mais on y reviendra.
+
+Q: Et c'est peut-être la question d'équilibre dont tu parlais tout à l'heure ?
+
+R: Oui, par exemple au piano quand on parle des fameux voicing, un accord dans lequel tu équilibres beaucoup les notes qui composent l'accord, donc par exemple un accord de 4 ou 5 sons avec des écarts de tierces ou de quartes entre chaque note, il va en général être assez équilibré, assez riche, assez brillant peut-être, alors que si tu resserres plutôt les voix vers le grave, ça va être beaucoup moins brillant ça c'est sur, ça va frotter plus, ça va être moins définis, ça va être plus boueux. Donc je pense qu'avec les harmoniques c'est un peu pareil, si tu joues un accord avec un grand espace entre plusieurs groupes de notes au milieu par exemple, ça va être assez percutant, mais plutôt assez froid, alors que si tu répartis de façon plus équilibrée, homogène ton accord, ça va être plus riche, plus puissant, sans forcément être forme, je parle pas de volume, et plus chaud. Donc ça c'est pour un accord, mais j'imagine que pour une même note et le timbre d'une note d'un instrument ça doit se vérifier aussi au niveau des harmoniques.
 
 Q6
 

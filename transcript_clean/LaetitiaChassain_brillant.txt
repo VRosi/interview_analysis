@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: Un son brillant je l'utilise vraiment souvent pour définir des couleurs de cuivres. Enfin c'est assez répandu. Dans notre domaine d'enseignant, la brillance est souvent associée aux cuivres américain, par rapport aux cuivres allemands qui sont plus ronds.
@@ -12,14 +14,11 @@ R: Justement donc il y a de l'acidité. Mais oui ça a un rapport avec le nombre
 
 Q3
 
-R: Je vais aller directement dans la trompette. Plutôt un son cuivré alors. Dans le C5 cuivré il y a quelque chose de brillant. Mais il manque l'acoustique de la salle, parce que là ça fait un son fermé, qu'un son brillant n'a pas. Mais dans le casque.  en ordinario le C5 forte est plus brillant. Le C5 cuivré est quand même assez brillant., il y a de l'acidité qu'il y a pas dans l'autre.
-Un glockenspiel c'est plutôt cristallin. Ça peut être brillant. C'est lié à l'aigu. Cristallin c'est le terme. Ça participe à la brillance dans une orchestration. 
+R: Je vais aller directement dans la trompette. Plutôt un son cuivré alors. Dans le C5 cuivré il y a quelque chose de brillant. Mais il manque l'acoustique de la salle, parce que là ça fait un son fermé, qu'un son brillant n'a pas. Mais dans le casque.  en ordinario le C5 forte est plus brillant. Le C5 cuivré est quand même assez brillant., il y a de l'acidité qu'il y a pas dans l'autre. Un glockenspiel c'est plutôt cristallin. Ça peut être brillant. C'est lié à l'aigu. Cristallin c'est le terme. Ça participe à la brillance dans une orchestration. 
 
 Q: Si tu compares à un autre instrument à clavier comme le vibraphone, lui aussi en métal.
 
-R: Pour le vibraphone C4, il y a autant de chaud que de brillant en terme de son. C'est un son qui est. C'est marrant je te dis chaud et je fais un signe de rond. Le glockenspiel est plus cristallin donc la résonance est là, le son est plus brillant.
-Alors là dans le violon en harmonique il y a de la brillance, que Ravel utilise beaucoup, mais c'est le côté cristallin de l'harmonique. Mais c'est bien évidemment pas la même brillance que la trompette de tout à l'heure. Avec 12 violons jouant en harmonique dans une salle il y aura de la brillance.
-Généralement on parle de la brillance on pense à la trompette parce qu'elle passe au dessus de tout le monde. Cette brillance va être, comme on l'utilise généralement en commentaire, dans un timbre dominant, qui s'impose. Mais ça va a contrario avec l'harmonique des violons, en même temps c'est tellement aigu que ça passe tout le temps. C'est soliste généralement la brillance.
+R: Pour le vibraphone C4, il y a autant de chaud que de brillant en terme de son. C'est un son qui est. C'est marrant je te dis chaud et je fais un signe de rond. Le glockenspiel est plus cristallin donc la résonance est là, le son est plus brillant. Alors là dans le violon en harmonique il y a de la brillance, que Ravel utilise beaucoup, mais c'est le côté cristallin de l'harmonique. Mais c'est bien évidemment pas la même brillance que la trompette de tout à l'heure. Avec 12 violons jouant en harmonique dans une salle il y aura de la brillance. Généralement on parle de la brillance on pense à la trompette parce qu'elle passe au dessus de tout le monde. Cette brillance va être, comme on l'utilise généralement en commentaire, dans un timbre dominant, qui s'impose. Mais ça va a contrario avec l'harmonique des violons, en même temps c'est tellement aigu que ça passe tout le temps. C'est soliste généralement la brillance.
 
 Q: Personnellement moi, un instrument qui je trouve passe encore plus au dessus de l'orchestre c'est le trombone, alors est ce que tu vas trouver de la brillance aussi ?
 
@@ -27,20 +26,19 @@ R: Le son C4 cuivré pour moi est assez brillant. Mais pour moi il y a de la cha
 
 Q4
 
-R: La brillance ça peut pas être un clavecin. Quoique je pense à des interprètes de clavecin qui rendent l'instrument brillant. Donc Blandine Rannou par exemple, son intégral de Rameau parce que dans la brillance il y a aussi de l'engagement.
-La guitare plutôt grave C3 c'est pas brillant. Pour moi la harpe c'est un instrument qui est plus brillant, de fait très résonant, le C5 est résonne très longtemps. Des pizzicato de violon, graves c'est pas brillant pour moi, mais quand on arrive dans les aigus avec des nuances forte c'est plus brillant. 
+R: La brillance ça peut pas être un clavecin. Quoique je pense à des interprètes de clavecin qui rendent l'instrument brillant. Donc Blandine Rannou par exemple, son intégral de Rameau parce que dans la brillance il y a aussi de l'engagement. La guitare plutôt grave C3 c'est pas brillant. Pour moi la harpe c'est un instrument qui est plus brillant, de fait très résonant, le C5 est résonne très longtemps. Des pizzicato de violon, graves c'est pas brillant pour moi, mais quand on arrive dans les aigus avec des nuances forte c'est plus brillant. 
 
 Q: Un son pas forte et moins aigu va être moins brillant que le même type de son joué à l'opposé ?
 
-R: Peut-être oui.
-Le piccolo C7 c'est brillant, mais bon là on cherche le pas brillant.
-La contrebasse c'est pas vraiment la définition d'un instrument brillant. C'est un instrument magnifique et profond. Un son de contrebasse C3 nonvibrato mezzoforte c'est pas brillant. le Basson C4 mezzoforte c'est pas brillant. Le basson c'est très coloré mais pas brillant.
+R: Peut-être oui. Le piccolo C7 c'est brillant, mais bon là on cherche le pas brillant. La contrebasse c'est pas vraiment la définition d'un instrument brillant. C'est un instrument magnifique et profond. Un son de contrebasse C3 nonvibrato mezzoforte c'est pas brillant. le Basson C4 mezzoforte c'est pas brillant. Le basson c'est très coloré mais pas brillant.
 
 Q5
 
 R: Un son qui est introverti, c'est à dire qui ne projette pas. Qui est fermé sur lui-même. Oui en terme d'harmoniques ça serait un peu l'inverse de brillant.
 
-Q: Tu utilises un terme particulier pour parler de son pas brillant ?R: Un son doux. Un son feutré. 
+Q: Tu utilises un terme particulier pour parler de son pas brillant ?
+
+R: Un son doux. Un son feutré. 
 
 Q6
 

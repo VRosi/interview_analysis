@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R:  Ce que j'ai dis avant par rapport au chaud, brillant ça rentre aussi dans une connotation trop chargée parce que brillant c'est une surface métallique polie, une certaine couleur, donc quand je travaille dans un champ interdisciplinaire avec des architectes, des ingénieurs, ça m'aide pas beaucoup, donc c'est plus ambivalents que les 3 autres. Chaud et brillants sont vraiment trop connotés.
@@ -18,10 +20,7 @@ Q3
 
 Q: Alors là, pourquoi plus le glockenspiel que le xylophone ?
 
-R: Je pense que c'est une question d'harmoniques et de ... Ensuite il y a aussi la résonance , c'est une relation entre attaque et decay. Oui la résonance joue. Donc le xylophone c'est pas très brillant et le glockenspiel c'est brillant. Après ça c'est peut-être le plus simple. 
-Après j'aurais tendance à prendre le piccolo tout de suite mais pour pas être trop simple...
-C'est peut-être trop simpliste mais le C7 mezzoforte c'est brillant.
-Ensuite... J'ai pas trop utilisé le saxophone je crois. Alors je peux dire relatif à la flute, je trouve le saxophone plus brillant.
+R: Je pense que c'est une question d'harmoniques et de ... Ensuite il y a aussi la résonance , c'est une relation entre attaque et decay. Oui la résonance joue. Donc le xylophone c'est pas très brillant et le glockenspiel c'est brillant. Après ça c'est peut-être le plus simple. Après j'aurais tendance à prendre le piccolo tout de suite mais pour pas être trop simple... C'est peut-être trop simpliste mais le C7 mezzoforte c'est brillant. Ensuite... J'ai pas trop utilisé le saxophone je crois. Alors je peux dire relatif à la flute, je trouve le saxophone plus brillant.
 
 Q: Après si je peux me permettre, plus les instrumentistes à vent souffle fort, plus il y aura d'harmoniques. 
 
@@ -33,8 +32,7 @@ R: Le cor je trouve pas ça très brillant... Oui je dirais que la trompette for
 
 Q: Dans les bois sinon peut-être ?
 
-R: Peut-être la clarinette. Oui mais je trouve le saxophone mieux.
-Les choix sont plus satisfaisants que le chaud. Quand j'écoute et qu'on écoute d'autres sons après, ça change un peu la perspective.
+R: Peut-être la clarinette. Oui mais je trouve le saxophone mieux. Les choix sont plus satisfaisants que le chaud. Quand j'écoute et qu'on écoute d'autres sons après, ça change un peu la perspective.
 
 Q: Est-ce qu'il y a des sons pas présents ici, qui sont brillants ?
 
@@ -46,9 +44,7 @@ R: Oui les deux sont brillants mais le C6 je le trouve plus brillant que le C4.
 
 Q: Et tu penses du coup que la hauteur à une importance ?
 
-R: C'est possible. Alors on peut peut-être reprendre les autres sons pour voir.
-Pour le glockenspiel avec la baguette métal il y a pas de différence dans la brillance.
-Et le piccolo le C8 est moins brillant que le C7.
+R: C'est possible. Alors on peut peut-être reprendre les autres sons pour voir. Pour le glockenspiel avec la baguette métal il y a pas de différence dans la brillance. Et le piccolo le C8 est moins brillant que le C7.
 
 Q4
 
@@ -64,10 +60,7 @@ R: Dans le violon il y a une brillance, mais je me demande si il y a le vibrato 
 
 Q: Et nonvibrato ?
 
-R: Oui mais c'est pas pas brillant sans vibrato, il y a quand même une brillance.
-Le tuba staccato C3 c'est pas brillant, le cuivré non plus. Le staccato C2 c'est encore moins brillant.
-Le xylophone, il est pas très brillant, mais c'est pas non plus un contre exemple de brillant.
-Le basson c'est un bon exemple mais c'est peut-être trop proche du tuba, non ?
+R: Oui mais c'est pas pas brillant sans vibrato, il y a quand même une brillance. Le tuba staccato C3 c'est pas brillant, le cuivré non plus. Le staccato C2 c'est encore moins brillant. Le xylophone, il est pas très brillant, mais c'est pas non plus un contre exemple de brillant. Le basson c'est un bon exemple mais c'est peut-être trop proche du tuba, non ?
 
 Q: Dans l'ensemble c'est pas brillant ? Ou une note en particulier ?
 
@@ -97,9 +90,7 @@ R: En générale il n'y a que des sourdines sur les cuivres, alors que sur les c
 
 Q: D'ailleurs tu les as pas écouté les sourdines de cuivre.
 
-R: Oui c'est vrai. Alors je trouve que les deux sourdines de trompettes sont pas brillante mais la harmon est encore moins brillante que la bol.
-
-Et le trombone, c'est l'inverse, la harmon est plus brillante que la bol.
+R: Oui c'est vrai. Alors je trouve que les deux sourdines de trompettes sont pas brillante mais la harmon est encore moins brillante que la bol. Et le trombone, c'est l'inverse, la harmon est plus brillante que la bol.
 
 Q6
 
@@ -107,4 +98,4 @@ R: Oui pour moi il y a une présence dans l'idée de brillance, qui n'est pas un
 
 Q: Il y a une idée de positif ou négatif ?
 
-R: Non c'est plutôt contextuel. Mais pour moi quand je parle de présence c'est plutôt une qualité, qui n'est pas celle de la proximité comme je parlais de chaud, qui est plus proche d'un son posé et rond, un son brillant c'est plus présent. Ce son rond qui est posé, on peut passer à côté, il disparait plus facilement, tandis qu'un son brillant n'est pas nécessairement un son de proximité mais il a plus de présence. Si on parle de la différenciation entre environnement et source dans l'enregistrement, rond c'es tplus une qualité environnementale presque dans sa capacité à se mettre en arrière plan, pendant que le brillant ça va être toujours une source saillante. Oui la saillance peut être une notion aussi.
+R: Non c'est plutôt contextuel. Mais pour moi quand je parle de présence c'est plutôt une qualité, qui n'est pas celle de la proximité comme je parlais de chaud, qui est plus proche d'un son posé et rond, un son brillant c'est plus présent. Ce son rond qui est posé, on peut passer à côté, il disparait plus facilement, tandis qu'un son brillant n'est pas nécessairement un son de proximité mais il a plus de présence. Si on parle de la différenciation entre environnement et source dans l'enregistrement, rond c'est plus une qualité environnementale presque dans sa capacité à se mettre en arrière plan, pendant que le brillant ça va être toujours une source saillante. Oui la saillance peut être une notion aussi.

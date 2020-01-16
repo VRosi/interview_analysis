@@ -1,3 +1,5 @@
+QR:T
+
 Q1
 
 R: A priori je dirais oui. Ça m'arrive aussi de dire âpre. Pour les cordes c'est vrai que plutôt que d'écrire rugueux, j'écrirais ponticello, et puis peut-être flatterzunge pour les vents. 
@@ -14,16 +16,11 @@ R: Vas y la trompette.  Oui le flatterzunge de C5 c'est pas mal. Fais voir la f
 
 Q: Tu m'as dis sul ponticello aussi.
 
-R: Alors pour la contrebasse. Là l'exemple de C3 ça dépend des moments. Là c'est pas uniforme, ça évolue. Le C2 sul ponticello c'est pas mal.
-L'alto ça marche aussi. Le sul ponticello, concrètement on entend le bruit de l'archet, ajouté au fait que la note va chavirer, qu'elle est pas pure, comme pour le flatterzunge. C'est pas la surface d'un lac tranquille.
-L'alto C4 pianissimo nonvibrato c'est un peu rugueux
-Une note pédale de trombone, c'est un peu rugueux.
-Le C1 forte de contrebasson c'est rugueux, ça marche bien.
+R: Alors pour la contrebasse. Là l'exemple de C3 ça dépend des moments. Là c'est pas uniforme, ça évolue. Le C2 sul ponticello c'est pas mal. L'alto ça marche aussi. Le sul ponticello, concrètement on entend le bruit de l'archet, ajouté au fait que la note va chavirer, qu'elle est pas pure, comme pour le flatterzunge. C'est pas la surface d'un lac tranquille. L'alto C4 pianissimo nonvibrato c'est un peu rugueux. Une note pédale de trombone, c'est un peu rugueux. Le C1 forte de contrebasson c'est rugueux, ça marche bien.
 
 Q: Et si on écoute un peu des multiphoniques, qui ont cet aspect fluctuant mais régulier.
 
-R: Ah oui le multiphonique de basson c'est excellent, c'est très rugueux. Ça me plait.
-Mais le multiphonique de clarinette c'est un peu moins rugueux. Sauf quand il y a les notes qui frottent. Mais le 3e multiphonique c'est rugueux aussi. Quand les notes frottent ça fait comme pour le tuba qui chante et joue en même temps.
+R: Ah oui le multiphonique de basson c'est excellent, c'est très rugueux. Ça me plait. Mais le multiphonique de clarinette c'est un peu moins rugueux. Sauf quand il y a les notes qui frottent. Mais le 3e multiphonique c'est rugueux aussi. Quand les notes frottent ça fait comme pour le tuba qui chante et joue en même temps.
 
 Q: Il y a des sons qui t'ont manqué pour la rugosité ?
 
@@ -31,18 +28,11 @@ R: La crécelle. Ce genre d'instrument.
 
 Q4
 
-R: A priori c'est le son le plus pur possible. C'est ce que je te disais pour le contre-ténor. Une note tenue de violon si elle est très pure. 
-Mais là sur les notes de violon non vibrato on entend l'archet quand même. 
-La flute c'est pas rugueux. La clarinette non plus. Les deux sont lisses. A ne pas confondre avec le son flautando qui est pas timbré.
-Le vibraphone archet. Mais on entend un peu l'archet. 
-L'accordéon médium ? Comme ça je dirais que c'est pas rugueux. 
-Le vibraphone avec la baguette il y a une attaque et une résonance, donc c'est pas rugueux. Tous les claviers ne sont pas rugueux.
-En fait la question de rugosité se pose pour un son tenu seulement. 
+R: A priori c'est le son le plus pur possible. C'est ce que je te disais pour le contre-ténor. Une note tenue de violon si elle est très pure. Mais là sur les notes de violon non vibrato on entend l'archet quand même. La flute c'est pas rugueux. La clarinette non plus. Les deux sont lisses. A ne pas confondre avec le son flautando qui est pas timbré. Le vibraphone archet. Mais on entend un peu l'archet.  L'accordéon médium ? Comme ça je dirais que c'est pas rugueux. Le vibraphone avec la baguette il y a une attaque et une résonance, donc c'est pas rugueux. Tous les claviers ne sont pas rugueux. En fait la question de rugosité se pose pour un son tenu seulement. 
 
 Q5
 
-R: C'est quand même un son tenu. Mais un vibraphone avec la baguette il y a quand même la longue résonance.
-Lisse ça me plait bien comme terme pour définir le pas rugueux. Comme la surface d'un lac.
+R: C'est quand même un son tenu. Mais un vibraphone avec la baguette il y a quand même la longue résonance. Lisse ça me plait bien comme terme pour définir le pas rugueux. Comme la surface d'un lac.
 
 Q: Des sons qui manquent pour le lisse ?
 

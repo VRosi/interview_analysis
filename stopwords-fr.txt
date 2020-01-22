@@ -1,3 +1,23 @@
+idée
+côté
+vouloir
+disais
+dis
+son
+sonore
+lié
+manière
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
 a
 abord
 absolument
@@ -135,6 +155,7 @@ contre
 couic
 crac
 d
+d'
 da
 dans
 de
@@ -142,6 +163,7 @@ debout
 dedans
 dehors
 deja
+déjà
 delà
 depuis
 dernier
@@ -300,6 +322,7 @@ ici
 il
 ils
 importe
+important
 instrument
 instruments
 j
@@ -475,7 +498,6 @@ psitt
 pu
 puis
 puisque
-pur
 pure
 q
 qu
@@ -651,6 +673,12 @@ uniformement
 unique
 uniques
 uns
+utilisation
+utilise
+utilisé
+utilises
+utiliser
+utilisent
 v
 va
 vais
@@ -678,6 +706,7 @@ vu
 vé
 vôtre
 vôtres
+vraiment
 w
 x
 y

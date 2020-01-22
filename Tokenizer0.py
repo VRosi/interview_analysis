@@ -1,73 +1,209 @@
 # coding: utf-8
-%reset
+# %reset
 import json
 import numpy as np
 import pandas as pd
 import nltk
 from nltk.stem.snowball import FrenchStemmer
-# from Parser import utf8Struggle
 
 
-word = "brillant"
-Q = ["Q1", "Q2", "Q3", "Q4", "Q5", "Q6"]
-experts = ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10",
-           "11", "12", "13", "14", "15", "16", "17", "18", "19", "20",
-           "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32"]
+def load_file(word, db):
+    """
+    This function load the verbatims for a WORD and QUESTION(s)
+    INPUT :  - word
+             - question of interest
+             - list of question
+    OUTPUT : - dictionnary of answers
+             - stopwords list (with or without dataset related words)
+    """
 
-# get stop words in a file
-file = "stopwords-fr.txt"
-stopFile = open(file, 'r', encoding="utf-8")
-yourResult = np.array([line.split('\n') for line in stopFile.readlines()])[:,0]
-stopWord = list(yourResult)
+    # load json.file
+    with open(word+'.json', encoding="utf-8") as json_file:
+        data = json.load(json_file)
 
-tokenizer = nltk.RegexpTokenizer(r'\w+')
-stemmer = FrenchStemmer()
+    # dictionnary of questions for everyone.
+    data_dic = {}  # dictionnary with all answers for each question
+    for index, i in enumerate(data):
+        key = ''.join(["Q", str(index+1)])
+        data_dic[key] = []
+        for index2, j in enumerate(data[key]):
+            data_dic[key].append(j["answer"])
 
-with open(word+'.json', encoding="utf-8") as json_file:
-    data = json.load(json_file)
+    # load stop words in a file
+    file = "stopwords-fr.txt"
+    stopFile = open(file, 'r', encoding="utf-8")
+    yourResult = np.array([line.split('\n')
+                           for line in stopFile.readlines()])[:, 0]
+    stopWord = list(yourResult)
+    stopWord.append(word)
 
-# Q_tot = np.full((len(experts), len(data)), "")
-Q_tot = {}
-for index1, i in enumerate(Q):
-    Q_tot[i] = []
-    for index2, j in enumerate(data[i]):
-        Q_tot[i].append(j["answer"])
-        # Q_tot[index2][index1] = j["answer"]
+    # load lemmatization file
+    with open('lemm_file.json', encoding="utf-8") as json_file:
+        lemms = json.load(json_file)
 
-Q1 = ""
+    # If True, remove all words related to the dataset of sounds
+    if db is True:
+        file = "dataset_stopwords.txt"
+        stopFile = open(file, 'r', encoding="utf-8")
+        yourResult = np.array([line.split('\n')
+                               for line in stopFile.readlines()])[:, 0]
+        dbStopWord = list(yourResult)
+        stopWord += dbStopWord
 
-Q1_tok = Q1_stop = Q1_stem = Q_fin = []
-
-Q_dup = Q_dup2 = {}
+    return data_dic, stopWord, lemms
 
 
-for index, i in enumerate(Q_tot["Q2"]):
-    Q1 += i
-    # commande typique
-    # Q_tot["Q2"][0]+Q_tot["Q3"][0]
 
-# tokenisation
-Q1_tok = tokenizer.tokenize(Q1.lower())
-Q1_tok
-# get rid of stopwords
-for index, i in enumerate(Q1_tok):
-    if i not in stopWord:
-        Q1_stop.append(i)
+def n_gram(list, n):
+    """
+    This function use the zip function to help us generate n-grams
+    Concatentate the tokens into ngrams and return
+    OUTPUT : - n-gram string
+    """
+    ngrams = zip(*[list[i:] for i in range(n)])
+    return [" ".join(ngram) for ngram in ngrams]
 
-Q1_stop
+def lemmatization(word, lemms):
 
-for i in Q1_stop:
-    if i not in stopWord:
-        Q1_stem.append(i)
-# Q1_stem += [stemmer.stem(w) for w in Q1_stop]
-# Q1_stem += [stemmer.stem(w) for w in Q1_tok if not w in stopWord]
-Q1_stem
+    lemmed = ""
+    for index, lemm in enumerate(lemms):
+        if word in lemms[lemm]:
+            lemmed = lemm
+            if lemmed == word:
+                break
 
-for index, i in enumerate(set(Q1_stem)):
-    Q_dup[i] = Q1_stem.count(i)
+    return lemmed
 
-for index, i in enumerate(set(Q1_stem)):
-    Q_dup2[i] = Q1_stop.count(i)
 
-Q_dup = sorted(Q_dup.items(), key=lambda t: t[1], reverse=True)
-Q_dup
+
+
+def freqNGram(word, question, n, db):
+    Q = ["Q1", "Q2", "Q3", "Q4", "Q5", "Q6"]
+    text = ""
+    tokenized = []
+    stemmatized = []
+    finalized = []
+    unduplicated = {}
+
+    # import verbatims, stopwords and lemm list
+    data_dic, stopWord, lemms = load_file(word, db)
+
+    # group all answers in 1 string
+    if question == [""] or question == []:
+        question = Q
+    for qnum in question:
+        for index, i in enumerate(data_dic[qnum]):
+            text += i
+
+    # tokenisation
+    tokenizer = nltk.RegexpTokenizer(r'\w+')
+    tokenized = tokenizer.tokenize(text.lower())
+    for index, word in enumerate(tokenized):
+        if index > 0:
+            if word == tokenized[index-1]:
+                tokenized.pop(index)
+    if n > 1:  # for n-grams
+        tokenized = n_gram(tokenized, n)
+        # load exception words in a file
+        file = "minus_stopwords.txt"
+        stopFile = open(file, 'r', encoding="utf-8")
+        temp = [line.split(' ') for line in stopFile.readlines()]
+        exStopWord = temp[0]
+        for word in exStopWord:
+            if word in stopWord:
+                stopWord.remove(word)
+
+    # get rid of stopwords + stem
+    stemmer = FrenchStemmer()  # stem machine from Snowball
+    res = ''
+    if n > 1:  # for n-grams
+        for index, i in enumerate(tokenized):
+            x = i.split(' ')
+            # check if one of the words is in the stopWord list
+            comp = any(elem in x for elem in stopWord)
+            # check if both words are in the exception list
+            exep = all(elem in exStopWord for elem in x)
+            if comp is False and exep is False and x[-1] not in exStopWord:
+
+                res = lemmatization(i, lemms)
+                # if the joint expression finds no match
+                if res == '':
+                    for index, w in enumerate(x):
+                        if lemmatization(w, lemms) == '':
+                            x[index] = stemmer.stem(w)
+                    res = ' '.join(x)
+                stemmatized.append(res)
+    else:
+        for index, word in enumerate(tokenized):
+            if word not in stopWord:
+                res = lemmatization(word, lemms)
+                if res == '':
+                    print(word)
+                    res = word
+            stemmatized.append(res)
+
+    # kill duplicates
+    for index, i in enumerate(set(stemmatized)):
+        unduplicated[i] = stemmatized.count(i)
+    # sort from most to least used
+    finalized = sorted(unduplicated.items(), key=lambda t: t[1], reverse=True)
+    return finalized, tokenized
+    print(finalized[0:100])
+
+
+def contQuery(tokenized_list, q_word, n_L, n_R):
+    # context query for 1-gram and 2-gram
+    # Query : add "*" at the end of q_word if you want use it as stem
+    context = []
+    k = 0
+    for index, word in enumerate(tokenized_list):
+        if len(q_word.split(' ')) > 1:
+            if q_word.split(' ')[0] == word and q_word.split(' ')[1] == tokenized_list[index+1]:
+                temp = ' '.join(tokenized_list[index-n_L:index+2+n_R])
+                context.append(temp)
+                k += 1
+        if q_word[-1] == '*':
+            if q_word[0:-1] in word or q_word[0:-1] == word:
+                temp = ' '.join(tokenized_list[index-n_L:index+1+n_R])
+                context.append(temp)
+                k += 1
+        else:
+            if q_word == word:
+                temp = ' '.join(tokenized_list[index-n_L:index+1+n_R])
+                context.append(temp)
+                k += 1
+    print("{} iterations of {} in context : \n"  .format(k, q_word))
+    print('\n'.join(map(str, context)))
+    return context
+
+# Export results in Csv files
+def csvExp(result, num, name):
+    csvEx = []
+    for word in result[0:num]:
+        strTemp = word[0].replace('é', 'e')
+        strTemp = strTemp.replace('è', 'e')
+        strTemp = strTemp.replace('ë', 'e')
+        strTemp = strTemp.replace('ê', 'e')
+        strTemp = strTemp.replace('É', 'E')
+        strTemp = strTemp.replace('à', 'a')
+        strTemp = strTemp.replace('â', 'a')
+        strTemp = strTemp.replace('ü', 'u')
+        strTemp = strTemp.replace('û', 'u')
+        strTemp = strTemp.replace('ù', 'u')
+        strTemp = strTemp.replace('ï', 'i')
+        strTemp = strTemp.replace('î', 'i')
+        strTemp = strTemp.replace('ç', 'c')
+        strTemp = strTemp.replace('Ç', 'C')
+        strTemp = strTemp.replace('ô', 'o')
+        csvEx.append([strTemp, word[1]])
+    print(csvEx)
+    import csv
+    with open("res/" + name + ".csv", "w", newline="") as output:
+        writer = csv.writer(output)
+        for val in csvEx:
+            writer.writerow(val)
+
+result, tokenized = freqNGram("rond", ["Q5"], 1, True)
+result
+context = contQuery(tokenized, "réson*", 3, 4)
+csvExp(result, 50, "rugueux_2_5")

@@ -1,5 +1,5 @@
 # coding: utf-8
-# %reset
+%reset
 import json
 import numpy as np
 import pandas as pd
@@ -81,7 +81,7 @@ def freqNGram(word, question, n, db):
     Q = ["Q1", "Q2", "Q3", "Q4", "Q5", "Q6"]
     text = ""
     tokenized = []
-    stemmatized = []
+    lemmatized = []
     finalized = []
     unduplicated = {}
 
@@ -98,11 +98,11 @@ def freqNGram(word, question, n, db):
     # tokenisation
     tokenizer = nltk.RegexpTokenizer(r'\w+')
     tokenized = tokenizer.tokenize(text.lower())
-    for index, word in enumerate(tokenized):
-        if index > 0:
-            if word == tokenized[index-1]:
-                tokenized.pop(index)
     if n > 1:  # for n-grams
+        for index, word in enumerate(tokenized):
+            if index > 0:
+                if word == tokenized[index-1]:
+                    tokenized.pop(index)
         tokenized = n_gram(tokenized, n)
         # load exception words in a file
         file = "minus_stopwords.txt"
@@ -124,32 +124,32 @@ def freqNGram(word, question, n, db):
             # check if both words are in the exception list
             exep = all(elem in exStopWord for elem in x)
             if comp is False and exep is False and x[-1] not in exStopWord:
-
                 res = lemmatization(i, lemms)
                 # if the joint expression finds no match
                 if res == '':
-                    for index, w in enumerate(x):
-                        if lemmatization(w, lemms) == '':
-                            x[index] = stemmer.stem(w)
+                    for index, word in enumerate(x):
+                        if lemmatization(word, lemms) == '':
+                            x[index] = word
+                        else:
+                            x[index] = lemmatization(word, lemms)
                     res = ' '.join(x)
-                stemmatized.append(res)
+                lemmatized.append(res)
     else:
         for index, word in enumerate(tokenized):
             if word not in stopWord:
                 res = lemmatization(word, lemms)
-                if res == '':
+                if lemmatization(word, lemms) == "chose":
                     print(word)
+                if res == '':
                     res = word
-            stemmatized.append(res)
+                lemmatized.append(res)
 
     # kill duplicates
-    for index, i in enumerate(set(stemmatized)):
-        unduplicated[i] = stemmatized.count(i)
+    for index, i in enumerate(set(lemmatized)):
+        unduplicated[i] = lemmatized.count(i)
     # sort from most to least used
     finalized = sorted(unduplicated.items(), key=lambda t: t[1], reverse=True)
-    return finalized, tokenized
-    print(finalized[0:100])
-
+    return finalized, tokenized, lemmatized
 
 def contQuery(tokenized_list, q_word, n_L, n_R):
     # context query for 1-gram and 2-gram
@@ -176,34 +176,21 @@ def contQuery(tokenized_list, q_word, n_L, n_R):
     print('\n'.join(map(str, context)))
     return context
 
-# Export results in Csv files
-def csvExp(result, num, name):
-    csvEx = []
-    for word in result[0:num]:
-        strTemp = word[0].replace('é', 'e')
-        strTemp = strTemp.replace('è', 'e')
-        strTemp = strTemp.replace('ë', 'e')
-        strTemp = strTemp.replace('ê', 'e')
-        strTemp = strTemp.replace('É', 'E')
-        strTemp = strTemp.replace('à', 'a')
-        strTemp = strTemp.replace('â', 'a')
-        strTemp = strTemp.replace('ü', 'u')
-        strTemp = strTemp.replace('û', 'u')
-        strTemp = strTemp.replace('ù', 'u')
-        strTemp = strTemp.replace('ï', 'i')
-        strTemp = strTemp.replace('î', 'i')
-        strTemp = strTemp.replace('ç', 'c')
-        strTemp = strTemp.replace('Ç', 'C')
-        strTemp = strTemp.replace('ô', 'o')
-        csvEx.append([strTemp, word[1]])
-    print(csvEx)
-    import csv
-    with open("res/" + name + ".csv", "w", newline="") as output:
-        writer = csv.writer(output)
-        for val in csvEx:
-            writer.writerow(val)
 
-result, tokenized = freqNGram("rond", ["Q5"], 1, True)
-result
-context = contQuery(tokenized, "réson*", 3, 4)
-csvExp(result, 50, "rugueux_2_5")
+# Generate excel files with results
+def generate_df(word, db, Qlist):
+    writer = pd.ExcelWriter(word+'.xlsx', engine='xlsxwriter')
+    for index, Q in enumerate(Qlist):
+        Qkey = [Q]
+        for n in [1, 2]:
+            print(n)
+            result, tokenized, lemmatized = freqNGram(word, Qkey, n, db)
+            df = pd.DataFrame(result, columns =[word, 'F'])
+            df.to_excel(writer, index=False, sheet_name=word+'_'+str(n)+'_'+Q)
+    writer.save()
+
+
+result, tokenized, lemmatized = freqNGram("brillant", ["Q2"], 1, True)
+context = contQuery(tokenized, "6000", 10, 10)
+
+generate_df("rugueux", True, [""])

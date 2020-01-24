@@ -42,6 +42,8 @@ apres
 après
 as
 assez
+associe
+associer
 attendu
 au
 aucun
@@ -86,7 +88,6 @@ ayez
 ayons
 b
 bah
-bas
 basee
 bat
 beau
@@ -136,6 +137,7 @@ chut
 chère
 chères
 chose
+choses
 ci
 cinq
 cinquantaine
@@ -191,6 +193,11 @@ différente
 différentes
 différents
 dire
+dis
+dirais
+dirai
+dira
+dites
 directe
 directement
 dit
@@ -268,6 +275,7 @@ eûmes
 eût
 eûtes
 f
+faire
 fais
 faisaient
 faisant
@@ -297,7 +305,6 @@ g
 gens
 h
 ha
-haut
 hein
 hem
 hep
@@ -386,9 +393,6 @@ même
 mêmes
 n
 na
-naturel
-naturelle
-naturelles
 ne
 neanmoins
 necessaire
@@ -428,7 +432,6 @@ ouias
 oust
 ouste
 outre
-ouvert
 ouverte
 ouverts
 o|
@@ -454,7 +457,6 @@ passé
 pendant
 pense
 permet
-personne
 personnes
 petit
 peu
@@ -467,7 +469,6 @@ pfut
 pif
 pire
 pièce
-plein
 plouf
 plupart
 plus
@@ -498,7 +499,6 @@ psitt
 pu
 puis
 puisque
-pure
 q
 qu
 quand
@@ -520,6 +520,7 @@ quelqu'un
 quelque
 quelques
 quels
+question
 qui
 quiconque
 quinze
@@ -573,8 +574,6 @@ serions
 serons
 seront
 ses
-seul
-seule
 seulement
 si
 sien
@@ -602,7 +601,6 @@ specifiques
 speculatif
 stop
 strictement
-subtiles
 suffisant
 suffisante
 suffit
@@ -633,6 +631,8 @@ tenant
 tend
 tenir
 tente
+terme
+termes
 tes
 tic
 tien
@@ -686,12 +686,8 @@ valeur
 vas
 vers
 via
-vif
-vifs
 vingt
 vivat
-vive
-vives
 vlan
 voici
 voie

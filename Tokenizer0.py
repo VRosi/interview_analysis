@@ -190,7 +190,7 @@ def generate_df(word, db, Qlist):
     writer.save()
 
 
-result, tokenized, lemmatized = freqNGram("brillant", ["Q2"], 1, True)
-context = contQuery(tokenized, "6000", 10, 10)
+result, tokenized, lemmatized = freqNGram("chaud", ["Q2"], 1, True)
+context = contQuery(tokenized, "net*", 15, 15)
 
-generate_df("rugueux", True, [""])
+# generate_df("rugueux", True, [""])

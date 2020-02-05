@@ -1,12 +1,16 @@
 # coding: utf-8
-%reset
+
 import json
+import pathlib
 import numpy as np
 import pandas as pd
 import nltk
 from nltk.stem.snowball import FrenchStemmer
 
 
+
+
+#%%
 def load_file(word, db):
     """
     This function load the verbatims for a WORD and QUESTION(s)
@@ -17,6 +21,9 @@ def load_file(word, db):
              - stopwords list (with or without dataset related words)
     """
 
+    
+    path = str(pathlib.Path(__file__).parent.absolute())
+    
     # load json.file
     with open(word+'.json', encoding="utf-8") as json_file:
         data = json.load(json_file)
@@ -138,8 +145,6 @@ def freqNGram(word, question, n, db):
         for index, word in enumerate(tokenized):
             if word not in stopWord:
                 res = lemmatization(word, lemms)
-                if lemmatization(word, lemms) == "chose":
-                    print(word)
                 if res == '':
                     res = word
                 lemmatized.append(res)
@@ -189,8 +194,20 @@ def generate_df(word, db, Qlist):
             df.to_excel(writer, index=False, sheet_name=word+'_'+str(n)+'_'+Q)
     writer.save()
 
-
-result, tokenized, lemmatized = freqNGram("chaud", ["Q2"], 1, True)
-context = contQuery(tokenized, "net*", 15, 15)
-
+#%%
+    
+quest = "Q2","Q5"
+n = 1
+word = "rond"
+    
+result, tokenized, lemmatized = freqNGram(word, ["Q2","Q5"], n, True)
+#context = contQuery(tokenized, "net*", 15, 15
 # generate_df("rugueux", True, [""])
+
+#%%
+path_j = './embedding/corpus_lemm/'
+
+result_dict = dict(result)
+jsonfile = json.dumps(result_dict, indent=2)
+with open(path_j + word + "_Q2Q5_"+ str(n) +'.json', 'w') as f_output:
+    f_output.write(jsonfile)

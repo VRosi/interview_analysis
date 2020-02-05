@@ -12,14 +12,19 @@ import pickle
 import numpy as np
 import json
 import re
+import os, os.path
 
-import os
+
 
 #%%
-outputdir = '/Users/prang/code/out_victor'
-corpus_file = '/Users/prang/code/brillant.json'
+outputdir = '/Users/VictorRosi/Documents/GitHub/interview_analysis/embedding/output'
+corpus_file = '/Users/VictorRosi/Documents/GitHub/interview_analysis/embedding/corpus/brillant.json'
 
-words, embeddings = pickle.load(open('/Users/VictorRosi/Documents/GitHub/interview_analysis/polyglot-fr.pkl', "rb"), encoding='latin1')
+for root, dirs, files in os.walk(outputdir):
+    for file in files:
+        os.remove(os.path.join(root, file))
+
+words, embeddings = pickle.load(open('/Users/VictorRosi/Documents/GitHub/interview_analysis/embedding/polyglot-fr.pkl', "rb"), encoding='latin1')
 
 # turn to dict
 embedding_dict = {}
@@ -61,10 +66,11 @@ for i,k in enumerate(wrd_list):
 
 
 embed = [embedding_dict[x] for x in wrd_list]
+new = [wrd_list, meta]
 
 
 #writer.add_embedding(embeddings[:100], metadata=words[:100])
-writer.add_embedding(np.array(embed), metadata=meta)
+writer.add_embedding(np.array(embed), metadata=wrd_list)
 writer.close()
 # Pour lancer tensorbard
 # Dans un terminal

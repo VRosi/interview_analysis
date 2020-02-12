@@ -31,6 +31,7 @@ ailleurs
 ainsi
 ait
 allaient
+aller
 allo
 allons
 allô
@@ -535,10 +536,10 @@ relativement
 remarquable
 rend
 rendre
+représentation
 restant
 reste
 restent
-restrictif
 retour
 revoici
 revoilà
@@ -590,7 +591,6 @@ sois
 soit
 soixante
 sommes
-son
 sont
 sous
 souvent

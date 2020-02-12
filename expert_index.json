@@ -2,161 +2,193 @@
   "experts" : [
     {
       "expertID": "01",
+      "prof": "sound_eng",
       "firstName": "Jimmy",
       "lastName": "Bardin"
     },
     {
       "expertID": "02",
+      "prof": "composer",
       "firstName": "Roque",
       "lastName": "Rivas"
     },
     {
       "expertID": "03",
+      "prof": "acoustic",
       "firstName": "Pauline",
       "lastName": "Eveno"
     },
     {
       "expertID": "04",
+      "prof": "conductor",
       "firstName": "Jordan",
       "lastName": "Gudefin"
     },
     {
       "expertID": "05",
+      "prof": "conductor",
       "firstName": "Pierre",
       "lastName": "Dumoussaud"
     },
     {
       "expertID": "06",
+      "prof": "conductor",
       "firstName": "Roland",
       "lastName": "Cahen"
     },
     {
       "expertID": "07",
+      "prof": "sound_eng",
       "firstName": "Eleonore",
       "lastName": "Mallo"
     },
     {
       "expertID": "08",
+      "prof": "conductor",
       "firstName": "Lucie",
       "lastName": "Leguay"
     },
     {
       "expertID": "09",
+      "prof": "sound_des",
       "firstName": "Romain",
       "lastName": "Brillaud"
     },
     {
       "expertID": "10",
+      "prof": "conductor",
       "firstName": "Olivier",
       "lastName": "Dejours"
     },
     {
       "expertID": "11",
+      "prof": "sound_dis",
       "firstName": "Gregoire",
       "lastName": "Lorieux"
     },
     {
       "expertID": "12",
+      "prof": "sound_eng",
       "firstName": "Olivier",
       "lastName": "Guillaume"
     },
     {
       "expertID": "13",
+      "prof": "sound_eng",
       "firstName": "Martin",
       "lastName": "Fouilleul"
     },
     {
       "expertID": "14",
+      "prof": "composer",
       "firstName": "Mikhail",
       "lastName": "Malt"
     },
     {
       "expertID": "15",
+      "prof": "music_prof",
       "firstName": "Laetitia",
       "lastName": "Chassain"
     },
     {
       "expertID": "16",
+      "prof": "sound_eng",
       "firstName": "Clement",
       "lastName": "Cerles"
     },
     {
       "expertID": "17",
+      "prof": "music_prof",
       "firstName": "Anthony",
       "lastName": "Girard"
     },
     {
       "expertID": "18",
+      "prof": "sound_des",
       "firstName": "Pierre",
       "lastName": "Navarron"
     },
     {
       "expertID": "19",
+      "prof": "acoustic",
       "firstName": "Maxime",
       "lastName": "Carron"
     },
     {
       "expertID": "20",
+      "prof": "acoustic",
       "firstName": "Philippe",
       "lastName": "Penna"
     },
     {
       "expertID": "21",
+      "prof": "music_prof",
       "firstName": "Alain",
       "lastName": "Besson"
     },
     {
       "expertID": "22",
+      "prof": "inst_jazz",
       "firstName": "Sylvain",
       "lastName": "Gontard"
     },
     {
       "expertID": "23",
+      "prof": "sound_des",
       "firstName": "Nadine",
       "lastName": "Schutz"
     },
     {
       "expertID": "24",
+      "prof": "acoustic",
       "firstName": "Benoit",
       "lastName": "Fabre"
     },
     {
       "expertID": "25",
+      "prof": "inst_cla",
       "firstName": "Cecile",
       "lastName": "Tete"
     },
     {
       "expertID": "26",
+      "prof": "music_prof",
       "firstName": "Florence",
       "lastName": "BadolBertrand"
     },
     {
       "expertID": "27",
+      "prof": "sound_des",
       "firstName": "Pascal",
       "lastName": "Taillard"
     },
     {
       "expertID": "28",
+      "prof": "inst_cla",
       "firstName": "Thomas",
       "lastName": "Enhco"
     },
     {
       "expertID": "29",
+      "prof": "sound_eng",
       "firstName": "Lea",
       "lastName": "Chevrier"
     },
     {
       "expertID": "30",
+      "prof": "inst_cla",
       "firstName": "Jerome",
       "lastName": "Voisin"
     },
     {
       "expertID": "31",
+      "prof": "inst_jazz",
       "firstName": "Lisa",
       "lastName": "CatBerro"
     },
     {
       "expertID": "32",
+      "prof": "sound_des",
       "firstName": "Rodolphe",
       "lastName": "Alexis"
     }

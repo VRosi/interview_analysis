@@ -1,0 +1,196 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu Feb  6 17:23:01 2020
+
+@author: VictorRosi
+"""
+
+import torch
+from torch.utils.tensorboard import SummaryWriter
+from gensim.models.keyedvectors import KeyedVectors
+import json
+import re
+import os, os.path
+import nltk
+import numpy as np
+
+
+term = 'rond'
+
+corpus_file = '/Users/VictorRosi/Documents/GitHub/interview_analysis/corpus/'+term+'.json'
+lemm_file = '/Users/VictorRosi/Documents/GitHub/interview_analysis/lemm_file.json'
+expert_file = '/Users/VictorRosi/Documents/GitHub/interview_analysis/expert_index.json'
+stopWord_path = '/Users/VictorRosi/Documents/GitHub/interview_analysis/'
+
+
+
+
+# Open corpus file
+with open(corpus_file) as json_file:
+    data = json.load(json_file)
+    
+    
+# Open lemm file
+with open(lemm_file, encoding="utf-8") as json_file:
+        lemms = json.load(json_file)
+        
+# Open expert file
+with open(expert_file) as json_file:
+    ex_data = json.load(json_file)
+        
+# load stop words in a file
+file = "new_stopwords_fr.txt"
+stopFile = open(stopWord_path+file, 'r', encoding="utf-8")
+yourResult = np.array([line.split('\n')
+                       for line in stopFile.readlines()])[:, 0]
+stopWord = list(yourResult)
+    
+# load exception words in a file
+file = "minus_stopwords.txt"
+exStopFile = open(stopWord_path+file, 'r', encoding="utf-8")
+temp = [line.split(' ') for line in exStopFile.readlines()]
+exStopWord = temp[0]
+
+# remove exception words from stopWord list
+for word in exStopWord:
+    if word in stopWord:
+        del stopWord[stopWord.index(word)]
+
+
+answers = []
+ID = []
+prof = []
+
+for i, k in enumerate(data['Q2']):
+    answers.append(k['answer'])
+    ID.append(k['expertID'])
+    
+    
+#%% FUNCTIONS
+    
+def n_gram(list, n):
+    """
+    This function use the zip function to help us generate n-grams
+    Concatentate the tokens into ngrams and return
+    OUTPUT : - n-gram string
+    """
+    ngrams = zip(*[list[i:] for i in range(n)])
+    return [" ".join(ngram) for ngram in ngrams]
+                
+def lemmatization(word, lemms):
+
+    lemmed = ""
+    for index, lemm in enumerate(lemms):
+        if word in lemms[lemm]:
+            lemmed = lemm
+            if lemmed == word:
+                break
+
+    return lemmed
+#%%
+    
+# model = KeyedVectors.load_word2vec_format('frWiki_no_phrase_no_postag_500_cbow_cut10.bin', binary=True, encoding='utf-8')
+# words_emb = model.index2word
+# embeddings = [model[x] for x in words_emb]
+    
+    
+    
+#%% BIGRAM TREATMENT
+
+sentences_list = []
+sentence_ID = []
+sentence_prof = []
+ngram_list = []
+n_tokenized = []
+ngram_list = []
+ngram_ID = []
+unigram_tmp = []
+unigram_ID = []
+
+
+tokenizer = nltk.RegexpTokenizer(r'\w+')
+for i,answer in enumerate(answers):
+    sentences = []
+    sentences = re.split(r'[\.*,]', answer)
+    for j, sentence in enumerate(sentences): 
+        # tokenisation
+        tokenized = []
+        n_tokenized = []
+        tokenized = tokenizer.tokenize(sentence.lower())
+        # split phrase in 2 if "et" is present, comment if want remove
+        if "et" in tokenized:
+            new_sentence = " ".join(tokenized[tokenized.index("et")+1:])
+            sentences.insert(j+1, new_sentence)
+            tokenized = tokenized[:tokenized.index("et")]
+        n_tokenized = n_gram(tokenized, 2)
+        for index, ngram in enumerate(n_tokenized):
+            res = ''
+            x = ngram.split(' ')
+            # check if one of the words is in the stopWord list
+            comp = any(elem in x for elem in stopWord)
+            # check if both words are in the exception list
+            exep = all(elem in exStopWord for elem in x)
+            if comp is False and exep is False and x[-1] not in (exStopWord+stopWord) and term not in x:
+                res = lemmatization(ngram, lemms)
+                # if the joint expression finds no match
+                if res == '':
+                    # quantification accuracy
+                    if x[0] in ['peu','trop','très']:
+                        x.insert(0, n_tokenized[index-1].split(' ')[0])
+                    # negation with adverbs
+                    if 'pas' == n_tokenized[index-1].split(' ')[0] and 'ment' in x[0]:
+                        x.insert(0, n_tokenized[index-1].split(' ')[0])
+                        print(x)
+                        del ngram_list[-1]
+                    for index, word in enumerate(x):
+                        if lemmatization(word, lemms) == '':
+                            x[index] = word
+                        else:
+                            x[index] = lemmatization(word, lemms)
+                    if len(x[0]) == 1:
+                        x = x[1:]
+                    res = ' '.join(x)
+                # remove word in previous token that appears in current n-gram
+                if len(ngram_list)>1:
+                    if ngram_list[-1] in res:
+                        del ngram_list[-1]
+                ngram_list.append(res)
+                ngram_ID.append(i)                           
+
+            # elif res =='':
+            #     for index, word in enumerate(x):
+            #         if lemmatization(word, lemms) == '':
+            #             res = word
+            #         else:
+            #             res = lemmatization(word, lemms)
+            #         if res not in (stopWord+exStopWord) and res != term and res not in lemmatized[-1]: 
+            #             lemmatized.append(res)
+                    
+
+#%% UNIGRAM TREATMENT
+            
+
+for i,answer in enumerate(answers):
+    sentences = []
+    sentences = re.split(r'[\.*,]', answer)
+    for j, sentence in enumerate(sentences): 
+        # tokenisation
+        tokenized = []
+        n_tokenized = []
+        tokenized = tokenizer.tokenize(sentence.lower())
+        # split phrase in 2 if "et" is present, comment if want remove
+        if "et" in tokenized:
+            new_sentence = " ".join(tokenized[tokenized.index("et")+1:])
+            sentences.insert(j+1, new_sentence)
+            tokenized = tokenized[:tokenized.index("et")]
+        for index, ngram in enumerate(tokenized):
+            
+#%%         
+ for index, gg in enumerate(ngram_list):
+     if 'attaque' in gg:
+         print(gg)
+    
+    
+
+    

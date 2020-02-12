@@ -1,0 +1,651 @@
+{
+  "brillant": [
+    {
+      "expertID": "01",
+      "term":" Et le brillant c'est pas synonyme de bien-\u00eatre toujours. Non, c'est int\u00e9ressant d'avoir de la brillance dans la musique, parce que comme je l'associe \u00e0 l'aigu, c'est d'avoir un spectre un peu large, si tu as une musique un peu sourde.",
+      "not":" Dans l'absolu je pr\u00e9f\u00e8re le rond. En fait trop de rondeur m\u00e8ne au sourd. un son rond c'est agr\u00e9able, mais si c'est que du rond et qu'il y a pas de brillance c'est sourd. Et donc du coup dans un enregistrement j'aime bien la rondeur"
+
+    },
+    {
+      "expertID": "02",
+      "term":" Je le pense pas comme \u00e7a non. Un son brillant va avoir tendance, je vais pas dire joie mais une clart\u00e9. Mais pour moi c'est neutre.",
+      "not":" alors que dans le grave \u00e7a va faire peur, mais bon ce sont des clich\u00e9s. Mais pour moi c'est neutre."
+    },
+    {
+      "expertID": "03",
+      "term":" Pas vraiment, mais apr\u00e8s je pr\u00e9f\u00e8re mat que brillant. Un son qui a de la brillance (pas extr\u00eame) \u00e7a va.",
+      "not":" Pas vraiment, mais apr\u00e8s je pr\u00e9f\u00e8re mat que brillant."
+    },
+    {
+      "expertID": "04",
+      "term":" Neutre",
+      "not":" Neutre"
+    },
+    {
+      "expertID": "05",
+      "term":" Un son brillant c'est plut\u00f4t n\u00e9gatif, c'est trompeur ce qui brille.",
+      "not":" Le pas brillant \u00e7a serait quelque chose de trop lisse. C'est comme \u00e7a que je qualifierais un son mat. Donc c'est un peu chiant."
+    },
+    {
+      "expertID": "06",
+      "term":" Brillant c'est plutôt péjoratif, clinquant.",
+      "not":" Un son pauvre, c'est un inverse, ou estomp\u00e9."
+    },
+    {
+      "expertID": "07",
+      "term":" Neutre",
+      "not":" Neutre"
+    },
+    {
+      "expertID": "08",
+      "term":" Je trouve qu'il y a quelque chose de tr\u00e8s positif. Brillant \u00e7a vient de lumi\u00e8re. Le brillant c'est proche de l'humain, c'est pas juste un effet.",
+      "not":" L'inverse \u00e7a veut pas dire que c'est pas positif. Mais tout \u00e0 un affect. Mais c'est pas parce que c'est pas brillant que c'est neutre est sans humanit\u00e9."
+    },
+    {
+      "expertID": "09",
+      "term":" Oui il y a un c\u00f4t\u00e9 rassurant dans les sons brillants.",
+      "not":" Ce qui est pour menacer, pour donner un danger ou inqui\u00e9ter, c'est plut\u00f4t profond."
+    },
+    {
+      "expertID": "10",
+      "term":" C'est pas neutre, les deux sont positifs. Deux types de sons agr\u00e9ables.",
+      "not":" C'est pas neutre, les deux sont positifs. Deux types de sons agr\u00e9ables."
+    },
+    {
+      "expertID": "11",
+      "term":" Neutre",
+      "not":" Neutre"
+    },
+    {
+      "expertID": "12",
+      "term":" C'est l'affect d'intimit\u00e9 et de projection, pour mat et brillant. D'ext\u00e9riorit\u00e9, d'int\u00e9riorit\u00e9. \u00c7a a rien \u00e0 voir avec agr\u00e9able ou d\u00e9sagr\u00e9able.",
+      "not":" C'est l'affect d'intimit\u00e9 et de projection, pour mat et brillant. D'ext\u00e9riorit\u00e9, d'int\u00e9riorit\u00e9. \u00c7a a rien \u00e0 voir avec agr\u00e9able ou d\u00e9sagr\u00e9able."
+    },
+    {
+      "expertID": "13",
+      "term":" Brillant je vois pas vraiment d'affect. Plus brillant ou moins brillant c'est pas forc\u00e9ment positif ou n\u00e9gatif.",
+      "not":" le contraire quand tu dis voil\u00e9 ou sourd c'est plut\u00f4t n\u00e9gatif."
+    },
+    {
+      "expertID": "14",
+      "term":" Neutre",
+      "not":" Neutre"
+    },
+    {
+      "expertID": "15",
+      "term":" Neutre",
+      "not":" Neutre"
+    },
+    {
+      "expertID": "16",
+      "term":" Neutre",
+      "not":" Neutre"
+    },
+    {
+      "expertID": "17",
+      "term":" Non l\u00e0 il n'y a rien de positif ou n\u00e9gatif. c'est toujours agr\u00e9able d'entendre un beau son brillant, ou un bel ensemble de son brillant. Le brillant, par d\u00e9finition c'est extraverti, il y a une sorte de projection sonore, qui peut \u00eatre \u00e0 la fois valorisante int\u00e9rieurement, ou s\u00e9duisante pour celui qui \u00e9coute parce que tout d'un coup il est impressionn\u00e9 par cette brillance.",
+      "not":" Non l\u00e0 il n'y a rien de positif ou n\u00e9gatif. Apr\u00e8s ce son mat peut avoir des qualit\u00e9s d'\u00e9motion, de myst\u00e8res, de choses extr\u00eamement positives. En tout cas il y a pas de hi\u00e9rarchie de valeur."
+    },
+    {
+      "expertID": "18",
+      "term":" Neutre",
+      "not":" Neutre"
+    },
+    {
+      "expertID": "19",
+      "term":" j'ai dis que j'aimais pas la brillance, c'est diff\u00e9rent.",
+      "not":" Si je t'ai dit, mat je trouve \u00e7a un peut p\u00e9joratif. j'aime bien jou\u00e9 les sons mats au piano."
+    },
+    {
+      "expertID": "20",
+      "term":" Neutre",
+      "not":" Neutre"
+    },
+    {
+      "expertID": "21",
+      "term":" Oui le brillant c'est un son qui sera a priori plut\u00f4t agr\u00e9able. Oui parce que en fait si un son est trop brillant, il peut en devenir d\u00e9sagr\u00e9able. Et brillant plut\u00f4t agr\u00e9able pour moi.",
+      "not":" Oui c'est plut\u00f4t neutre."
+    },
+    {
+      "expertID": "22",
+      "term":" Pas sp\u00e9cialement. C'est glorieux un timbre brillant, mais je sais pas si c'est agr\u00e9able ou non. Il y a peut-\u00eatre moins d'affect que pour les autres.",
+      "not":" Neutre"
+    },
+    {
+      "expertID": "23",
+      "term":" Oui pour moi il y a une pr\u00e9sence dans l'id\u00e9e de brillance, qui n'est pas une pr\u00e9sence affectueuse n\u00e9cessairement.",
+      "not":" Neutre"
+    },
+    {
+      "expertID": "24",
+      "term":" Oui dans le sens extraverti pour le brillant et introverti pour l'oppos\u00e9. Affect oui mais pas de valence.",
+      "not":" Affect oui mais pas de valence."
+    },
+    {
+      "expertID": "25",
+      "term":" Pour le coup moins, par rapport au chaud. mais c'est pas pour autant que le brillant doit \u00eatre joyeux. Mais brillant c'est aussi, j'allais dire avec le sourire. Non mais je pense pas qu'il y ait plus d'affect. Pour moi le brillant, c'est par rapport \u00e0 la virtuosit\u00e9, et la v\u00e9locit\u00e9, par rapport \u00e0 des choses techniques de l'instrument.",
+      "not":" Bah c'est vrai que terne c'est un peu connot\u00e9. Oui, connot\u00e9 un peu triste."
+    },
+    {
+      "expertID": "26",
+      "term":" la lumi\u00e8re. c'est plut\u00f4t culturellement m\u00e9lioratif. C'est tout ce qui est ascensionnel, les anabasis, l'acc\u00e8s au ciel, la r\u00e9surrection",
+      "not":" C'est l'ombre. tout ce qui est descendant, l'acatabasis, c'est la mort, la chute, le p\u00e9ch\u00e9 etc. Quand Weber veut d\u00e9peindre la forêt dans le Freich\u00fctz, il dit qu'il va chercher la clarinette dans le grave, qu'il va chercher le basson, il parle m\u00eame du ''morne basson'', dans la traduction fran\u00e7aise. C'est pas forc\u00e9ment d\u00e9sagr\u00e9able, c'est la peinture de la foret et de son myst\u00e8re."
+    },
+    {
+      "expertID": "27",
+      "term":" Neutre",
+      "not":" Neutre"
+    },
+    {
+      "expertID": "28",
+      "term":" Brillant \u00e7a peut \u00eatre agr\u00e9able et \u00e7a peut \u00eatre d\u00e9sagr\u00e9able. \u00e7a d\u00e9pend vraiment du contexte et de ce que je recherche.",
+      "not":" \u00e7a peut \u00eatre agr\u00e9able et \u00e7a peut \u00eatre d\u00e9sagr\u00e9able. \u00e7a d\u00e9pend vraiment du contexte et de ce que je recherche."
+    },
+    {
+      "expertID": "29",
+      "term":" Pour le coup \u00e7a peut \u00eatre agr\u00e9able comme d\u00e9sagr\u00e9able un son brillant, \u00e7a d\u00e9pend du contexte.",
+      "not":" Pour le coup \u00e7a peut \u00eatre agr\u00e9able comme d\u00e9sagr\u00e9able, \u00e7a d\u00e9pend du contexte."
+    },
+    {
+      "expertID": "30",
+      "term":" Oui il y a un petit c\u00f4t\u00e9 soliste dans le son brillant. Une certaine confiance en soit qui ressort de \u00e7a. Une certaine assurance. Comme un costume qui aurait des couleurs qui ressortent. Si on met une personne sur le son, une personne qui aimerai \u00eatre entendue. \u00c7a peut \u00eatre n\u00e9gatif aussi. \u00c7a d\u00e9pend du contexte. Il peut y avoir un c\u00f4t\u00e9 coq aussi dans le son brillant. Le coq qui n'interviendrait pas forc\u00e9ment au bon moment. Oui. Oui rond et brillant \u00e7a me parait pas compatible. Chaud et brillant c'est compatible. C'est un peu comme si on avait tous les voyants au vert. Et puis tout se passe bien. Si je pense \u00e0 la clarinette, je pense que si vous connaissez le mandarin merveilleux. \u00c7a c'est parfait. En plus le contexte de l'histoire c'est tout \u00e0 fait \u00e7a. Apr\u00e8s sur d'autres instruments, moi je vois plut\u00f4t, quand je parlais de solistes violonistes ou pianistes, dans certains concertos. Je pense qu'un concerto de Sibelius ou de Tchaikovsky bien interpr\u00e9t\u00e9, c'est tout \u00e0 fait \u00e7a. Ou m\u00eame un Rachmaninov au piano. Mais sinon sur les instruments de l'orchestre, pour moi trompette est un peu un clich\u00e9, mais le m\u00e9lange de chaud et brillant, \u00e7a serait le cor qui serait le mieux \u00e0 m\u00eame de le faire.",
+      "not":" Le pas brillant, c'est quand m\u00eame tr\u00e8s n\u00e9gatif. Oui parce que c'est une expression qui n'a rien \u00e0 voir avec le son, mais quand on dit que c'est pas brillant, c'est que c'est plut\u00f4t m\u00e9diocre. On pourrait dire qu'un son n'est pas assez brillant, sans que ce soit trop n\u00e9gatif, c'est qu'il a du mal \u00e0 \u00e9merg\u00e9 aussi. Oui c'est vrai. c'est pas si n\u00e9gatif."
+    },
+    {
+      "expertID": "31",
+      "term":" Oui le brillant est tr\u00e8s intense, enthousiasmant. Mais peut-\u00eatre un peu vulgaire. Oui c'est \u00e7a haha. Intense, et du coup aussi tr\u00e8s app\u00e9tant, qui a beaucoup de gout mais peut-\u00eatre un peu trop. C'est \u00e0 dire que le brillant peut avoir son charme, mais c'est pas tr\u00e8s apaisant. C'est trop intense.",
+      "not":" C'est \u00e0 dire que dans le mat il y a quelque chose peut-\u00eatre de plus mesur\u00e9, mais de plus d\u00e9licat, de plus \u00e9l\u00e9gant. J'aurais une pr\u00e9f\u00e9rence pour le mat. Tu vois, c'est un peu comme la musique baroque jou\u00e9e en 432 Hz, j'aime ce truc l\u00e0, qui est moins brillant que le 442 Hz. j'aime bien ce truc mat de la musique baroque, pour moi c'est plus mat et c'est aussi plus apaisant. Le mat pourrait para\u00eetre fade, mais il est plus apaisant, il peut avoir du grain, mais c'est plus subtile, c'est moins tape \u00e0 l'oeil que le brillant."
+    },
+    {
+      "expertID": "32",
+      "term":" Par rapport \u00e0 ma culture \u00e0 moi, je dirais plut\u00f4t ma g\u00e9n\u00e9ration culturelle, les objets de consommation musicaux ont tendance \u00e0 exacerber ce c\u00f4t\u00e9 tr\u00e8s brillant, et apr\u00e8s des sons tr\u00e8s ronds dans le bas du spectre. On manque de nuance et on contraste tout \u00e0 l'extr\u00eame. Je suis attach\u00e9 \u00e0 \u00e7a par habitude. C'est-\u00e0-dire que dans un mix de multiphonique j'utilise des sons brillants pour faire des jaillissements \u00e9v\u00e9nementiels au premier plan. Le fait est que quand ils sont brillants, que t'as l'impression qu'ils sont tr\u00e8s pr\u00e8s, que t'as l'impression de pouvoir les appr\u00e9hender plus, d'\u00eatre plus proche d'eux, de pouvoir les attraper, pour moi c'est quand le mix est r\u00e9ussi aussi. Et il y a cet affect l\u00e0 dans le sens o\u00f9 j'aime bien avoir quelque chose de fr\u00e9quentiel tr\u00e8s tr\u00e8s large. Et il y a aussi un affect du fait de mon activit\u00e9, c'est \u00e0 dire que tout ce qui va \u00eatre vraiment brillant, \u00e7a va \u00eatre les sons d'insecte et certains oiseaux qui chantent tr\u00e8s tr\u00e8s haut, et les sons d'insectes qui sont tr\u00e8s fr\u00e9quentiels et des fois \u00e7a va jusqu'\u00e0 dans les 9000 Hertz. Si t'as pas un tr\u00e8s bon \u00e9quipement pour les capter, tu vas avoir un truc un peu sale qui va s'apparenter \u00e0 du bruit. Et quand tu arrives avec ce c\u00f4t\u00e9 cristallin, de vraiment d\u00e9tacher les sons. Tu as vraiment une finesse de grain, ce c\u00f4t\u00e9 sable un peu min\u00e9ral.",
+      "not":" "
+    }
+  ],
+  "chaud": [
+    {
+      "expertID": "01",
+      "term":" Oui ! Ou une fa\u00e7on de jouer, t'as un ensemble de corde, j'imagine un piano qui fait des arp\u00e8ges dans le grave. Un truc qui englobe. Oui je suis d'accord, \u00e7a gomme l'attaque je pense et on a une esp\u00e8ce d'enveloppe, c'est enveloppant. Oui oui. Oui plut\u00f4t oui.",
+      "not":" ce sont des trucs qui vont m'agresser."
+    },
+    {
+      "expertID": "02",
+      "term":" Il y a ma vision de technicien dur, et il y a aussi la couleur expressive. Je pense que positif/n\u00e9gatif c'est pas le bon concept. Un son chaud \u00e7a peut \u00eatre la voix d'un mec pervers un peu. Mais aussi la voix un peu smocky comme Tom Waits, du mec dans les bar qui boit trop de whisky, le prototype de l'am\u00e9ricain cowboy du XXe si\u00e8cle. \u00e7a peut \u00eatre un clochard aussi. Ca peut-\u00eatre intime. Oui la notion d'intimit\u00e9 me parait int\u00e9ressante parce que c'est pas un son strident, c'est pas un son violent. Oui c'est \u00e7a, c'est pas un son qui crie.  Il y a quelque chose de tamis\u00e9. Donc si c'est positif ou n\u00e9gatif \u00e7a d\u00e9pend. Dans le cas d'un chaud il y a une image peut-\u00eatre un peu crade ou qui attire de la sympathie.",
+      "not":" "
+    },
+    {
+      "expertID": "03",
+      "term":" Plut\u00f4t positive. Je pense que le terme chaud est agr\u00e9able. Je suis plus Stan Getz que Michael Brecker.",
+      "not":" Tu vois agressif c'est plut\u00f4t n\u00e9gatif."
+    },
+    {
+      "expertID": "04",
+      "term":" \u00c7a serait plut\u00f4t positif le chaud,",
+      "not":" plut\u00f4t n\u00e9gatif le froid, m\u00eame si c'est un peu moins claire pour le froid."
+    },
+    {
+      "expertID": "05",
+      "term":" Chaud c'est rassurant, c'est r\u00e9confortant, aimant. Le chaud est tr\u00e8s vivant",
+      "not":" Alors que blanc c'est l'inverse. C'est solitaire, analytique et d\u00e9tach\u00e9. Les sons blancs parlent beaucoup du pass\u00e9, de la mort ou de ce qui est morbide, de la maladie. le pas chaud mort."
+    },
+    {
+      "expertID": "06",
+      "term":" Il y a une pr\u00e9sence d'affect, mais de qualitatif non.  Mais des gens pr\u00e9f\u00e8rent les sons chauds au sons froids. Dans l'absolu j'ai pas de pr\u00e9f\u00e9rence. Si on prend l'exp\u00e9rience acoustique de Fran\u00e7ois Bayle, il y a un son qui bouge \u00e0 peine, il se passe presque rien mais on est \u00e0 l'\u00e9coute. La monte young aussi.",
+      "not":" J'aime les sons froids. Dans l'absolu j'ai pas de pr\u00e9f\u00e9rence."
+    },
+    {
+      "expertID": "07",
+      "term":" Le son chaud c'est agr\u00e9able, c'est rassurant.",
+      "not":" Dans l'absolue un son froid c'est pas agr\u00e9able. Mais les sons aquatiques (comme le marimba) ne sont pas d\u00e9sagr\u00e9ables. l'aspect froid pas d\u00e9sagr\u00e9able forc\u00e9ment, c'est neutre, \u00e7a m'\u00e9voque d'autres choses."
+    },
+    {
+      "expertID": "08",
+      "term":" Chaud je trouve \u00e7a plus positif. Je vais plus souvent dire que le chaud c'est positif. Chaud c'est le soleil, c'est lumi\u00e8re.",
+      "not":" le froid c'est n\u00e9gatif. Le froid c'est la mort. Oui c'est n\u00e9gatif \u00e0 90%."
+    },
+    {
+      "expertID": "09",
+      "term":" Je dirais que sur chaud pas forc\u00e9ment, c'est de la richesse. Je lierai pas \u00e7a forc\u00e9ment \u00e0 un affect.",
+      "not":" Par contre pas chaud, c'est ce qu'on emploie pour l'inconfort, c'est pas tr\u00e8s positif."
+    },
+    {
+      "expertID": "10",
+      "term":" Positif",
+      "not":" Neutre"
+    },
+    {
+      "expertID": "11",
+      "term":" Chaud c'est une sensation plut\u00f4t agr\u00e9able, enveloppante et confortable.",
+      "not":" Et puis pour le froid quelque chose de d\u00e9sagr\u00e9able avec un manque d'empathie."
+    },
+    {
+      "expertID": "12",
+      "term":" Neutre",
+      "not":" Neutre"
+    },
+    {
+      "expertID": "13",
+      "term":" Oui en prenant des pincettes, je dirais qu'en g\u00e9n\u00e9rale je pr\u00e9f\u00e8re les sons un peu plus chaud. L\u00e0 ce sont des sons seul, mais quand tu fais un mix et que tu veux que tout soit chaud c'est pas forc\u00e9ment bon, deux son chauds, ils vont plus se bouffer l'un l'autre. Tu peux aimer un son seul chaud, mais d\u00e8s qu'il est dans un ensemble \u00e7a peut \u00eatre diff\u00e9rent. Un son chaud dans un ensemble aura tendance \u00e0 mettre le bazar. Mais globalement chaud c'est positif.",
+      "not":" Un son qui manque de chaleur c'est plut\u00f4t un d\u00e9faut. Mais dans le travail tu peux \u00eatre amen\u00e9 \u00e0 choisir des sons qui seuls ne sont pas tr\u00e8s beau mais dont il y a besoin dans un mix."
+    },
+    {
+      "expertID": "14",
+      "term":" Un son chaud est rassurant, accueillant.",
+      "not":" Un son pas chaud va pas \u00eatre rassurant, il peut \u00eatre juste sombre ou un son brillant."
+    },
+    {
+      "expertID": "15",
+      "term":" \u00c7a d\u00e9pend beaucoup de notre culture occidentale. Un son chaud, beau, agr\u00e9able et g\u00e9n\u00e9reux. en tout cas un son chaud, je t'ai dis, g\u00e9n\u00e9reux, intense, pr\u00e9sent.",
+      "not":" D'un autre c\u00f4t\u00e9 un son pas chaud, c'est un son qui peut \u00eatre d\u00e9sagr\u00e9able,"
+    },
+    {
+      "expertID": "16",
+      "term":" La chaleur n'est pas associ\u00e9 \u00e0 quelque chose de n\u00e9gatif. Mais c'est globalement positif. Un son chaud c'est toujours mieux valoriser. Je vois, pas d'exemple de son chaud, \u00e0 part une faute de gout.",
+      "not":" Non chaud c'est pas n\u00e9gatif pour moi."
+    },
+    {
+      "expertID": "17",
+      "term":" Le froid c'est tr\u00e8s bien comme un \u00e9quilibre du chaud. Enfin que des sons chauds \u00e0 la limite. Dans la culture classique le chaud est inh\u00e9rent, dans l'orchestre symphonique.",
+      "not":" Si on \u00e9crit une musique o\u00f9 il y a que des sons froids. Si vous utilisez l'orchestre dans son dispositif plut\u00f4t homog\u00e8ne, encore que Stravinsky irait assez bien, il est assez dou\u00e9 pour le froid."
+    },
+    {
+      "expertID": "18",
+      "term":" Chaud c'est hyper positif,",
+      "not":" un son froid, c'est assez n\u00e9gatif."
+    },
+    {
+      "expertID": "19",
+      "term":" Chaud c'est utilis\u00e9, comme une fa\u00e7on de dire que le son plait. \u00c7a transcrit une sorte d'id\u00e9al sonore. Il y a une question de beaut\u00e9 du son qui est l\u00e0.",
+      "not":" Non pas n\u00e9cessairement négatif. J'ai rarement vu un saxophoniste qui m'a dit qu'il voulait pas un son chaud."
+    },
+    {
+      "expertID": "20",
+      "term":" Je pense que la chaleur c'est quelque chose qui d\u00e9tend et qui r\u00e9conforte.",
+      "not":" Oui \u00e7a va \u00eatre un son qui va \u00eatre spectaculaire au d\u00e9but, mais fatigant \u00e0 la longue. Pour moi c'est plut\u00f4t n\u00e9gatif.+ CGS aigu, surd\u00e9fini, pas de richesse harmonique."
+    },
+    {
+      "expertID": "21",
+      "term":" Oui, pareil je pense \u00e0 du confort d'\u00e9coute, de ressenti agr\u00e9able. J'ai quand m\u00eame trouv\u00e9 les sons vibr\u00e9s, plus chauds que les sons non vibr\u00e9s, donc je pense qu'il y a l'influence de l'entretien. C'est vrai que l'intention de l'instrumentiste dans la production du son va jouer, dans cette id\u00e9e de chaleur.",
+      "not":" On peut dire oui un son glac\u00e9. C'est curieux parce qu'un son harmonique, un son tr\u00e8s pur j'aurais tendance \u00e0 l'oppos\u00e9 \u00e0 chaud. un son harmonique pour moi \u00e7a serait un peu le contraire d'un son chaud. Un harmonique naturel de violon par exemple sur la corde de la. Mais je pense qu'un harmonique de contrebasse, comme le C4 harmonique c'est pas chaud. Un son de r\u00e9sonance ne sera vraiment pas chaud du tout. Ce qui exclus tous les instruments bas\u00e9s sur l'attaque."
+    },
+    {
+      "expertID": "22",
+      "term":" \u00c7a parle \u00e0 l'affect \u00e7a. Chaud c'est agr\u00e9able. Oui quand je joue de la harmon j'essaie d'avoir ce souffle, J'essaie d'avoir ce timbre de la harmon qu'on aime bien, ce timbre qui sort un peu de nulle part, mais pas strident.",
+      "not":" Mais le pas chaud n'est pas forc\u00e9ment d\u00e9sagr\u00e9able. Solo de hautbois dans l'apr\u00e8s-midi d'un faune c'est pas chaleureux, et c'est une des choses les plus merveilleuses que je connaisse. C'est pas chaleureux mais c'est beau. si on attaque trop \u00e7a bouffe la sourdine donc c'est pas chaleureux."
+    },
+    {
+      "expertID": "23",
+      "term":" Ce que j'avais dis tout \u00e0 l'heure c'est ce que je trouve int\u00e9ressant c'est la diff\u00e9rence entre les types de proximit\u00e9.",
+      "not":" "
+    },
+    {
+      "expertID": "24",
+      "term":" Un son chaud c'est quelque chose d'agr\u00e9able.",
+      "not":" "
+    },
+    {
+      "expertID": "25",
+      "term":" Bah oui. Un son chaud il y a forc\u00e9ment un affect qui rentre en compte. Rien que de dire qu'on donne le meilleur de notre instrument, dans le sens le plus agr\u00e9able, c'est assez agr\u00e9able de jouer chaud. Il y a une id\u00e9e de bien-\u00eatre.",
+      "not":" Bah on a pas le plaisir int\u00e9rieur qu'on a, l'affect dans un son pas chaud, non. J'essaie d'enlever un peu d'affect pour que dans le son \u00e7a transparaisse. Mais c'est toujours difficile, l\u00e0 c'est assez intellectuel, mais le violon il est pas intellectuel, donc il faut que j'arrive avec mes techniques, par quoi \u00e7a passe, j'appuie moins ou plus."
+    },
+    {
+      "expertID": "26",
+      "term":" \u00c7a d\u00e9pend en fonction des r\u00e9f\u00e9rences culturelle, mais il y a le c\u00f4t\u00e9 confortable, le legato, le c\u00f4t\u00e9 cocooning un peu des sons chaleureux. dans le cocooning il y a une id\u00e9e de se lover dans le son.",
+      "not":" Et puis le c\u00f4t\u00e9 plus impersonnel des sons de couleur froide. Il n'y a pas de confort auditif."
+    },
+    {
+      "expertID": "27",
+      "term":" Mais un son chaud peut aussi \u00eatre exaltant. il reste apaisant, enveloppant. Mais quand on dit chaleureux dans la voix, il y a aussi l'aspect intonation de la voix. C'est \u00e0 dire qu'on est chaleureux, dans la fa\u00e7on avec laquelle on s'exprime, c'est pas seulement dans le spectre de la voix.",
+      "not":" "
+    },
+    {
+      "expertID": "28",
+      "term":" Chaud c'est plut\u00f4t plus positif. On recherche plut\u00f4t un son chaud en g\u00e9n\u00e9ral, en tout cas en tant qu'instrumentiste. En tant que chanteur aussi, on cherche \u00e0 avoir un son chaud. Enfin c'est pas une r\u00e8gle absolue. C'est vrai que nous (en Europe), quelque soit l'instrument qu'on fait, un beau son c'est un son chaud, rond, riche, timbr\u00e9, \u00e9quilibr\u00e9. Et d'ailleurs ce sont des caract\u00e9ristiques qu'on va chercher \u00e0 avoir dans tous les registres de l'instrument.",
+      "not":" En tant que compositeur ou orchestrateur, je vais avoir envie d'utiliser le froid, pour donner l'id\u00e9e du froid, l'impression. C'est ni bien, ni pas bien. Oui c'est contextuel. C'est \u00e0 dire que froid, \u00e7a va soit \u00eatre d\u00e9sagr\u00e9able, soit \u00e7a va \u00eatre agr\u00e9able parce que dans le contexte \u00e7a va avec une atmosph\u00e8re froide, un truc aquatique."
+    },
+    {
+      "expertID": "29",
+      "term":" Comme t'as le c\u00f4t\u00e9 organique dans chaud, il faut justement que \u00e7a soit quelque chose qui te fasse ressentir de l'\u00e9motion, il y a un c\u00f4t\u00e9 tr\u00e8s humain. Et apr\u00e8s c'est agr\u00e9able. En plus il y a la notion ''il faut que \u00e7a vive'' dans le chaud, plus que dans le rond.",
+      "not":" un truc froid qui serait d\u00e9nu\u00e9 d'\u00e9motions, qui serait tr\u00e8s neutre. Non c'est quand m\u00eame d\u00e9sagr\u00e9able. Tu peux avoir un truc qui part sa neutralit\u00e9 est d\u00e9sagr\u00e9able, comme un truc qui est vraiment d\u00e9sagr\u00e9able."
+    },
+    {
+      "expertID": "30",
+      "term":" Il peut y avoir un c\u00f4t\u00e9 presque maternel ou familial. Maternel ou paternel d'ailleurs, l\u00e0 n'est pas la question. C'est plus un c\u00f4t\u00e9 comme \u00e7a, qui va nous faire du bien, comme si on passait un bon moment avec des amis. Pour moi, le son chaud il y a quelque chose qui ne se calcule pas. C'est l\u00e0 ou c'est pas l\u00e0, comme des sentiments. C'est moins control\u00e9; Comme si on a des sentiments ou pas pour une personne, ou on a un partage qui se fait ou pas, avec des proches ou avec des personnes qu'on peut rencontrer. Cet esp\u00e8ce de truc qui se passe. Ah oui oui. Ah oui. Apr\u00e8s on ne peut pas faire que des sons chauds.",
+      "not":" "
+    },
+    {
+      "expertID": "31",
+      "term":" Un peu comme pour le rond, il y a l'id\u00e9e de confort dans le chaud. onfort agr\u00e9able, rassurant. Beaucoup de sensations physiques. Chaud c'est plus l\u00e2ch\u00e9 encore, plus confortable, c'est un peu plus l'id\u00e9e de quelque chose de sensuel et plus fort dans le chaud. Le chaud, on tire quand m\u00eame vers un bord.",
+      "not":" Quelque chose d'un peu neutre, une petite sensation de malaise. Et de vibration neutre. \u00c7a vibre pas beaucoup. Moins fort que l'inconfort."
+    },
+    {
+      "expertID": "32",
+      "term":" On pr\u00e9f\u00e8re forc\u00e9ment les sons chaud, intuitivement. Un son chaud c'est vraiment, typiquement, une fugue au violoncelle, de Vivaldi ou Bach. Il y a quelque chose de culturel et de l'humain, du rapport social et de la voix.",
+      "not":" Et \u00e0 l'inverse un son pas chaud, pas syst\u00e9matiquement, dans la composition t'en a besoin des sons non chauds, mais \u00e7a va \u00eatre contextualiser autre chose de ton discours, c'est pas le discours lui m\u00eame."
+    }
+  ],
+  "rond": [
+    {
+      "expertID": "01",
+      "term":" Je pense qu'un truc trop rond c'est un peu chiant. Rond c'est bien mais il faut qu'il y ait un peu d'agressif. \u00c7a peut-\u00eatre chiant.",
+      "not":" L'autre c\u00f4t\u00e9 n'est pas 100% n\u00e9gatif. L'inverse de rond c'est agressif, c'est sur que c'est pas bien. Bah oui "
+    },
+    {
+      "expertID": "02",
+      "term":" Rond est purement expressif, positif, et agr\u00e9able. il est enveloppant et feutr\u00e9. Un son rond est pas agressif, il est pas hyper fort.",
+      "not":" Un son tranchant, il y a forc\u00e9ment quelque chose d'agressif."
+    },
+    {
+      "expertID": "03",
+      "term":" rond c'est tr\u00e8s contextuel. Tu pourrais dire un son spiral. Oui c'est pour \u00e7a que je te dis pur, parce que rond c'est un peu la forme parfaite.",
+      "not":" C'est pour \u00e7a que je te disais carr\u00e9, parce que carr\u00e9 il y a les coins, et les coins \u00e7a pique. Finalement carr\u00e9 \u00e7a pourrait \u00eatre l'oppos\u00e9 de rond."
+    },
+    {
+      "expertID": "04",
+      "term":" Le rond c'est plut\u00f4t agr\u00e9able.",
+      "not":" Un son pas rond c'est plut\u00f4t p\u00e9joratif. Le hautbois par exemple j'associe \u00e7a toujours avec de la difficult\u00e9 pour la justesse, pour l'\u00e9quilibre avec les autres. Je pense que \u00e7a vient du fait que le hautbois n'a pas un son rond. J'adore cet instrument, mais quelque chose de pas rond \u00e7a va \u00eatre plut\u00f4t n\u00e9gatif."
+    },
+    {
+      "expertID": "05",
+      "term":" C'est tr\u00e8s n\u00e9gatif rond dans le sens o\u00f9 c'est la flemme, \u00e7a dit rien. C'est lisse, c'est trop sucr\u00e9. C'est pour \u00e7a que je dis joli plut\u00f4t que beau, c'est la volont\u00e9 de faire du passe-partout, du plaisant.",
+      "not":" Dans pas rond, non parce que pas rond, tout le champ des possibles est ouvert."
+    },
+    {
+      "expertID": "06",
+      "term":" C'est tr\u00e8s investit d'affect. Je pense que pour beaucoup de gens il y a un aspect positif. Pour moi aussi, j'aime bien. Mais j'aime bien mettre \u00e7a en relation avec des sons pas rond. Mais c'est comme le chaud tout \u00e0 l'heure.",
+      "not":" "
+    },
+    {
+      "expertID": "07",
+      "term":" Rond c'est plut\u00f4t positif et agr\u00e9able. Encore une fois \u00e7a d\u00e9pend aussi du contexte, le rond \u00e7a va \u00eatre pur lisse et pr\u00e9cis, d\u00e9fini.",
+      "not":" mais un son sale, il y a une connotation assez d\u00e9sagr\u00e9able. Oui parce que sale \u00e7a peut \u00eatre plein de choses. C'est comme le bruit\u00e9."
+    },
+    {
+      "expertID": "08",
+      "term":" Rond c'est tr\u00e8s positif, et agr\u00e9able. La qualit\u00e9 du son que cherche un orchestre c'est rond. C'est un son que je qualifie de beau.",
+      "not":" Un son moche je peux pas dire qu'il est rond. L'oppos\u00e9 de rond, c'est agressivit\u00e9. Hormis le contexte. \u00c7a exprime quelque chose."
+    },
+    {
+      "expertID": "09",
+      "term":" Non pas d'affect, \u00e7a peut faire passer plein de choses diff\u00e9rentes.",
+      "not":" Non pas d'affect"
+    },
+    {
+      "expertID": "10",
+      "term":" A priori quand m\u00eame oui. Un son rond c'est ''gentile''. Un son rond caresse plus dans le sens du poil",
+      "not":" Et un son droit c'est plus dur."
+    },
+    {
+      "expertID": "11",
+      "term":" Oui tu sais quand j'ai dis doux c'est aussi un jugement d'affect, m\u00eame si on nous apprend \u00e0 pas trop mettre d'affect sur les sons. Oui le rond c'est rattach\u00e9 \u00e0 de la douceur, \u00e0 du confort. Mais c'est pas forc\u00e9ment positif ou n\u00e9gatif. Le rond c'est plus calme. Mais je mets pas d'affect sur ces termes.",
+      "not":" Il y a plus de violence dans le son pour l'oppos\u00e9. Mais je mets pas d'affect sur ces termes."
+    },
+    {
+      "expertID": "12",
+      "term":" J'ai l'impression que le rond est plut\u00f4t associ\u00e9 \u00e0 quelque chose de positif, par son confort, par le sentiment d'enveloppant, du coup \u00e7a rassure. La rondeur \u00e7a peut aussi \u00eatre associ\u00e9 \u00e0 de la mollesse (mou). Quand tu veux de la dynamique, avoir quelque chose de trop rond \u00e7a peut \u00eatre mou. Et mou c'est plut\u00f4t n\u00e9gatif. Mais c'est plut\u00f4t le confort qui pr\u00e9vaut. Et j'ai l'impression que les gens avec qui je travaille, veulent plut\u00f4t quelque chose de rond, d'agr\u00e9able, de doux, que quelque chose d'agressif, trop dynamique, trop surprenant ou trop strident. Brillant et nasale, il faut que je fasse attention pour qu'ils soient pas v\u00e9cu comme strident ou agressif, en les mettant pas trop fort.",
+      "not":" quelque chose d'agressif, trop dynamique, trop surprenant ou trop strident."
+    },
+    {
+      "expertID": "13",
+      "term":" Alors il y a un affect ou tu peux faire l'opposition douceur/agressivit\u00e9, apr\u00e8s c'est pas forc\u00e9ment quelque chose de mal ou bien. Un son rond c'est agr\u00e9able mais pas forc\u00e9ment positif. Un son rond est plus agr\u00e9able \u00e0 \u00e9ocuter aussi parce que c'est moins fatigant auditivement. Mais des fois j'ai pas envie d'\u00e9couter des sons plein de douceurs tout le temps.",
+      "not":" Mais un son agressif qui sature \u00e7a peut \u00eatre bien aussi. C'est plut\u00f4t neutre l'oppos\u00e9."
+    },
+    {
+      "expertID": "14",
+      "term":" Non il y a cette id\u00e9e de stabilit\u00e9, mais c'est ni positif ni n\u00e9gatif.",
+      "not":" Pareil pour rugueux, c'est ni positif ni n\u00e9gatif"
+    },
+    {
+      "expertID": "15",
+      "term":" C'est plut\u00f4t m\u00e9lioratif un son rond. C'est un id\u00e9al de beau son.",
+      "not":" C'est pour \u00e7a que certaines oeuvres travail sur des sons pas homog\u00e8nes et qui sont tr\u00e8s belle. Mais c'est par rapport \u00e0 un contexte culturel oui."
+    },
+    {
+      "expertID": "16",
+      "term":" Non pareil c'est une caract\u00e9ristique pour moi. \u00c7a d\u00e9pend si t'aime \u00e9couter du reggae ou pas.",
+      "not":" "
+    },
+    {
+      "expertID": "17",
+      "term":" Esth\u00e9tiquement c'est pas n\u00e9cessairement un objectif, c'est \u00e0 dire que c'est une donn\u00e9e de base, on a pas de raison d'aller contre le rond, puisque le rond c'est une qualit\u00e9 de base du son d'instrumentiste classique, ce qui n'est pas le cas forc\u00e9ment dans le jazz, ou dans d'autres traditions. Dans d'autres traditions classiques on est form\u00e9 pour jouer rond. Pour jouer du Debussy il faut que \u00e7a soit rond au maximum. Apr\u00e8s on rentre dans des question esth\u00e9tiques mais si vous me demandez un compositeur rond je pense \u00e0 Debussy. Le d\u00e9but de l'apr\u00e8s-midi d'un Faune, si la fl\u00fbte ou la harpe n'ont pas un son rond, \u00e7a va pas. Si quand les cor rentres c'est pas rond, \u00e7a va pas.",
+      "not":" Un son serr\u00e9 c'est accident\u00e9, c'est soit une insuffisance, soit une recherche d\u00e9lib\u00e9r\u00e9e. Mais on va pas dire \u00e0 des musiciens de jouer serrer."
+    },
+    {
+      "expertID": "18",
+      "term":" Pour moi un son rond c'est un son qui est agr\u00e9able, c'est sur. C'est hyper positif. Si au travail on me dit qu'un son est trop rond, ou alors il va pas aller dans le mix, il va pas se d\u00e9tacher parce qu'il est trop rond, \u00e7a peut \u00eatre n\u00e9gatif dans ce sens l\u00e0.",
+      "not":" Agressif et criard, c'est quelque chose qui va \u00eatre n\u00e9gatif. Apr\u00e8s \u00e7a peut \u00eatre quelque chose de voulu."
+    },
+    {
+      "expertID": "19",
+      "term":" Oui affect tr\u00e8s fort, presque plus que dans la chaleur. Pour moi c'est tr\u00e8s ambigu, il y a beaucoup de similarit\u00e9 entre rond et chaud, parce qu'il y a beaucoup de co-occurences, on dit souvent ''chaud et rond''. Chaud et rond on te parle beaucoup de la clarinette. Le chaud pour moi c'est plus vaste. De chaud oui, de rond pas forc\u00e9ment.",
+      "not":" Pour moi il y a pas d'oppos\u00e9 de rond. Quand quelqu'un va dire, un son pas rond, \u00e7a va \u00eatre n\u00e9gatif, il va utiliser cette expression parce qu'il voudrait que \u00e7a soit rond. \u00c7a n'a pas de sens de dire ''moi je recherche un son qui n'est pas rond''. Si tu parle de la rondeur, c'est que tu la cherches, pas que tu la fuis."
+    },
+    {
+      "expertID": "20",
+      "term":" Oui il y a de l'affect, parce que moi c'est quelque chose que je recherche. Oui.Pour faire un aparte, je me suis rendu compte, les m\u00e9lomanes ont une attente, et les musiciens ont une autre attente. Moi je vais chercher \u00e0 baigner dans la musique, je vais chercher l'enveloppe, je vais chercher l'espace, l'air autour des instruments, et je suis vachement attach\u00e9 \u00e0 la reproduction spectrale, parce que je suis bien plac\u00e9 dans la salle de concert. Rond positif.",
+      "not":" aigre négatif"
+    },
+    {
+      "expertID": "21",
+      "term":"Oui un son rond c'est plut\u00f4t agr\u00e9able. Je pense qu'on est plus dans la notion de qualit\u00e9 du son, que plut\u00f4t dans la notion d'intention. Le son rond ne va pas \u00eatre d\u00e9pendant de l'intention musicale, me semble-t'il. C'est un son qui va pas \u00eatre agressif",
+      "not":" "
+    },
+    {
+      "expertID": "22",
+      "term":" Ah oui, rond \u00e7a m'est assez agr\u00e9able.",
+      "not":"Et des sons pas ronds, oui plut\u00f4t d\u00e9sagr\u00e9ables, t'as vu ma t\u00eate tout \u00e0 l'heure."
+    },
+    {
+      "expertID": "23",
+      "term":" Oui rond c'est plut\u00f4t r\u00e9confortant et calmant. Oui c'est une notion de calme moi rond. En effet \u00e7a d\u00e9pend aussi du contexte. Je devrais dire qu'il y a moins de situations dans lesquelles le rond est d\u00e9rangeant, par rapport au rugueux par exemple, dans un contexte d'\u00e9coute \u00e0 c\u00f4t\u00e9, en passant. Si il n'y a que des sons rond dans le cadre d'une \u00e9coute de d\u00e9couverte de performance, \u00e0 un moment donn\u00e9 \u00e7a peut \u00eatre emb\u00eatant. Si je devais utiliser ce type de terme, \u00e7a sera plus rassurant pour eux si je dis qu'il y a une sonorit\u00e9 ronde parce que c'est plus proche de ce qu'ils cherchent qui est souvent de l'apaisement, du r\u00e9confort ou un ancrage. Et le rond c'est quelque chose sur lequel on peut s'appuyer sans trop y toucher trop profond\u00e9ment, on peut se sentir bien, il y a un peu cette notion, o\u00f9 si je veux rassurer et que tout se passe bien je veux utiliser rond.",
+      "not":" Un son pas rond il peut \u00eatre coup\u00e9, il peut \u00eatre rugueux. En revanche un son qui a beaucoup de structures int\u00e9rieurs dans un contexte d'\u00e9coute d\u00e9dier, \u00e7a peut \u00eatre un grand plaisir. Donc comme rugueux je peux l'associer \u00e0 une personne qui n'est pas facilement accessible et qui est un peu renferm\u00e9e, qui a une certaine r\u00e9sistance."
+    },
+    {
+      "expertID": "24",
+      "term":" Oui il y a une id\u00e9e de plaisir. Il y a pas une id\u00e9e de son qui est meilleur que l'autre, c'est \u00e0 dire que c'est pas mieux quand c'est rond que quand \u00e7a l'est pas puisque la question qui se pose quand on fait de la musique c'est plut\u00f4t, l'utilisation qu'on veut en faire, dans quelle mesure c'est adapt\u00e9, donc il y a pas de jugement de valeur. Mais il y a un plaisir du son, qui n'est pas un plaisir de la musique, qui est diff\u00e9rent. Mais pour qu'il y ait rondeur, il y a une certaine forme de plaisir sonore qui doit y \u00eatre.",
+      "not":" Non c'est pas d\u00e9sagr\u00e9able. Mais un son pas rond c'est vachement bien pour faire de la musique."
+    },
+    {
+      "expertID": "25",
+      "term":" Oui il y a un petit quelque chose. Il faut juste que \u00e7a soit agr\u00e9able, mais sans plus quoi. Le son chaud tu mets le plus d'affect et de sentiment. Le son rond, pas autant, pour moi.",
+      "not":" Oui l\u00e0 tu vas mettre un peu. pas d'animosit\u00e9 mais presque."
+    },
+    {
+      "expertID": "26",
+      "term":" Neutre",
+      "not":" Neutre"
+    },
+    {
+      "expertID": "27",
+      "term":" Beaucoup, oui. Pour moi un son rond, c'est un son qui me d\u00e9tend. le rond est pas exaltant, il reste apaisant, enveloppant.",
+      "not":" Strident, un son criard. Non, non. Tous les sons sont int\u00e9ressants. \u00c7a d\u00e9pend dans une interpr\u00e9tation. Le c\u00f4t\u00e9 strident aussi peut-\u00eatre int\u00e9ressant."
+    },
+    {
+      "expertID": "28",
+      "term":" Oui rond c'est plut\u00f4t positif. Rond c'est plut\u00f4t une bonne chose. On aime plut\u00f4t les sons ronds.",
+      "not":" Il y a pas tellement de n\u00e9gatif dedans, mais je vais plus vouloir l'utiliser comme un effet. quand je veux surprendre, choquer, d\u00e9ranger."
+    },
+    {
+      "expertID": "29",
+      "term":" Rond c'est doux, c'est agr\u00e9able. Alors que l\u00e0 dans tous les cas rond c'est hyper agr\u00e9able. J'ai envie de dire que c'est chaleureux, m\u00eame si \u00e7a va pas pour chaud, mais il y a un sentiment de douceur, de ''on est \u00e0 la maison''.",
+      "not":" Et bien tu as l'agressivit\u00e9. clairement pas agr\u00e9able."
+    },
+    {
+      "expertID": "30",
+      "term":" Oui, si. Si on qualifie un son de rond, il peut avoir un c\u00f4t\u00e9 g\u00e9n\u00e9reux, mais qui ne prend pas trop de place. Il peut y avoir un c\u00f4t\u00e9 assez bienveillant. Oui c'est positif mais, il peut y avoir une id\u00e9e d'accompagner. Oui, \u00e7a peut faire du bien. Charmant ou s\u00e9duisant, plaisant pas forc\u00e9ment. Agr\u00e9able.",
+      "not":" C'est plut\u00f4t n\u00e9gatif parce qu'il y aurait un c\u00f4t\u00e9 tellement anguleux que \u00e7a crispe."
+    },
+    {
+      "expertID": "31",
+      "term":" Rond il y a l'id\u00e9e d'\u00e9quilibre, de quelque chose d'\u00e9quilibr\u00e9 et de mesur\u00e9. La rondeur c'est vraiment l'\u00e9quilibre c'est pas les extr\u00eame.  Avec le son rond l'id\u00e9e de confort, de bien-\u00eatre, quelque chose d'agr\u00e9able.",
+      "not":" Et bien d\u00e9sagr\u00e9able, inconfort. C'est un peu imm\u00e9diat, c'est \u00e0 dire qu'un son pas rond peut \u00eatre int\u00e9ressant, mais l'inconfort subsiste. C'est peut-\u00eatre d'ailleurs \u00e7a qui le rend int\u00e9ressant. Je parle d'inconfort physique."
+    },
+    {
+      "expertID": "32",
+      "term":" Affect je vois pas forc\u00e9ment. Non, pas de pr\u00e9f\u00e9rence.",
+      "not":
+    }
+  ],
+  "rugueux": [
+    {
+      "expertID": "01",
+      "term":" je trouve qu'un son rugueux c'est int\u00e9ressant. Un son rugueux j'aime bien. Cette impuret\u00e9 est plaisante. Pareil il faut \u00e9quilibrer avec des choses rondes, ou pures.",
+      "not":" Le pur c'est positif c'est clair. Un son rond c'est chouette, mais dans une musique avoir que du rond c'est chiant."
+    },
+    {
+      "expertID": "02",
+      "term":" Pour moi tous ces sons sont des moyens expressifs. Si j'ai besoin d'un son rugueux, granuleux ou \u00e9cras\u00e9, j'ai besoin de quelque chose de violent. Ok c'est violent mais c'est pas n\u00e9gatif. Mais si tu parles d'une sonorit\u00e9 qui simule un volcan, ce sont des images.",
+      "not":" "
+    },
+    {
+      "expertID": "03",
+      "term":" Tu peux \u00e9couter un morceau avec de la rugosit\u00e9 et \u00e7a va.",
+      "not":" "
+    },
+    {
+      "expertID": "04",
+      "term":" \u00e7a peut \u00eatre tellement positif dans ce que \u00e7a implique, dans ce que le compositeur veut tu vois, comme \u00e7a peut \u00eatre une \u00e9nergie tr\u00e8s n\u00e9gative, quelque chose de sombre. Mais c'est pas n\u00e9gatif le rugueux, c'est pas sp\u00e9cialement positif non plus. J'ai pas d'affect sur \u00e7a.",
+      "not":" Et en terme de son pur, non j'ai pas d'affect, j'aime bien ces sons l\u00e0. Moi j'aime tous les sons."
+    },
+    {
+      "expertID": "05",
+      "term":" C'est plut\u00f4t positif paradoxalement pour moi rugueux. Un peu brut, mais plaisant parce qu'il y a un c\u00f4t\u00e9 histoire naturelle. Un peu d\u00e9gueulasse mais vivant. Rugueux \u00e7a a un c\u00f4t\u00e9 brut et plut\u00f4t cool. Forc\u00e9ment on pense au Sacre du printemps. Il y en a d'autre mais surtout celle l\u00e0, c'est la rugosit\u00e9 m\u00eame. Dans l'orchestration, le m\u00e9lange des timbres qui \u00e9m\u00e8rgent qui sont totalement improbables, satur\u00e9s et qui sonnent faux parce que les instruments vont pas ensemble. Tout \u00e7a quoi, impur, mais je trouve \u00e7a bien moi impur.",
+      "not":" L'inverse, pas rugueux, c'est poli, un peu gomm\u00e9, effac\u00e9, timide."
+    },
+    {
+      "expertID": "06",
+      "term":" Mais les deux sons neutres. ",
+      "not":" On recherche cette puret\u00e9 du lisse pour le jeu sur instruments. Historiquement, l'instrumentiste parfait est celui qui joue le son le plus lisse, r\u00e9gulier et homog\u00e8ne possible. Mais si c'est une machine qui joue et que le son est plus lisse on va pas trouver \u00e7a beau. C'est pas bien ou pas bien. Mais les deux sons neutres."
+    },
+    {
+      "expertID": "07",
+      "term":" Un tout petit peu n\u00e9gatif pour le rugueux. Sorti de tout contexte, rugueux, \u00e7a va \u00eatre plut\u00f4t p\u00e9joratif.",
+      "not":" Et pour le doux rond, plut\u00f4t positif, agr\u00e9able en tout cas. Mais \u00e7a d\u00e9pend toujours un peu de contexte."
+    },
+    {
+      "expertID": "08",
+      "term":" Rugueux c'est plut\u00f4t n\u00e9gatif, instabilit\u00e9, angoissant. Quand on fait Sul ponticello, \u00e7a fait un effet myst\u00e9rieux, c'est pas forc\u00e9ment n\u00e9gatif, mais pas rassurant.",
+      "not":" Le pas rugueux c'est neutre, pas forc\u00e9ment beau."
+    },
+    {
+      "expertID": "09",
+      "term":" Oui pour du rugueux, c'est un d\u00e9sagr\u00e9ment, une g\u00eane et une insatisfaction.",
+      "not":" Dans rond il n'y a pas cette id\u00e9e de frottement. Un son rond va \u00eatre lisse, c'est hyper important. Sinon, lisse c'est pas syst\u00e9matique, mais \u00e7a peut \u00eatre li\u00e9 \u00e0 quelque chose d'agr\u00e9able. C'est ce qu'on utilise d'ailleurs dans les r\u00e9compenses pour le joueur. Quelque chose qu'on a envie de d\u00e9clencher.Le rond aussi \u00e7a peut \u00eatre une r\u00e9compense parfois, mais pas forc\u00e9ment."
+    },
+    {
+      "expertID": "10",
+      "term":" Neutre",
+      "not":" Neutre"
+    },
+    {
+      "expertID": "11",
+      "term":" Un son rugueux on a un affect de vie, d'animation, de vie microscopique. C'est plut\u00f4t positif. Un son rugueux se suffit \u00e0 lui-m\u00eame pour d\u00e9finir un univers sonore.",
+      "not":" un son statique doit \u00eatre compos\u00e9 avec d'autre."
+    },
+    {
+      "expertID": "12",
+      "term":" moi la rugosit\u00e9 je trouve \u00e7a hyper int\u00e9ressant. Du coup sur la rugosit\u00e9, comme pour le rond je mettrais pas d'affect. Je mettrais pas d'affect parce que c'est pas li\u00e9 \u00e0 un objet artistique.",
+      "not":" Si tu fais un mix rond pour un film d'action qui n\u00e9cessite une grande dynamique, tu te plantes. C'est pas parce que c'est confortable que c'est quelque chose de positif."
+    },
+    {
+      "expertID": "13",
+      "term":" Oui il y a de l'affect mais il n'y a pas de pr\u00e9f\u00e9rence. C'est plut\u00f4t neutre. Je pense qu'un son rugueux va devenir d\u00e9sagr\u00e9able plus rapidement. Mais g\u00e9n\u00e9ralement entre 3 heures de clarinette ordinario et 3 heures de clarinettes flatterzunge, je choisis ordinario.",
+      "not":" Dans le flatterzunge il y a plus de chose \u00e0 g\u00e9rer, mais il y a pas vraiment de pr\u00e9f\u00e9rence tranch\u00e9e."
+    },
+    {
+      "expertID": "14",
+      "term":" Oui \u00e7a d\u00e9pend, en rugueux, tu peux avoir quelque chose de d\u00e9sagr\u00e9able et en m\u00eame temps tu peux avoir des choses tr\u00e8s douces. Le d\u00e9but de Xenakis, la l\u00e9gende d'Eer, tu as des sons tr\u00e8s tr\u00e8s aigus et tu commences des sons qui se rapprochent et qui cr\u00e9\u00e9s une rugosit\u00e9 et c'est tr\u00e8s beau.",
+      "not":" "
+    },
+    {
+      "expertID": "15",
+      "term":" Oui il peut y avoir quelque chose de d\u00e9sagr\u00e9able dans le rugueux, mais en m\u00eame temps des fois non. Donc je dirais pas d'affect.",
+      "not":" Rond et plein c'est positif. Mais l'oppos\u00e9 de rugueux c'est neutre aussi."
+    },
+    {
+      "expertID": "16",
+      "term":" Pour moi, non. C'est neutre. A part de l'agressivit\u00e9 ou de la r\u00e9sonance qui peuvent \u00eatre des erreurs techniques.",
+      "not":" "
+    },
+    {
+      "expertID": "17",
+      "term":" C'est un concept qui ne peut pas \u00eatre \u00e9valu\u00e9 dans l'absolu. Il ne peut \u00eatre jug\u00e9 que dans un ensemble coh\u00e9rent. A priori je suis capable d'appr\u00e9cier une musique rugueuse si \u00e7a me parle, mais je suis pas tellement \u00e0 la recherche de rugosit\u00e9 dans la musique, c'est plut\u00f4t un cas extr\u00eame, il prend d'autant plus de valeur par rapport \u00e0 \u00e7a. On le per\u00e7oit comme appropri\u00e9 par rapport au contexte g\u00e9n\u00e9ral. Je parlais de Stravinsky et Octandre de Var\u00e8se, avec des timbres tr\u00e8s grave et de la stridence des cuivres. C'est pas \u00e9motionnel chez lui, c'est plut\u00f4t une recherche du son. L'effet c'est plut\u00f4t p\u00e9joratif, mais bon. Personne n'aime \u00eatre dans le rugueux en permanence. Mais je pense pas que \u00e7a soit personnel, je pense que c'est relativement objective. Regardez le mobilier si tout \u00e9tait rugueux. le rugueux c'est contraignant, personne veut marcher sur du rugueux c'est d\u00e9sagr\u00e9able. Ce qui fait la diff\u00e9rence au niveau esth\u00e9tique. le rugueux peut devenir agr\u00e9able dans la musique, avec une part d'inventivit\u00e9 suffisante, mais pas part quelque chose de syst\u00e9matique et de trop appuy\u00e9. le rugueux est p\u00e9nible. ",
+      "not":" Le lisse nous atteint moins, il est plus neutre, chacun se sent plus libre dans le lisse. Il laisse un plus grand espace. Rien n'est lisse en m\u00eame temps, \u00e7a serait ennuyeux. "
+    },
+    {
+      "expertID": "18",
+      "term":" C'est beaucoup moins fort que pour le rond de tout \u00e0 l'heure, parce que en cr\u00e9ation sonore, tu veux des textures qui sont pas lisses du tout. Tu cherches le bruit. Et en musique c'est pareil, en mix tu cherches \u00e0 ce que certains \u00e9l\u00e9ments sortent un peu du lot, et tu vas jouer de cette rugosit\u00e9, tu vas chercher des sons plus rugueux, qui spectralement se d\u00e9tachent un peu. Je dirais neutre parce que \u00e7a d\u00e9pend beaucoup du cas de figure.",
+      "not":" Pareil pour lisse et pur."
+    },
+    {
+      "expertID": "19",
+      "term":" Neutre",
+      "not":" Neutre"
+    },
+    {
+      "expertID": "20",
+      "term":" Oui la rugosit\u00e9 c'est quelque chose que je supporte pas.",
+      "not":" "
+    },
+    {
+      "expertID": "21",
+      "term":" La rugosit\u00e9 serait li\u00e9 \u00e0 une certaine agressivit\u00e9, duret\u00e9.",
+      "not":" A l'inverse d'un son lisse oui. Ou d'un son rond du coup. Oui un son rond serait plut\u00f4t lisse. Sans beaucoup de variations dans son \u00e9volution temporelle."
+    },
+    {
+      "expertID": "22",
+      "term":" Un son rugueux bon. M\u00eame les sons ou je fais des grimaces ils me parlent, c'est pour \u00e7a que je suis musicien. Le son rugueux me donne une sensation de ''j'ai envie de me gratter''. Le son rugueux agr\u00e9able par contre \u00e7a va \u00eatre compliqu\u00e9 je pense.",
+      "not":" le son lisse, il y a \u00e0 la fois une esp\u00e8ce de blancheur et de puret\u00e9 quelque part, m\u00eame si c'est pas un son riche, un courant d'air. Un son lisse, qui sugg\u00e8rerai une \u00e2me qui passe au milieu d'une pi\u00e8ce. Mais le son lisse peut \u00eatre agr\u00e9able ou amener une tension."
+    },
+    {
+      "expertID": "23",
+      "term":" Alors j'ai peut-\u00eatre une petite pr\u00e9-conception venant des qualifications psychoacoustiques des sons qui sont pas dans un environnement quotidien, le rugueux c'est pas n\u00e9cessairement une qualit\u00e9 bienvenue. Dans la richesse d\u00e9couverte dans des \u00e9chantillons choisis ,il y a pour moi dans la rugosit\u00e9, quelque chose que j'aime activer dans mon travail, ce sont des traces mat\u00e9rielles, je dirais une certaine audibilit\u00e9 des processus, des ondulations, des processus de production de sensation auditive et aussi l'origine de la production sonore, qui pour moi est un terrain de jeu assez que j'utilise pour associer des sons les uns aux autres, qui n'ont pas, sur un mode d'\u00e9coute de la source la m\u00eame perception.",
+      "not":" Et ensuite lisse \u00e7a peut-\u00eatre n\u00e9gatif et positif, \u00e7a d\u00e9pend du contexte, mais c'est neutre \u00e7a veut dire, une personne qui n'a pas beaucoup de caract\u00e8re, donc elle d\u00e9range pas mais tu as pas envie de lui parler. Rond c'est quelque chose de r\u00e9confortant. Mais c'est assez contextuel."
+    },
+    {
+      "expertID": "24",
+      "term":" Neutre",
+      "not":" Neutre"
+    },
+    {
+      "expertID": "25",
+      "term":" Neutre",
+      "not":" Neutre"
+    },
+    {
+      "expertID": "26",
+      "term":" Neutre",
+      "not":" Neutre"
+    },
+    {
+      "expertID": "27",
+      "term":" Le rugueux tel que je l'ai per\u00e7u moi, c'est pas contraire. Puisqu'il a fallut le d\u00e9finir, on a mis des mots dessus, mais c'est un son qui m'int\u00e9resse. Parce qu'on sent bien l'action humaine derri\u00e8re le son. On sent bien le musicien qui tiens son archet, qui appuie sur la corde, sa fa\u00e7on de frapper, ce sont des trucs qui m'int\u00e9ressent. Oui malgr\u00e9 qu'il soient rugueux ils sont quand m\u00eame int\u00e9ressants. Non il y avait que le son de trompette que je trouvais d\u00e9sagr\u00e9able. Oui bah j'enl\u00e8verai d\u00e9sagr\u00e9able, mais je te l'avais dis tout \u00e0 l'heure.",
+      "not":" Oui doux/lisse, on peut percevoir une certaine m\u00e9lancolie dans ce son l\u00e0, surtout si il est d\u00e9livr\u00e9 un peu plus longuement, on sent la retenue, quand il y a pas d'attaque. Donc ce sont des sons qui me parlent aussi. Les deux m'int\u00e9ressent. Alors un son rugueux n'est pas d\u00e9plaisant. Il porte autre chose, il \u00e9voque autre chose, par rapport \u00e0 un son doux/lisse."
+    },
+    {
+      "expertID": "28",
+      "term":" Neutre",
+      "not":" Neutre"
+    },
+    {
+      "expertID": "29",
+      "term":" De base je dirais que c'est plut\u00f4t d\u00e9sagr\u00e9able, et en m\u00eame temps, tu peux les rechercher pour \u00e7a. Mais oui plut\u00f4t un truc de l'ordre du d\u00e9sagr\u00e9able. Alors qu'un truc rugueux, c'est plus humain et \u00e7a va \u00eatre plus porteur d'\u00e9motion. Mais plut\u00f4t n\u00e9gatif. Tu peux pas faire un truc tr\u00e8s joyeux avec quelque chose de rugueux. \u00c7a peut \u00eatre plaisant dans la granularit\u00e9 mais. C'est pour \u00e7a que c'est compliqu\u00e9. C'est plus porteur de quelque chose qui d\u00e9range. Voil\u00e0, qui d\u00e9range c'est mieux.",
+      "not":" Je dirais que pur, \u00e7a serait plut\u00f4t d\u00e9nu\u00e9 d'affect, \u00e0 la limite, vraiment pas int\u00e9ressant. Sinus pur, pas tr\u00e8s int\u00e9ressant."
+    },
+    {
+      "expertID": "30",
+      "term":" Non, dans le rugueux il y a pas d'affect. Il y a pas forc\u00e9ment d'affect, si on parle d'un son rugueux - je reviens toujours \u00e0 l'image du brut - \u00e7a peut \u00eatre une qualit\u00e9, et \u00e7a peut \u00eatre un d\u00e9faut. \u00c7a peut \u00eatre un manque de sensibilit\u00e9, un manque de finesse. \u00c7a peut \u00eatre aussi un certain instinct, un peu authentique. Oui, mais alors les exemples musicaux sur un son qu'on pourrait dire rugueux il va \u00eatre plut\u00f4t vers les saxophonistes de jazz. et puis sinon si on va vers Steve Lacy ou Archie Shepp, Coltrane \u00e0 la fin, le son qu'il a au t\u00e9nor, c'est pas lisse, enfin \u00e0 la fin, les derniers enregistrements, il ouvre vraiment beaucoup. Donc c'est pas un d\u00e9faut quoi.",
+      "not":" Le saxophone c'est flagrant parce qu'il va y avoir des sons tr\u00e8s l\u00e9ch\u00e9 comme Michael Brecker"
+    },
+    {
+      "expertID": "31",
+      "term":" Disons qu'un son rugueux g\u00e9n\u00e8re quelque chose qui est peut-\u00eatre plus une sensation physique, qui est plus sensuelle. qui peut \u00eatre d\u00e9sagr\u00e9able, mais qui ram\u00e8ne plus \u00e0 des sensations corporelles on va dire, enfin tous les sons le font. Un son rugueux provoque une sensation physique plus intense qu'un son lisse on va dire. Quelque chose qui est plus dans le corps et dans la sensualit\u00e9 et des sens, qu'un son non rugueux.",
+      "not":" Peut-\u00eatre plus dans le haut du corps pour la perception des sons non rugueux. Et plus dans le bas du corps pour le rugueux."
+    },
+    {
+      "expertID": "32",
+      "term":" Les sons complexes sont plus int\u00e9ressant, parce que tu peux \u00e9videmment les traiter, en exacerber certaines propri\u00e9t\u00e9s. C'est l\u00e0 ou les vents ou les bois sont int\u00e9ressants, parce qu'on peut \u00e0 la fois avoir la perception d'une hauteur tr\u00e8s stable et en m\u00eame temps il y a le c\u00f4t\u00e9 bruit qui fait qu'on peut exploiter diff\u00e9remment et avoir diff\u00e9rents modes de jeu qui vont travailler la mati\u00e8re.",
+      "not":" les sons non bruit\u00e9s sont peut-\u00eatre plus inint\u00e9ressant, je sais pas, il y a moins d'affect en tout cas."
+    }
+  ]
+}

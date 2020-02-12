@@ -25,7 +25,7 @@ def load_file(word, db):
     path = str(pathlib.Path(__file__).parent.absolute())
     
     # load json.file
-    with open(word+'.json', encoding="utf-8") as json_file:
+    with open("./corpus/"+ word+'.json', encoding="utf-8") as json_file:
         data = json.load(json_file)
 
     # dictionnary of questions for everyone.
@@ -42,7 +42,7 @@ def load_file(word, db):
     yourResult = np.array([line.split('\n')
                            for line in stopFile.readlines()])[:, 0]
     stopWord = list(yourResult)
-    stopWord.append(word)
+    #stopWord.append(word)
 
     # load lemmatization file
     with open('lemm_file.json', encoding="utf-8") as json_file:
@@ -134,6 +134,13 @@ def freqNGram(word, question, n, db):
                 res = lemmatization(i, lemms)
                 # if the joint expression finds no match
                 if res == '':
+                    # quantification accuracy
+                    if x[0]=='peu' or x[0] == 'trop' or x[0] == 'très':
+                        x.insert(0, tokenized[index-1].split(' ')[0])
+                    # negation with adverbs
+                    if 'pas' == tokenized[index-1].split(' ')[0] and 'ment' in x[0]:
+                        x.insert(0, tokenized[index-1].split(' ')[0])
+                        del lemmatized[-1]
                     for index, word in enumerate(x):
                         if lemmatization(word, lemms) == '':
                             x[index] = word
@@ -197,17 +204,33 @@ def generate_df(word, db, Qlist):
 #%%
     
 quest = "Q2","Q5"
-n = 1
-word = "rond"
-    
-result, tokenized, lemmatized = freqNGram(word, ["Q2","Q5"], n, True)
+n = 2
+words = ["brillant","chaud","rond","rugueux"]
+fin = []
+# for word in words:
+#     result, tokenized, lemmatized = freqNGram(word, ["Q2","Q5"], n, True)
+#     fin += result
+result, tokenized, lemmatized = freqNGram("rond", ["Q2"], n, True)
+#%%
+fin_word, fin_freq = zip(*fin)
 #context = contQuery(tokenized, "net*", 15, 15
 # generate_df("rugueux", True, [""])
+lol_word = []
+lol_freq = []
+for index, i in enumerate(fin_word):
+    if i not in lol_word:
+        lol_word.append(i)
+        lol_freq.append(fin_freq[index])
+    else:
+        get_index = lol_word.index(i)
+        lol_freq[get_index] += fin_freq[index]
+            
+        
 
 #%%
 path_j = './embedding/corpus_lemm/'
-
+#result_dict = dict(zip(lol_word, lol_freq))
 result_dict = dict(result)
 jsonfile = json.dumps(result_dict, indent=2)
-with open(path_j + word + "_Q2Q5_"+ str(n) +'.json', 'w') as f_output:
+with open(path_j + 'chaud' + "_Q5_"+ str(n) +'.json', 'w') as f_output:
     f_output.write(jsonfile)

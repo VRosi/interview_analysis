@@ -387,13 +387,13 @@
     },
     {
       "expertID": "13",
-      "term":" Alors il y a un affect ou tu peux faire l'opposition douceur/agressivit\u00e9, apr\u00e8s c'est pas forc\u00e9ment quelque chose de mal ou bien. Un son rond c'est agr\u00e9able mais pas forc\u00e9ment positif. Un son rond est plus agr\u00e9able \u00e0 \u00e9ocuter aussi parce que c'est moins fatigant auditivement. Mais des fois j'ai pas envie d'\u00e9couter des sons plein de douceurs tout le temps.",
+      "term":" Alors il y a un affect ou tu peux faire l'opposition douceur/agressivit\u00e9, apr\u00e8s c'est pas forc\u00e9ment quelque chose de mal ou bien. Un son rond c'est agr\u00e9able mais pas forc\u00e9ment positif. Un son rond est plus agr\u00e9able \u00e0 \u00e9couter aussi parce que c'est moins fatigant auditivement. Mais des fois j'ai pas envie d'\u00e9couter des sons plein de douceurs tout le temps.",
       "not":" Mais un son agressif qui sature \u00e7a peut \u00eatre bien aussi. C'est plut\u00f4t neutre l'oppos\u00e9."
     },
     {
       "expertID": "14",
-      "term":" Non il y a cette id\u00e9e de stabilit\u00e9, mais c'est ni positif ni n\u00e9gatif.",
-      "not":" Pareil pour rugueux, c'est ni positif ni n\u00e9gatif"
+      "term":" Non il y a cette id\u00e9e de stabilit\u00e9, mais c'est ni positif ni n\u00e9gatif. Neutre",
+      "not":" Pareil pour rugueux, c'est ni positif ni n\u00e9gatif. Neutre"
     },
     {
       "expertID": "15",
@@ -402,7 +402,7 @@
     },
     {
       "expertID": "16",
-      "term":" Non pareil c'est une caract\u00e9ristique pour moi. \u00c7a d\u00e9pend si t'aime \u00e9couter du reggae ou pas.",
+      "term":" Non pareil c'est une caract\u00e9ristique pour moi. \u00c7a d\u00e9pend si t'aime \u00e9couter du reggae ou pas. Neutre.",
       "not":" "
     },
     {
@@ -422,7 +422,7 @@
     },
     {
       "expertID": "20",
-      "term":" Oui il y a de l'affect, parce que moi c'est quelque chose que je recherche. Oui.Pour faire un aparte, je me suis rendu compte, les m\u00e9lomanes ont une attente, et les musiciens ont une autre attente. Moi je vais chercher \u00e0 baigner dans la musique, je vais chercher l'enveloppe, je vais chercher l'espace, l'air autour des instruments, et je suis vachement attach\u00e9 \u00e0 la reproduction spectrale, parce que je suis bien plac\u00e9 dans la salle de concert. Rond positif.",
+      "term":" Oui il y a de l'affect, parce que moi c'est quelque chose que je recherche. Pour faire un aparte, je me suis rendu compte, les m\u00e9lomanes ont une attente, et les musiciens ont une autre attente. Moi je vais chercher \u00e0 baigner dans la musique, je vais chercher l'enveloppe, je vais chercher l'espace, l'air autour des instruments, et je suis vachement attach\u00e9 \u00e0 la reproduction spectrale, parce que je suis bien plac\u00e9 dans la salle de concert. Rond positif.",
       "not":" aigre négatif"
     },
     {
@@ -482,8 +482,8 @@
     },
     {
       "expertID": "32",
-      "term":" Affect je vois pas forc\u00e9ment. Non, pas de pr\u00e9f\u00e9rence.",
-      "not":
+      "term":" Affect je vois pas forc\u00e9ment. Non, pas de pr\u00e9f\u00e9rence. Neutre.",
+      "not":" "
     }
   ],
   "rugueux": [
@@ -644,7 +644,7 @@
     },
     {
       "expertID": "32",
-      "term":" Les sons complexes sont plus int\u00e9ressant, parce que tu peux \u00e9videmment les traiter, en exacerber certaines propri\u00e9t\u00e9s. C'est l\u00e0 ou les vents ou les bois sont int\u00e9ressants, parce qu'on peut \u00e0 la fois avoir la perception d'une hauteur tr\u00e8s stable et en m\u00eame temps il y a le c\u00f4t\u00e9 bruit qui fait qu'on peut exploiter diff\u00e9remment et avoir diff\u00e9rents modes de jeu qui vont travailler la mati\u00e8re.",
+      "term":" Les sons complexes sont plus int\u00e9ressant, parce que tu peux \u00e9videmment les traiter, en exacerber certaines propri\u00e9t\u00e9s.",
       "not":" les sons non bruit\u00e9s sont peut-\u00eatre plus inint\u00e9ressant, je sais pas, il y a moins d'affect en tout cas."
     }
   ]

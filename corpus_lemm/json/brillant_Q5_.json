@@ -1,0 +1,4190 @@
+{
+  "am\u00e9ricain": {
+    "freq": 1,
+    "words": [
+      "am\u00e9ricain",
+      "am\u00e9ricains"
+    ],
+    "ID": [
+      "19"
+    ]
+  },
+  "vivant": {
+    "freq": 1,
+    "words": [
+      "vivant"
+    ],
+    "ID": [
+      "25"
+    ]
+  },
+  "mauvais": {
+    "freq": 1,
+    "words": [
+      "mauvais"
+    ],
+    "ID": [
+      "28"
+    ]
+  },
+  "alto": {
+    "freq": 1,
+    "words": [
+      "alto"
+    ],
+    "ID": [
+      "14"
+    ]
+  },
+  "grave": {
+    "freq": 10,
+    "words": [
+      "grave",
+      "graves"
+    ],
+    "ID": [
+      "01",
+      "10",
+      "11",
+      "14",
+      "17",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29"
+    ]
+  },
+  "tuba": {
+    "freq": 3,
+    "words": [
+      "tuba"
+    ],
+    "ID": [
+      "01",
+      "13",
+      "14"
+    ]
+  },
+  "impr\u00e9cision": {
+    "freq": 1,
+    "words": [
+      "impr\u00e9cision"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "salle": {
+    "freq": 1,
+    "words": [
+      "salle"
+    ],
+    "ID": [
+      "07"
+    ]
+  },
+  "gris": {
+    "freq": 1,
+    "words": [
+      "gris"
+    ],
+    "ID": [
+      "21"
+    ]
+  },
+  "brillant": {
+    "freq": 28,
+    "words": [
+      "brillant",
+      "brillants",
+      "brillantes",
+      "brillante"
+    ],
+    "ID": [
+      "01",
+      "02",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09",
+      "10",
+      "12",
+      "13",
+      "14",
+      "15",
+      "17",
+      "18",
+      "19",
+      "20",
+      "21",
+      "22",
+      "23",
+      "24",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "31",
+      "32"
+    ]
+  },
+  "bol": {
+    "freq": 2,
+    "words": [
+      "bol"
+    ],
+    "ID": [
+      "23",
+      "26"
+    ]
+  },
+  "longue": {
+    "freq": 1,
+    "words": [
+      "longue"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "terre": {
+    "freq": 1,
+    "words": [
+      "terre"
+    ],
+    "ID": [
+      "09"
+    ]
+  },
+  "g\u00e9n\u00e9rale": {
+    "freq": 2,
+    "words": [
+      "g\u00e9n\u00e9rale"
+    ],
+    "ID": [
+      "13",
+      "23"
+    ]
+  },
+  "appellent": {
+    "freq": 1,
+    "words": [
+      "appellent"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "3000": {
+    "freq": 1,
+    "words": [
+      "3000"
+    ],
+    "ID": [
+      "20"
+    ]
+  },
+  "mp3": {
+    "freq": 1,
+    "words": [
+      "mp3"
+    ],
+    "ID": [
+      "20"
+    ]
+  },
+  "ressortir": {
+    "freq": 1,
+    "words": [
+      "ressortent"
+    ],
+    "ID": [
+      "07"
+    ]
+  },
+  "recherche": {
+    "freq": 1,
+    "words": [
+      "recherche"
+    ],
+    "ID": [
+      "31"
+    ]
+  },
+  "atteindre": {
+    "freq": 1,
+    "words": [
+      "atteindre"
+    ],
+    "ID": [
+      "17"
+    ]
+  },
+  "fonctionner": {
+    "freq": 2,
+    "words": [
+      "fonctionne"
+    ],
+    "ID": [
+      "14",
+      "32"
+    ]
+  },
+  "carr\u00e9ment": {
+    "freq": 1,
+    "words": [
+      "carr\u00e9ment"
+    ],
+    "ID": [
+      "05"
+    ]
+  },
+  "densit\u00e9": {
+    "freq": 1,
+    "words": [
+      "densit\u00e9"
+    ],
+    "ID": [
+      "20"
+    ]
+  },
+  "montrer": {
+    "freq": 1,
+    "words": [
+      "montr\u00e9"
+    ],
+    "ID": [
+      "23"
+    ]
+  },
+  "traduction": {
+    "freq": 1,
+    "words": [
+      "traduction"
+    ],
+    "ID": [
+      "19"
+    ]
+  },
+  "refaire": {
+    "freq": 1,
+    "words": [
+      "refaire"
+    ],
+    "ID": [
+      "16"
+    ]
+  },
+  "organique": {
+    "freq": 1,
+    "words": [
+      "organique"
+    ],
+    "ID": [
+      "29"
+    ]
+  },
+  "juger": {
+    "freq": 1,
+    "words": [
+      "juger"
+    ],
+    "ID": [
+      "18"
+    ]
+  },
+  "perce": {
+    "freq": 1,
+    "words": [
+      "perce"
+    ],
+    "ID": [
+      "28"
+    ]
+  },
+  "lente": {
+    "freq": 1,
+    "words": [
+      "lente"
+    ],
+    "ID": [
+      "23"
+    ]
+  },
+  "lumi\u00e8re": {
+    "freq": 1,
+    "words": [
+      "lumi\u00e8re"
+    ],
+    "ID": [
+      "19"
+    ]
+  },
+  "mp2": {
+    "freq": 1,
+    "words": [
+      "mp2"
+    ],
+    "ID": [
+      "20"
+    ]
+  },
+  "fan": {
+    "freq": 1,
+    "words": [
+      "fan"
+    ],
+    "ID": [
+      "24"
+    ]
+  },
+  "largeur": {
+    "freq": 1,
+    "words": [
+      "largeur"
+    ],
+    "ID": [
+      "30"
+    ]
+  },
+  "marqu\u00e9": {
+    "freq": 1,
+    "words": [
+      "marqu\u00e9es"
+    ],
+    "ID": [
+      "06"
+    ]
+  },
+  "heureusement": {
+    "freq": 1,
+    "words": [
+      "heureusement"
+    ],
+    "ID": [
+      "27"
+    ]
+  },
+  "marrant": {
+    "freq": 2,
+    "words": [
+      "marrant"
+    ],
+    "ID": [
+      "05",
+      "22"
+    ]
+  },
+  "haut": {
+    "freq": 2,
+    "words": [
+      "haut",
+      "haute"
+    ],
+    "ID": [
+      "20",
+      "23"
+    ]
+  },
+  "solution": {
+    "freq": 1,
+    "words": [
+      "solution"
+    ],
+    "ID": [
+      "03"
+    ]
+  },
+  "contraste": {
+    "freq": 1,
+    "words": [
+      "contraste"
+    ],
+    "ID": [
+      "32"
+    ]
+  },
+  "tonnerre": {
+    "freq": 1,
+    "words": [
+      "tonnerre"
+    ],
+    "ID": [
+      "09"
+    ]
+  },
+  "synth\u00e8se": {
+    "freq": 1,
+    "words": [
+      "synth\u00e8se"
+    ],
+    "ID": [
+      "02"
+    ]
+  },
+  "gros": {
+    "freq": 1,
+    "words": [
+      "gros"
+    ],
+    "ID": [
+      "19"
+    ]
+  },
+  "conception": {
+    "freq": 1,
+    "words": [
+      "conception"
+    ],
+    "ID": [
+      "24"
+    ]
+  },
+  "m\u00e9tal": {
+    "freq": 1,
+    "words": [
+      "m\u00e9tal"
+    ],
+    "ID": [
+      "07"
+    ]
+  },
+  "aimerai": {
+    "freq": 1,
+    "words": [
+      "aimerai"
+    ],
+    "ID": [
+      "13"
+    ]
+  },
+  "triche": {
+    "freq": 1,
+    "words": [
+      "triche"
+    ],
+    "ID": [
+      "20"
+    ]
+  },
+  "esprit": {
+    "freq": 1,
+    "words": [
+      "esprit"
+    ],
+    "ID": [
+      "04"
+    ]
+  },
+  "bouche": {
+    "freq": 1,
+    "words": [
+      "bouche"
+    ],
+    "ID": [
+      "12"
+    ]
+  },
+  "violon": {
+    "freq": 1,
+    "words": [
+      "violon"
+    ],
+    "ID": [
+      "25"
+    ]
+  },
+  "sort": {
+    "freq": 1,
+    "words": [
+      "sort"
+    ],
+    "ID": [
+      "32"
+    ]
+  },
+  "piano": {
+    "freq": 3,
+    "words": [
+      "piano"
+    ],
+    "ID": [
+      "03",
+      "05",
+      "18"
+    ]
+  },
+  "physiquement": {
+    "freq": 1,
+    "words": [
+      "physiquement"
+    ],
+    "ID": [
+      "27"
+    ]
+  },
+  "tenu": {
+    "freq": 1,
+    "words": [
+      "tenu"
+    ],
+    "ID": [
+      "02"
+    ]
+  },
+  "p\u00e2teux": {
+    "freq": 1,
+    "words": [
+      "p\u00e2teux"
+    ],
+    "ID": [
+      "25"
+    ]
+  },
+  "basson": {
+    "freq": 2,
+    "words": [
+      "basson"
+    ],
+    "ID": [
+      "11",
+      "13"
+    ]
+  },
+  "situ\u00e9": {
+    "freq": 1,
+    "words": [
+      "situ\u00e9"
+    ],
+    "ID": [
+      "20"
+    ]
+  },
+  "consid\u00e8re": {
+    "freq": 1,
+    "words": [
+      "consid\u00e8re"
+    ],
+    "ID": [
+      "09"
+    ]
+  },
+  "fluctuation": {
+    "freq": 1,
+    "words": [
+      "fluctuation"
+    ],
+    "ID": [
+      "23"
+    ]
+  },
+  "objectif": {
+    "freq": 1,
+    "words": [
+      "objectif"
+    ],
+    "ID": [
+      "05"
+    ]
+  },
+  "enregistrement": {
+    "freq": 1,
+    "words": [
+      "enregistrement"
+    ],
+    "ID": [
+      "18"
+    ]
+  },
+  "remplacer": {
+    "freq": 1,
+    "words": [
+      "remplacer"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "remarquer": {
+    "freq": 1,
+    "words": [
+      "remarqu\u00e9"
+    ],
+    "ID": [
+      "14"
+    ]
+  },
+  "saxophone": {
+    "freq": 3,
+    "words": [
+      "saxophone"
+    ],
+    "ID": [
+      "03",
+      "19",
+      "32"
+    ]
+  },
+  "bruiter": {
+    "freq": 1,
+    "words": [
+      "bruit\u00e9"
+    ],
+    "ID": [
+      "16"
+    ]
+  },
+  "matet\u00e9": {
+    "freq": 1,
+    "words": [
+      "matet\u00e9"
+    ],
+    "ID": [
+      "20"
+    ]
+  },
+  "plat": {
+    "freq": 2,
+    "words": [
+      "plat"
+    ],
+    "ID": [
+      "05",
+      "31"
+    ]
+  },
+  "cuivrailles": {
+    "freq": 1,
+    "words": [
+      "cuivrailles"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "champ": {
+    "freq": 1,
+    "words": [
+      "champ"
+    ],
+    "ID": [
+      "19"
+    ]
+  },
+  "contradictoire": {
+    "freq": 1,
+    "words": [
+      "contradictoire"
+    ],
+    "ID": [
+      "25"
+    ]
+  },
+  "bright": {
+    "freq": 1,
+    "words": [
+      "bright"
+    ],
+    "ID": [
+      "19"
+    ]
+  },
+  "p\u00e9dagogiquement": {
+    "freq": 1,
+    "words": [
+      "p\u00e9dagogiquement"
+    ],
+    "ID": [
+      "22"
+    ]
+  },
+  "percussion": {
+    "freq": 1,
+    "words": [
+      "percussions"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "pauvre": {
+    "freq": 2,
+    "words": [
+      "pauvre"
+    ],
+    "ID": [
+      "14",
+      "23"
+    ]
+  },
+  "enveloppant": {
+    "freq": 1,
+    "words": [
+      "enveloppant"
+    ],
+    "ID": [
+      "28"
+    ]
+  },
+  "pianissimo": {
+    "freq": 3,
+    "words": [
+      "pianissimo"
+    ],
+    "ID": [
+      "11",
+      "18",
+      "21"
+    ]
+  },
+  "clarinette": {
+    "freq": 3,
+    "words": [
+      "clarinette"
+    ],
+    "ID": [
+      "17",
+      "26",
+      "32"
+    ]
+  },
+  "glockenspiel": {
+    "freq": 2,
+    "words": [
+      "glockenspiel"
+    ],
+    "ID": [
+      "18",
+      "26"
+    ]
+  },
+  "obscurit\u00e9": {
+    "freq": 1,
+    "words": [
+      "obscurit\u00e9"
+    ],
+    "ID": [
+      "19"
+    ]
+  },
+  "culturel": {
+    "freq": 1,
+    "words": [
+      "culturel"
+    ],
+    "ID": [
+      "02"
+    ]
+  },
+  "remonter": {
+    "freq": 1,
+    "words": [
+      "remonter"
+    ],
+    "ID": [
+      "18"
+    ]
+  },
+  "net": {
+    "freq": 1,
+    "words": [
+      "nette"
+    ],
+    "ID": [
+      "19"
+    ]
+  },
+  "envie": {
+    "freq": 1,
+    "words": [
+      "envie"
+    ],
+    "ID": [
+      "24"
+    ]
+  },
+  "matt\u00e9": {
+    "freq": 1,
+    "words": [
+      "matt\u00e9"
+    ],
+    "ID": [
+      "29"
+    ]
+  },
+  "reflet": {
+    "freq": 1,
+    "words": [
+      "reflet"
+    ],
+    "ID": [
+      "31"
+    ]
+  },
+  "chaleur": {
+    "freq": 1,
+    "words": [
+      "chaleur"
+    ],
+    "ID": [
+      "20"
+    ]
+  },
+  "moyenne": {
+    "freq": 1,
+    "words": [
+      "moyenne"
+    ],
+    "ID": [
+      "05"
+    ]
+  },
+  "2000": {
+    "freq": 1,
+    "words": [
+      "2000"
+    ],
+    "ID": [
+      "09"
+    ]
+  },
+  "ph\u00e9nom\u00e8ne": {
+    "freq": 1,
+    "words": [
+      "ph\u00e9nom\u00e8ne"
+    ],
+    "ID": [
+      "02"
+    ]
+  },
+  "volcanique": {
+    "freq": 1,
+    "words": [
+      "volcanique"
+    ],
+    "ID": [
+      "09"
+    ]
+  },
+  "modalit\u00e9": {
+    "freq": 1,
+    "words": [
+      "modalit\u00e9s"
+    ],
+    "ID": [
+      "24"
+    ]
+  },
+  "apparaitre": {
+    "freq": 1,
+    "words": [
+      "apparaitre"
+    ],
+    "ID": [
+      "07"
+    ]
+  },
+  "onde": {
+    "freq": 1,
+    "words": [
+      "onde"
+    ],
+    "ID": [
+      "25"
+    ]
+  },
+  "flou": {
+    "freq": 1,
+    "words": [
+      "flou"
+    ],
+    "ID": [
+      "32"
+    ]
+  },
+  "rentr\u00e9e": {
+    "freq": 1,
+    "words": [
+      "rentr\u00e9e"
+    ],
+    "ID": [
+      "08"
+    ]
+  },
+  "90": {
+    "freq": 1,
+    "words": [
+      "90"
+    ],
+    "ID": [
+      "13"
+    ]
+  },
+  "trombone": {
+    "freq": 3,
+    "words": [
+      "trombone",
+      "trombones"
+    ],
+    "ID": [
+      "02",
+      "23",
+      "26"
+    ]
+  },
+  "sommet": {
+    "freq": 1,
+    "words": [
+      "sommet"
+    ],
+    "ID": [
+      "09"
+    ]
+  },
+  "couvert": {
+    "freq": 1,
+    "words": [
+      "couvert"
+    ],
+    "ID": [
+      "10"
+    ]
+  },
+  "court": {
+    "freq": 2,
+    "words": [
+      "courts",
+      "court"
+    ],
+    "ID": [
+      "07",
+      "20"
+    ]
+  },
+  "rond": {
+    "freq": 6,
+    "words": [
+      "rond",
+      "ronds"
+    ],
+    "ID": [
+      "01",
+      "22",
+      "24",
+      "30",
+      "31",
+      "32"
+    ]
+  },
+  "filtrer": {
+    "freq": 1,
+    "words": [
+      "filtrer"
+    ],
+    "ID": [
+      "14"
+    ]
+  },
+  "compte": {
+    "freq": 1,
+    "words": [
+      "compte"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "g\u00e9n\u00e9lec": {
+    "freq": 1,
+    "words": [
+      "g\u00e9n\u00e9lec"
+    ],
+    "ID": [
+      "20"
+    ]
+  },
+  "sp\u00e9cifique": {
+    "freq": 1,
+    "words": [
+      "sp\u00e9cifique"
+    ],
+    "ID": [
+      "24"
+    ]
+  },
+  "pensais": {
+    "freq": 2,
+    "words": [
+      "pensais"
+    ],
+    "ID": [
+      "14",
+      "18"
+    ]
+  },
+  "fort": {
+    "freq": 4,
+    "words": [
+      "fortes",
+      "fort"
+    ],
+    "ID": [
+      "06",
+      "07",
+      "18",
+      "22"
+    ]
+  },
+  "relief": {
+    "freq": 1,
+    "words": [
+      "relief"
+    ],
+    "ID": [
+      "17"
+    ]
+  },
+  "italien": {
+    "freq": 1,
+    "words": [
+      "italien"
+    ],
+    "ID": [
+      "10"
+    ]
+  },
+  "affirmer": {
+    "freq": 1,
+    "words": [
+      "affirm\u00e9"
+    ],
+    "ID": [
+      "28"
+    ]
+  },
+  "th\u00e9\u00e2tre": {
+    "freq": 1,
+    "words": [
+      "th\u00e9\u00e2tre"
+    ],
+    "ID": [
+      "23"
+    ]
+  },
+  "contenu": {
+    "freq": 1,
+    "words": [
+      "contenu"
+    ],
+    "ID": [
+      "20"
+    ]
+  },
+  "produit": {
+    "freq": 1,
+    "words": [
+      "produit"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "mati\u00e8re": {
+    "freq": 4,
+    "words": [
+      "mati\u00e8res",
+      "mati\u00e8re"
+    ],
+    "ID": [
+      "01",
+      "28",
+      "30",
+      "32"
+    ]
+  },
+  "ferm\u00e9": {
+    "freq": 3,
+    "words": [
+      "ferm\u00e9"
+    ],
+    "ID": [
+      "04",
+      "15",
+      "30"
+    ]
+  },
+  "jazz": {
+    "freq": 1,
+    "words": [
+      "jazz"
+    ],
+    "ID": [
+      "19"
+    ]
+  },
+  "clair": {
+    "freq": 2,
+    "words": [
+      "clair",
+      "clairs"
+    ],
+    "ID": [
+      "22",
+      "26"
+    ]
+  },
+  "cat\u00e9gorie": {
+    "freq": 1,
+    "words": [
+      "cat\u00e9gories"
+    ],
+    "ID": [
+      "17"
+    ]
+  },
+  "enfouir": {
+    "freq": 1,
+    "words": [
+      "enfoui"
+    ],
+    "ID": [
+      "09"
+    ]
+  },
+  "contrebasson": {
+    "freq": 1,
+    "words": [
+      "contrebasson"
+    ],
+    "ID": [
+      "17"
+    ]
+  },
+  "rentr\u00e9": {
+    "freq": 1,
+    "words": [
+      "rentr\u00e9"
+    ],
+    "ID": [
+      "30"
+    ]
+  },
+  "grumeleux": {
+    "freq": 1,
+    "words": [
+      "grumeleux"
+    ],
+    "ID": [
+      "22"
+    ]
+  },
+  "commun\u00e9ment": {
+    "freq": 1,
+    "words": [
+      "commun\u00e9ment"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "apporte": {
+    "freq": 1,
+    "words": [
+      "apporte"
+    ],
+    "ID": [
+      "20"
+    ]
+  },
+  "n\u00e9gation": {
+    "freq": 1,
+    "words": [
+      "n\u00e9gation"
+    ],
+    "ID": [
+      "24"
+    ]
+  },
+  "perdre": {
+    "freq": 1,
+    "words": [
+      "perds",
+      "perdue"
+    ],
+    "ID": [
+      "12"
+    ]
+  },
+  "pointu": {
+    "freq": 1,
+    "words": [
+      "pointu"
+    ],
+    "ID": [
+      "22"
+    ]
+  },
+  "4000": {
+    "freq": 1,
+    "words": [
+      "4000"
+    ],
+    "ID": [
+      "09"
+    ]
+  },
+  "hautbois": {
+    "freq": 1,
+    "words": [
+      "hautbois"
+    ],
+    "ID": [
+      "04"
+    ]
+  },
+  "mental": {
+    "freq": 1,
+    "words": [
+      "mental"
+    ],
+    "ID": [
+      "02"
+    ]
+  },
+  "taper": {
+    "freq": 1,
+    "words": [
+      "taper"
+    ],
+    "ID": [
+      "18"
+    ]
+  },
+  "proximit\u00e9": {
+    "freq": 1,
+    "words": [
+      "proximit\u00e9"
+    ],
+    "ID": [
+      "09"
+    ]
+  },
+  "manqu\u00e9": {
+    "freq": 1,
+    "words": [
+      "manqu\u00e9"
+    ],
+    "ID": [
+      "13"
+    ]
+  },
+  "apparait": {
+    "freq": 1,
+    "words": [
+      "apparait"
+    ],
+    "ID": [
+      "04"
+    ]
+  },
+  "excit\u00e9": {
+    "freq": 1,
+    "words": [
+      "excit\u00e9"
+    ],
+    "ID": [
+      "18"
+    ]
+  },
+  "m\u00e9tallique": {
+    "freq": 3,
+    "words": [
+      "m\u00e9tallique"
+    ],
+    "ID": [
+      "01",
+      "02",
+      "03"
+    ]
+  },
+  "palette": {
+    "freq": 1,
+    "words": [
+      "palette"
+    ],
+    "ID": [
+      "19"
+    ]
+  },
+  "orchestration": {
+    "freq": 1,
+    "words": [
+      "orchestration"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "enrichir": {
+    "freq": 1,
+    "words": [
+      "enrichir"
+    ],
+    "ID": [
+      "30"
+    ]
+  },
+  "bruitage": {
+    "freq": 1,
+    "words": [
+      "bruitage"
+    ],
+    "ID": [
+      "07"
+    ]
+  },
+  "crit\u00e8re": {
+    "freq": 1,
+    "words": [
+      "crit\u00e8re"
+    ],
+    "ID": [
+      "24"
+    ]
+  },
+  "donnerait": {
+    "freq": 1,
+    "words": [
+      "donnerait"
+    ],
+    "ID": [
+      "23"
+    ]
+  },
+  "exact": {
+    "freq": 1,
+    "words": [
+      "exact"
+    ],
+    "ID": [
+      "13"
+    ]
+  },
+  "fran\u00e7ais": {
+    "freq": 3,
+    "words": [
+      "fran\u00e7ais",
+      "fran\u00e7aise"
+    ],
+    "ID": [
+      "09",
+      "19",
+      "24"
+    ]
+  },
+  "identification": {
+    "freq": 1,
+    "words": [
+      "identification"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "introverti": {
+    "freq": 1,
+    "words": [
+      "introverti"
+    ],
+    "ID": [
+      "15"
+    ]
+  },
+  "puissant": {
+    "freq": 1,
+    "words": [
+      "puissant"
+    ],
+    "ID": [
+      "03"
+    ]
+  },
+  "composante": {
+    "freq": 1,
+    "words": [
+      "composantes"
+    ],
+    "ID": [
+      "06"
+    ]
+  },
+  "profondeur": {
+    "freq": 2,
+    "words": [
+      "profondeur"
+    ],
+    "ID": [
+      "09",
+      "20"
+    ]
+  },
+  "instrumentarium": {
+    "freq": 1,
+    "words": [
+      "instrumentarium"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "inharmonicit\u00e9": {
+    "freq": 1,
+    "words": [
+      "inharmonicit\u00e9"
+    ],
+    "ID": [
+      "02"
+    ]
+  },
+  "contrebasse": {
+    "freq": 3,
+    "words": [
+      "contrebasse"
+    ],
+    "ID": [
+      "02",
+      "17",
+      "19"
+    ]
+  },
+  "tailler": {
+    "freq": 1,
+    "words": [
+      "tailler"
+    ],
+    "ID": [
+      "09"
+    ]
+  },
+  "laineux": {
+    "freq": 1,
+    "words": [
+      "laineux"
+    ],
+    "ID": [
+      "28"
+    ]
+  },
+  "basse": {
+    "freq": 1,
+    "words": [
+      "basse"
+    ],
+    "ID": [
+      "17"
+    ]
+  },
+  "entendrait": {
+    "freq": 1,
+    "words": [
+      "entendrait"
+    ],
+    "ID": [
+      "12"
+    ]
+  },
+  "inharmonique": {
+    "freq": 1,
+    "words": [
+      "inharmonique"
+    ],
+    "ID": [
+      "02"
+    ]
+  },
+  "riche": {
+    "freq": 1,
+    "words": [
+      "riche"
+    ],
+    "ID": [
+      "21"
+    ]
+  },
+  "oser": {
+    "freq": 1,
+    "words": [
+      "oser"
+    ],
+    "ID": [
+      "04"
+    ]
+  },
+  "mise": {
+    "freq": 1,
+    "words": [
+      "mise"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "rugueux": {
+    "freq": 3,
+    "words": [
+      "rugueux"
+    ],
+    "ID": [
+      "17",
+      "22",
+      "32"
+    ]
+  },
+  "sec": {
+    "freq": 1,
+    "words": [
+      "sec"
+    ],
+    "ID": [
+      "07"
+    ]
+  },
+  "entourage": {
+    "freq": 1,
+    "words": [
+      "entourage"
+    ],
+    "ID": [
+      "22"
+    ]
+  },
+  "moderne": {
+    "freq": 1,
+    "words": [
+      "modernes"
+    ],
+    "ID": [
+      "19"
+    ]
+  },
+  "degr\u00e9": {
+    "freq": 1,
+    "words": [
+      "degr\u00e9s"
+    ],
+    "ID": [
+      "13"
+    ]
+  },
+  "geste": {
+    "freq": 1,
+    "words": [
+      "geste"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "\u00e9norm\u00e9ment": {
+    "freq": 1,
+    "words": [
+      "\u00e9norm\u00e9ment"
+    ],
+    "ID": [
+      "31"
+    ]
+  },
+  "registre": {
+    "freq": 1,
+    "words": [
+      "registre"
+    ],
+    "ID": [
+      "18"
+    ]
+  },
+  "projet\u00e9": {
+    "freq": 1,
+    "words": [
+      "projet\u00e9"
+    ],
+    "ID": [
+      "11"
+    ]
+  },
+  "cuivre": {
+    "freq": 1,
+    "words": [
+      "cuivre"
+    ],
+    "ID": [
+      "03"
+    ]
+  },
+  "ba": {
+    "freq": 1,
+    "words": [
+      "ba"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "transitoire": {
+    "freq": 1,
+    "words": [
+      "transitoire"
+    ],
+    "ID": [
+      "16"
+    ]
+  },
+  "attaque": {
+    "freq": 6,
+    "words": [
+      "attaque"
+    ],
+    "ID": [
+      "01",
+      "08",
+      "10",
+      "16",
+      "22",
+      "26"
+    ]
+  },
+  "\u00e9nergie": {
+    "freq": 2,
+    "words": [
+      "\u00e9nergie"
+    ],
+    "ID": [
+      "11",
+      "13"
+    ]
+  },
+  "lexical": {
+    "freq": 1,
+    "words": [
+      "lexical"
+    ],
+    "ID": [
+      "19"
+    ]
+  },
+  "baguette": {
+    "freq": 1,
+    "words": [
+      "baguettes"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "deep": {
+    "freq": 1,
+    "words": [
+      "deep"
+    ],
+    "ID": [
+      "09"
+    ]
+  },
+  "mette": {
+    "freq": 1,
+    "words": [
+      "mette"
+    ],
+    "ID": [
+      "11"
+    ]
+  },
+  "brillance": {
+    "freq": 14,
+    "words": [
+      "brillance"
+    ],
+    "ID": [
+      "01",
+      "04",
+      "06",
+      "07",
+      "08",
+      "12",
+      "13",
+      "14",
+      "16",
+      "17",
+      "20",
+      "23",
+      "25",
+      "32"
+    ]
+  },
+  "velvet": {
+    "freq": 1,
+    "words": [
+      "velvet"
+    ],
+    "ID": [
+      "11"
+    ]
+  },
+  "voix": {
+    "freq": 3,
+    "words": [
+      "voix"
+    ],
+    "ID": [
+      "12",
+      "14",
+      "20"
+    ]
+  },
+  "chalumeau": {
+    "freq": 1,
+    "words": [
+      "chalumeau"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "boueux": {
+    "freq": 1,
+    "words": [
+      "boueux"
+    ],
+    "ID": [
+      "22"
+    ]
+  },
+  "contexte": {
+    "freq": 3,
+    "words": [
+      "contexte"
+    ],
+    "ID": [
+      "08",
+      "19",
+      "26"
+    ]
+  },
+  "baisser": {
+    "freq": 1,
+    "words": [
+      "baisser"
+    ],
+    "ID": [
+      "23"
+    ]
+  },
+  "retranscrire": {
+    "freq": 1,
+    "words": [
+      "retranscrit"
+    ],
+    "ID": [
+      "20"
+    ]
+  },
+  "fragile": {
+    "freq": 1,
+    "words": [
+      "fragile"
+    ],
+    "ID": [
+      "08"
+    ]
+  },
+  "p\u00e9joratif": {
+    "freq": 4,
+    "words": [
+      "p\u00e9joratif"
+    ],
+    "ID": [
+      "17",
+      "19",
+      "21",
+      "26"
+    ]
+  },
+  "plait": {
+    "freq": 1,
+    "words": [
+      "plait"
+    ],
+    "ID": [
+      "21"
+    ]
+  },
+  "l\u00e2ch\u00e9": {
+    "freq": 1,
+    "words": [
+      "l\u00e2ch\u00e9"
+    ],
+    "ID": [
+      "30"
+    ]
+  },
+  "vie": {
+    "freq": 1,
+    "words": [
+      "vie"
+    ],
+    "ID": [
+      "14"
+    ]
+  },
+  "visuel": {
+    "freq": 1,
+    "words": [
+      "visuel"
+    ],
+    "ID": [
+      "24"
+    ]
+  },
+  "cupo": {
+    "freq": 1,
+    "words": [
+      "cupo"
+    ],
+    "ID": [
+      "10"
+    ]
+  },
+  "r\u00e9sonner": {
+    "freq": 2,
+    "words": [
+      "r\u00e9sonner",
+      "r\u00e9sonne"
+    ],
+    "ID": [
+      "07",
+      "18"
+    ]
+  },
+  "impulsif": {
+    "freq": 1,
+    "words": [
+      "impulsif"
+    ],
+    "ID": [
+      "20"
+    ]
+  },
+  "information": {
+    "freq": 2,
+    "words": [
+      "informations"
+    ],
+    "ID": [
+      "20",
+      "31"
+    ]
+  },
+  "crois": {
+    "freq": 2,
+    "words": [
+      "crois"
+    ],
+    "ID": [
+      "24",
+      "26"
+    ]
+  },
+  "propager": {
+    "freq": 1,
+    "words": [
+      "propager"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "mou": {
+    "freq": 3,
+    "words": [
+      "mou",
+      "molles"
+    ],
+    "ID": [
+      "04",
+      "05",
+      "26"
+    ]
+  },
+  "donn\u00e9e": {
+    "freq": 2,
+    "words": [
+      "donn\u00e9e"
+    ],
+    "ID": [
+      "13",
+      "24"
+    ]
+  },
+  "relation": {
+    "freq": 1,
+    "words": [
+      "relation"
+    ],
+    "ID": [
+      "13"
+    ]
+  },
+  "concept": {
+    "freq": 2,
+    "words": [
+      "concepts",
+      "concept"
+    ],
+    "ID": [
+      "17",
+      "24"
+    ]
+  },
+  "mat\u00e9riau": {
+    "freq": 1,
+    "words": [
+      "mat\u00e9riau"
+    ],
+    "ID": [
+      "07"
+    ]
+  },
+  "g\u00eane": {
+    "freq": 1,
+    "words": [
+      "g\u00eane"
+    ],
+    "ID": [
+      "01"
+    ]
+  },
+  "enterr\u00e9": {
+    "freq": 1,
+    "words": [
+      "enterr\u00e9"
+    ],
+    "ID": [
+      "32"
+    ]
+  },
+  "do": {
+    "freq": 1,
+    "words": [
+      "do"
+    ],
+    "ID": [
+      "14"
+    ]
+  },
+  "proposer": {
+    "freq": 1,
+    "words": [
+      "propos\u00e9"
+    ],
+    "ID": [
+      "25"
+    ]
+  },
+  "doux": {
+    "freq": 3,
+    "words": [
+      "doux"
+    ],
+    "ID": [
+      "15",
+      "22",
+      "32"
+    ]
+  },
+  "bois": {
+    "freq": 2,
+    "words": [
+      "bois"
+    ],
+    "ID": [
+      "01",
+      "07"
+    ]
+  },
+  "aper\u00e7oit": {
+    "freq": 1,
+    "words": [
+      "aper\u00e7oit"
+    ],
+    "ID": [
+      "27"
+    ]
+  },
+  "loin": {
+    "freq": 1,
+    "words": [
+      "loin"
+    ],
+    "ID": [
+      "06"
+    ]
+  },
+  "distant": {
+    "freq": 1,
+    "words": [
+      "distant"
+    ],
+    "ID": [
+      "12"
+    ]
+  },
+  "r\u00e9verb\u00e9ration": {
+    "freq": 1,
+    "words": [
+      "r\u00e9verb\u00e9ration"
+    ],
+    "ID": [
+      "07"
+    ]
+  },
+  "raccorde": {
+    "freq": 1,
+    "words": [
+      "raccorde"
+    ],
+    "ID": [
+      "02"
+    ]
+  },
+  "plein": {
+    "freq": 1,
+    "words": [
+      "plein"
+    ],
+    "ID": [
+      "20"
+    ]
+  },
+  "hertzien": {
+    "freq": 1,
+    "words": [
+      "hertzienne"
+    ],
+    "ID": [
+      "25"
+    ]
+  },
+  "pos\u00e9e": {
+    "freq": 1,
+    "words": [
+      "pos\u00e9e"
+    ],
+    "ID": [
+      "08"
+    ]
+  },
+  "paraissait": {
+    "freq": 1,
+    "words": [
+      "paraissait"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "cuivr\u00e9": {
+    "freq": 1,
+    "words": [
+      "cuivr\u00e9"
+    ],
+    "ID": [
+      "28"
+    ]
+  },
+  "clart\u00e9": {
+    "freq": 1,
+    "words": [
+      "clart\u00e9"
+    ],
+    "ID": [
+      "32"
+    ]
+  },
+  "enceinte": {
+    "freq": 1,
+    "words": [
+      "enceinte",
+      "enceintes"
+    ],
+    "ID": [
+      "20"
+    ]
+  },
+  "cor": {
+    "freq": 5,
+    "words": [
+      "cor"
+    ],
+    "ID": [
+      "11",
+      "13",
+      "14",
+      "17",
+      "26"
+    ]
+  },
+  "vibrato": {
+    "freq": 2,
+    "words": [
+      "vibrato"
+    ],
+    "ID": [
+      "11",
+      "23"
+    ]
+  },
+  "obtenir": {
+    "freq": 2,
+    "words": [
+      "obtenir"
+    ],
+    "ID": [
+      "02",
+      "04"
+    ]
+  },
+  "vitesse": {
+    "freq": 1,
+    "words": [
+      "vitesse"
+    ],
+    "ID": [
+      "23"
+    ]
+  },
+  "verre": {
+    "freq": 2,
+    "words": [
+      "verre"
+    ],
+    "ID": [
+      "07",
+      "19"
+    ]
+  },
+  "feutr\u00e9": {
+    "freq": 3,
+    "words": [
+      "feutr\u00e9"
+    ],
+    "ID": [
+      "11",
+      "15",
+      "22"
+    ]
+  },
+  "sensible": {
+    "freq": 1,
+    "words": [
+      "sensible"
+    ],
+    "ID": [
+      "20"
+    ]
+  },
+  "diffus": {
+    "freq": 1,
+    "words": [
+      "diffus"
+    ],
+    "ID": [
+      "12"
+    ]
+  },
+  "int\u00e9ressant": {
+    "freq": 3,
+    "words": [
+      "int\u00e9ressant"
+    ],
+    "ID": [
+      "02",
+      "17",
+      "27"
+    ]
+  },
+  "peau": {
+    "freq": 1,
+    "words": [
+      "peaux"
+    ],
+    "ID": [
+      "02"
+    ]
+  },
+  "jargon": {
+    "freq": 1,
+    "words": [
+      "jargon"
+    ],
+    "ID": [
+      "20"
+    ]
+  },
+  "d\u00e9partir": {
+    "freq": 1,
+    "words": [
+      "d\u00e9partir"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "xylophone": {
+    "freq": 4,
+    "words": [
+      "xylophone"
+    ],
+    "ID": [
+      "01",
+      "18",
+      "20",
+      "26"
+    ]
+  },
+  "regrette": {
+    "freq": 1,
+    "words": [
+      "regrette"
+    ],
+    "ID": [
+      "05"
+    ]
+  },
+  "raboter": {
+    "freq": 1,
+    "words": [
+      "rabot\u00e9"
+    ],
+    "ID": [
+      "20"
+    ]
+  },
+  "clarifier": {
+    "freq": 1,
+    "words": [
+      "clarifier"
+    ],
+    "ID": [
+      "23"
+    ]
+  },
+  "productif": {
+    "freq": 1,
+    "words": [
+      "productive"
+    ],
+    "ID": [
+      "23"
+    ]
+  },
+  "hmm": {
+    "freq": 1,
+    "words": [
+      "hmm"
+    ],
+    "ID": [
+      "28"
+    ]
+  },
+  "cotonneux": {
+    "freq": 1,
+    "words": [
+      "cotonneux"
+    ],
+    "ID": [
+      "28"
+    ]
+  },
+  "d\u00e9fini": {
+    "freq": 1,
+    "words": [
+      "d\u00e9fini"
+    ],
+    "ID": [
+      "19"
+    ]
+  },
+  "creux": {
+    "freq": 1,
+    "words": [
+      "creux"
+    ],
+    "ID": [
+      "30"
+    ]
+  },
+  "n\u00e9gatif": {
+    "freq": 1,
+    "words": [
+      "n\u00e9gatif"
+    ],
+    "ID": [
+      "13"
+    ]
+  },
+  "neutre": {
+    "freq": 2,
+    "words": [
+      "neutre"
+    ],
+    "ID": [
+      "08",
+      "20"
+    ]
+  },
+  "fr\u00e9quence": {
+    "freq": 6,
+    "words": [
+      "fr\u00e9quences",
+      "fr\u00e9quence"
+    ],
+    "ID": [
+      "01",
+      "02",
+      "06",
+      "09",
+      "12",
+      "20"
+    ]
+  },
+  "attention": {
+    "freq": 1,
+    "words": [
+      "attention"
+    ],
+    "ID": [
+      "28"
+    ]
+  },
+  "voiler": {
+    "freq": 1,
+    "words": [
+      "voil\u00e9"
+    ],
+    "ID": [
+      "13"
+    ]
+  },
+  "valence": {
+    "freq": 1,
+    "words": [
+      "valence"
+    ],
+    "ID": [
+      "32"
+    ]
+  },
+  "pr\u00e9sente": {
+    "freq": 1,
+    "words": [
+      "pr\u00e9sente"
+    ],
+    "ID": [
+      "32"
+    ]
+  },
+  "souffle": {
+    "freq": 2,
+    "words": [
+      "souffle"
+    ],
+    "ID": [
+      "03",
+      "26"
+    ]
+  },
+  "trompette": {
+    "freq": 4,
+    "words": [
+      "trompette",
+      "trompettes"
+    ],
+    "ID": [
+      "04",
+      "13",
+      "23",
+      "26"
+    ]
+  },
+  "c2": {
+    "freq": 1,
+    "words": [
+      "c2"
+    ],
+    "ID": [
+      "17"
+    ]
+  },
+  "cuivres": {
+    "freq": 2,
+    "words": [
+      "cuivres"
+    ],
+    "ID": [
+      "23",
+      "26"
+    ]
+  },
+  "croiser": {
+    "freq": 1,
+    "words": [
+      "croiser"
+    ],
+    "ID": [
+      "17"
+    ]
+  },
+  "articule": {
+    "freq": 1,
+    "words": [
+      "articule"
+    ],
+    "ID": [
+      "17"
+    ]
+  },
+  "bas": {
+    "freq": 4,
+    "words": [
+      "bas"
+    ],
+    "ID": [
+      "09",
+      "11",
+      "19",
+      "20"
+    ]
+  },
+  "pyramide": {
+    "freq": 1,
+    "words": [
+      "pyramide"
+    ],
+    "ID": [
+      "30"
+    ]
+  },
+  "agr\u00e9able": {
+    "freq": 1,
+    "words": [
+      "agr\u00e9able"
+    ],
+    "ID": [
+      "01"
+    ]
+  },
+  "d\u00e9timbr\u00e9": {
+    "freq": 1,
+    "words": [
+      "d\u00e9timbr\u00e9"
+    ],
+    "ID": [
+      "05"
+    ]
+  },
+  "richesse": {
+    "freq": 1,
+    "words": [
+      "richesse"
+    ],
+    "ID": [
+      "20"
+    ]
+  },
+  "\u00e9th\u00e9r\u00e9": {
+    "freq": 1,
+    "words": [
+      "\u00e9th\u00e9r\u00e9"
+    ],
+    "ID": [
+      "28"
+    ]
+  },
+  "spectre": {
+    "freq": 3,
+    "words": [
+      "spectre"
+    ],
+    "ID": [
+      "20",
+      "21",
+      "27"
+    ]
+  },
+  "douceur": {
+    "freq": 3,
+    "words": [
+      "douceur"
+    ],
+    "ID": [
+      "26",
+      "28",
+      "32"
+    ]
+  },
+  "lentement": {
+    "freq": 1,
+    "words": [
+      "lentement"
+    ],
+    "ID": [
+      "25"
+    ]
+  },
+  "coup\u00e9": {
+    "freq": 2,
+    "words": [
+      "coup\u00e9"
+    ],
+    "ID": [
+      "14",
+      "20"
+    ]
+  },
+  "\u00e9qualisation": {
+    "freq": 1,
+    "words": [
+      "\u00e9qualisation"
+    ],
+    "ID": [
+      "12"
+    ]
+  },
+  "souple": {
+    "freq": 1,
+    "words": [
+      "souple"
+    ],
+    "ID": [
+      "23"
+    ]
+  },
+  "limit\u00e9": {
+    "freq": 1,
+    "words": [
+      "limit\u00e9"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "chaud": {
+    "freq": 5,
+    "words": [
+      "chaud",
+      "chauds"
+    ],
+    "ID": [
+      "03",
+      "06",
+      "28",
+      "29",
+      "31"
+    ]
+  },
+  "aimer": {
+    "freq": 1,
+    "words": [
+      "aime"
+    ],
+    "ID": [
+      "19"
+    ]
+  },
+  "volontairement": {
+    "freq": 1,
+    "words": [
+      "volontairement"
+    ],
+    "ID": [
+      "31"
+    ]
+  },
+  "harmonique": {
+    "freq": 16,
+    "words": [
+      "harmonique",
+      "harmoniques"
+    ],
+    "ID": [
+      "01",
+      "02",
+      "03",
+      "07",
+      "10",
+      "14",
+      "15",
+      "18",
+      "20",
+      "21",
+      "25",
+      "26",
+      "28",
+      "29",
+      "31",
+      "32"
+    ]
+  },
+  "corporation": {
+    "freq": 1,
+    "words": [
+      "corporation"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "fr\u00e9quentiel": {
+    "freq": 1,
+    "words": [
+      "fr\u00e9quentiel"
+    ],
+    "ID": [
+      "18"
+    ]
+  },
+  "dissocier": {
+    "freq": 1,
+    "words": [
+      "dissoci\u00e9"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "pr\u00e9cision": {
+    "freq": 3,
+    "words": [
+      "pr\u00e9cision"
+    ],
+    "ID": [
+      "04",
+      "12",
+      "13"
+    ]
+  },
+  "regardant": {
+    "freq": 1,
+    "words": [
+      "regardant"
+    ],
+    "ID": [
+      "27"
+    ]
+  },
+  "lointain": {
+    "freq": 2,
+    "words": [
+      "lointain"
+    ],
+    "ID": [
+      "09",
+      "12"
+    ]
+  },
+  "studio": {
+    "freq": 1,
+    "words": [
+      "studio"
+    ],
+    "ID": [
+      "20"
+    ]
+  },
+  "nuance": {
+    "freq": 1,
+    "words": [
+      "nuance"
+    ],
+    "ID": [
+      "05"
+    ]
+  },
+  "emmerde": {
+    "freq": 1,
+    "words": [
+      "emmerde"
+    ],
+    "ID": [
+      "20"
+    ]
+  },
+  "coupe": {
+    "freq": 1,
+    "words": [
+      "coupes",
+      "coupe"
+    ],
+    "ID": [
+      "19"
+    ]
+  },
+  "restreindre": {
+    "freq": 1,
+    "words": [
+      "restreints"
+    ],
+    "ID": [
+      "14"
+    ]
+  },
+  "arch\u00e9type": {
+    "freq": 1,
+    "words": [
+      "arch\u00e9types"
+    ],
+    "ID": [
+      "32"
+    ]
+  },
+  "claire": {
+    "freq": 2,
+    "words": [
+      "claire"
+    ],
+    "ID": [
+      "02",
+      "19"
+    ]
+  },
+  "\u00e9touffer": {
+    "freq": 2,
+    "words": [
+      "\u00e9touffer"
+    ],
+    "ID": [
+      "12",
+      "14"
+    ]
+  },
+  "c3": {
+    "freq": 1,
+    "words": [
+      "c3"
+    ],
+    "ID": [
+      "03"
+    ]
+  },
+  "ballon": {
+    "freq": 1,
+    "words": [
+      "ballon"
+    ],
+    "ID": [
+      "19"
+    ]
+  },
+  "exister": {
+    "freq": 1,
+    "words": [
+      "existe"
+    ],
+    "ID": [
+      "01"
+    ]
+  },
+  "nettet\u00e9": {
+    "freq": 1,
+    "words": [
+      "nettet\u00e9"
+    ],
+    "ID": [
+      "32"
+    ]
+  },
+  "rondeur": {
+    "freq": 3,
+    "words": [
+      "rondeur"
+    ],
+    "ID": [
+      "01",
+      "22",
+      "28"
+    ]
+  },
+  "forte": {
+    "freq": 1,
+    "words": [
+      "forte"
+    ],
+    "ID": [
+      "11"
+    ]
+  },
+  "fl\u00fbte": {
+    "freq": 4,
+    "words": [
+      "fl\u00fbte"
+    ],
+    "ID": [
+      "11",
+      "14",
+      "16",
+      "28"
+    ]
+  },
+  "pr\u00e9cis": {
+    "freq": 2,
+    "words": [
+      "pr\u00e9cis",
+      "pr\u00e9cise"
+    ],
+    "ID": [
+      "14",
+      "26"
+    ]
+  },
+  "caisse": {
+    "freq": 1,
+    "words": [
+      "caisse"
+    ],
+    "ID": [
+      "19"
+    ]
+  },
+  "sexy": {
+    "freq": 1,
+    "words": [
+      "sexy"
+    ],
+    "ID": [
+      "20"
+    ]
+  },
+  "emprunte": {
+    "freq": 1,
+    "words": [
+      "emprunte"
+    ],
+    "ID": [
+      "24"
+    ]
+  },
+  "pavillon": {
+    "freq": 1,
+    "words": [
+      "pavillon"
+    ],
+    "ID": [
+      "13"
+    ]
+  },
+  "sombre": {
+    "freq": 5,
+    "words": [
+      "sombre",
+      "sombres"
+    ],
+    "ID": [
+      "10",
+      "14",
+      "17",
+      "22",
+      "26"
+    ]
+  },
+  "dur\u00e9e": {
+    "freq": 1,
+    "words": [
+      "dur\u00e9e"
+    ],
+    "ID": [
+      "14"
+    ]
+  },
+  "emp\u00eachait": {
+    "freq": 1,
+    "words": [
+      "emp\u00eachait"
+    ],
+    "ID": [
+      "09"
+    ]
+  },
+  "musique": {
+    "freq": 2,
+    "words": [
+      "musique",
+      "musiques"
+    ],
+    "ID": [
+      "08",
+      "19"
+    ]
+  },
+  "vraisemblablement": {
+    "freq": 1,
+    "words": [
+      "vraisemblablement"
+    ],
+    "ID": [
+      "24"
+    ]
+  },
+  "frapp\u00e9": {
+    "freq": 1,
+    "words": [
+      "frapp\u00e9"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "b\u00eate": {
+    "freq": 2,
+    "words": [
+      "b\u00eate",
+      "b\u00eates"
+    ],
+    "ID": [
+      "17",
+      "24"
+    ]
+  },
+  "muffled": {
+    "freq": 1,
+    "words": [
+      "muffled"
+    ],
+    "ID": [
+      "09"
+    ]
+  },
+  "entretenu": {
+    "freq": 1,
+    "words": [
+      "entretenu"
+    ],
+    "ID": [
+      "20"
+    ]
+  },
+  "facile": {
+    "freq": 1,
+    "words": [
+      "facile"
+    ],
+    "ID": [
+      "22"
+    ]
+  },
+  "musical": {
+    "freq": 1,
+    "words": [
+      "musicales"
+    ],
+    "ID": [
+      "31"
+    ]
+  },
+  "bizarre": {
+    "freq": 1,
+    "words": [
+      "bizarre"
+    ],
+    "ID": [
+      "01"
+    ]
+  },
+  "attire": {
+    "freq": 1,
+    "words": [
+      "attire"
+    ],
+    "ID": [
+      "28"
+    ]
+  },
+  "recouvrement": {
+    "freq": 1,
+    "words": [
+      "recouvrement"
+    ],
+    "ID": [
+      "20"
+    ]
+  },
+  "temp\u00eate": {
+    "freq": 1,
+    "words": [
+      "temp\u00eate"
+    ],
+    "ID": [
+      "09"
+    ]
+  },
+  "hypoth\u00e8se": {
+    "freq": 1,
+    "words": [
+      "hypoth\u00e8se"
+    ],
+    "ID": [
+      "23"
+    ]
+  },
+  "peinture": {
+    "freq": 1,
+    "words": [
+      "peinture"
+    ],
+    "ID": [
+      "31"
+    ]
+  },
+  "musicalit\u00e9": {
+    "freq": 1,
+    "words": [
+      "musicalit\u00e9"
+    ],
+    "ID": [
+      "20"
+    ]
+  },
+  "dramatique": {
+    "freq": 1,
+    "words": [
+      "dramatique"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "normal": {
+    "freq": 1,
+    "words": [
+      "normal"
+    ],
+    "ID": [
+      "21"
+    ]
+  },
+  "bruit": {
+    "freq": 1,
+    "words": [
+      "bruits"
+    ],
+    "ID": [
+      "12"
+    ]
+  },
+  "poussif": {
+    "freq": 1,
+    "words": [
+      "poussif"
+    ],
+    "ID": [
+      "03"
+    ]
+  },
+  "associais": {
+    "freq": 1,
+    "words": [
+      "associais"
+    ],
+    "ID": [
+      "14"
+    ]
+  },
+  "imposer": {
+    "freq": 1,
+    "words": [
+      "imposer"
+    ],
+    "ID": [
+      "32"
+    ]
+  },
+  "utiliserais": {
+    "freq": 1,
+    "words": [
+      "utiliserais"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "fid\u00e8le": {
+    "freq": 1,
+    "words": [
+      "fid\u00e8les"
+    ],
+    "ID": [
+      "20"
+    ]
+  },
+  "guitare": {
+    "freq": 1,
+    "words": [
+      "guitare"
+    ],
+    "ID": [
+      "02"
+    ]
+  },
+  "ok": {
+    "freq": 1,
+    "words": [
+      "ok"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "rugosit\u00e9": {
+    "freq": 3,
+    "words": [
+      "rugosit\u00e9"
+    ],
+    "ID": [
+      "17",
+      "23",
+      "32"
+    ]
+  },
+  "profond": {
+    "freq": 2,
+    "words": [
+      "profond",
+      "profonde"
+    ],
+    "ID": [
+      "09",
+      "24"
+    ]
+  },
+  "ultra": {
+    "freq": 1,
+    "words": [
+      "ultra"
+    ],
+    "ID": [
+      "03"
+    ]
+  },
+  "\u00e9valuer": {
+    "freq": 1,
+    "words": [
+      "\u00e9valuer"
+    ],
+    "ID": [
+      "02"
+    ]
+  },
+  "traduire": {
+    "freq": 1,
+    "words": [
+      "traduire"
+    ],
+    "ID": [
+      "19"
+    ]
+  },
+  "briller": {
+    "freq": 1,
+    "words": [
+      "brille"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "\u00e9ruption": {
+    "freq": 1,
+    "words": [
+      "\u00e9ruption"
+    ],
+    "ID": [
+      "09"
+    ]
+  },
+  "dark": {
+    "freq": 1,
+    "words": [
+      "dark"
+    ],
+    "ID": [
+      "19"
+    ]
+  },
+  "volupt\u00e9": {
+    "freq": 1,
+    "words": [
+      "volupt\u00e9"
+    ],
+    "ID": [
+      "20"
+    ]
+  },
+  "usage": {
+    "freq": 1,
+    "words": [
+      "usage"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "piccolo": {
+    "freq": 2,
+    "words": [
+      "piccolo"
+    ],
+    "ID": [
+      "04",
+      "28"
+    ]
+  },
+  "color\u00e9": {
+    "freq": 1,
+    "words": [
+      "color\u00e9"
+    ],
+    "ID": [
+      "07"
+    ]
+  },
+  "tapes": {
+    "freq": 1,
+    "words": [
+      "tapes"
+    ],
+    "ID": [
+      "19"
+    ]
+  },
+  "monter": {
+    "freq": 1,
+    "words": [
+      "monter"
+    ],
+    "ID": [
+      "18"
+    ]
+  },
+  "filtre": {
+    "freq": 3,
+    "words": [
+      "filtre"
+    ],
+    "ID": [
+      "09",
+      "13",
+      "14"
+    ]
+  },
+  "vite": {
+    "freq": 2,
+    "words": [
+      "vite"
+    ],
+    "ID": [
+      "18",
+      "25"
+    ]
+  },
+  "commencer": {
+    "freq": 1,
+    "words": [
+      "commenc\u00e9"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "\u00e9touff\u00e9": {
+    "freq": 10,
+    "words": [
+      "\u00e9touff\u00e9",
+      "\u00e9touff\u00e9e",
+      "\u00e9touff\u00e9s"
+    ],
+    "ID": [
+      "02",
+      "08",
+      "09",
+      "13",
+      "14",
+      "19",
+      "20",
+      "23",
+      "30",
+      "32"
+    ]
+  },
+  "impose": {
+    "freq": 1,
+    "words": [
+      "impose"
+    ],
+    "ID": [
+      "28"
+    ]
+  },
+  "c7": {
+    "freq": 1,
+    "words": [
+      "c7"
+    ],
+    "ID": [
+      "32"
+    ]
+  },
+  "sourdine": {
+    "freq": 4,
+    "words": [
+      "sourdine",
+      "sourdines"
+    ],
+    "ID": [
+      "08",
+      "14",
+      "23",
+      "26"
+    ]
+  },
+  "1000": {
+    "freq": 1,
+    "words": [
+      "1000"
+    ],
+    "ID": [
+      "20"
+    ]
+  },
+  "nettement": {
+    "freq": 1,
+    "words": [
+      "nettement"
+    ],
+    "ID": [
+      "30"
+    ]
+  },
+  "emb\u00eatant": {
+    "freq": 1,
+    "words": [
+      "emb\u00eatant"
+    ],
+    "ID": [
+      "17"
+    ]
+  },
+  "aigu": {
+    "freq": 17,
+    "words": [
+      "aigus",
+      "aigu\u00ebs",
+      "aigu",
+      "aigu\u00eb"
+    ],
+    "ID": [
+      "03",
+      "06",
+      "12",
+      "13",
+      "18",
+      "20",
+      "21",
+      "22",
+      "23",
+      "25",
+      "26",
+      "27",
+      "28",
+      "29",
+      "30",
+      "31",
+      "32"
+    ]
+  },
+  "d\u00e9rangeant": {
+    "freq": 1,
+    "words": [
+      "d\u00e9rangeant"
+    ],
+    "ID": [
+      "23"
+    ]
+  },
+  "sourd": {
+    "freq": 8,
+    "words": [
+      "sourd",
+      "sourds"
+    ],
+    "ID": [
+      "01",
+      "09",
+      "10",
+      "12",
+      "13",
+      "18",
+      "22",
+      "26"
+    ]
+  },
+  "timbre": {
+    "freq": 4,
+    "words": [
+      "timbre"
+    ],
+    "ID": [
+      "13",
+      "14",
+      "19",
+      "22"
+    ]
+  },
+  "disait": {
+    "freq": 1,
+    "words": [
+      "disait"
+    ],
+    "ID": [
+      "16"
+    ]
+  },
+  "pertrub\u00e9": {
+    "freq": 1,
+    "words": [
+      "pertrub\u00e9"
+    ],
+    "ID": [
+      "03"
+    ]
+  },
+  "tonal": {
+    "freq": 2,
+    "words": [
+      "tonal"
+    ],
+    "ID": [
+      "02",
+      "16"
+    ]
+  },
+  "l\u00e9g\u00e8rement": {
+    "freq": 1,
+    "words": [
+      "l\u00e9g\u00e8rement"
+    ],
+    "ID": [
+      "14"
+    ]
+  },
+  "pile": {
+    "freq": 1,
+    "words": [
+      "pile"
+    ],
+    "ID": [
+      "13"
+    ]
+  },
+  "parlait": {
+    "freq": 1,
+    "words": [
+      "parlait"
+    ],
+    "ID": [
+      "14"
+    ]
+  },
+  "d\u00e9range": {
+    "freq": 1,
+    "words": [
+      "d\u00e9range"
+    ],
+    "ID": [
+      "19"
+    ]
+  },
+  "arrondir": {
+    "freq": 1,
+    "words": [
+      "arrondisses"
+    ],
+    "ID": [
+      "22"
+    ]
+  },
+  "droit": {
+    "freq": 1,
+    "words": [
+      "droit"
+    ],
+    "ID": [
+      "05"
+    ]
+  },
+  "grain": {
+    "freq": 1,
+    "words": [
+      "grain"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "hertz": {
+    "freq": 2,
+    "words": [
+      "hertz"
+    ],
+    "ID": [
+      "09",
+      "20"
+    ]
+  },
+  "dur": {
+    "freq": 1,
+    "words": [
+      "dur"
+    ],
+    "ID": [
+      "31"
+    ]
+  },
+  "m\u00e9dium": {
+    "freq": 3,
+    "words": [
+      "m\u00e9dium",
+      "m\u00e9diums"
+    ],
+    "ID": [
+      "14",
+      "20",
+      "28"
+    ]
+  },
+  "complexe": {
+    "freq": 1,
+    "words": [
+      "complexes"
+    ],
+    "ID": [
+      "29"
+    ]
+  },
+  "retirer": {
+    "freq": 1,
+    "words": [
+      "retir\u00e9"
+    ],
+    "ID": [
+      "31"
+    ]
+  },
+  "ampleur": {
+    "freq": 1,
+    "words": [
+      "ampleur"
+    ],
+    "ID": [
+      "20"
+    ]
+  },
+  "identit\u00e9": {
+    "freq": 1,
+    "words": [
+      "identit\u00e9"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "vibrer": {
+    "freq": 2,
+    "words": [
+      "vibr\u00e9"
+    ],
+    "ID": [
+      "05",
+      "08"
+    ]
+  },
+  "change": {
+    "freq": 1,
+    "words": [
+      "change"
+    ],
+    "ID": [
+      "02"
+    ]
+  },
+  "diriger": {
+    "freq": 1,
+    "words": [
+      "diriger"
+    ],
+    "ID": [
+      "04"
+    ]
+  },
+  "audible": {
+    "freq": 1,
+    "words": [
+      "audible"
+    ],
+    "ID": [
+      "09"
+    ]
+  },
+  "class\u00e9": {
+    "freq": 1,
+    "words": [
+      "class\u00e9"
+    ],
+    "ID": [
+      "21"
+    ]
+  },
+  "pur": {
+    "freq": 2,
+    "words": [
+      "pures",
+      "pure",
+      "pur"
+    ],
+    "ID": [
+      "01",
+      "29"
+    ]
+  },
+  "intime": {
+    "freq": 1,
+    "words": [
+      "intime"
+    ],
+    "ID": [
+      "08"
+    ]
+  },
+  "donn\u00e9": {
+    "freq": 1,
+    "words": [
+      "donn\u00e9"
+    ],
+    "ID": [
+      "23"
+    ]
+  },
+  "timbr\u00e9": {
+    "freq": 2,
+    "words": [
+      "timbr\u00e9"
+    ],
+    "ID": [
+      "05",
+      "28"
+    ]
+  },
+  "vibration": {
+    "freq": 1,
+    "words": [
+      "vibration"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "aspect": {
+    "freq": 1,
+    "words": [
+      "aspect"
+    ],
+    "ID": [
+      "01"
+    ]
+  },
+  "couleur": {
+    "freq": 2,
+    "words": [
+      "couleur"
+    ],
+    "ID": [
+      "02",
+      "06"
+    ]
+  },
+  "versus": {
+    "freq": 1,
+    "words": [
+      "versus"
+    ],
+    "ID": [
+      "03"
+    ]
+  },
+  "rends": {
+    "freq": 1,
+    "words": [
+      "rends"
+    ],
+    "ID": [
+      "12"
+    ]
+  },
+  "g\u00e9nial": {
+    "freq": 1,
+    "words": [
+      "g\u00e9nial"
+    ],
+    "ID": [
+      "18"
+    ]
+  },
+  "harmon": {
+    "freq": 2,
+    "words": [
+      "harmon"
+    ],
+    "ID": [
+      "23",
+      "26"
+    ]
+  },
+  "instinct": {
+    "freq": 1,
+    "words": [
+      "instinct"
+    ],
+    "ID": [
+      "01"
+    ]
+  },
+  "source": {
+    "freq": 2,
+    "words": [
+      "source"
+    ],
+    "ID": [
+      "13",
+      "19"
+    ]
+  },
+  "mat": {
+    "freq": 11,
+    "words": [
+      "mats",
+      "mat"
+    ],
+    "ID": [
+      "02",
+      "03",
+      "05",
+      "11",
+      "17",
+      "19",
+      "20",
+      "26",
+      "29",
+      "30",
+      "31"
+    ]
+  },
+  "r\u00e9sonance": {
+    "freq": 7,
+    "words": [
+      "r\u00e9sonants",
+      "r\u00e9sonance"
+    ],
+    "ID": [
+      "02",
+      "07",
+      "08",
+      "09",
+      "19",
+      "26",
+      "32"
+    ]
+  },
+  "mener": {
+    "freq": 1,
+    "words": [
+      "m\u00e8ne"
+    ],
+    "ID": [
+      "01"
+    ]
+  },
+  "subtone": {
+    "freq": 1,
+    "words": [
+      "subtone"
+    ],
+    "ID": [
+      "03"
+    ]
+  },
+  "continu": {
+    "freq": 1,
+    "words": [
+      "continu"
+    ],
+    "ID": [
+      "07"
+    ]
+  },
+  "shiny": {
+    "freq": 1,
+    "words": [
+      "shiny"
+    ],
+    "ID": [
+      "09"
+    ]
+  },
+  "limite": {
+    "freq": 2,
+    "words": [
+      "limite"
+    ],
+    "ID": [
+      "22",
+      "29"
+    ]
+  },
+  "sensoriel": {
+    "freq": 1,
+    "words": [
+      "sensorielles"
+    ],
+    "ID": [
+      "24"
+    ]
+  },
+  "exclure": {
+    "freq": 1,
+    "words": [
+      "exclue"
+    ],
+    "ID": [
+      "26"
+    ]
+  },
+  "lisse": {
+    "freq": 1,
+    "words": [
+      "lisse"
+    ],
+    "ID": [
+      "17"
+    ]
+  },
+  "marimba": {
+    "freq": 3,
+    "words": [
+      "marimba"
+    ],
+    "ID": [
+      "01",
+      "02",
+      "26"
+    ]
+  },
+  "fabriquer": {
+    "freq": 1,
+    "words": [
+      "fabriquer"
+    ],
+    "ID": [
+      "02"
+    ]
+  },
+  "corde": {
+    "freq": 3,
+    "words": [
+      "cordes",
+      "corde"
+    ],
+    "ID": [
+      "08",
+      "14",
+      "23"
+    ]
+  },
+  "nasillard": {
+    "freq": 1,
+    "words": [
+      "nasillard"
+    ],
+    "ID": [
+      "03"
+    ]
+  },
+  "exploration": {
+    "freq": 1,
+    "words": [
+      "exploration"
+    ],
+    "ID": [
+      "24"
+    ]
+  },
+  "changement": {
+    "freq": 1,
+    "words": [
+      "changement"
+    ],
+    "ID": [
+      "14"
+    ]
+  },
+  "cacher": {
+    "freq": 1,
+    "words": [
+      "cach\u00e9"
+    ],
+    "ID": [
+      "27"
+    ]
+  },
+  "instinctivement": {
+    "freq": 1,
+    "words": [
+      "instinctivement"
+    ],
+    "ID": [
+      "18"
+    ]
+  },
+  "terne": {
+    "freq": 7,
+    "words": [
+      "terne",
+      "ternes"
+    ],
+    "ID": [
+      "12",
+      "14",
+      "17",
+      "21",
+      "24",
+      "25",
+      "28"
+    ]
+  },
+  "pic": {
+    "freq": 1,
+    "words": [
+      "pics"
+    ],
+    "ID": [
+      "31"
+    ]
+  },
+  "\u00e9tonnant": {
+    "freq": 1,
+    "words": [
+      "\u00e9tonnant"
+    ],
+    "ID": [
+      "32"
+    ]
+  },
+  "positif": {
+    "freq": 1,
+    "words": [
+      "positif"
+    ],
+    "ID": [
+      "13"
+    ]
+  },
+  "pauvret\u00e9": {
+    "freq": 1,
+    "words": [
+      "pauvret\u00e9"
+    ],
+    "ID": [
+      "24"
+    ]
+  },
+  "emploierai": {
+    "freq": 1,
+    "words": [
+      "emploierai"
+    ],
+    "ID": [
+      "13"
+    ]
+  },
+  "projette": {
+    "freq": 1,
+    "words": [
+      "projette"
+    ],
+    "ID": [
+      "15"
+    ]
+  },
+  "qualificatif": {
+    "freq": 2,
+    "words": [
+      "qualificatif",
+      "qualificatifs"
+    ],
+    "ID": [
+      "04",
+      "06"
+    ]
+  },
+  "dynamique": {
+    "freq": 1,
+    "words": [
+      "dynamique"
+    ],
+    "ID": [
+      "21"
+    ]
+  },
+  "ensuite": {
+    "freq": 1,
+    "words": [
+      "ensuite"
+    ],
+    "ID": [
+      "23"
+    ]
+  },
+  "spectral": {
+    "freq": 3,
+    "words": [
+      "spectrale",
+      "spectral"
+    ],
+    "ID": [
+      "11",
+      "20",
+      "24"
+    ]
+  },
+  "diff\u00e9rencient": {
+    "freq": 1,
+    "words": [
+      "diff\u00e9rencient"
+    ],
+    "ID": [
+      "07"
+    ]
+  },
+  "bois\u00e9": {
+    "freq": 2,
+    "words": [
+      "bois\u00e9"
+    ],
+    "ID": [
+      "03",
+      "31"
+    ]
+  },
+  "servir": {
+    "freq": 1,
+    "words": [
+      "servir"
+    ],
+    "ID": [
+      "05"
+    ]
+  },
+  "retombe": {
+    "freq": 1,
+    "words": [
+      "retombe"
+    ],
+    "ID": [
+      "01"
+    ]
+  },
+  "franc": {
+    "freq": 1,
+    "words": [
+      "franche"
+    ],
+    "ID": [
+      "10"
+    ]
+  },
+  "faible": {
+    "freq": 1,
+    "words": [
+      "faible"
+    ],
+    "ID": [
+      "30"
+    ]
+  },
+  "scintiller": {
+    "freq": 1,
+    "words": [
+      "scintille"
+    ],
+    "ID": [
+      "31"
+    ]
+  },
+  "face": {
+    "freq": 1,
+    "words": [
+      "face"
+    ],
+    "ID": [
+      "13"
+    ]
+  },
+  "projection": {
+    "freq": 1,
+    "words": [
+      "projection"
+    ],
+    "ID": [
+      "09"
+    ]
+  },
+  "pr\u00e9sent": {
+    "freq": 2,
+    "words": [
+      "pr\u00e9sent"
+    ],
+    "ID": [
+      "12",
+      "26"
+    ]
+  },
+  "soutenir": {
+    "freq": 1,
+    "words": [
+      "soutenu"
+    ],
+    "ID": [
+      "05"
+    ]
+  },
+  "am\u00e8ne": {
+    "freq": 1,
+    "words": [
+      "am\u00e8ne"
+    ],
+    "ID": [
+      "01"
+    ]
+  }
+}

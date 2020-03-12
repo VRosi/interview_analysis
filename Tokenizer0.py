@@ -204,7 +204,7 @@ def generate_df(word, db, Qlist):
 #%%
     
 quest = "Q2","Q5"
-n = 2
+n = 1
 words = ["brillant","chaud","rond","rugueux"]
 fin = []
 # for word in words:

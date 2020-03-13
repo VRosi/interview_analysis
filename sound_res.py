@@ -6,7 +6,7 @@ import pandas as pd
 import math
 import matplotlib.pyplot as plt
 
-term = "rond"
+term = "rugueux"
 
 file_loc="sounds/"+ term +".xlsx"
 
@@ -27,7 +27,7 @@ res_obj = []
 dims = [instruments,play_techs,pitchs,dyns]
 
 
-dim = dyns
+dim = play_techs
 
 for name in set(name_dic):
     tmp_obj = []
@@ -51,18 +51,18 @@ cutoff = 0.33
 word_list = sorted(obj_dict.items(), key=lambda t: t[1], reverse=True)
 plot_list = [word for word in word_list if word[1] >= round(cutoff*len(name_dic))]
 indexes, values = list(zip(*plot_list))
-# bar_width = 0.35
-# plt.figure(figsize=(8,8))
-# plt.bar(indexes, values)
-# plt.title('Words frequencies for ' +term+ "'s definition")
-# plt.show()
+bar_width = 0.35
+plt.figure(figsize=(8,8))
+plt.bar(indexes, values)
+plt.title('Words frequencies for ' +term+ "'s definition")
+plt.show()
 
 
 #%% COMBINATION SOURCE / PLAYTECH
 dim1 = instruments
 dim2 = play_techs
 
-query = "tuba"
+query = "basson"
 sound = []
 for i in range(len(dim1)):
     print(dim1[i])
